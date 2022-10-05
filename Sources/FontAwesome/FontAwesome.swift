@@ -47,6 +47,7 @@ public enum FontAwesomeStyle: String {
     case light
     case regular
     case brands
+    case google
 
     func fontName() -> String {
         switch self {
@@ -58,6 +59,8 @@ public enum FontAwesomeStyle: String {
             return FontAwesomeConfig.usesProFonts ? "FontAwesome5Pro-Regular" : "FontAwesome5Free-Regular"
         case .brands:
             return "FontAwesome5Brands-Regular"
+        case .google:
+            return "MaterialIconsOutlined-Regular"
         }
     }
 
@@ -71,6 +74,8 @@ public enum FontAwesomeStyle: String {
             return FontAwesomeConfig.usesProFonts ? "Font Awesome 5 Pro-Regular-400" : "Font Awesome 5 Free-Regular-400"
         case .brands:
             return "Font Awesome 5 Brands-Regular-400"
+        case .google:
+            return "MaterialIconsOutlined-Regular"
         }
     }
 
@@ -82,6 +87,8 @@ public enum FontAwesomeStyle: String {
              .light,
              .solid:
             return FontAwesomeConfig.usesProFonts ? "Font Awesome 5 Pro" : "Font Awesome 5 Free"
+        case .google:
+            return "Material Icons Outlined"
         }
     }
 }
@@ -259,24 +266,17 @@ private class FontLoader {
 
 extension URL {
     static func fontURL(for fontName: String) -> URL? {
-        
-        #if SWIFT_PACKAGE
-            if let fontURL = Bundle.module.url(forResource: fontName, withExtension: "otf") {
-                return fontURL
-            }
-        #endif
-        
         let bundle = Bundle(for: FontLoader.self)
-        
+
         if let fontURL = bundle.url(forResource: fontName, withExtension: "otf") {
             return fontURL
         }
-        
+
         // If this framework is added using CocoaPods, resources is placed under a subdirectory
         if let fontURL = bundle.url(forResource: fontName, withExtension: "otf", subdirectory: "FontAwesome.swift.bundle") {
             return fontURL
         }
-        
+
         return nil
     }
 }
