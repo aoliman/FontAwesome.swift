@@ -3858,6 +3858,5244 @@ case gm_zoom_in =  "zoom_in"
 case gm_zoom_in_map =  "zoom_in_map" 
 case gm_zoom_out =  "zoom_out" 
 case gm_zoom_out_map =  "zoom_out_map" 
+//phospher
+case ph_activity  =   "activity"
+case ph_activity_bold  =   "activity-bold"
+case ph_activity_fill  =   "activity-fill"
+case ph_activity_light  =   "activity-light"
+case ph_activity_thin  =   "activity-thin"
+case ph_address_book  =   "address-book"
+case ph_address_book_bold  =   "address-book-bold"
+case ph_address_book_fill  =   "address-book-fill"
+case ph_address_book_light  =   "address-book-light"
+case ph_address_book_thin  =   "address-book-thin"
+case ph_airplane  =   "airplane"
+case ph_airplane_bold  =   "airplane-bold"
+case ph_airplane_fill  =   "airplane-fill"
+case ph_airplane_in_flight  =   "airplane-in-flight"
+case ph_airplane_in_flight_bold  =   "airplane-in-flight-bold"
+case ph_airplane_in_flight_fill  =   "airplane-in-flight-fill"
+case ph_airplane_in_flight_light  =   "airplane-in-flight-light"
+case ph_airplane_in_flight_thin  =   "airplane-in-flight-thin"
+case ph_airplane_landing  =   "airplane-landing"
+case ph_airplane_landing_bold  =   "airplane-landing-bold"
+case ph_airplane_landing_fill  =   "airplane-landing-fill"
+case ph_airplane_landing_light  =   "airplane-landing-light"
+case ph_airplane_landing_thin  =   "airplane-landing-thin"
+case ph_airplane_light  =   "airplane-light"
+case ph_airplane_takeoff  =   "airplane-takeoff"
+case ph_airplane_takeoff_bold  =   "airplane-takeoff-bold"
+case ph_airplane_takeoff_fill  =   "airplane-takeoff-fill"
+case ph_airplane_takeoff_light  =   "airplane-takeoff-light"
+case ph_airplane_takeoff_thin  =   "airplane-takeoff-thin"
+case ph_airplane_thin  =   "airplane-thin"
+case ph_airplane_tilt  =   "airplane-tilt"
+case ph_airplane_tilt_bold  =   "airplane-tilt-bold"
+case ph_airplane_tilt_fill  =   "airplane-tilt-fill"
+case ph_airplane_tilt_light  =   "airplane-tilt-light"
+case ph_airplane_tilt_thin  =   "airplane-tilt-thin"
+case ph_airplay  =   "airplay"
+case ph_airplay_bold  =   "airplay-bold"
+case ph_airplay_fill  =   "airplay-fill"
+case ph_airplay_light  =   "airplay-light"
+case ph_airplay_thin  =   "airplay-thin"
+case ph_alarm  =   "alarm"
+case ph_alarm_bold  =   "alarm-bold"
+case ph_alarm_fill  =   "alarm-fill"
+case ph_alarm_light  =   "alarm-light"
+case ph_alarm_thin  =   "alarm-thin"
+case ph_alien  =   "alien"
+case ph_alien_bold  =   "alien-bold"
+case ph_alien_fill  =   "alien-fill"
+case ph_alien_light  =   "alien-light"
+case ph_alien_thin  =   "alien-thin"
+case ph_align_bottom  =   "align-bottom"
+case ph_align_bottom_bold  =   "align-bottom-bold"
+case ph_align_bottom_fill  =   "align-bottom-fill"
+case ph_align_bottom_light  =   "align-bottom-light"
+case ph_align_bottom_simple  =   "align-bottom-simple"
+case ph_align_bottom_simple_bold  =   "align-bottom-simple-bold"
+case ph_align_bottom_simple_fill  =   "align-bottom-simple-fill"
+case ph_align_bottom_simple_light  =   "align-bottom-simple-light"
+case ph_align_bottom_simple_thin  =   "align-bottom-simple-thin"
+case ph_align_bottom_thin  =   "align-bottom-thin"
+case ph_align_center_horizontal  =   "align-center-horizontal"
+case ph_align_center_horizontal_bold  =   "align-center-horizontal-bold"
+case ph_align_center_horizontal_fill  =   "align-center-horizontal-fill"
+case ph_align_center_horizontal_light  =   "align-center-horizontal-light"
+case ph_align_center_horizontal_simple  =   "align-center-horizontal-simple"
+case ph_align_center_horizontal_simple_bold  =   "align-center-horizontal-simple-bold"
+case ph_align_center_horizontal_simple_fill  =   "align-center-horizontal-simple-fill"
+case ph_align_center_horizontal_simple_light  =   "align-center-horizontal-simple-light"
+case ph_align_center_horizontal_simple_thin  =   "align-center-horizontal-simple-thin"
+case ph_align_center_horizontal_thin  =   "align-center-horizontal-thin"
+case ph_align_center_vertical  =   "align-center-vertical"
+case ph_align_center_vertical_bold  =   "align-center-vertical-bold"
+case ph_align_center_vertical_fill  =   "align-center-vertical-fill"
+case ph_align_center_vertical_light  =   "align-center-vertical-light"
+case ph_align_center_vertical_simple  =   "align-center-vertical-simple"
+case ph_align_center_vertical_simple_bold  =   "align-center-vertical-simple-bold"
+case ph_align_center_vertical_simple_fill  =   "align-center-vertical-simple-fill"
+case ph_align_center_vertical_simple_light  =   "align-center-vertical-simple-light"
+case ph_align_center_vertical_simple_thin  =   "align-center-vertical-simple-thin"
+case ph_align_center_vertical_thin  =   "align-center-vertical-thin"
+case ph_align_left  =   "align-left"
+case ph_align_left_bold  =   "align-left-bold"
+case ph_align_left_fill  =   "align-left-fill"
+case ph_align_left_light  =   "align-left-light"
+case ph_align_left_simple  =   "align-left-simple"
+case ph_align_left_simple_bold  =   "align-left-simple-bold"
+case ph_align_left_simple_fill  =   "align-left-simple-fill"
+case ph_align_left_simple_light  =   "align-left-simple-light"
+case ph_align_left_simple_thin  =   "align-left-simple-thin"
+case ph_align_left_thin  =   "align-left-thin"
+case ph_align_right  =   "align-right"
+case ph_align_right_bold  =   "align-right-bold"
+case ph_align_right_fill  =   "align-right-fill"
+case ph_align_right_light  =   "align-right-light"
+case ph_align_right_simple  =   "align-right-simple"
+case ph_align_right_simple_bold  =   "align-right-simple-bold"
+case ph_align_right_simple_fill  =   "align-right-simple-fill"
+case ph_align_right_simple_light  =   "align-right-simple-light"
+case ph_align_right_simple_thin  =   "align-right-simple-thin"
+case ph_align_right_thin  =   "align-right-thin"
+case ph_align_top  =   "align-top"
+case ph_align_top_bold  =   "align-top-bold"
+case ph_align_top_fill  =   "align-top-fill"
+case ph_align_top_light  =   "align-top-light"
+case ph_align_top_simple  =   "align-top-simple"
+case ph_align_top_simple_bold  =   "align-top-simple-bold"
+case ph_align_top_simple_fill  =   "align-top-simple-fill"
+case ph_align_top_simple_light  =   "align-top-simple-light"
+case ph_align_top_simple_thin  =   "align-top-simple-thin"
+case ph_align_top_thin  =   "align-top-thin"
+case ph_anchor  =   "anchor"
+case ph_anchor_bold  =   "anchor-bold"
+case ph_anchor_fill  =   "anchor-fill"
+case ph_anchor_light  =   "anchor-light"
+case ph_anchor_simple  =   "anchor-simple"
+case ph_anchor_simple_bold  =   "anchor-simple-bold"
+case ph_anchor_simple_fill  =   "anchor-simple-fill"
+case ph_anchor_simple_light  =   "anchor-simple-light"
+case ph_anchor_simple_thin  =   "anchor-simple-thin"
+case ph_anchor_thin  =   "anchor-thin"
+case ph_android_logo  =   "android-logo"
+case ph_android_logo_bold  =   "android-logo-bold"
+case ph_android_logo_fill  =   "android-logo-fill"
+case ph_android_logo_light  =   "android-logo-light"
+case ph_android_logo_thin  =   "android-logo-thin"
+case ph_angular_logo  =   "angular-logo"
+case ph_angular_logo_bold  =   "angular-logo-bold"
+case ph_angular_logo_fill  =   "angular-logo-fill"
+case ph_angular_logo_light  =   "angular-logo-light"
+case ph_angular_logo_thin  =   "angular-logo-thin"
+case ph_aperture  =   "aperture"
+case ph_aperture_bold  =   "aperture-bold"
+case ph_aperture_fill  =   "aperture-fill"
+case ph_aperture_light  =   "aperture-light"
+case ph_aperture_thin  =   "aperture-thin"
+case ph_app_store_logo  =   "app-store-logo"
+case ph_app_store_logo_bold  =   "app-store-logo-bold"
+case ph_app_store_logo_fill  =   "app-store-logo-fill"
+case ph_app_store_logo_light  =   "app-store-logo-light"
+case ph_app_store_logo_thin  =   "app-store-logo-thin"
+case ph_app_window  =   "app-window"
+case ph_app_window_bold  =   "app-window-bold"
+case ph_app_window_fill  =   "app-window-fill"
+case ph_app_window_light  =   "app-window-light"
+case ph_app_window_thin  =   "app-window-thin"
+case ph_apple_logo  =   "apple-logo"
+case ph_apple_logo_bold  =   "apple-logo-bold"
+case ph_apple_logo_fill  =   "apple-logo-fill"
+case ph_apple_logo_light  =   "apple-logo-light"
+case ph_apple_logo_thin  =   "apple-logo-thin"
+case ph_apple_podcasts_logo  =   "apple-podcasts-logo"
+case ph_apple_podcasts_logo_bold  =   "apple-podcasts-logo-bold"
+case ph_apple_podcasts_logo_fill  =   "apple-podcasts-logo-fill"
+case ph_apple_podcasts_logo_light  =   "apple-podcasts-logo-light"
+case ph_apple_podcasts_logo_thin  =   "apple-podcasts-logo-thin"
+case ph_archive  =   "archive"
+case ph_archive_bold  =   "archive-bold"
+case ph_archive_box  =   "archive-box"
+case ph_archive_box_bold  =   "archive-box-bold"
+case ph_archive_box_fill  =   "archive-box-fill"
+case ph_archive_box_light  =   "archive-box-light"
+case ph_archive_box_thin  =   "archive-box-thin"
+case ph_archive_fill  =   "archive-fill"
+case ph_archive_light  =   "archive-light"
+case ph_archive_thin  =   "archive-thin"
+case ph_archive_tray  =   "archive-tray"
+case ph_archive_tray_bold  =   "archive-tray-bold"
+case ph_archive_tray_fill  =   "archive-tray-fill"
+case ph_archive_tray_light  =   "archive-tray-light"
+case ph_archive_tray_thin  =   "archive-tray-thin"
+case ph_armchair  =   "armchair"
+case ph_armchair_bold  =   "armchair-bold"
+case ph_armchair_fill  =   "armchair-fill"
+case ph_armchair_light  =   "armchair-light"
+case ph_armchair_thin  =   "armchair-thin"
+case ph_arrow_arc_left  =   "arrow-arc-left"
+case ph_arrow_arc_left_bold  =   "arrow-arc-left-bold"
+case ph_arrow_arc_left_fill  =   "arrow-arc-left-fill"
+case ph_arrow_arc_left_light  =   "arrow-arc-left-light"
+case ph_arrow_arc_left_thin  =   "arrow-arc-left-thin"
+case ph_arrow_arc_right  =   "arrow-arc-right"
+case ph_arrow_arc_right_bold  =   "arrow-arc-right-bold"
+case ph_arrow_arc_right_fill  =   "arrow-arc-right-fill"
+case ph_arrow_arc_right_light  =   "arrow-arc-right-light"
+case ph_arrow_arc_right_thin  =   "arrow-arc-right-thin"
+case ph_arrow_bend_double_up_left  =   "arrow-bend-double-up-left"
+case ph_arrow_bend_double_up_left_bold  =   "arrow-bend-double-up-left-bold"
+case ph_arrow_bend_double_up_left_fill  =   "arrow-bend-double-up-left-fill"
+case ph_arrow_bend_double_up_left_light  =   "arrow-bend-double-up-left-light"
+case ph_arrow_bend_double_up_left_thin  =   "arrow-bend-double-up-left-thin"
+case ph_arrow_bend_double_up_right  =   "arrow-bend-double-up-right"
+case ph_arrow_bend_double_up_right_bold  =   "arrow-bend-double-up-right-bold"
+case ph_arrow_bend_double_up_right_fill  =   "arrow-bend-double-up-right-fill"
+case ph_arrow_bend_double_up_right_light  =   "arrow-bend-double-up-right-light"
+case ph_arrow_bend_double_up_right_thin  =   "arrow-bend-double-up-right-thin"
+case ph_arrow_bend_down_left  =   "arrow-bend-down-left"
+case ph_arrow_bend_down_left_bold  =   "arrow-bend-down-left-bold"
+case ph_arrow_bend_down_left_fill  =   "arrow-bend-down-left-fill"
+case ph_arrow_bend_down_left_light  =   "arrow-bend-down-left-light"
+case ph_arrow_bend_down_left_thin  =   "arrow-bend-down-left-thin"
+case ph_arrow_bend_down_right  =   "arrow-bend-down-right"
+case ph_arrow_bend_down_right_bold  =   "arrow-bend-down-right-bold"
+case ph_arrow_bend_down_right_fill  =   "arrow-bend-down-right-fill"
+case ph_arrow_bend_down_right_light  =   "arrow-bend-down-right-light"
+case ph_arrow_bend_down_right_thin  =   "arrow-bend-down-right-thin"
+case ph_arrow_bend_left_down  =   "arrow-bend-left-down"
+case ph_arrow_bend_left_down_bold  =   "arrow-bend-left-down-bold"
+case ph_arrow_bend_left_down_fill  =   "arrow-bend-left-down-fill"
+case ph_arrow_bend_left_down_light  =   "arrow-bend-left-down-light"
+case ph_arrow_bend_left_down_thin  =   "arrow-bend-left-down-thin"
+case ph_arrow_bend_left_up  =   "arrow-bend-left-up"
+case ph_arrow_bend_left_up_bold  =   "arrow-bend-left-up-bold"
+case ph_arrow_bend_left_up_fill  =   "arrow-bend-left-up-fill"
+case ph_arrow_bend_left_up_light  =   "arrow-bend-left-up-light"
+case ph_arrow_bend_left_up_thin  =   "arrow-bend-left-up-thin"
+case ph_arrow_bend_right_down  =   "arrow-bend-right-down"
+case ph_arrow_bend_right_down_bold  =   "arrow-bend-right-down-bold"
+case ph_arrow_bend_right_down_fill  =   "arrow-bend-right-down-fill"
+case ph_arrow_bend_right_down_light  =   "arrow-bend-right-down-light"
+case ph_arrow_bend_right_down_thin  =   "arrow-bend-right-down-thin"
+case ph_arrow_bend_right_up  =   "arrow-bend-right-up"
+case ph_arrow_bend_right_up_bold  =   "arrow-bend-right-up-bold"
+case ph_arrow_bend_right_up_fill  =   "arrow-bend-right-up-fill"
+case ph_arrow_bend_right_up_light  =   "arrow-bend-right-up-light"
+case ph_arrow_bend_right_up_thin  =   "arrow-bend-right-up-thin"
+case ph_arrow_bend_up_left  =   "arrow-bend-up-left"
+case ph_arrow_bend_up_left_bold  =   "arrow-bend-up-left-bold"
+case ph_arrow_bend_up_left_fill  =   "arrow-bend-up-left-fill"
+case ph_arrow_bend_up_left_light  =   "arrow-bend-up-left-light"
+case ph_arrow_bend_up_left_thin  =   "arrow-bend-up-left-thin"
+case ph_arrow_bend_up_right  =   "arrow-bend-up-right"
+case ph_arrow_bend_up_right_bold  =   "arrow-bend-up-right-bold"
+case ph_arrow_bend_up_right_fill  =   "arrow-bend-up-right-fill"
+case ph_arrow_bend_up_right_light  =   "arrow-bend-up-right-light"
+case ph_arrow_bend_up_right_thin  =   "arrow-bend-up-right-thin"
+case ph_arrow_circle_down  =   "arrow-circle-down"
+case ph_arrow_circle_down_bold  =   "arrow-circle-down-bold"
+case ph_arrow_circle_down_fill  =   "arrow-circle-down-fill"
+case ph_arrow_circle_down_left  =   "arrow-circle-down-left"
+case ph_arrow_circle_down_left_bold  =   "arrow-circle-down-left-bold"
+case ph_arrow_circle_down_left_fill  =   "arrow-circle-down-left-fill"
+case ph_arrow_circle_down_left_light  =   "arrow-circle-down-left-light"
+case ph_arrow_circle_down_left_thin  =   "arrow-circle-down-left-thin"
+case ph_arrow_circle_down_light  =   "arrow-circle-down-light"
+case ph_arrow_circle_down_right  =   "arrow-circle-down-right"
+case ph_arrow_circle_down_right_bold  =   "arrow-circle-down-right-bold"
+case ph_arrow_circle_down_right_fill  =   "arrow-circle-down-right-fill"
+case ph_arrow_circle_down_right_light  =   "arrow-circle-down-right-light"
+case ph_arrow_circle_down_right_thin  =   "arrow-circle-down-right-thin"
+case ph_arrow_circle_down_thin  =   "arrow-circle-down-thin"
+case ph_arrow_circle_left  =   "arrow-circle-left"
+case ph_arrow_circle_left_bold  =   "arrow-circle-left-bold"
+case ph_arrow_circle_left_fill  =   "arrow-circle-left-fill"
+case ph_arrow_circle_left_light  =   "arrow-circle-left-light"
+case ph_arrow_circle_left_thin  =   "arrow-circle-left-thin"
+case ph_arrow_circle_right  =   "arrow-circle-right"
+case ph_arrow_circle_right_bold  =   "arrow-circle-right-bold"
+case ph_arrow_circle_right_fill  =   "arrow-circle-right-fill"
+case ph_arrow_circle_right_light  =   "arrow-circle-right-light"
+case ph_arrow_circle_right_thin  =   "arrow-circle-right-thin"
+case ph_arrow_circle_up  =   "arrow-circle-up"
+case ph_arrow_circle_up_bold  =   "arrow-circle-up-bold"
+case ph_arrow_circle_up_fill  =   "arrow-circle-up-fill"
+case ph_arrow_circle_up_left  =   "arrow-circle-up-left"
+case ph_arrow_circle_up_left_bold  =   "arrow-circle-up-left-bold"
+case ph_arrow_circle_up_left_fill  =   "arrow-circle-up-left-fill"
+case ph_arrow_circle_up_left_light  =   "arrow-circle-up-left-light"
+case ph_arrow_circle_up_left_thin  =   "arrow-circle-up-left-thin"
+case ph_arrow_circle_up_light  =   "arrow-circle-up-light"
+case ph_arrow_circle_up_right  =   "arrow-circle-up-right"
+case ph_arrow_circle_up_right_bold  =   "arrow-circle-up-right-bold"
+case ph_arrow_circle_up_right_fill  =   "arrow-circle-up-right-fill"
+case ph_arrow_circle_up_right_light  =   "arrow-circle-up-right-light"
+case ph_arrow_circle_up_right_thin  =   "arrow-circle-up-right-thin"
+case ph_arrow_circle_up_thin  =   "arrow-circle-up-thin"
+case ph_arrow_clockwise  =   "arrow-clockwise"
+case ph_arrow_clockwise_bold  =   "arrow-clockwise-bold"
+case ph_arrow_clockwise_fill  =   "arrow-clockwise-fill"
+case ph_arrow_clockwise_light  =   "arrow-clockwise-light"
+case ph_arrow_clockwise_thin  =   "arrow-clockwise-thin"
+case ph_arrow_counter_clockwise  =   "arrow-counter-clockwise"
+case ph_arrow_counter_clockwise_bold  =   "arrow-counter-clockwise-bold"
+case ph_arrow_counter_clockwise_fill  =   "arrow-counter-clockwise-fill"
+case ph_arrow_counter_clockwise_light  =   "arrow-counter-clockwise-light"
+case ph_arrow_counter_clockwise_thin  =   "arrow-counter-clockwise-thin"
+case ph_arrow_down  =   "arrow-down"
+case ph_arrow_down_bold  =   "arrow-down-bold"
+case ph_arrow_down_fill  =   "arrow-down-fill"
+case ph_arrow_down_left  =   "arrow-down-left"
+case ph_arrow_down_left_bold  =   "arrow-down-left-bold"
+case ph_arrow_down_left_fill  =   "arrow-down-left-fill"
+case ph_arrow_down_left_light  =   "arrow-down-left-light"
+case ph_arrow_down_left_thin  =   "arrow-down-left-thin"
+case ph_arrow_down_light  =   "arrow-down-light"
+case ph_arrow_down_right  =   "arrow-down-right"
+case ph_arrow_down_right_bold  =   "arrow-down-right-bold"
+case ph_arrow_down_right_fill  =   "arrow-down-right-fill"
+case ph_arrow_down_right_light  =   "arrow-down-right-light"
+case ph_arrow_down_right_thin  =   "arrow-down-right-thin"
+case ph_arrow_down_thin  =   "arrow-down-thin"
+case ph_arrow_elbow_down_left  =   "arrow-elbow-down-left"
+case ph_arrow_elbow_down_left_bold  =   "arrow-elbow-down-left-bold"
+case ph_arrow_elbow_down_left_fill  =   "arrow-elbow-down-left-fill"
+case ph_arrow_elbow_down_left_light  =   "arrow-elbow-down-left-light"
+case ph_arrow_elbow_down_left_thin  =   "arrow-elbow-down-left-thin"
+case ph_arrow_elbow_down_right  =   "arrow-elbow-down-right"
+case ph_arrow_elbow_down_right_bold  =   "arrow-elbow-down-right-bold"
+case ph_arrow_elbow_down_right_fill  =   "arrow-elbow-down-right-fill"
+case ph_arrow_elbow_down_right_light  =   "arrow-elbow-down-right-light"
+case ph_arrow_elbow_down_right_thin  =   "arrow-elbow-down-right-thin"
+case ph_arrow_elbow_left  =   "arrow-elbow-left"
+case ph_arrow_elbow_left_bold  =   "arrow-elbow-left-bold"
+case ph_arrow_elbow_left_down  =   "arrow-elbow-left-down"
+case ph_arrow_elbow_left_down_bold  =   "arrow-elbow-left-down-bold"
+case ph_arrow_elbow_left_down_fill  =   "arrow-elbow-left-down-fill"
+case ph_arrow_elbow_left_down_light  =   "arrow-elbow-left-down-light"
+case ph_arrow_elbow_left_down_thin  =   "arrow-elbow-left-down-thin"
+case ph_arrow_elbow_left_fill  =   "arrow-elbow-left-fill"
+case ph_arrow_elbow_left_light  =   "arrow-elbow-left-light"
+case ph_arrow_elbow_left_thin  =   "arrow-elbow-left-thin"
+case ph_arrow_elbow_left_up  =   "arrow-elbow-left-up"
+case ph_arrow_elbow_left_up_bold  =   "arrow-elbow-left-up-bold"
+case ph_arrow_elbow_left_up_fill  =   "arrow-elbow-left-up-fill"
+case ph_arrow_elbow_left_up_light  =   "arrow-elbow-left-up-light"
+case ph_arrow_elbow_left_up_thin  =   "arrow-elbow-left-up-thin"
+case ph_arrow_elbow_right  =   "arrow-elbow-right"
+case ph_arrow_elbow_right_bold  =   "arrow-elbow-right-bold"
+case ph_arrow_elbow_right_down  =   "arrow-elbow-right-down"
+case ph_arrow_elbow_right_down_bold  =   "arrow-elbow-right-down-bold"
+case ph_arrow_elbow_right_down_fill  =   "arrow-elbow-right-down-fill"
+case ph_arrow_elbow_right_down_light  =   "arrow-elbow-right-down-light"
+case ph_arrow_elbow_right_down_thin  =   "arrow-elbow-right-down-thin"
+case ph_arrow_elbow_right_fill  =   "arrow-elbow-right-fill"
+case ph_arrow_elbow_right_light  =   "arrow-elbow-right-light"
+case ph_arrow_elbow_right_thin  =   "arrow-elbow-right-thin"
+case ph_arrow_elbow_right_up  =   "arrow-elbow-right-up"
+case ph_arrow_elbow_right_up_bold  =   "arrow-elbow-right-up-bold"
+case ph_arrow_elbow_right_up_fill  =   "arrow-elbow-right-up-fill"
+case ph_arrow_elbow_right_up_light  =   "arrow-elbow-right-up-light"
+case ph_arrow_elbow_right_up_thin  =   "arrow-elbow-right-up-thin"
+case ph_arrow_elbow_up_left  =   "arrow-elbow-up-left"
+case ph_arrow_elbow_up_left_bold  =   "arrow-elbow-up-left-bold"
+case ph_arrow_elbow_up_left_fill  =   "arrow-elbow-up-left-fill"
+case ph_arrow_elbow_up_left_light  =   "arrow-elbow-up-left-light"
+case ph_arrow_elbow_up_left_thin  =   "arrow-elbow-up-left-thin"
+case ph_arrow_elbow_up_right  =   "arrow-elbow-up-right"
+case ph_arrow_elbow_up_right_bold  =   "arrow-elbow-up-right-bold"
+case ph_arrow_elbow_up_right_fill  =   "arrow-elbow-up-right-fill"
+case ph_arrow_elbow_up_right_light  =   "arrow-elbow-up-right-light"
+case ph_arrow_elbow_up_right_thin  =   "arrow-elbow-up-right-thin"
+case ph_arrow_fat_down  =   "arrow-fat-down"
+case ph_arrow_fat_down_bold  =   "arrow-fat-down-bold"
+case ph_arrow_fat_down_fill  =   "arrow-fat-down-fill"
+case ph_arrow_fat_down_light  =   "arrow-fat-down-light"
+case ph_arrow_fat_down_thin  =   "arrow-fat-down-thin"
+case ph_arrow_fat_left  =   "arrow-fat-left"
+case ph_arrow_fat_left_bold  =   "arrow-fat-left-bold"
+case ph_arrow_fat_left_fill  =   "arrow-fat-left-fill"
+case ph_arrow_fat_left_light  =   "arrow-fat-left-light"
+case ph_arrow_fat_left_thin  =   "arrow-fat-left-thin"
+case ph_arrow_fat_line_down  =   "arrow-fat-line-down"
+case ph_arrow_fat_line_down_bold  =   "arrow-fat-line-down-bold"
+case ph_arrow_fat_line_down_fill  =   "arrow-fat-line-down-fill"
+case ph_arrow_fat_line_down_light  =   "arrow-fat-line-down-light"
+case ph_arrow_fat_line_down_thin  =   "arrow-fat-line-down-thin"
+case ph_arrow_fat_line_left  =   "arrow-fat-line-left"
+case ph_arrow_fat_line_left_bold  =   "arrow-fat-line-left-bold"
+case ph_arrow_fat_line_left_fill  =   "arrow-fat-line-left-fill"
+case ph_arrow_fat_line_left_light  =   "arrow-fat-line-left-light"
+case ph_arrow_fat_line_left_thin  =   "arrow-fat-line-left-thin"
+case ph_arrow_fat_line_right  =   "arrow-fat-line-right"
+case ph_arrow_fat_line_right_bold  =   "arrow-fat-line-right-bold"
+case ph_arrow_fat_line_right_fill  =   "arrow-fat-line-right-fill"
+case ph_arrow_fat_line_right_light  =   "arrow-fat-line-right-light"
+case ph_arrow_fat_line_right_thin  =   "arrow-fat-line-right-thin"
+case ph_arrow_fat_line_up  =   "arrow-fat-line-up"
+case ph_arrow_fat_line_up_bold  =   "arrow-fat-line-up-bold"
+case ph_arrow_fat_line_up_fill  =   "arrow-fat-line-up-fill"
+case ph_arrow_fat_line_up_light  =   "arrow-fat-line-up-light"
+case ph_arrow_fat_line_up_thin  =   "arrow-fat-line-up-thin"
+case ph_arrow_fat_lines_down  =   "arrow-fat-lines-down"
+case ph_arrow_fat_lines_down_bold  =   "arrow-fat-lines-down-bold"
+case ph_arrow_fat_lines_down_fill  =   "arrow-fat-lines-down-fill"
+case ph_arrow_fat_lines_down_light  =   "arrow-fat-lines-down-light"
+case ph_arrow_fat_lines_down_thin  =   "arrow-fat-lines-down-thin"
+case ph_arrow_fat_lines_left  =   "arrow-fat-lines-left"
+case ph_arrow_fat_lines_left_bold  =   "arrow-fat-lines-left-bold"
+case ph_arrow_fat_lines_left_fill  =   "arrow-fat-lines-left-fill"
+case ph_arrow_fat_lines_left_light  =   "arrow-fat-lines-left-light"
+case ph_arrow_fat_lines_left_thin  =   "arrow-fat-lines-left-thin"
+case ph_arrow_fat_lines_right  =   "arrow-fat-lines-right"
+case ph_arrow_fat_lines_right_bold  =   "arrow-fat-lines-right-bold"
+case ph_arrow_fat_lines_right_fill  =   "arrow-fat-lines-right-fill"
+case ph_arrow_fat_lines_right_light  =   "arrow-fat-lines-right-light"
+case ph_arrow_fat_lines_right_thin  =   "arrow-fat-lines-right-thin"
+case ph_arrow_fat_lines_up  =   "arrow-fat-lines-up"
+case ph_arrow_fat_lines_up_bold  =   "arrow-fat-lines-up-bold"
+case ph_arrow_fat_lines_up_fill  =   "arrow-fat-lines-up-fill"
+case ph_arrow_fat_lines_up_light  =   "arrow-fat-lines-up-light"
+case ph_arrow_fat_lines_up_thin  =   "arrow-fat-lines-up-thin"
+case ph_arrow_fat_right  =   "arrow-fat-right"
+case ph_arrow_fat_right_bold  =   "arrow-fat-right-bold"
+case ph_arrow_fat_right_fill  =   "arrow-fat-right-fill"
+case ph_arrow_fat_right_light  =   "arrow-fat-right-light"
+case ph_arrow_fat_right_thin  =   "arrow-fat-right-thin"
+case ph_arrow_fat_up  =   "arrow-fat-up"
+case ph_arrow_fat_up_bold  =   "arrow-fat-up-bold"
+case ph_arrow_fat_up_fill  =   "arrow-fat-up-fill"
+case ph_arrow_fat_up_light  =   "arrow-fat-up-light"
+case ph_arrow_fat_up_thin  =   "arrow-fat-up-thin"
+case ph_arrow_left  =   "arrow-left"
+case ph_arrow_left_bold  =   "arrow-left-bold"
+case ph_arrow_left_fill  =   "arrow-left-fill"
+case ph_arrow_left_light  =   "arrow-left-light"
+case ph_arrow_left_thin  =   "arrow-left-thin"
+case ph_arrow_line_down  =   "arrow-line-down"
+case ph_arrow_line_down_bold  =   "arrow-line-down-bold"
+case ph_arrow_line_down_fill  =   "arrow-line-down-fill"
+case ph_arrow_line_down_left  =   "arrow-line-down-left"
+case ph_arrow_line_down_left_bold  =   "arrow-line-down-left-bold"
+case ph_arrow_line_down_left_fill  =   "arrow-line-down-left-fill"
+case ph_arrow_line_down_left_light  =   "arrow-line-down-left-light"
+case ph_arrow_line_down_left_thin  =   "arrow-line-down-left-thin"
+case ph_arrow_line_down_light  =   "arrow-line-down-light"
+case ph_arrow_line_down_right  =   "arrow-line-down-right"
+case ph_arrow_line_down_right_bold  =   "arrow-line-down-right-bold"
+case ph_arrow_line_down_right_fill  =   "arrow-line-down-right-fill"
+case ph_arrow_line_down_right_light  =   "arrow-line-down-right-light"
+case ph_arrow_line_down_right_thin  =   "arrow-line-down-right-thin"
+case ph_arrow_line_down_thin  =   "arrow-line-down-thin"
+case ph_arrow_line_left  =   "arrow-line-left"
+case ph_arrow_line_left_bold  =   "arrow-line-left-bold"
+case ph_arrow_line_left_fill  =   "arrow-line-left-fill"
+case ph_arrow_line_left_light  =   "arrow-line-left-light"
+case ph_arrow_line_left_thin  =   "arrow-line-left-thin"
+case ph_arrow_line_right  =   "arrow-line-right"
+case ph_arrow_line_right_bold  =   "arrow-line-right-bold"
+case ph_arrow_line_right_fill  =   "arrow-line-right-fill"
+case ph_arrow_line_right_light  =   "arrow-line-right-light"
+case ph_arrow_line_right_thin  =   "arrow-line-right-thin"
+case ph_arrow_line_up  =   "arrow-line-up"
+case ph_arrow_line_up_bold  =   "arrow-line-up-bold"
+case ph_arrow_line_up_fill  =   "arrow-line-up-fill"
+case ph_arrow_line_up_left  =   "arrow-line-up-left"
+case ph_arrow_line_up_left_bold  =   "arrow-line-up-left-bold"
+case ph_arrow_line_up_left_fill  =   "arrow-line-up-left-fill"
+case ph_arrow_line_up_left_light  =   "arrow-line-up-left-light"
+case ph_arrow_line_up_left_thin  =   "arrow-line-up-left-thin"
+case ph_arrow_line_up_light  =   "arrow-line-up-light"
+case ph_arrow_line_up_right  =   "arrow-line-up-right"
+case ph_arrow_line_up_right_bold  =   "arrow-line-up-right-bold"
+case ph_arrow_line_up_right_fill  =   "arrow-line-up-right-fill"
+case ph_arrow_line_up_right_light  =   "arrow-line-up-right-light"
+case ph_arrow_line_up_right_thin  =   "arrow-line-up-right-thin"
+case ph_arrow_line_up_thin  =   "arrow-line-up-thin"
+case ph_arrow_right  =   "arrow-right"
+case ph_arrow_right_bold  =   "arrow-right-bold"
+case ph_arrow_right_fill  =   "arrow-right-fill"
+case ph_arrow_right_light  =   "arrow-right-light"
+case ph_arrow_right_thin  =   "arrow-right-thin"
+case ph_arrow_square_down  =   "arrow-square-down"
+case ph_arrow_square_down_bold  =   "arrow-square-down-bold"
+case ph_arrow_square_down_fill  =   "arrow-square-down-fill"
+case ph_arrow_square_down_left  =   "arrow-square-down-left"
+case ph_arrow_square_down_left_bold  =   "arrow-square-down-left-bold"
+case ph_arrow_square_down_left_fill  =   "arrow-square-down-left-fill"
+case ph_arrow_square_down_left_light  =   "arrow-square-down-left-light"
+case ph_arrow_square_down_left_thin  =   "arrow-square-down-left-thin"
+case ph_arrow_square_down_light  =   "arrow-square-down-light"
+case ph_arrow_square_down_right  =   "arrow-square-down-right"
+case ph_arrow_square_down_right_bold  =   "arrow-square-down-right-bold"
+case ph_arrow_square_down_right_fill  =   "arrow-square-down-right-fill"
+case ph_arrow_square_down_right_light  =   "arrow-square-down-right-light"
+case ph_arrow_square_down_right_thin  =   "arrow-square-down-right-thin"
+case ph_arrow_square_down_thin  =   "arrow-square-down-thin"
+case ph_arrow_square_in  =   "arrow-square-in"
+case ph_arrow_square_in_bold  =   "arrow-square-in-bold"
+case ph_arrow_square_in_fill  =   "arrow-square-in-fill"
+case ph_arrow_square_in_light  =   "arrow-square-in-light"
+case ph_arrow_square_in_thin  =   "arrow-square-in-thin"
+case ph_arrow_square_left  =   "arrow-square-left"
+case ph_arrow_square_left_bold  =   "arrow-square-left-bold"
+case ph_arrow_square_left_fill  =   "arrow-square-left-fill"
+case ph_arrow_square_left_light  =   "arrow-square-left-light"
+case ph_arrow_square_left_thin  =   "arrow-square-left-thin"
+case ph_arrow_square_out  =   "arrow-square-out"
+case ph_arrow_square_out_bold  =   "arrow-square-out-bold"
+case ph_arrow_square_out_fill  =   "arrow-square-out-fill"
+case ph_arrow_square_out_light  =   "arrow-square-out-light"
+case ph_arrow_square_out_thin  =   "arrow-square-out-thin"
+case ph_arrow_square_right  =   "arrow-square-right"
+case ph_arrow_square_right_bold  =   "arrow-square-right-bold"
+case ph_arrow_square_right_fill  =   "arrow-square-right-fill"
+case ph_arrow_square_right_light  =   "arrow-square-right-light"
+case ph_arrow_square_right_thin  =   "arrow-square-right-thin"
+case ph_arrow_square_up  =   "arrow-square-up"
+case ph_arrow_square_up_bold  =   "arrow-square-up-bold"
+case ph_arrow_square_up_fill  =   "arrow-square-up-fill"
+case ph_arrow_square_up_left  =   "arrow-square-up-left"
+case ph_arrow_square_up_left_bold  =   "arrow-square-up-left-bold"
+case ph_arrow_square_up_left_fill  =   "arrow-square-up-left-fill"
+case ph_arrow_square_up_left_light  =   "arrow-square-up-left-light"
+case ph_arrow_square_up_left_thin  =   "arrow-square-up-left-thin"
+case ph_arrow_square_up_light  =   "arrow-square-up-light"
+case ph_arrow_square_up_right  =   "arrow-square-up-right"
+case ph_arrow_square_up_right_bold  =   "arrow-square-up-right-bold"
+case ph_arrow_square_up_right_fill  =   "arrow-square-up-right-fill"
+case ph_arrow_square_up_right_light  =   "arrow-square-up-right-light"
+case ph_arrow_square_up_right_thin  =   "arrow-square-up-right-thin"
+case ph_arrow_square_up_thin  =   "arrow-square-up-thin"
+case ph_arrow_u_down_left  =   "arrow-u-down-left"
+case ph_arrow_u_down_left_bold  =   "arrow-u-down-left-bold"
+case ph_arrow_u_down_left_fill  =   "arrow-u-down-left-fill"
+case ph_arrow_u_down_left_light  =   "arrow-u-down-left-light"
+case ph_arrow_u_down_left_thin  =   "arrow-u-down-left-thin"
+case ph_arrow_u_down_right  =   "arrow-u-down-right"
+case ph_arrow_u_down_right_bold  =   "arrow-u-down-right-bold"
+case ph_arrow_u_down_right_fill  =   "arrow-u-down-right-fill"
+case ph_arrow_u_down_right_light  =   "arrow-u-down-right-light"
+case ph_arrow_u_down_right_thin  =   "arrow-u-down-right-thin"
+case ph_arrow_u_left_down  =   "arrow-u-left-down"
+case ph_arrow_u_left_down_bold  =   "arrow-u-left-down-bold"
+case ph_arrow_u_left_down_fill  =   "arrow-u-left-down-fill"
+case ph_arrow_u_left_down_light  =   "arrow-u-left-down-light"
+case ph_arrow_u_left_down_thin  =   "arrow-u-left-down-thin"
+case ph_arrow_u_left_up  =   "arrow-u-left-up"
+case ph_arrow_u_left_up_bold  =   "arrow-u-left-up-bold"
+case ph_arrow_u_left_up_fill  =   "arrow-u-left-up-fill"
+case ph_arrow_u_left_up_light  =   "arrow-u-left-up-light"
+case ph_arrow_u_left_up_thin  =   "arrow-u-left-up-thin"
+case ph_arrow_u_right_down  =   "arrow-u-right-down"
+case ph_arrow_u_right_down_bold  =   "arrow-u-right-down-bold"
+case ph_arrow_u_right_down_fill  =   "arrow-u-right-down-fill"
+case ph_arrow_u_right_down_light  =   "arrow-u-right-down-light"
+case ph_arrow_u_right_down_thin  =   "arrow-u-right-down-thin"
+case ph_arrow_u_right_up  =   "arrow-u-right-up"
+case ph_arrow_u_right_up_bold  =   "arrow-u-right-up-bold"
+case ph_arrow_u_right_up_fill  =   "arrow-u-right-up-fill"
+case ph_arrow_u_right_up_light  =   "arrow-u-right-up-light"
+case ph_arrow_u_right_up_thin  =   "arrow-u-right-up-thin"
+case ph_arrow_u_up_left  =   "arrow-u-up-left"
+case ph_arrow_u_up_left_bold  =   "arrow-u-up-left-bold"
+case ph_arrow_u_up_left_fill  =   "arrow-u-up-left-fill"
+case ph_arrow_u_up_left_light  =   "arrow-u-up-left-light"
+case ph_arrow_u_up_left_thin  =   "arrow-u-up-left-thin"
+case ph_arrow_u_up_right  =   "arrow-u-up-right"
+case ph_arrow_u_up_right_bold  =   "arrow-u-up-right-bold"
+case ph_arrow_u_up_right_fill  =   "arrow-u-up-right-fill"
+case ph_arrow_u_up_right_light  =   "arrow-u-up-right-light"
+case ph_arrow_u_up_right_thin  =   "arrow-u-up-right-thin"
+case ph_arrow_up  =   "arrow-up"
+case ph_arrow_up_bold  =   "arrow-up-bold"
+case ph_arrow_up_fill  =   "arrow-up-fill"
+case ph_arrow_up_left  =   "arrow-up-left"
+case ph_arrow_up_left_bold  =   "arrow-up-left-bold"
+case ph_arrow_up_left_fill  =   "arrow-up-left-fill"
+case ph_arrow_up_left_light  =   "arrow-up-left-light"
+case ph_arrow_up_left_thin  =   "arrow-up-left-thin"
+case ph_arrow_up_light  =   "arrow-up-light"
+case ph_arrow_up_right  =   "arrow-up-right"
+case ph_arrow_up_right_bold  =   "arrow-up-right-bold"
+case ph_arrow_up_right_fill  =   "arrow-up-right-fill"
+case ph_arrow_up_right_light  =   "arrow-up-right-light"
+case ph_arrow_up_right_thin  =   "arrow-up-right-thin"
+case ph_arrow_up_thin  =   "arrow-up-thin"
+case ph_arrows_clockwise  =   "arrows-clockwise"
+case ph_arrows_clockwise_bold  =   "arrows-clockwise-bold"
+case ph_arrows_clockwise_fill  =   "arrows-clockwise-fill"
+case ph_arrows_clockwise_light  =   "arrows-clockwise-light"
+case ph_arrows_clockwise_thin  =   "arrows-clockwise-thin"
+case ph_arrows_counter_clockwise  =   "arrows-counter-clockwise"
+case ph_arrows_counter_clockwise_bold  =   "arrows-counter-clockwise-bold"
+case ph_arrows_counter_clockwise_fill  =   "arrows-counter-clockwise-fill"
+case ph_arrows_counter_clockwise_light  =   "arrows-counter-clockwise-light"
+case ph_arrows_counter_clockwise_thin  =   "arrows-counter-clockwise-thin"
+case ph_arrows_down_up  =   "arrows-down-up"
+case ph_arrows_down_up_bold  =   "arrows-down-up-bold"
+case ph_arrows_down_up_fill  =   "arrows-down-up-fill"
+case ph_arrows_down_up_light  =   "arrows-down-up-light"
+case ph_arrows_down_up_thin  =   "arrows-down-up-thin"
+case ph_arrows_horizontal  =   "arrows-horizontal"
+case ph_arrows_horizontal_bold  =   "arrows-horizontal-bold"
+case ph_arrows_horizontal_fill  =   "arrows-horizontal-fill"
+case ph_arrows_horizontal_light  =   "arrows-horizontal-light"
+case ph_arrows_horizontal_thin  =   "arrows-horizontal-thin"
+case ph_arrows_in  =   "arrows-in"
+case ph_arrows_in_bold  =   "arrows-in-bold"
+case ph_arrows_in_cardinal  =   "arrows-in-cardinal"
+case ph_arrows_in_cardinal_bold  =   "arrows-in-cardinal-bold"
+case ph_arrows_in_cardinal_fill  =   "arrows-in-cardinal-fill"
+case ph_arrows_in_cardinal_light  =   "arrows-in-cardinal-light"
+case ph_arrows_in_cardinal_thin  =   "arrows-in-cardinal-thin"
+case ph_arrows_in_fill  =   "arrows-in-fill"
+case ph_arrows_in_light  =   "arrows-in-light"
+case ph_arrows_in_line_horizontal  =   "arrows-in-line-horizontal"
+case ph_arrows_in_line_horizontal_bold  =   "arrows-in-line-horizontal-bold"
+case ph_arrows_in_line_horizontal_fill  =   "arrows-in-line-horizontal-fill"
+case ph_arrows_in_line_horizontal_light  =   "arrows-in-line-horizontal-light"
+case ph_arrows_in_line_horizontal_thin  =   "arrows-in-line-horizontal-thin"
+case ph_arrows_in_line_vertical  =   "arrows-in-line-vertical"
+case ph_arrows_in_line_vertical_bold  =   "arrows-in-line-vertical-bold"
+case ph_arrows_in_line_vertical_fill  =   "arrows-in-line-vertical-fill"
+case ph_arrows_in_line_vertical_light  =   "arrows-in-line-vertical-light"
+case ph_arrows_in_line_vertical_thin  =   "arrows-in-line-vertical-thin"
+case ph_arrows_in_simple  =   "arrows-in-simple"
+case ph_arrows_in_simple_bold  =   "arrows-in-simple-bold"
+case ph_arrows_in_simple_fill  =   "arrows-in-simple-fill"
+case ph_arrows_in_simple_light  =   "arrows-in-simple-light"
+case ph_arrows_in_simple_thin  =   "arrows-in-simple-thin"
+case ph_arrows_in_thin  =   "arrows-in-thin"
+case ph_arrows_left_right  =   "arrows-left-right"
+case ph_arrows_left_right_bold  =   "arrows-left-right-bold"
+case ph_arrows_left_right_fill  =   "arrows-left-right-fill"
+case ph_arrows_left_right_light  =   "arrows-left-right-light"
+case ph_arrows_left_right_thin  =   "arrows-left-right-thin"
+case ph_arrows_out  =   "arrows-out"
+case ph_arrows_out_bold  =   "arrows-out-bold"
+case ph_arrows_out_cardinal  =   "arrows-out-cardinal"
+case ph_arrows_out_cardinal_bold  =   "arrows-out-cardinal-bold"
+case ph_arrows_out_cardinal_fill  =   "arrows-out-cardinal-fill"
+case ph_arrows_out_cardinal_light  =   "arrows-out-cardinal-light"
+case ph_arrows_out_cardinal_thin  =   "arrows-out-cardinal-thin"
+case ph_arrows_out_fill  =   "arrows-out-fill"
+case ph_arrows_out_light  =   "arrows-out-light"
+case ph_arrows_out_line_horizontal  =   "arrows-out-line-horizontal"
+case ph_arrows_out_line_horizontal_bold  =   "arrows-out-line-horizontal-bold"
+case ph_arrows_out_line_horizontal_fill  =   "arrows-out-line-horizontal-fill"
+case ph_arrows_out_line_horizontal_light  =   "arrows-out-line-horizontal-light"
+case ph_arrows_out_line_horizontal_thin  =   "arrows-out-line-horizontal-thin"
+case ph_arrows_out_line_vertical  =   "arrows-out-line-vertical"
+case ph_arrows_out_line_vertical_bold  =   "arrows-out-line-vertical-bold"
+case ph_arrows_out_line_vertical_fill  =   "arrows-out-line-vertical-fill"
+case ph_arrows_out_line_vertical_light  =   "arrows-out-line-vertical-light"
+case ph_arrows_out_line_vertical_thin  =   "arrows-out-line-vertical-thin"
+case ph_arrows_out_simple  =   "arrows-out-simple"
+case ph_arrows_out_simple_bold  =   "arrows-out-simple-bold"
+case ph_arrows_out_simple_fill  =   "arrows-out-simple-fill"
+case ph_arrows_out_simple_light  =   "arrows-out-simple-light"
+case ph_arrows_out_simple_thin  =   "arrows-out-simple-thin"
+case ph_arrows_out_thin  =   "arrows-out-thin"
+case ph_arrows_vertical  =   "arrows-vertical"
+case ph_arrows_vertical_bold  =   "arrows-vertical-bold"
+case ph_arrows_vertical_fill  =   "arrows-vertical-fill"
+case ph_arrows_vertical_light  =   "arrows-vertical-light"
+case ph_arrows_vertical_thin  =   "arrows-vertical-thin"
+case ph_article  =   "article"
+case ph_article_bold  =   "article-bold"
+case ph_article_fill  =   "article-fill"
+case ph_article_light  =   "article-light"
+case ph_article_medium  =   "article-medium"
+case ph_article_medium_bold  =   "article-medium-bold"
+case ph_article_medium_fill  =   "article-medium-fill"
+case ph_article_medium_light  =   "article-medium-light"
+case ph_article_medium_thin  =   "article-medium-thin"
+case ph_article_ny_times  =   "article-ny-times"
+case ph_article_ny_times_bold  =   "article-ny-times-bold"
+case ph_article_ny_times_fill  =   "article-ny-times-fill"
+case ph_article_ny_times_light  =   "article-ny-times-light"
+case ph_article_ny_times_thin  =   "article-ny-times-thin"
+case ph_article_thin  =   "article-thin"
+case ph_asterisk  =   "asterisk"
+case ph_asterisk_bold  =   "asterisk-bold"
+case ph_asterisk_fill  =   "asterisk-fill"
+case ph_asterisk_light  =   "asterisk-light"
+case ph_asterisk_simple  =   "asterisk-simple"
+case ph_asterisk_simple_bold  =   "asterisk-simple-bold"
+case ph_asterisk_simple_fill  =   "asterisk-simple-fill"
+case ph_asterisk_simple_light  =   "asterisk-simple-light"
+case ph_asterisk_simple_thin  =   "asterisk-simple-thin"
+case ph_asterisk_thin  =   "asterisk-thin"
+case ph_at  =   "at"
+case ph_at_bold  =   "at-bold"
+case ph_at_fill  =   "at-fill"
+case ph_at_light  =   "at-light"
+case ph_at_thin  =   "at-thin"
+case ph_atom  =   "atom"
+case ph_atom_bold  =   "atom-bold"
+case ph_atom_fill  =   "atom-fill"
+case ph_atom_light  =   "atom-light"
+case ph_atom_thin  =   "atom-thin"
+case ph_baby  =   "baby"
+case ph_baby_bold  =   "baby-bold"
+case ph_baby_fill  =   "baby-fill"
+case ph_baby_light  =   "baby-light"
+case ph_baby_thin  =   "baby-thin"
+case ph_backpack  =   "backpack"
+case ph_backpack_bold  =   "backpack-bold"
+case ph_backpack_fill  =   "backpack-fill"
+case ph_backpack_light  =   "backpack-light"
+case ph_backpack_thin  =   "backpack-thin"
+case ph_backspace  =   "backspace"
+case ph_backspace_bold  =   "backspace-bold"
+case ph_backspace_fill  =   "backspace-fill"
+case ph_backspace_light  =   "backspace-light"
+case ph_backspace_thin  =   "backspace-thin"
+case ph_bag  =   "bag"
+case ph_bag_bold  =   "bag-bold"
+case ph_bag_fill  =   "bag-fill"
+case ph_bag_light  =   "bag-light"
+case ph_bag_simple  =   "bag-simple"
+case ph_bag_simple_bold  =   "bag-simple-bold"
+case ph_bag_simple_fill  =   "bag-simple-fill"
+case ph_bag_simple_light  =   "bag-simple-light"
+case ph_bag_simple_thin  =   "bag-simple-thin"
+case ph_bag_thin  =   "bag-thin"
+case ph_balloon  =   "balloon"
+case ph_balloon_bold  =   "balloon-bold"
+case ph_balloon_fill  =   "balloon-fill"
+case ph_balloon_light  =   "balloon-light"
+case ph_balloon_thin  =   "balloon-thin"
+case ph_bandaids  =   "bandaids"
+case ph_bandaids_bold  =   "bandaids-bold"
+case ph_bandaids_fill  =   "bandaids-fill"
+case ph_bandaids_light  =   "bandaids-light"
+case ph_bandaids_thin  =   "bandaids-thin"
+case ph_bank  =   "bank"
+case ph_bank_bold  =   "bank-bold"
+case ph_bank_fill  =   "bank-fill"
+case ph_bank_light  =   "bank-light"
+case ph_bank_thin  =   "bank-thin"
+case ph_barbell  =   "barbell"
+case ph_barbell_bold  =   "barbell-bold"
+case ph_barbell_fill  =   "barbell-fill"
+case ph_barbell_light  =   "barbell-light"
+case ph_barbell_thin  =   "barbell-thin"
+case ph_barcode  =   "barcode"
+case ph_barcode_bold  =   "barcode-bold"
+case ph_barcode_fill  =   "barcode-fill"
+case ph_barcode_light  =   "barcode-light"
+case ph_barcode_thin  =   "barcode-thin"
+case ph_barricade  =   "barricade"
+case ph_barricade_bold  =   "barricade-bold"
+case ph_barricade_fill  =   "barricade-fill"
+case ph_barricade_light  =   "barricade-light"
+case ph_barricade_thin  =   "barricade-thin"
+case ph_baseball  =   "baseball"
+case ph_baseball_bold  =   "baseball-bold"
+case ph_baseball_fill  =   "baseball-fill"
+case ph_baseball_light  =   "baseball-light"
+case ph_baseball_thin  =   "baseball-thin"
+case ph_basketball  =   "basketball"
+case ph_basketball_bold  =   "basketball-bold"
+case ph_basketball_fill  =   "basketball-fill"
+case ph_basketball_light  =   "basketball-light"
+case ph_basketball_thin  =   "basketball-thin"
+case ph_bathtub  =   "bathtub"
+case ph_bathtub_bold  =   "bathtub-bold"
+case ph_bathtub_fill  =   "bathtub-fill"
+case ph_bathtub_light  =   "bathtub-light"
+case ph_bathtub_thin  =   "bathtub-thin"
+case ph_battery_charging  =   "battery-charging"
+case ph_battery_charging_bold  =   "battery-charging-bold"
+case ph_battery_charging_fill  =   "battery-charging-fill"
+case ph_battery_charging_light  =   "battery-charging-light"
+case ph_battery_charging_thin  =   "battery-charging-thin"
+case ph_battery_charging_vertical  =   "battery-charging-vertical"
+case ph_battery_charging_vertical_bold  =   "battery-charging-vertical-bold"
+case ph_battery_charging_vertical_fill  =   "battery-charging-vertical-fill"
+case ph_battery_charging_vertical_light  =   "battery-charging-vertical-light"
+case ph_battery_charging_vertical_thin  =   "battery-charging-vertical-thin"
+case ph_battery_empty  =   "battery-empty"
+case ph_battery_empty_bold  =   "battery-empty-bold"
+case ph_battery_empty_fill  =   "battery-empty-fill"
+case ph_battery_empty_light  =   "battery-empty-light"
+case ph_battery_empty_thin  =   "battery-empty-thin"
+case ph_battery_full  =   "battery-full"
+case ph_battery_full_bold  =   "battery-full-bold"
+case ph_battery_full_fill  =   "battery-full-fill"
+case ph_battery_full_light  =   "battery-full-light"
+case ph_battery_full_thin  =   "battery-full-thin"
+case ph_battery_high  =   "battery-high"
+case ph_battery_high_bold  =   "battery-high-bold"
+case ph_battery_high_fill  =   "battery-high-fill"
+case ph_battery_high_light  =   "battery-high-light"
+case ph_battery_high_thin  =   "battery-high-thin"
+case ph_battery_low  =   "battery-low"
+case ph_battery_low_bold  =   "battery-low-bold"
+case ph_battery_low_fill  =   "battery-low-fill"
+case ph_battery_low_light  =   "battery-low-light"
+case ph_battery_low_thin  =   "battery-low-thin"
+case ph_battery_medium  =   "battery-medium"
+case ph_battery_medium_bold  =   "battery-medium-bold"
+case ph_battery_medium_fill  =   "battery-medium-fill"
+case ph_battery_medium_light  =   "battery-medium-light"
+case ph_battery_medium_thin  =   "battery-medium-thin"
+case ph_battery_plus  =   "battery-plus"
+case ph_battery_plus_bold  =   "battery-plus-bold"
+case ph_battery_plus_fill  =   "battery-plus-fill"
+case ph_battery_plus_light  =   "battery-plus-light"
+case ph_battery_plus_thin  =   "battery-plus-thin"
+case ph_battery_warning  =   "battery-warning"
+case ph_battery_warning_bold  =   "battery-warning-bold"
+case ph_battery_warning_fill  =   "battery-warning-fill"
+case ph_battery_warning_light  =   "battery-warning-light"
+case ph_battery_warning_thin  =   "battery-warning-thin"
+case ph_battery_warning_vertical  =   "battery-warning-vertical"
+case ph_battery_warning_vertical_bold  =   "battery-warning-vertical-bold"
+case ph_battery_warning_vertical_fill  =   "battery-warning-vertical-fill"
+case ph_battery_warning_vertical_light  =   "battery-warning-vertical-light"
+case ph_battery_warning_vertical_thin  =   "battery-warning-vertical-thin"
+case ph_bed  =   "bed"
+case ph_bed_bold  =   "bed-bold"
+case ph_bed_fill  =   "bed-fill"
+case ph_bed_light  =   "bed-light"
+case ph_bed_thin  =   "bed-thin"
+case ph_beer_bottle  =   "beer-bottle"
+case ph_beer_bottle_bold  =   "beer-bottle-bold"
+case ph_beer_bottle_fill  =   "beer-bottle-fill"
+case ph_beer_bottle_light  =   "beer-bottle-light"
+case ph_beer_bottle_thin  =   "beer-bottle-thin"
+case ph_behance_logo  =   "behance-logo"
+case ph_behance_logo_bold  =   "behance-logo-bold"
+case ph_behance_logo_fill  =   "behance-logo-fill"
+case ph_behance_logo_light  =   "behance-logo-light"
+case ph_behance_logo_thin  =   "behance-logo-thin"
+case ph_bell  =   "bell"
+case ph_bell_bold  =   "bell-bold"
+case ph_bell_fill  =   "bell-fill"
+case ph_bell_light  =   "bell-light"
+case ph_bell_ringing  =   "bell-ringing"
+case ph_bell_ringing_bold  =   "bell-ringing-bold"
+case ph_bell_ringing_fill  =   "bell-ringing-fill"
+case ph_bell_ringing_light  =   "bell-ringing-light"
+case ph_bell_ringing_thin  =   "bell-ringing-thin"
+case ph_bell_simple  =   "bell-simple"
+case ph_bell_simple_bold  =   "bell-simple-bold"
+case ph_bell_simple_fill  =   "bell-simple-fill"
+case ph_bell_simple_light  =   "bell-simple-light"
+case ph_bell_simple_ringing  =   "bell-simple-ringing"
+case ph_bell_simple_ringing_bold  =   "bell-simple-ringing-bold"
+case ph_bell_simple_ringing_fill  =   "bell-simple-ringing-fill"
+case ph_bell_simple_ringing_light  =   "bell-simple-ringing-light"
+case ph_bell_simple_ringing_thin  =   "bell-simple-ringing-thin"
+case ph_bell_simple_slash  =   "bell-simple-slash"
+case ph_bell_simple_slash_bold  =   "bell-simple-slash-bold"
+case ph_bell_simple_slash_fill  =   "bell-simple-slash-fill"
+case ph_bell_simple_slash_light  =   "bell-simple-slash-light"
+case ph_bell_simple_slash_thin  =   "bell-simple-slash-thin"
+case ph_bell_simple_thin  =   "bell-simple-thin"
+case ph_bell_simple_z  =   "bell-simple-z"
+case ph_bell_simple_z_bold  =   "bell-simple-z-bold"
+case ph_bell_simple_z_fill  =   "bell-simple-z-fill"
+case ph_bell_simple_z_light  =   "bell-simple-z-light"
+case ph_bell_simple_z_thin  =   "bell-simple-z-thin"
+case ph_bell_slash  =   "bell-slash"
+case ph_bell_slash_bold  =   "bell-slash-bold"
+case ph_bell_slash_fill  =   "bell-slash-fill"
+case ph_bell_slash_light  =   "bell-slash-light"
+case ph_bell_slash_thin  =   "bell-slash-thin"
+case ph_bell_thin  =   "bell-thin"
+case ph_bell_z  =   "bell-z"
+case ph_bell_z_bold  =   "bell-z-bold"
+case ph_bell_z_fill  =   "bell-z-fill"
+case ph_bell_z_light  =   "bell-z-light"
+case ph_bell_z_thin  =   "bell-z-thin"
+case ph_bezier_curve  =   "bezier-curve"
+case ph_bezier_curve_bold  =   "bezier-curve-bold"
+case ph_bezier_curve_fill  =   "bezier-curve-fill"
+case ph_bezier_curve_light  =   "bezier-curve-light"
+case ph_bezier_curve_thin  =   "bezier-curve-thin"
+case ph_bicycle  =   "bicycle"
+case ph_bicycle_bold  =   "bicycle-bold"
+case ph_bicycle_fill  =   "bicycle-fill"
+case ph_bicycle_light  =   "bicycle-light"
+case ph_bicycle_thin  =   "bicycle-thin"
+case ph_binoculars  =   "binoculars"
+case ph_binoculars_bold  =   "binoculars-bold"
+case ph_binoculars_fill  =   "binoculars-fill"
+case ph_binoculars_light  =   "binoculars-light"
+case ph_binoculars_thin  =   "binoculars-thin"
+case ph_bird  =   "bird"
+case ph_bird_bold  =   "bird-bold"
+case ph_bird_fill  =   "bird-fill"
+case ph_bird_light  =   "bird-light"
+case ph_bird_thin  =   "bird-thin"
+case ph_bluetooth  =   "bluetooth"
+case ph_bluetooth_bold  =   "bluetooth-bold"
+case ph_bluetooth_connected  =   "bluetooth-connected"
+case ph_bluetooth_connected_bold  =   "bluetooth-connected-bold"
+case ph_bluetooth_connected_fill  =   "bluetooth-connected-fill"
+case ph_bluetooth_connected_light  =   "bluetooth-connected-light"
+case ph_bluetooth_connected_thin  =   "bluetooth-connected-thin"
+case ph_bluetooth_fill  =   "bluetooth-fill"
+case ph_bluetooth_light  =   "bluetooth-light"
+case ph_bluetooth_slash  =   "bluetooth-slash"
+case ph_bluetooth_slash_bold  =   "bluetooth-slash-bold"
+case ph_bluetooth_slash_fill  =   "bluetooth-slash-fill"
+case ph_bluetooth_slash_light  =   "bluetooth-slash-light"
+case ph_bluetooth_slash_thin  =   "bluetooth-slash-thin"
+case ph_bluetooth_thin  =   "bluetooth-thin"
+case ph_bluetooth_x  =   "bluetooth-x"
+case ph_bluetooth_x_bold  =   "bluetooth-x-bold"
+case ph_bluetooth_x_fill  =   "bluetooth-x-fill"
+case ph_bluetooth_x_light  =   "bluetooth-x-light"
+case ph_bluetooth_x_thin  =   "bluetooth-x-thin"
+case ph_boat  =   "boat"
+case ph_boat_bold  =   "boat-bold"
+case ph_boat_fill  =   "boat-fill"
+case ph_boat_light  =   "boat-light"
+case ph_boat_thin  =   "boat-thin"
+case ph_book  =   "book"
+case ph_book_bold  =   "book-bold"
+case ph_book_bookmark  =   "book-bookmark"
+case ph_book_bookmark_bold  =   "book-bookmark-bold"
+case ph_book_bookmark_fill  =   "book-bookmark-fill"
+case ph_book_bookmark_light  =   "book-bookmark-light"
+case ph_book_bookmark_thin  =   "book-bookmark-thin"
+case ph_book_fill  =   "book-fill"
+case ph_book_light  =   "book-light"
+case ph_book_open  =   "book-open"
+case ph_book_open_bold  =   "book-open-bold"
+case ph_book_open_fill  =   "book-open-fill"
+case ph_book_open_light  =   "book-open-light"
+case ph_book_open_thin  =   "book-open-thin"
+case ph_book_thin  =   "book-thin"
+case ph_bookmark  =   "bookmark"
+case ph_bookmark_bold  =   "bookmark-bold"
+case ph_bookmark_fill  =   "bookmark-fill"
+case ph_bookmark_light  =   "bookmark-light"
+case ph_bookmark_simple  =   "bookmark-simple"
+case ph_bookmark_simple_bold  =   "bookmark-simple-bold"
+case ph_bookmark_simple_fill  =   "bookmark-simple-fill"
+case ph_bookmark_simple_light  =   "bookmark-simple-light"
+case ph_bookmark_simple_thin  =   "bookmark-simple-thin"
+case ph_bookmark_thin  =   "bookmark-thin"
+case ph_bookmarks  =   "bookmarks"
+case ph_bookmarks_bold  =   "bookmarks-bold"
+case ph_bookmarks_fill  =   "bookmarks-fill"
+case ph_bookmarks_light  =   "bookmarks-light"
+case ph_bookmarks_simple  =   "bookmarks-simple"
+case ph_bookmarks_simple_bold  =   "bookmarks-simple-bold"
+case ph_bookmarks_simple_fill  =   "bookmarks-simple-fill"
+case ph_bookmarks_simple_light  =   "bookmarks-simple-light"
+case ph_bookmarks_simple_thin  =   "bookmarks-simple-thin"
+case ph_bookmarks_thin  =   "bookmarks-thin"
+case ph_books  =   "books"
+case ph_books_bold  =   "books-bold"
+case ph_books_fill  =   "books-fill"
+case ph_books_light  =   "books-light"
+case ph_books_thin  =   "books-thin"
+case ph_bounding_box  =   "bounding-box"
+case ph_bounding_box_bold  =   "bounding-box-bold"
+case ph_bounding_box_fill  =   "bounding-box-fill"
+case ph_bounding_box_light  =   "bounding-box-light"
+case ph_bounding_box_thin  =   "bounding-box-thin"
+case ph_brackets_angle  =   "brackets-angle"
+case ph_brackets_angle_bold  =   "brackets-angle-bold"
+case ph_brackets_angle_fill  =   "brackets-angle-fill"
+case ph_brackets_angle_light  =   "brackets-angle-light"
+case ph_brackets_angle_thin  =   "brackets-angle-thin"
+case ph_brackets_curly  =   "brackets-curly"
+case ph_brackets_curly_bold  =   "brackets-curly-bold"
+case ph_brackets_curly_fill  =   "brackets-curly-fill"
+case ph_brackets_curly_light  =   "brackets-curly-light"
+case ph_brackets_curly_thin  =   "brackets-curly-thin"
+case ph_brackets_round  =   "brackets-round"
+case ph_brackets_round_bold  =   "brackets-round-bold"
+case ph_brackets_round_fill  =   "brackets-round-fill"
+case ph_brackets_round_light  =   "brackets-round-light"
+case ph_brackets_round_thin  =   "brackets-round-thin"
+case ph_brackets_square  =   "brackets-square"
+case ph_brackets_square_bold  =   "brackets-square-bold"
+case ph_brackets_square_fill  =   "brackets-square-fill"
+case ph_brackets_square_light  =   "brackets-square-light"
+case ph_brackets_square_thin  =   "brackets-square-thin"
+case ph_brain  =   "brain"
+case ph_brain_bold  =   "brain-bold"
+case ph_brain_fill  =   "brain-fill"
+case ph_brain_light  =   "brain-light"
+case ph_brain_thin  =   "brain-thin"
+case ph_brandy  =   "brandy"
+case ph_brandy_bold  =   "brandy-bold"
+case ph_brandy_fill  =   "brandy-fill"
+case ph_brandy_light  =   "brandy-light"
+case ph_brandy_thin  =   "brandy-thin"
+case ph_briefcase  =   "briefcase"
+case ph_briefcase_bold  =   "briefcase-bold"
+case ph_briefcase_fill  =   "briefcase-fill"
+case ph_briefcase_light  =   "briefcase-light"
+case ph_briefcase_metal  =   "briefcase-metal"
+case ph_briefcase_metal_bold  =   "briefcase-metal-bold"
+case ph_briefcase_metal_fill  =   "briefcase-metal-fill"
+case ph_briefcase_metal_light  =   "briefcase-metal-light"
+case ph_briefcase_metal_thin  =   "briefcase-metal-thin"
+case ph_briefcase_thin  =   "briefcase-thin"
+case ph_broadcast  =   "broadcast"
+case ph_broadcast_bold  =   "broadcast-bold"
+case ph_broadcast_fill  =   "broadcast-fill"
+case ph_broadcast_light  =   "broadcast-light"
+case ph_broadcast_thin  =   "broadcast-thin"
+case ph_browser  =   "browser"
+case ph_browser_bold  =   "browser-bold"
+case ph_browser_fill  =   "browser-fill"
+case ph_browser_light  =   "browser-light"
+case ph_browser_thin  =   "browser-thin"
+case ph_browsers  =   "browsers"
+case ph_browsers_bold  =   "browsers-bold"
+case ph_browsers_fill  =   "browsers-fill"
+case ph_browsers_light  =   "browsers-light"
+case ph_browsers_thin  =   "browsers-thin"
+case ph_bug  =   "bug"
+case ph_bug_beetle  =   "bug-beetle"
+case ph_bug_beetle_bold  =   "bug-beetle-bold"
+case ph_bug_beetle_fill  =   "bug-beetle-fill"
+case ph_bug_beetle_light  =   "bug-beetle-light"
+case ph_bug_beetle_thin  =   "bug-beetle-thin"
+case ph_bug_bold  =   "bug-bold"
+case ph_bug_droid  =   "bug-droid"
+case ph_bug_droid_bold  =   "bug-droid-bold"
+case ph_bug_droid_fill  =   "bug-droid-fill"
+case ph_bug_droid_light  =   "bug-droid-light"
+case ph_bug_droid_thin  =   "bug-droid-thin"
+case ph_bug_fill  =   "bug-fill"
+case ph_bug_light  =   "bug-light"
+case ph_bug_thin  =   "bug-thin"
+case ph_buildings  =   "buildings"
+case ph_buildings_bold  =   "buildings-bold"
+case ph_buildings_fill  =   "buildings-fill"
+case ph_buildings_light  =   "buildings-light"
+case ph_buildings_thin  =   "buildings-thin"
+case ph_bus  =   "bus"
+case ph_bus_bold  =   "bus-bold"
+case ph_bus_fill  =   "bus-fill"
+case ph_bus_light  =   "bus-light"
+case ph_bus_thin  =   "bus-thin"
+case ph_butterfly  =   "butterfly"
+case ph_butterfly_bold  =   "butterfly-bold"
+case ph_butterfly_fill  =   "butterfly-fill"
+case ph_butterfly_light  =   "butterfly-light"
+case ph_butterfly_thin  =   "butterfly-thin"
+case ph_cactus  =   "cactus"
+case ph_cactus_bold  =   "cactus-bold"
+case ph_cactus_fill  =   "cactus-fill"
+case ph_cactus_light  =   "cactus-light"
+case ph_cactus_thin  =   "cactus-thin"
+case ph_cake  =   "cake"
+case ph_cake_bold  =   "cake-bold"
+case ph_cake_fill  =   "cake-fill"
+case ph_cake_light  =   "cake-light"
+case ph_cake_thin  =   "cake-thin"
+case ph_calculator  =   "calculator"
+case ph_calculator_bold  =   "calculator-bold"
+case ph_calculator_fill  =   "calculator-fill"
+case ph_calculator_light  =   "calculator-light"
+case ph_calculator_thin  =   "calculator-thin"
+case ph_calendar  =   "calendar"
+case ph_calendar_blank  =   "calendar-blank"
+case ph_calendar_blank_bold  =   "calendar-blank-bold"
+case ph_calendar_blank_fill  =   "calendar-blank-fill"
+case ph_calendar_blank_light  =   "calendar-blank-light"
+case ph_calendar_blank_thin  =   "calendar-blank-thin"
+case ph_calendar_bold  =   "calendar-bold"
+case ph_calendar_check  =   "calendar-check"
+case ph_calendar_check_bold  =   "calendar-check-bold"
+case ph_calendar_check_fill  =   "calendar-check-fill"
+case ph_calendar_check_light  =   "calendar-check-light"
+case ph_calendar_check_thin  =   "calendar-check-thin"
+case ph_calendar_fill  =   "calendar-fill"
+case ph_calendar_light  =   "calendar-light"
+case ph_calendar_plus  =   "calendar-plus"
+case ph_calendar_plus_bold  =   "calendar-plus-bold"
+case ph_calendar_plus_fill  =   "calendar-plus-fill"
+case ph_calendar_plus_light  =   "calendar-plus-light"
+case ph_calendar_plus_thin  =   "calendar-plus-thin"
+case ph_calendar_thin  =   "calendar-thin"
+case ph_calendar_x  =   "calendar-x"
+case ph_calendar_x_bold  =   "calendar-x-bold"
+case ph_calendar_x_fill  =   "calendar-x-fill"
+case ph_calendar_x_light  =   "calendar-x-light"
+case ph_calendar_x_thin  =   "calendar-x-thin"
+case ph_camera  =   "camera"
+case ph_camera_bold  =   "camera-bold"
+case ph_camera_fill  =   "camera-fill"
+case ph_camera_light  =   "camera-light"
+case ph_camera_rotate  =   "camera-rotate"
+case ph_camera_rotate_bold  =   "camera-rotate-bold"
+case ph_camera_rotate_fill  =   "camera-rotate-fill"
+case ph_camera_rotate_light  =   "camera-rotate-light"
+case ph_camera_rotate_thin  =   "camera-rotate-thin"
+case ph_camera_slash  =   "camera-slash"
+case ph_camera_slash_bold  =   "camera-slash-bold"
+case ph_camera_slash_fill  =   "camera-slash-fill"
+case ph_camera_slash_light  =   "camera-slash-light"
+case ph_camera_slash_thin  =   "camera-slash-thin"
+case ph_camera_thin  =   "camera-thin"
+case ph_campfire  =   "campfire"
+case ph_campfire_bold  =   "campfire-bold"
+case ph_campfire_fill  =   "campfire-fill"
+case ph_campfire_light  =   "campfire-light"
+case ph_campfire_thin  =   "campfire-thin"
+case ph_car  =   "car"
+case ph_car_bold  =   "car-bold"
+case ph_car_fill  =   "car-fill"
+case ph_car_light  =   "car-light"
+case ph_car_simple  =   "car-simple"
+case ph_car_simple_bold  =   "car-simple-bold"
+case ph_car_simple_fill  =   "car-simple-fill"
+case ph_car_simple_light  =   "car-simple-light"
+case ph_car_simple_thin  =   "car-simple-thin"
+case ph_car_thin  =   "car-thin"
+case ph_cardholder  =   "cardholder"
+case ph_cardholder_bold  =   "cardholder-bold"
+case ph_cardholder_fill  =   "cardholder-fill"
+case ph_cardholder_light  =   "cardholder-light"
+case ph_cardholder_thin  =   "cardholder-thin"
+case ph_cards  =   "cards"
+case ph_cards_bold  =   "cards-bold"
+case ph_cards_fill  =   "cards-fill"
+case ph_cards_light  =   "cards-light"
+case ph_cards_thin  =   "cards-thin"
+case ph_caret_circle_double_down  =   "caret-circle-double-down"
+case ph_caret_circle_double_down_bold  =   "caret-circle-double-down-bold"
+case ph_caret_circle_double_down_fill  =   "caret-circle-double-down-fill"
+case ph_caret_circle_double_down_light  =   "caret-circle-double-down-light"
+case ph_caret_circle_double_down_thin  =   "caret-circle-double-down-thin"
+case ph_caret_circle_double_left  =   "caret-circle-double-left"
+case ph_caret_circle_double_left_bold  =   "caret-circle-double-left-bold"
+case ph_caret_circle_double_left_fill  =   "caret-circle-double-left-fill"
+case ph_caret_circle_double_left_light  =   "caret-circle-double-left-light"
+case ph_caret_circle_double_left_thin  =   "caret-circle-double-left-thin"
+case ph_caret_circle_double_right  =   "caret-circle-double-right"
+case ph_caret_circle_double_right_bold  =   "caret-circle-double-right-bold"
+case ph_caret_circle_double_right_fill  =   "caret-circle-double-right-fill"
+case ph_caret_circle_double_right_light  =   "caret-circle-double-right-light"
+case ph_caret_circle_double_right_thin  =   "caret-circle-double-right-thin"
+case ph_caret_circle_double_up  =   "caret-circle-double-up"
+case ph_caret_circle_double_up_bold  =   "caret-circle-double-up-bold"
+case ph_caret_circle_double_up_fill  =   "caret-circle-double-up-fill"
+case ph_caret_circle_double_up_light  =   "caret-circle-double-up-light"
+case ph_caret_circle_double_up_thin  =   "caret-circle-double-up-thin"
+case ph_caret_circle_down  =   "caret-circle-down"
+case ph_caret_circle_down_bold  =   "caret-circle-down-bold"
+case ph_caret_circle_down_fill  =   "caret-circle-down-fill"
+case ph_caret_circle_down_light  =   "caret-circle-down-light"
+case ph_caret_circle_down_thin  =   "caret-circle-down-thin"
+case ph_caret_circle_left  =   "caret-circle-left"
+case ph_caret_circle_left_bold  =   "caret-circle-left-bold"
+case ph_caret_circle_left_fill  =   "caret-circle-left-fill"
+case ph_caret_circle_left_light  =   "caret-circle-left-light"
+case ph_caret_circle_left_thin  =   "caret-circle-left-thin"
+case ph_caret_circle_right  =   "caret-circle-right"
+case ph_caret_circle_right_bold  =   "caret-circle-right-bold"
+case ph_caret_circle_right_fill  =   "caret-circle-right-fill"
+case ph_caret_circle_right_light  =   "caret-circle-right-light"
+case ph_caret_circle_right_thin  =   "caret-circle-right-thin"
+case ph_caret_circle_up  =   "caret-circle-up"
+case ph_caret_circle_up_bold  =   "caret-circle-up-bold"
+case ph_caret_circle_up_fill  =   "caret-circle-up-fill"
+case ph_caret_circle_up_light  =   "caret-circle-up-light"
+case ph_caret_circle_up_thin  =   "caret-circle-up-thin"
+case ph_caret_double_down  =   "caret-double-down"
+case ph_caret_double_down_bold  =   "caret-double-down-bold"
+case ph_caret_double_down_fill  =   "caret-double-down-fill"
+case ph_caret_double_down_light  =   "caret-double-down-light"
+case ph_caret_double_down_thin  =   "caret-double-down-thin"
+case ph_caret_double_left  =   "caret-double-left"
+case ph_caret_double_left_bold  =   "caret-double-left-bold"
+case ph_caret_double_left_fill  =   "caret-double-left-fill"
+case ph_caret_double_left_light  =   "caret-double-left-light"
+case ph_caret_double_left_thin  =   "caret-double-left-thin"
+case ph_caret_double_right  =   "caret-double-right"
+case ph_caret_double_right_bold  =   "caret-double-right-bold"
+case ph_caret_double_right_fill  =   "caret-double-right-fill"
+case ph_caret_double_right_light  =   "caret-double-right-light"
+case ph_caret_double_right_thin  =   "caret-double-right-thin"
+case ph_caret_double_up  =   "caret-double-up"
+case ph_caret_double_up_bold  =   "caret-double-up-bold"
+case ph_caret_double_up_fill  =   "caret-double-up-fill"
+case ph_caret_double_up_light  =   "caret-double-up-light"
+case ph_caret_double_up_thin  =   "caret-double-up-thin"
+case ph_caret_down  =   "caret-down"
+case ph_caret_down_bold  =   "caret-down-bold"
+case ph_caret_down_fill  =   "caret-down-fill"
+case ph_caret_down_light  =   "caret-down-light"
+case ph_caret_down_thin  =   "caret-down-thin"
+case ph_caret_left  =   "caret-left"
+case ph_caret_left_bold  =   "caret-left-bold"
+case ph_caret_left_fill  =   "caret-left-fill"
+case ph_caret_left_light  =   "caret-left-light"
+case ph_caret_left_thin  =   "caret-left-thin"
+case ph_caret_right  =   "caret-right"
+case ph_caret_right_bold  =   "caret-right-bold"
+case ph_caret_right_fill  =   "caret-right-fill"
+case ph_caret_right_light  =   "caret-right-light"
+case ph_caret_right_thin  =   "caret-right-thin"
+case ph_caret_up  =   "caret-up"
+case ph_caret_up_bold  =   "caret-up-bold"
+case ph_caret_up_fill  =   "caret-up-fill"
+case ph_caret_up_light  =   "caret-up-light"
+case ph_caret_up_thin  =   "caret-up-thin"
+case ph_cat  =   "cat"
+case ph_cat_bold  =   "cat-bold"
+case ph_cat_fill  =   "cat-fill"
+case ph_cat_light  =   "cat-light"
+case ph_cat_thin  =   "cat-thin"
+case ph_cell_signal_full  =   "cell-signal-full"
+case ph_cell_signal_full_bold  =   "cell-signal-full-bold"
+case ph_cell_signal_full_fill  =   "cell-signal-full-fill"
+case ph_cell_signal_full_light  =   "cell-signal-full-light"
+case ph_cell_signal_full_thin  =   "cell-signal-full-thin"
+case ph_cell_signal_high  =   "cell-signal-high"
+case ph_cell_signal_high_bold  =   "cell-signal-high-bold"
+case ph_cell_signal_high_fill  =   "cell-signal-high-fill"
+case ph_cell_signal_high_light  =   "cell-signal-high-light"
+case ph_cell_signal_high_thin  =   "cell-signal-high-thin"
+case ph_cell_signal_low  =   "cell-signal-low"
+case ph_cell_signal_low_bold  =   "cell-signal-low-bold"
+case ph_cell_signal_low_fill  =   "cell-signal-low-fill"
+case ph_cell_signal_low_light  =   "cell-signal-low-light"
+case ph_cell_signal_low_thin  =   "cell-signal-low-thin"
+case ph_cell_signal_medium  =   "cell-signal-medium"
+case ph_cell_signal_medium_bold  =   "cell-signal-medium-bold"
+case ph_cell_signal_medium_fill  =   "cell-signal-medium-fill"
+case ph_cell_signal_medium_light  =   "cell-signal-medium-light"
+case ph_cell_signal_medium_thin  =   "cell-signal-medium-thin"
+case ph_cell_signal_none  =   "cell-signal-none"
+case ph_cell_signal_none_bold  =   "cell-signal-none-bold"
+case ph_cell_signal_none_fill  =   "cell-signal-none-fill"
+case ph_cell_signal_none_light  =   "cell-signal-none-light"
+case ph_cell_signal_none_thin  =   "cell-signal-none-thin"
+case ph_cell_signal_slash  =   "cell-signal-slash"
+case ph_cell_signal_slash_bold  =   "cell-signal-slash-bold"
+case ph_cell_signal_slash_fill  =   "cell-signal-slash-fill"
+case ph_cell_signal_slash_light  =   "cell-signal-slash-light"
+case ph_cell_signal_slash_thin  =   "cell-signal-slash-thin"
+case ph_cell_signal_x  =   "cell-signal-x"
+case ph_cell_signal_x_bold  =   "cell-signal-x-bold"
+case ph_cell_signal_x_fill  =   "cell-signal-x-fill"
+case ph_cell_signal_x_light  =   "cell-signal-x-light"
+case ph_cell_signal_x_thin  =   "cell-signal-x-thin"
+case ph_chalkboard  =   "chalkboard"
+case ph_chalkboard_bold  =   "chalkboard-bold"
+case ph_chalkboard_fill  =   "chalkboard-fill"
+case ph_chalkboard_light  =   "chalkboard-light"
+case ph_chalkboard_simple  =   "chalkboard-simple"
+case ph_chalkboard_simple_bold  =   "chalkboard-simple-bold"
+case ph_chalkboard_simple_fill  =   "chalkboard-simple-fill"
+case ph_chalkboard_simple_light  =   "chalkboard-simple-light"
+case ph_chalkboard_simple_thin  =   "chalkboard-simple-thin"
+case ph_chalkboard_teacher  =   "chalkboard-teacher"
+case ph_chalkboard_teacher_bold  =   "chalkboard-teacher-bold"
+case ph_chalkboard_teacher_fill  =   "chalkboard-teacher-fill"
+case ph_chalkboard_teacher_light  =   "chalkboard-teacher-light"
+case ph_chalkboard_teacher_thin  =   "chalkboard-teacher-thin"
+case ph_chalkboard_thin  =   "chalkboard-thin"
+case ph_chart_bar  =   "chart-bar"
+case ph_chart_bar_bold  =   "chart-bar-bold"
+case ph_chart_bar_fill  =   "chart-bar-fill"
+case ph_chart_bar_horizontal  =   "chart-bar-horizontal"
+case ph_chart_bar_horizontal_bold  =   "chart-bar-horizontal-bold"
+case ph_chart_bar_horizontal_fill  =   "chart-bar-horizontal-fill"
+case ph_chart_bar_horizontal_light  =   "chart-bar-horizontal-light"
+case ph_chart_bar_horizontal_thin  =   "chart-bar-horizontal-thin"
+case ph_chart_bar_light  =   "chart-bar-light"
+case ph_chart_bar_thin  =   "chart-bar-thin"
+case ph_chart_line  =   "chart-line"
+case ph_chart_line_bold  =   "chart-line-bold"
+case ph_chart_line_fill  =   "chart-line-fill"
+case ph_chart_line_light  =   "chart-line-light"
+case ph_chart_line_thin  =   "chart-line-thin"
+case ph_chart_line_up  =   "chart-line-up"
+case ph_chart_line_up_bold  =   "chart-line-up-bold"
+case ph_chart_line_up_fill  =   "chart-line-up-fill"
+case ph_chart_line_up_light  =   "chart-line-up-light"
+case ph_chart_line_up_thin  =   "chart-line-up-thin"
+case ph_chart_pie  =   "chart-pie"
+case ph_chart_pie_bold  =   "chart-pie-bold"
+case ph_chart_pie_fill  =   "chart-pie-fill"
+case ph_chart_pie_light  =   "chart-pie-light"
+case ph_chart_pie_slice  =   "chart-pie-slice"
+case ph_chart_pie_slice_bold  =   "chart-pie-slice-bold"
+case ph_chart_pie_slice_fill  =   "chart-pie-slice-fill"
+case ph_chart_pie_slice_light  =   "chart-pie-slice-light"
+case ph_chart_pie_slice_thin  =   "chart-pie-slice-thin"
+case ph_chart_pie_thin  =   "chart-pie-thin"
+case ph_chat  =   "chat"
+case ph_chat_bold  =   "chat-bold"
+case ph_chat_centered  =   "chat-centered"
+case ph_chat_centered_bold  =   "chat-centered-bold"
+case ph_chat_centered_dots  =   "chat-centered-dots"
+case ph_chat_centered_dots_bold  =   "chat-centered-dots-bold"
+case ph_chat_centered_dots_fill  =   "chat-centered-dots-fill"
+case ph_chat_centered_dots_light  =   "chat-centered-dots-light"
+case ph_chat_centered_dots_thin  =   "chat-centered-dots-thin"
+case ph_chat_centered_fill  =   "chat-centered-fill"
+case ph_chat_centered_light  =   "chat-centered-light"
+case ph_chat_centered_text  =   "chat-centered-text"
+case ph_chat_centered_text_bold  =   "chat-centered-text-bold"
+case ph_chat_centered_text_fill  =   "chat-centered-text-fill"
+case ph_chat_centered_text_light  =   "chat-centered-text-light"
+case ph_chat_centered_text_thin  =   "chat-centered-text-thin"
+case ph_chat_centered_thin  =   "chat-centered-thin"
+case ph_chat_circle  =   "chat-circle"
+case ph_chat_circle_bold  =   "chat-circle-bold"
+case ph_chat_circle_dots  =   "chat-circle-dots"
+case ph_chat_circle_dots_bold  =   "chat-circle-dots-bold"
+case ph_chat_circle_dots_fill  =   "chat-circle-dots-fill"
+case ph_chat_circle_dots_light  =   "chat-circle-dots-light"
+case ph_chat_circle_dots_thin  =   "chat-circle-dots-thin"
+case ph_chat_circle_fill  =   "chat-circle-fill"
+case ph_chat_circle_light  =   "chat-circle-light"
+case ph_chat_circle_text  =   "chat-circle-text"
+case ph_chat_circle_text_bold  =   "chat-circle-text-bold"
+case ph_chat_circle_text_fill  =   "chat-circle-text-fill"
+case ph_chat_circle_text_light  =   "chat-circle-text-light"
+case ph_chat_circle_text_thin  =   "chat-circle-text-thin"
+case ph_chat_circle_thin  =   "chat-circle-thin"
+case ph_chat_dots  =   "chat-dots"
+case ph_chat_dots_bold  =   "chat-dots-bold"
+case ph_chat_dots_fill  =   "chat-dots-fill"
+case ph_chat_dots_light  =   "chat-dots-light"
+case ph_chat_dots_thin  =   "chat-dots-thin"
+case ph_chat_fill  =   "chat-fill"
+case ph_chat_light  =   "chat-light"
+case ph_chat_teardrop  =   "chat-teardrop"
+case ph_chat_teardrop_bold  =   "chat-teardrop-bold"
+case ph_chat_teardrop_dots  =   "chat-teardrop-dots"
+case ph_chat_teardrop_dots_bold  =   "chat-teardrop-dots-bold"
+case ph_chat_teardrop_dots_fill  =   "chat-teardrop-dots-fill"
+case ph_chat_teardrop_dots_light  =   "chat-teardrop-dots-light"
+case ph_chat_teardrop_dots_thin  =   "chat-teardrop-dots-thin"
+case ph_chat_teardrop_fill  =   "chat-teardrop-fill"
+case ph_chat_teardrop_light  =   "chat-teardrop-light"
+case ph_chat_teardrop_text  =   "chat-teardrop-text"
+case ph_chat_teardrop_text_bold  =   "chat-teardrop-text-bold"
+case ph_chat_teardrop_text_fill  =   "chat-teardrop-text-fill"
+case ph_chat_teardrop_text_light  =   "chat-teardrop-text-light"
+case ph_chat_teardrop_text_thin  =   "chat-teardrop-text-thin"
+case ph_chat_teardrop_thin  =   "chat-teardrop-thin"
+case ph_chat_text  =   "chat-text"
+case ph_chat_text_bold  =   "chat-text-bold"
+case ph_chat_text_fill  =   "chat-text-fill"
+case ph_chat_text_light  =   "chat-text-light"
+case ph_chat_text_thin  =   "chat-text-thin"
+case ph_chat_thin  =   "chat-thin"
+case ph_chats  =   "chats"
+case ph_chats_bold  =   "chats-bold"
+case ph_chats_circle  =   "chats-circle"
+case ph_chats_circle_bold  =   "chats-circle-bold"
+case ph_chats_circle_fill  =   "chats-circle-fill"
+case ph_chats_circle_light  =   "chats-circle-light"
+case ph_chats_circle_thin  =   "chats-circle-thin"
+case ph_chats_fill  =   "chats-fill"
+case ph_chats_light  =   "chats-light"
+case ph_chats_teardrop  =   "chats-teardrop"
+case ph_chats_teardrop_bold  =   "chats-teardrop-bold"
+case ph_chats_teardrop_fill  =   "chats-teardrop-fill"
+case ph_chats_teardrop_light  =   "chats-teardrop-light"
+case ph_chats_teardrop_thin  =   "chats-teardrop-thin"
+case ph_chats_thin  =   "chats-thin"
+case ph_check  =   "check"
+case ph_check_bold  =   "check-bold"
+case ph_check_circle  =   "check-circle"
+case ph_check_circle_bold  =   "check-circle-bold"
+case ph_check_circle_fill  =   "check-circle-fill"
+case ph_check_circle_light  =   "check-circle-light"
+case ph_check_circle_thin  =   "check-circle-thin"
+case ph_check_fill  =   "check-fill"
+case ph_check_light  =   "check-light"
+case ph_check_square  =   "check-square"
+case ph_check_square_bold  =   "check-square-bold"
+case ph_check_square_fill  =   "check-square-fill"
+case ph_check_square_light  =   "check-square-light"
+case ph_check_square_offset  =   "check-square-offset"
+case ph_check_square_offset_bold  =   "check-square-offset-bold"
+case ph_check_square_offset_fill  =   "check-square-offset-fill"
+case ph_check_square_offset_light  =   "check-square-offset-light"
+case ph_check_square_offset_thin  =   "check-square-offset-thin"
+case ph_check_square_thin  =   "check-square-thin"
+case ph_check_thin  =   "check-thin"
+case ph_checks  =   "checks"
+case ph_checks_bold  =   "checks-bold"
+case ph_checks_fill  =   "checks-fill"
+case ph_checks_light  =   "checks-light"
+case ph_checks_thin  =   "checks-thin"
+case ph_circle  =   "circle"
+case ph_circle_bold  =   "circle-bold"
+case ph_circle_dashed  =   "circle-dashed"
+case ph_circle_dashed_bold  =   "circle-dashed-bold"
+case ph_circle_dashed_fill  =   "circle-dashed-fill"
+case ph_circle_dashed_light  =   "circle-dashed-light"
+case ph_circle_dashed_thin  =   "circle-dashed-thin"
+case ph_circle_fill  =   "circle-fill"
+case ph_circle_half  =   "circle-half"
+case ph_circle_half_bold  =   "circle-half-bold"
+case ph_circle_half_fill  =   "circle-half-fill"
+case ph_circle_half_light  =   "circle-half-light"
+case ph_circle_half_thin  =   "circle-half-thin"
+case ph_circle_half_tilt  =   "circle-half-tilt"
+case ph_circle_half_tilt_bold  =   "circle-half-tilt-bold"
+case ph_circle_half_tilt_fill  =   "circle-half-tilt-fill"
+case ph_circle_half_tilt_light  =   "circle-half-tilt-light"
+case ph_circle_half_tilt_thin  =   "circle-half-tilt-thin"
+case ph_circle_light  =   "circle-light"
+case ph_circle_notch  =   "circle-notch"
+case ph_circle_notch_bold  =   "circle-notch-bold"
+case ph_circle_notch_fill  =   "circle-notch-fill"
+case ph_circle_notch_light  =   "circle-notch-light"
+case ph_circle_notch_thin  =   "circle-notch-thin"
+case ph_circle_thin  =   "circle-thin"
+case ph_circle_wavy  =   "circle-wavy"
+case ph_circle_wavy_bold  =   "circle-wavy-bold"
+case ph_circle_wavy_check  =   "circle-wavy-check"
+case ph_circle_wavy_check_bold  =   "circle-wavy-check-bold"
+case ph_circle_wavy_check_fill  =   "circle-wavy-check-fill"
+case ph_circle_wavy_check_light  =   "circle-wavy-check-light"
+case ph_circle_wavy_check_thin  =   "circle-wavy-check-thin"
+case ph_circle_wavy_fill  =   "circle-wavy-fill"
+case ph_circle_wavy_light  =   "circle-wavy-light"
+case ph_circle_wavy_question  =   "circle-wavy-question"
+case ph_circle_wavy_question_bold  =   "circle-wavy-question-bold"
+case ph_circle_wavy_question_fill  =   "circle-wavy-question-fill"
+case ph_circle_wavy_question_light  =   "circle-wavy-question-light"
+case ph_circle_wavy_question_thin  =   "circle-wavy-question-thin"
+case ph_circle_wavy_thin  =   "circle-wavy-thin"
+case ph_circle_wavy_warning  =   "circle-wavy-warning"
+case ph_circle_wavy_warning_bold  =   "circle-wavy-warning-bold"
+case ph_circle_wavy_warning_fill  =   "circle-wavy-warning-fill"
+case ph_circle_wavy_warning_light  =   "circle-wavy-warning-light"
+case ph_circle_wavy_warning_thin  =   "circle-wavy-warning-thin"
+case ph_circles_four  =   "circles-four"
+case ph_circles_four_bold  =   "circles-four-bold"
+case ph_circles_four_fill  =   "circles-four-fill"
+case ph_circles_four_light  =   "circles-four-light"
+case ph_circles_four_thin  =   "circles-four-thin"
+case ph_circles_three  =   "circles-three"
+case ph_circles_three_bold  =   "circles-three-bold"
+case ph_circles_three_fill  =   "circles-three-fill"
+case ph_circles_three_light  =   "circles-three-light"
+case ph_circles_three_plus  =   "circles-three-plus"
+case ph_circles_three_plus_bold  =   "circles-three-plus-bold"
+case ph_circles_three_plus_fill  =   "circles-three-plus-fill"
+case ph_circles_three_plus_light  =   "circles-three-plus-light"
+case ph_circles_three_plus_thin  =   "circles-three-plus-thin"
+case ph_circles_three_thin  =   "circles-three-thin"
+case ph_clipboard  =   "clipboard"
+case ph_clipboard_bold  =   "clipboard-bold"
+case ph_clipboard_fill  =   "clipboard-fill"
+case ph_clipboard_light  =   "clipboard-light"
+case ph_clipboard_text  =   "clipboard-text"
+case ph_clipboard_text_bold  =   "clipboard-text-bold"
+case ph_clipboard_text_fill  =   "clipboard-text-fill"
+case ph_clipboard_text_light  =   "clipboard-text-light"
+case ph_clipboard_text_thin  =   "clipboard-text-thin"
+case ph_clipboard_thin  =   "clipboard-thin"
+case ph_clock  =   "clock"
+case ph_clock_afternoon  =   "clock-afternoon"
+case ph_clock_afternoon_bold  =   "clock-afternoon-bold"
+case ph_clock_afternoon_fill  =   "clock-afternoon-fill"
+case ph_clock_afternoon_light  =   "clock-afternoon-light"
+case ph_clock_afternoon_thin  =   "clock-afternoon-thin"
+case ph_clock_bold  =   "clock-bold"
+case ph_clock_clockwise  =   "clock-clockwise"
+case ph_clock_clockwise_bold  =   "clock-clockwise-bold"
+case ph_clock_clockwise_fill  =   "clock-clockwise-fill"
+case ph_clock_clockwise_light  =   "clock-clockwise-light"
+case ph_clock_clockwise_thin  =   "clock-clockwise-thin"
+case ph_clock_counter_clockwise  =   "clock-counter-clockwise"
+case ph_clock_counter_clockwise_bold  =   "clock-counter-clockwise-bold"
+case ph_clock_counter_clockwise_fill  =   "clock-counter-clockwise-fill"
+case ph_clock_counter_clockwise_light  =   "clock-counter-clockwise-light"
+case ph_clock_counter_clockwise_thin  =   "clock-counter-clockwise-thin"
+case ph_clock_fill  =   "clock-fill"
+case ph_clock_light  =   "clock-light"
+case ph_clock_thin  =   "clock-thin"
+case ph_closed_captioning  =   "closed-captioning"
+case ph_closed_captioning_bold  =   "closed-captioning-bold"
+case ph_closed_captioning_fill  =   "closed-captioning-fill"
+case ph_closed_captioning_light  =   "closed-captioning-light"
+case ph_closed_captioning_thin  =   "closed-captioning-thin"
+case ph_cloud  =   "cloud"
+case ph_cloud_arrow_down  =   "cloud-arrow-down"
+case ph_cloud_arrow_down_bold  =   "cloud-arrow-down-bold"
+case ph_cloud_arrow_down_fill  =   "cloud-arrow-down-fill"
+case ph_cloud_arrow_down_light  =   "cloud-arrow-down-light"
+case ph_cloud_arrow_down_thin  =   "cloud-arrow-down-thin"
+case ph_cloud_arrow_up  =   "cloud-arrow-up"
+case ph_cloud_arrow_up_bold  =   "cloud-arrow-up-bold"
+case ph_cloud_arrow_up_fill  =   "cloud-arrow-up-fill"
+case ph_cloud_arrow_up_light  =   "cloud-arrow-up-light"
+case ph_cloud_arrow_up_thin  =   "cloud-arrow-up-thin"
+case ph_cloud_bold  =   "cloud-bold"
+case ph_cloud_check  =   "cloud-check"
+case ph_cloud_check_bold  =   "cloud-check-bold"
+case ph_cloud_check_fill  =   "cloud-check-fill"
+case ph_cloud_check_light  =   "cloud-check-light"
+case ph_cloud_check_thin  =   "cloud-check-thin"
+case ph_cloud_fill  =   "cloud-fill"
+case ph_cloud_fog  =   "cloud-fog"
+case ph_cloud_fog_bold  =   "cloud-fog-bold"
+case ph_cloud_fog_fill  =   "cloud-fog-fill"
+case ph_cloud_fog_light  =   "cloud-fog-light"
+case ph_cloud_fog_thin  =   "cloud-fog-thin"
+case ph_cloud_light  =   "cloud-light"
+case ph_cloud_lightning  =   "cloud-lightning"
+case ph_cloud_lightning_bold  =   "cloud-lightning-bold"
+case ph_cloud_lightning_fill  =   "cloud-lightning-fill"
+case ph_cloud_lightning_light  =   "cloud-lightning-light"
+case ph_cloud_lightning_thin  =   "cloud-lightning-thin"
+case ph_cloud_moon  =   "cloud-moon"
+case ph_cloud_moon_bold  =   "cloud-moon-bold"
+case ph_cloud_moon_fill  =   "cloud-moon-fill"
+case ph_cloud_moon_light  =   "cloud-moon-light"
+case ph_cloud_moon_thin  =   "cloud-moon-thin"
+case ph_cloud_rain  =   "cloud-rain"
+case ph_cloud_rain_bold  =   "cloud-rain-bold"
+case ph_cloud_rain_fill  =   "cloud-rain-fill"
+case ph_cloud_rain_light  =   "cloud-rain-light"
+case ph_cloud_rain_thin  =   "cloud-rain-thin"
+case ph_cloud_slash  =   "cloud-slash"
+case ph_cloud_slash_bold  =   "cloud-slash-bold"
+case ph_cloud_slash_fill  =   "cloud-slash-fill"
+case ph_cloud_slash_light  =   "cloud-slash-light"
+case ph_cloud_slash_thin  =   "cloud-slash-thin"
+case ph_cloud_snow  =   "cloud-snow"
+case ph_cloud_snow_bold  =   "cloud-snow-bold"
+case ph_cloud_snow_fill  =   "cloud-snow-fill"
+case ph_cloud_snow_light  =   "cloud-snow-light"
+case ph_cloud_snow_thin  =   "cloud-snow-thin"
+case ph_cloud_sun  =   "cloud-sun"
+case ph_cloud_sun_bold  =   "cloud-sun-bold"
+case ph_cloud_sun_fill  =   "cloud-sun-fill"
+case ph_cloud_sun_light  =   "cloud-sun-light"
+case ph_cloud_sun_thin  =   "cloud-sun-thin"
+case ph_cloud_thin  =   "cloud-thin"
+case ph_club  =   "club"
+case ph_club_bold  =   "club-bold"
+case ph_club_fill  =   "club-fill"
+case ph_club_light  =   "club-light"
+case ph_club_thin  =   "club-thin"
+case ph_coat_hanger  =   "coat-hanger"
+case ph_coat_hanger_bold  =   "coat-hanger-bold"
+case ph_coat_hanger_fill  =   "coat-hanger-fill"
+case ph_coat_hanger_light  =   "coat-hanger-light"
+case ph_coat_hanger_thin  =   "coat-hanger-thin"
+case ph_code  =   "code"
+case ph_code_bold  =   "code-bold"
+case ph_code_fill  =   "code-fill"
+case ph_code_light  =   "code-light"
+case ph_code_simple  =   "code-simple"
+case ph_code_simple_bold  =   "code-simple-bold"
+case ph_code_simple_fill  =   "code-simple-fill"
+case ph_code_simple_light  =   "code-simple-light"
+case ph_code_simple_thin  =   "code-simple-thin"
+case ph_code_thin  =   "code-thin"
+case ph_codepen_logo  =   "codepen-logo"
+case ph_codepen_logo_bold  =   "codepen-logo-bold"
+case ph_codepen_logo_fill  =   "codepen-logo-fill"
+case ph_codepen_logo_light  =   "codepen-logo-light"
+case ph_codepen_logo_thin  =   "codepen-logo-thin"
+case ph_codesandbox_logo  =   "codesandbox-logo"
+case ph_codesandbox_logo_bold  =   "codesandbox-logo-bold"
+case ph_codesandbox_logo_fill  =   "codesandbox-logo-fill"
+case ph_codesandbox_logo_light  =   "codesandbox-logo-light"
+case ph_codesandbox_logo_thin  =   "codesandbox-logo-thin"
+case ph_coffee  =   "coffee"
+case ph_coffee_bold  =   "coffee-bold"
+case ph_coffee_fill  =   "coffee-fill"
+case ph_coffee_light  =   "coffee-light"
+case ph_coffee_thin  =   "coffee-thin"
+case ph_coin  =   "coin"
+case ph_coin_bold  =   "coin-bold"
+case ph_coin_fill  =   "coin-fill"
+case ph_coin_light  =   "coin-light"
+case ph_coin_thin  =   "coin-thin"
+case ph_coin_vertical  =   "coin-vertical"
+case ph_coin_vertical_bold  =   "coin-vertical-bold"
+case ph_coin_vertical_fill  =   "coin-vertical-fill"
+case ph_coin_vertical_light  =   "coin-vertical-light"
+case ph_coin_vertical_thin  =   "coin-vertical-thin"
+case ph_coins  =   "coins"
+case ph_coins_bold  =   "coins-bold"
+case ph_coins_fill  =   "coins-fill"
+case ph_coins_light  =   "coins-light"
+case ph_coins_thin  =   "coins-thin"
+case ph_columns  =   "columns"
+case ph_columns_bold  =   "columns-bold"
+case ph_columns_fill  =   "columns-fill"
+case ph_columns_light  =   "columns-light"
+case ph_columns_thin  =   "columns-thin"
+case ph_command  =   "command"
+case ph_command_bold  =   "command-bold"
+case ph_command_fill  =   "command-fill"
+case ph_command_light  =   "command-light"
+case ph_command_thin  =   "command-thin"
+case ph_compass  =   "compass"
+case ph_compass_bold  =   "compass-bold"
+case ph_compass_fill  =   "compass-fill"
+case ph_compass_light  =   "compass-light"
+case ph_compass_thin  =   "compass-thin"
+case ph_computer_tower  =   "computer-tower"
+case ph_computer_tower_bold  =   "computer-tower-bold"
+case ph_computer_tower_fill  =   "computer-tower-fill"
+case ph_computer_tower_light  =   "computer-tower-light"
+case ph_computer_tower_thin  =   "computer-tower-thin"
+case ph_confetti  =   "confetti"
+case ph_confetti_bold  =   "confetti-bold"
+case ph_confetti_fill  =   "confetti-fill"
+case ph_confetti_light  =   "confetti-light"
+case ph_confetti_thin  =   "confetti-thin"
+case ph_cookie  =   "cookie"
+case ph_cookie_bold  =   "cookie-bold"
+case ph_cookie_fill  =   "cookie-fill"
+case ph_cookie_light  =   "cookie-light"
+case ph_cookie_thin  =   "cookie-thin"
+case ph_cooking_pot  =   "cooking-pot"
+case ph_cooking_pot_bold  =   "cooking-pot-bold"
+case ph_cooking_pot_fill  =   "cooking-pot-fill"
+case ph_cooking_pot_light  =   "cooking-pot-light"
+case ph_cooking_pot_thin  =   "cooking-pot-thin"
+case ph_copy  =   "copy"
+case ph_copy_bold  =   "copy-bold"
+case ph_copy_fill  =   "copy-fill"
+case ph_copy_light  =   "copy-light"
+case ph_copy_simple  =   "copy-simple"
+case ph_copy_simple_bold  =   "copy-simple-bold"
+case ph_copy_simple_fill  =   "copy-simple-fill"
+case ph_copy_simple_light  =   "copy-simple-light"
+case ph_copy_simple_thin  =   "copy-simple-thin"
+case ph_copy_thin  =   "copy-thin"
+case ph_copyleft  =   "copyleft"
+case ph_copyleft_bold  =   "copyleft-bold"
+case ph_copyleft_fill  =   "copyleft-fill"
+case ph_copyleft_light  =   "copyleft-light"
+case ph_copyleft_thin  =   "copyleft-thin"
+case ph_copyright  =   "copyright"
+case ph_copyright_bold  =   "copyright-bold"
+case ph_copyright_fill  =   "copyright-fill"
+case ph_copyright_light  =   "copyright-light"
+case ph_copyright_thin  =   "copyright-thin"
+case ph_corners_in  =   "corners-in"
+case ph_corners_in_bold  =   "corners-in-bold"
+case ph_corners_in_fill  =   "corners-in-fill"
+case ph_corners_in_light  =   "corners-in-light"
+case ph_corners_in_thin  =   "corners-in-thin"
+case ph_corners_out  =   "corners-out"
+case ph_corners_out_bold  =   "corners-out-bold"
+case ph_corners_out_fill  =   "corners-out-fill"
+case ph_corners_out_light  =   "corners-out-light"
+case ph_corners_out_thin  =   "corners-out-thin"
+case ph_cpu  =   "cpu"
+case ph_cpu_bold  =   "cpu-bold"
+case ph_cpu_fill  =   "cpu-fill"
+case ph_cpu_light  =   "cpu-light"
+case ph_cpu_thin  =   "cpu-thin"
+case ph_credit_card  =   "credit-card"
+case ph_credit_card_bold  =   "credit-card-bold"
+case ph_credit_card_fill  =   "credit-card-fill"
+case ph_credit_card_light  =   "credit-card-light"
+case ph_credit_card_thin  =   "credit-card-thin"
+case ph_crop  =   "crop"
+case ph_crop_bold  =   "crop-bold"
+case ph_crop_fill  =   "crop-fill"
+case ph_crop_light  =   "crop-light"
+case ph_crop_thin  =   "crop-thin"
+case ph_crosshair  =   "crosshair"
+case ph_crosshair_bold  =   "crosshair-bold"
+case ph_crosshair_fill  =   "crosshair-fill"
+case ph_crosshair_light  =   "crosshair-light"
+case ph_crosshair_simple  =   "crosshair-simple"
+case ph_crosshair_simple_bold  =   "crosshair-simple-bold"
+case ph_crosshair_simple_fill  =   "crosshair-simple-fill"
+case ph_crosshair_simple_light  =   "crosshair-simple-light"
+case ph_crosshair_simple_thin  =   "crosshair-simple-thin"
+case ph_crosshair_thin  =   "crosshair-thin"
+case ph_crown  =   "crown"
+case ph_crown_bold  =   "crown-bold"
+case ph_crown_fill  =   "crown-fill"
+case ph_crown_light  =   "crown-light"
+case ph_crown_simple  =   "crown-simple"
+case ph_crown_simple_bold  =   "crown-simple-bold"
+case ph_crown_simple_fill  =   "crown-simple-fill"
+case ph_crown_simple_light  =   "crown-simple-light"
+case ph_crown_simple_thin  =   "crown-simple-thin"
+case ph_crown_thin  =   "crown-thin"
+case ph_cube  =   "cube"
+case ph_cube_bold  =   "cube-bold"
+case ph_cube_fill  =   "cube-fill"
+case ph_cube_light  =   "cube-light"
+case ph_cube_thin  =   "cube-thin"
+case ph_currency_btc  =   "currency-btc"
+case ph_currency_btc_bold  =   "currency-btc-bold"
+case ph_currency_btc_fill  =   "currency-btc-fill"
+case ph_currency_btc_light  =   "currency-btc-light"
+case ph_currency_btc_thin  =   "currency-btc-thin"
+case ph_currency_circle_dollar  =   "currency-circle-dollar"
+case ph_currency_circle_dollar_bold  =   "currency-circle-dollar-bold"
+case ph_currency_circle_dollar_fill  =   "currency-circle-dollar-fill"
+case ph_currency_circle_dollar_light  =   "currency-circle-dollar-light"
+case ph_currency_circle_dollar_thin  =   "currency-circle-dollar-thin"
+case ph_currency_cny  =   "currency-cny"
+case ph_currency_cny_bold  =   "currency-cny-bold"
+case ph_currency_cny_fill  =   "currency-cny-fill"
+case ph_currency_cny_light  =   "currency-cny-light"
+case ph_currency_cny_thin  =   "currency-cny-thin"
+case ph_currency_dollar  =   "currency-dollar"
+case ph_currency_dollar_bold  =   "currency-dollar-bold"
+case ph_currency_dollar_fill  =   "currency-dollar-fill"
+case ph_currency_dollar_light  =   "currency-dollar-light"
+case ph_currency_dollar_simple  =   "currency-dollar-simple"
+case ph_currency_dollar_simple_bold  =   "currency-dollar-simple-bold"
+case ph_currency_dollar_simple_fill  =   "currency-dollar-simple-fill"
+case ph_currency_dollar_simple_light  =   "currency-dollar-simple-light"
+case ph_currency_dollar_simple_thin  =   "currency-dollar-simple-thin"
+case ph_currency_dollar_thin  =   "currency-dollar-thin"
+case ph_currency_eth  =   "currency-eth"
+case ph_currency_eth_bold  =   "currency-eth-bold"
+case ph_currency_eth_fill  =   "currency-eth-fill"
+case ph_currency_eth_light  =   "currency-eth-light"
+case ph_currency_eth_thin  =   "currency-eth-thin"
+case ph_currency_eur  =   "currency-eur"
+case ph_currency_eur_bold  =   "currency-eur-bold"
+case ph_currency_eur_fill  =   "currency-eur-fill"
+case ph_currency_eur_light  =   "currency-eur-light"
+case ph_currency_eur_thin  =   "currency-eur-thin"
+case ph_currency_gbp  =   "currency-gbp"
+case ph_currency_gbp_bold  =   "currency-gbp-bold"
+case ph_currency_gbp_fill  =   "currency-gbp-fill"
+case ph_currency_gbp_light  =   "currency-gbp-light"
+case ph_currency_gbp_thin  =   "currency-gbp-thin"
+case ph_currency_inr  =   "currency-inr"
+case ph_currency_inr_bold  =   "currency-inr-bold"
+case ph_currency_inr_fill  =   "currency-inr-fill"
+case ph_currency_inr_light  =   "currency-inr-light"
+case ph_currency_inr_thin  =   "currency-inr-thin"
+case ph_currency_jpy  =   "currency-jpy"
+case ph_currency_jpy_bold  =   "currency-jpy-bold"
+case ph_currency_jpy_fill  =   "currency-jpy-fill"
+case ph_currency_jpy_light  =   "currency-jpy-light"
+case ph_currency_jpy_thin  =   "currency-jpy-thin"
+case ph_currency_krw  =   "currency-krw"
+case ph_currency_krw_bold  =   "currency-krw-bold"
+case ph_currency_krw_fill  =   "currency-krw-fill"
+case ph_currency_krw_light  =   "currency-krw-light"
+case ph_currency_krw_thin  =   "currency-krw-thin"
+case ph_currency_kzt  =   "currency-kzt"
+case ph_currency_kzt_bold  =   "currency-kzt-bold"
+case ph_currency_kzt_fill  =   "currency-kzt-fill"
+case ph_currency_kzt_light  =   "currency-kzt-light"
+case ph_currency_kzt_thin  =   "currency-kzt-thin"
+case ph_currency_ngn  =   "currency-ngn"
+case ph_currency_ngn_bold  =   "currency-ngn-bold"
+case ph_currency_ngn_fill  =   "currency-ngn-fill"
+case ph_currency_ngn_light  =   "currency-ngn-light"
+case ph_currency_ngn_thin  =   "currency-ngn-thin"
+case ph_currency_rub  =   "currency-rub"
+case ph_currency_rub_bold  =   "currency-rub-bold"
+case ph_currency_rub_fill  =   "currency-rub-fill"
+case ph_currency_rub_light  =   "currency-rub-light"
+case ph_currency_rub_thin  =   "currency-rub-thin"
+case ph_cursor  =   "cursor"
+case ph_cursor_bold  =   "cursor-bold"
+case ph_cursor_fill  =   "cursor-fill"
+case ph_cursor_light  =   "cursor-light"
+case ph_cursor_text  =   "cursor-text"
+case ph_cursor_text_bold  =   "cursor-text-bold"
+case ph_cursor_text_fill  =   "cursor-text-fill"
+case ph_cursor_text_light  =   "cursor-text-light"
+case ph_cursor_text_thin  =   "cursor-text-thin"
+case ph_cursor_thin  =   "cursor-thin"
+case ph_cylinder  =   "cylinder"
+case ph_cylinder_bold  =   "cylinder-bold"
+case ph_cylinder_fill  =   "cylinder-fill"
+case ph_cylinder_light  =   "cylinder-light"
+case ph_cylinder_thin  =   "cylinder-thin"
+case ph_database  =   "database"
+case ph_database_bold  =   "database-bold"
+case ph_database_fill  =   "database-fill"
+case ph_database_light  =   "database-light"
+case ph_database_thin  =   "database-thin"
+case ph_desktop  =   "desktop"
+case ph_desktop_bold  =   "desktop-bold"
+case ph_desktop_fill  =   "desktop-fill"
+case ph_desktop_light  =   "desktop-light"
+case ph_desktop_thin  =   "desktop-thin"
+case ph_desktop_tower  =   "desktop-tower"
+case ph_desktop_tower_bold  =   "desktop-tower-bold"
+case ph_desktop_tower_fill  =   "desktop-tower-fill"
+case ph_desktop_tower_light  =   "desktop-tower-light"
+case ph_desktop_tower_thin  =   "desktop-tower-thin"
+case ph_detective  =   "detective"
+case ph_detective_bold  =   "detective-bold"
+case ph_detective_fill  =   "detective-fill"
+case ph_detective_light  =   "detective-light"
+case ph_detective_thin  =   "detective-thin"
+case ph_device_mobile  =   "device-mobile"
+case ph_device_mobile_bold  =   "device-mobile-bold"
+case ph_device_mobile_camera  =   "device-mobile-camera"
+case ph_device_mobile_camera_bold  =   "device-mobile-camera-bold"
+case ph_device_mobile_camera_fill  =   "device-mobile-camera-fill"
+case ph_device_mobile_camera_light  =   "device-mobile-camera-light"
+case ph_device_mobile_camera_thin  =   "device-mobile-camera-thin"
+case ph_device_mobile_fill  =   "device-mobile-fill"
+case ph_device_mobile_light  =   "device-mobile-light"
+case ph_device_mobile_speaker  =   "device-mobile-speaker"
+case ph_device_mobile_speaker_bold  =   "device-mobile-speaker-bold"
+case ph_device_mobile_speaker_fill  =   "device-mobile-speaker-fill"
+case ph_device_mobile_speaker_light  =   "device-mobile-speaker-light"
+case ph_device_mobile_speaker_thin  =   "device-mobile-speaker-thin"
+case ph_device_mobile_thin  =   "device-mobile-thin"
+case ph_device_tablet  =   "device-tablet"
+case ph_device_tablet_bold  =   "device-tablet-bold"
+case ph_device_tablet_camera  =   "device-tablet-camera"
+case ph_device_tablet_camera_bold  =   "device-tablet-camera-bold"
+case ph_device_tablet_camera_fill  =   "device-tablet-camera-fill"
+case ph_device_tablet_camera_light  =   "device-tablet-camera-light"
+case ph_device_tablet_camera_thin  =   "device-tablet-camera-thin"
+case ph_device_tablet_fill  =   "device-tablet-fill"
+case ph_device_tablet_light  =   "device-tablet-light"
+case ph_device_tablet_speaker  =   "device-tablet-speaker"
+case ph_device_tablet_speaker_bold  =   "device-tablet-speaker-bold"
+case ph_device_tablet_speaker_fill  =   "device-tablet-speaker-fill"
+case ph_device_tablet_speaker_light  =   "device-tablet-speaker-light"
+case ph_device_tablet_speaker_thin  =   "device-tablet-speaker-thin"
+case ph_device_tablet_thin  =   "device-tablet-thin"
+case ph_diamond  =   "diamond"
+case ph_diamond_bold  =   "diamond-bold"
+case ph_diamond_fill  =   "diamond-fill"
+case ph_diamond_light  =   "diamond-light"
+case ph_diamond_thin  =   "diamond-thin"
+case ph_diamonds_four  =   "diamonds-four"
+case ph_diamonds_four_bold  =   "diamonds-four-bold"
+case ph_diamonds_four_fill  =   "diamonds-four-fill"
+case ph_diamonds_four_light  =   "diamonds-four-light"
+case ph_diamonds_four_thin  =   "diamonds-four-thin"
+case ph_dice_five  =   "dice-five"
+case ph_dice_five_bold  =   "dice-five-bold"
+case ph_dice_five_fill  =   "dice-five-fill"
+case ph_dice_five_light  =   "dice-five-light"
+case ph_dice_five_thin  =   "dice-five-thin"
+case ph_dice_four  =   "dice-four"
+case ph_dice_four_bold  =   "dice-four-bold"
+case ph_dice_four_fill  =   "dice-four-fill"
+case ph_dice_four_light  =   "dice-four-light"
+case ph_dice_four_thin  =   "dice-four-thin"
+case ph_dice_one  =   "dice-one"
+case ph_dice_one_bold  =   "dice-one-bold"
+case ph_dice_one_fill  =   "dice-one-fill"
+case ph_dice_one_light  =   "dice-one-light"
+case ph_dice_one_thin  =   "dice-one-thin"
+case ph_dice_six  =   "dice-six"
+case ph_dice_six_bold  =   "dice-six-bold"
+case ph_dice_six_fill  =   "dice-six-fill"
+case ph_dice_six_light  =   "dice-six-light"
+case ph_dice_six_thin  =   "dice-six-thin"
+case ph_dice_three  =   "dice-three"
+case ph_dice_three_bold  =   "dice-three-bold"
+case ph_dice_three_fill  =   "dice-three-fill"
+case ph_dice_three_light  =   "dice-three-light"
+case ph_dice_three_thin  =   "dice-three-thin"
+case ph_dice_two  =   "dice-two"
+case ph_dice_two_bold  =   "dice-two-bold"
+case ph_dice_two_fill  =   "dice-two-fill"
+case ph_dice_two_light  =   "dice-two-light"
+case ph_dice_two_thin  =   "dice-two-thin"
+case ph_disc  =   "disc"
+case ph_disc_bold  =   "disc-bold"
+case ph_disc_fill  =   "disc-fill"
+case ph_disc_light  =   "disc-light"
+case ph_disc_thin  =   "disc-thin"
+case ph_discord_logo  =   "discord-logo"
+case ph_discord_logo_bold  =   "discord-logo-bold"
+case ph_discord_logo_fill  =   "discord-logo-fill"
+case ph_discord_logo_light  =   "discord-logo-light"
+case ph_discord_logo_thin  =   "discord-logo-thin"
+case ph_divide  =   "divide"
+case ph_divide_bold  =   "divide-bold"
+case ph_divide_fill  =   "divide-fill"
+case ph_divide_light  =   "divide-light"
+case ph_divide_thin  =   "divide-thin"
+case ph_dog  =   "dog"
+case ph_dog_bold  =   "dog-bold"
+case ph_dog_fill  =   "dog-fill"
+case ph_dog_light  =   "dog-light"
+case ph_dog_thin  =   "dog-thin"
+case ph_door  =   "door"
+case ph_door_bold  =   "door-bold"
+case ph_door_fill  =   "door-fill"
+case ph_door_light  =   "door-light"
+case ph_door_thin  =   "door-thin"
+case ph_dots_nine  =   "dots-nine"
+case ph_dots_nine_bold  =   "dots-nine-bold"
+case ph_dots_nine_fill  =   "dots-nine-fill"
+case ph_dots_nine_light  =   "dots-nine-light"
+case ph_dots_nine_thin  =   "dots-nine-thin"
+case ph_dots_six  =   "dots-six"
+case ph_dots_six_bold  =   "dots-six-bold"
+case ph_dots_six_fill  =   "dots-six-fill"
+case ph_dots_six_light  =   "dots-six-light"
+case ph_dots_six_thin  =   "dots-six-thin"
+case ph_dots_six_vertical  =   "dots-six-vertical"
+case ph_dots_six_vertical_bold  =   "dots-six-vertical-bold"
+case ph_dots_six_vertical_fill  =   "dots-six-vertical-fill"
+case ph_dots_six_vertical_light  =   "dots-six-vertical-light"
+case ph_dots_six_vertical_thin  =   "dots-six-vertical-thin"
+case ph_dots_three  =   "dots-three"
+case ph_dots_three_bold  =   "dots-three-bold"
+case ph_dots_three_circle  =   "dots-three-circle"
+case ph_dots_three_circle_bold  =   "dots-three-circle-bold"
+case ph_dots_three_circle_fill  =   "dots-three-circle-fill"
+case ph_dots_three_circle_light  =   "dots-three-circle-light"
+case ph_dots_three_circle_thin  =   "dots-three-circle-thin"
+case ph_dots_three_circle_vertical  =   "dots-three-circle-vertical"
+case ph_dots_three_circle_vertical_bold  =   "dots-three-circle-vertical-bold"
+case ph_dots_three_circle_vertical_fill  =   "dots-three-circle-vertical-fill"
+case ph_dots_three_circle_vertical_light  =   "dots-three-circle-vertical-light"
+case ph_dots_three_circle_vertical_thin  =   "dots-three-circle-vertical-thin"
+case ph_dots_three_fill  =   "dots-three-fill"
+case ph_dots_three_light  =   "dots-three-light"
+case ph_dots_three_outline  =   "dots-three-outline"
+case ph_dots_three_outline_bold  =   "dots-three-outline-bold"
+case ph_dots_three_outline_fill  =   "dots-three-outline-fill"
+case ph_dots_three_outline_light  =   "dots-three-outline-light"
+case ph_dots_three_outline_thin  =   "dots-three-outline-thin"
+case ph_dots_three_outline_vertical  =   "dots-three-outline-vertical"
+case ph_dots_three_outline_vertical_bold  =   "dots-three-outline-vertical-bold"
+case ph_dots_three_outline_vertical_fill  =   "dots-three-outline-vertical-fill"
+case ph_dots_three_outline_vertical_light  =   "dots-three-outline-vertical-light"
+case ph_dots_three_outline_vertical_thin  =   "dots-three-outline-vertical-thin"
+case ph_dots_three_thin  =   "dots-three-thin"
+case ph_dots_three_vertical  =   "dots-three-vertical"
+case ph_dots_three_vertical_bold  =   "dots-three-vertical-bold"
+case ph_dots_three_vertical_fill  =   "dots-three-vertical-fill"
+case ph_dots_three_vertical_light  =   "dots-three-vertical-light"
+case ph_dots_three_vertical_thin  =   "dots-three-vertical-thin"
+case ph_download  =   "download"
+case ph_download_bold  =   "download-bold"
+case ph_download_fill  =   "download-fill"
+case ph_download_light  =   "download-light"
+case ph_download_simple  =   "download-simple"
+case ph_download_simple_bold  =   "download-simple-bold"
+case ph_download_simple_fill  =   "download-simple-fill"
+case ph_download_simple_light  =   "download-simple-light"
+case ph_download_simple_thin  =   "download-simple-thin"
+case ph_download_thin  =   "download-thin"
+case ph_dribbble_logo  =   "dribbble-logo"
+case ph_dribbble_logo_bold  =   "dribbble-logo-bold"
+case ph_dribbble_logo_fill  =   "dribbble-logo-fill"
+case ph_dribbble_logo_light  =   "dribbble-logo-light"
+case ph_dribbble_logo_thin  =   "dribbble-logo-thin"
+case ph_drop  =   "drop"
+case ph_drop_bold  =   "drop-bold"
+case ph_drop_fill  =   "drop-fill"
+case ph_drop_half  =   "drop-half"
+case ph_drop_half_bold  =   "drop-half-bold"
+case ph_drop_half_bottom  =   "drop-half-bottom"
+case ph_drop_half_bottom_bold  =   "drop-half-bottom-bold"
+case ph_drop_half_bottom_fill  =   "drop-half-bottom-fill"
+case ph_drop_half_bottom_light  =   "drop-half-bottom-light"
+case ph_drop_half_bottom_thin  =   "drop-half-bottom-thin"
+case ph_drop_half_fill  =   "drop-half-fill"
+case ph_drop_half_light  =   "drop-half-light"
+case ph_drop_half_thin  =   "drop-half-thin"
+case ph_drop_light  =   "drop-light"
+case ph_drop_thin  =   "drop-thin"
+case ph_ear  =   "ear"
+case ph_ear_bold  =   "ear-bold"
+case ph_ear_fill  =   "ear-fill"
+case ph_ear_light  =   "ear-light"
+case ph_ear_slash  =   "ear-slash"
+case ph_ear_slash_bold  =   "ear-slash-bold"
+case ph_ear_slash_fill  =   "ear-slash-fill"
+case ph_ear_slash_light  =   "ear-slash-light"
+case ph_ear_slash_thin  =   "ear-slash-thin"
+case ph_ear_thin  =   "ear-thin"
+case ph_egg  =   "egg"
+case ph_egg_bold  =   "egg-bold"
+case ph_egg_crack  =   "egg-crack"
+case ph_egg_crack_bold  =   "egg-crack-bold"
+case ph_egg_crack_fill  =   "egg-crack-fill"
+case ph_egg_crack_light  =   "egg-crack-light"
+case ph_egg_crack_thin  =   "egg-crack-thin"
+case ph_egg_fill  =   "egg-fill"
+case ph_egg_light  =   "egg-light"
+case ph_egg_thin  =   "egg-thin"
+case ph_eject  =   "eject"
+case ph_eject_bold  =   "eject-bold"
+case ph_eject_fill  =   "eject-fill"
+case ph_eject_light  =   "eject-light"
+case ph_eject_simple  =   "eject-simple"
+case ph_eject_simple_bold  =   "eject-simple-bold"
+case ph_eject_simple_fill  =   "eject-simple-fill"
+case ph_eject_simple_light  =   "eject-simple-light"
+case ph_eject_simple_thin  =   "eject-simple-thin"
+case ph_eject_thin  =   "eject-thin"
+case ph_envelope  =   "envelope"
+case ph_envelope_bold  =   "envelope-bold"
+case ph_envelope_fill  =   "envelope-fill"
+case ph_envelope_light  =   "envelope-light"
+case ph_envelope_open  =   "envelope-open"
+case ph_envelope_open_bold  =   "envelope-open-bold"
+case ph_envelope_open_fill  =   "envelope-open-fill"
+case ph_envelope_open_light  =   "envelope-open-light"
+case ph_envelope_open_thin  =   "envelope-open-thin"
+case ph_envelope_simple  =   "envelope-simple"
+case ph_envelope_simple_bold  =   "envelope-simple-bold"
+case ph_envelope_simple_fill  =   "envelope-simple-fill"
+case ph_envelope_simple_light  =   "envelope-simple-light"
+case ph_envelope_simple_open  =   "envelope-simple-open"
+case ph_envelope_simple_open_bold  =   "envelope-simple-open-bold"
+case ph_envelope_simple_open_fill  =   "envelope-simple-open-fill"
+case ph_envelope_simple_open_light  =   "envelope-simple-open-light"
+case ph_envelope_simple_open_thin  =   "envelope-simple-open-thin"
+case ph_envelope_simple_thin  =   "envelope-simple-thin"
+case ph_envelope_thin  =   "envelope-thin"
+case ph_equalizer  =   "equalizer"
+case ph_equalizer_bold  =   "equalizer-bold"
+case ph_equalizer_fill  =   "equalizer-fill"
+case ph_equalizer_light  =   "equalizer-light"
+case ph_equalizer_thin  =   "equalizer-thin"
+case ph_equals  =   "equals"
+case ph_equals_bold  =   "equals-bold"
+case ph_equals_fill  =   "equals-fill"
+case ph_equals_light  =   "equals-light"
+case ph_equals_thin  =   "equals-thin"
+case ph_eraser  =   "eraser"
+case ph_eraser_bold  =   "eraser-bold"
+case ph_eraser_fill  =   "eraser-fill"
+case ph_eraser_light  =   "eraser-light"
+case ph_eraser_thin  =   "eraser-thin"
+case ph_exam  =   "exam"
+case ph_exam_bold  =   "exam-bold"
+case ph_exam_fill  =   "exam-fill"
+case ph_exam_light  =   "exam-light"
+case ph_exam_thin  =   "exam-thin"
+case ph_export  =   "export"
+case ph_export_bold  =   "export-bold"
+case ph_export_fill  =   "export-fill"
+case ph_export_light  =   "export-light"
+case ph_export_thin  =   "export-thin"
+case ph_eye  =   "eye"
+case ph_eye_bold  =   "eye-bold"
+case ph_eye_closed  =   "eye-closed"
+case ph_eye_closed_bold  =   "eye-closed-bold"
+case ph_eye_closed_fill  =   "eye-closed-fill"
+case ph_eye_closed_light  =   "eye-closed-light"
+case ph_eye_closed_thin  =   "eye-closed-thin"
+case ph_eye_fill  =   "eye-fill"
+case ph_eye_light  =   "eye-light"
+case ph_eye_slash  =   "eye-slash"
+case ph_eye_slash_bold  =   "eye-slash-bold"
+case ph_eye_slash_fill  =   "eye-slash-fill"
+case ph_eye_slash_light  =   "eye-slash-light"
+case ph_eye_slash_thin  =   "eye-slash-thin"
+case ph_eye_thin  =   "eye-thin"
+case ph_eyedropper  =   "eyedropper"
+case ph_eyedropper_bold  =   "eyedropper-bold"
+case ph_eyedropper_fill  =   "eyedropper-fill"
+case ph_eyedropper_light  =   "eyedropper-light"
+case ph_eyedropper_sample  =   "eyedropper-sample"
+case ph_eyedropper_sample_bold  =   "eyedropper-sample-bold"
+case ph_eyedropper_sample_fill  =   "eyedropper-sample-fill"
+case ph_eyedropper_sample_light  =   "eyedropper-sample-light"
+case ph_eyedropper_sample_thin  =   "eyedropper-sample-thin"
+case ph_eyedropper_thin  =   "eyedropper-thin"
+case ph_eyeglasses  =   "eyeglasses"
+case ph_eyeglasses_bold  =   "eyeglasses-bold"
+case ph_eyeglasses_fill  =   "eyeglasses-fill"
+case ph_eyeglasses_light  =   "eyeglasses-light"
+case ph_eyeglasses_thin  =   "eyeglasses-thin"
+case ph_face_mask  =   "face-mask"
+case ph_face_mask_bold  =   "face-mask-bold"
+case ph_face_mask_fill  =   "face-mask-fill"
+case ph_face_mask_light  =   "face-mask-light"
+case ph_face_mask_thin  =   "face-mask-thin"
+case ph_facebook_logo  =   "facebook-logo"
+case ph_facebook_logo_bold  =   "facebook-logo-bold"
+case ph_facebook_logo_fill  =   "facebook-logo-fill"
+case ph_facebook_logo_light  =   "facebook-logo-light"
+case ph_facebook_logo_thin  =   "facebook-logo-thin"
+case ph_factory  =   "factory"
+case ph_factory_bold  =   "factory-bold"
+case ph_factory_fill  =   "factory-fill"
+case ph_factory_light  =   "factory-light"
+case ph_factory_thin  =   "factory-thin"
+case ph_faders  =   "faders"
+case ph_faders_bold  =   "faders-bold"
+case ph_faders_fill  =   "faders-fill"
+case ph_faders_horizontal  =   "faders-horizontal"
+case ph_faders_horizontal_bold  =   "faders-horizontal-bold"
+case ph_faders_horizontal_fill  =   "faders-horizontal-fill"
+case ph_faders_horizontal_light  =   "faders-horizontal-light"
+case ph_faders_horizontal_thin  =   "faders-horizontal-thin"
+case ph_faders_light  =   "faders-light"
+case ph_faders_thin  =   "faders-thin"
+case ph_fast_forward  =   "fast-forward"
+case ph_fast_forward_bold  =   "fast-forward-bold"
+case ph_fast_forward_circle  =   "fast-forward-circle"
+case ph_fast_forward_circle_bold  =   "fast-forward-circle-bold"
+case ph_fast_forward_circle_fill  =   "fast-forward-circle-fill"
+case ph_fast_forward_circle_light  =   "fast-forward-circle-light"
+case ph_fast_forward_circle_thin  =   "fast-forward-circle-thin"
+case ph_fast_forward_fill  =   "fast-forward-fill"
+case ph_fast_forward_light  =   "fast-forward-light"
+case ph_fast_forward_thin  =   "fast-forward-thin"
+case ph_figma_logo  =   "figma-logo"
+case ph_figma_logo_bold  =   "figma-logo-bold"
+case ph_figma_logo_fill  =   "figma-logo-fill"
+case ph_figma_logo_light  =   "figma-logo-light"
+case ph_figma_logo_thin  =   "figma-logo-thin"
+case ph_file  =   "file"
+case ph_file_arrow_down  =   "file-arrow-down"
+case ph_file_arrow_down_bold  =   "file-arrow-down-bold"
+case ph_file_arrow_down_fill  =   "file-arrow-down-fill"
+case ph_file_arrow_down_light  =   "file-arrow-down-light"
+case ph_file_arrow_down_thin  =   "file-arrow-down-thin"
+case ph_file_arrow_up  =   "file-arrow-up"
+case ph_file_arrow_up_bold  =   "file-arrow-up-bold"
+case ph_file_arrow_up_fill  =   "file-arrow-up-fill"
+case ph_file_arrow_up_light  =   "file-arrow-up-light"
+case ph_file_arrow_up_thin  =   "file-arrow-up-thin"
+case ph_file_audio  =   "file-audio"
+case ph_file_audio_bold  =   "file-audio-bold"
+case ph_file_audio_fill  =   "file-audio-fill"
+case ph_file_audio_light  =   "file-audio-light"
+case ph_file_audio_thin  =   "file-audio-thin"
+case ph_file_bold  =   "file-bold"
+case ph_file_cloud  =   "file-cloud"
+case ph_file_cloud_bold  =   "file-cloud-bold"
+case ph_file_cloud_fill  =   "file-cloud-fill"
+case ph_file_cloud_light  =   "file-cloud-light"
+case ph_file_cloud_thin  =   "file-cloud-thin"
+case ph_file_code  =   "file-code"
+case ph_file_code_bold  =   "file-code-bold"
+case ph_file_code_fill  =   "file-code-fill"
+case ph_file_code_light  =   "file-code-light"
+case ph_file_code_thin  =   "file-code-thin"
+case ph_file_css  =   "file-css"
+case ph_file_css_bold  =   "file-css-bold"
+case ph_file_css_fill  =   "file-css-fill"
+case ph_file_css_light  =   "file-css-light"
+case ph_file_css_thin  =   "file-css-thin"
+case ph_file_csv  =   "file-csv"
+case ph_file_csv_bold  =   "file-csv-bold"
+case ph_file_csv_fill  =   "file-csv-fill"
+case ph_file_csv_light  =   "file-csv-light"
+case ph_file_csv_thin  =   "file-csv-thin"
+case ph_file_doc  =   "file-doc"
+case ph_file_doc_bold  =   "file-doc-bold"
+case ph_file_doc_fill  =   "file-doc-fill"
+case ph_file_doc_light  =   "file-doc-light"
+case ph_file_doc_thin  =   "file-doc-thin"
+case ph_file_dotted  =   "file-dotted"
+case ph_file_dotted_bold  =   "file-dotted-bold"
+case ph_file_dotted_fill  =   "file-dotted-fill"
+case ph_file_dotted_light  =   "file-dotted-light"
+case ph_file_dotted_thin  =   "file-dotted-thin"
+case ph_file_fill  =   "file-fill"
+case ph_file_html  =   "file-html"
+case ph_file_html_bold  =   "file-html-bold"
+case ph_file_html_fill  =   "file-html-fill"
+case ph_file_html_light  =   "file-html-light"
+case ph_file_html_thin  =   "file-html-thin"
+case ph_file_image  =   "file-image"
+case ph_file_image_bold  =   "file-image-bold"
+case ph_file_image_fill  =   "file-image-fill"
+case ph_file_image_light  =   "file-image-light"
+case ph_file_image_thin  =   "file-image-thin"
+case ph_file_jpg  =   "file-jpg"
+case ph_file_jpg_bold  =   "file-jpg-bold"
+case ph_file_jpg_fill  =   "file-jpg-fill"
+case ph_file_jpg_light  =   "file-jpg-light"
+case ph_file_jpg_thin  =   "file-jpg-thin"
+case ph_file_js  =   "file-js"
+case ph_file_js_bold  =   "file-js-bold"
+case ph_file_js_fill  =   "file-js-fill"
+case ph_file_js_light  =   "file-js-light"
+case ph_file_js_thin  =   "file-js-thin"
+case ph_file_jsx  =   "file-jsx"
+case ph_file_jsx_bold  =   "file-jsx-bold"
+case ph_file_jsx_fill  =   "file-jsx-fill"
+case ph_file_jsx_light  =   "file-jsx-light"
+case ph_file_jsx_thin  =   "file-jsx-thin"
+case ph_file_light  =   "file-light"
+case ph_file_lock  =   "file-lock"
+case ph_file_lock_bold  =   "file-lock-bold"
+case ph_file_lock_fill  =   "file-lock-fill"
+case ph_file_lock_light  =   "file-lock-light"
+case ph_file_lock_thin  =   "file-lock-thin"
+case ph_file_minus  =   "file-minus"
+case ph_file_minus_bold  =   "file-minus-bold"
+case ph_file_minus_fill  =   "file-minus-fill"
+case ph_file_minus_light  =   "file-minus-light"
+case ph_file_minus_thin  =   "file-minus-thin"
+case ph_file_pdf  =   "file-pdf"
+case ph_file_pdf_bold  =   "file-pdf-bold"
+case ph_file_pdf_fill  =   "file-pdf-fill"
+case ph_file_pdf_light  =   "file-pdf-light"
+case ph_file_pdf_thin  =   "file-pdf-thin"
+case ph_file_plus  =   "file-plus"
+case ph_file_plus_bold  =   "file-plus-bold"
+case ph_file_plus_fill  =   "file-plus-fill"
+case ph_file_plus_light  =   "file-plus-light"
+case ph_file_plus_thin  =   "file-plus-thin"
+case ph_file_png  =   "file-png"
+case ph_file_png_bold  =   "file-png-bold"
+case ph_file_png_fill  =   "file-png-fill"
+case ph_file_png_light  =   "file-png-light"
+case ph_file_png_thin  =   "file-png-thin"
+case ph_file_ppt  =   "file-ppt"
+case ph_file_ppt_bold  =   "file-ppt-bold"
+case ph_file_ppt_fill  =   "file-ppt-fill"
+case ph_file_ppt_light  =   "file-ppt-light"
+case ph_file_ppt_thin  =   "file-ppt-thin"
+case ph_file_rs  =   "file-rs"
+case ph_file_rs_bold  =   "file-rs-bold"
+case ph_file_rs_fill  =   "file-rs-fill"
+case ph_file_rs_light  =   "file-rs-light"
+case ph_file_rs_thin  =   "file-rs-thin"
+case ph_file_search  =   "file-search"
+case ph_file_search_bold  =   "file-search-bold"
+case ph_file_search_fill  =   "file-search-fill"
+case ph_file_search_light  =   "file-search-light"
+case ph_file_search_thin  =   "file-search-thin"
+case ph_file_text  =   "file-text"
+case ph_file_text_bold  =   "file-text-bold"
+case ph_file_text_fill  =   "file-text-fill"
+case ph_file_text_light  =   "file-text-light"
+case ph_file_text_thin  =   "file-text-thin"
+case ph_file_thin  =   "file-thin"
+case ph_file_ts  =   "file-ts"
+case ph_file_ts_bold  =   "file-ts-bold"
+case ph_file_ts_fill  =   "file-ts-fill"
+case ph_file_ts_light  =   "file-ts-light"
+case ph_file_ts_thin  =   "file-ts-thin"
+case ph_file_tsx  =   "file-tsx"
+case ph_file_tsx_bold  =   "file-tsx-bold"
+case ph_file_tsx_fill  =   "file-tsx-fill"
+case ph_file_tsx_light  =   "file-tsx-light"
+case ph_file_tsx_thin  =   "file-tsx-thin"
+case ph_file_video  =   "file-video"
+case ph_file_video_bold  =   "file-video-bold"
+case ph_file_video_fill  =   "file-video-fill"
+case ph_file_video_light  =   "file-video-light"
+case ph_file_video_thin  =   "file-video-thin"
+case ph_file_vue  =   "file-vue"
+case ph_file_vue_bold  =   "file-vue-bold"
+case ph_file_vue_fill  =   "file-vue-fill"
+case ph_file_vue_light  =   "file-vue-light"
+case ph_file_vue_thin  =   "file-vue-thin"
+case ph_file_x  =   "file-x"
+case ph_file_x_bold  =   "file-x-bold"
+case ph_file_x_fill  =   "file-x-fill"
+case ph_file_x_light  =   "file-x-light"
+case ph_file_x_thin  =   "file-x-thin"
+case ph_file_xls  =   "file-xls"
+case ph_file_xls_bold  =   "file-xls-bold"
+case ph_file_xls_fill  =   "file-xls-fill"
+case ph_file_xls_light  =   "file-xls-light"
+case ph_file_xls_thin  =   "file-xls-thin"
+case ph_file_zip  =   "file-zip"
+case ph_file_zip_bold  =   "file-zip-bold"
+case ph_file_zip_fill  =   "file-zip-fill"
+case ph_file_zip_light  =   "file-zip-light"
+case ph_file_zip_thin  =   "file-zip-thin"
+case ph_files  =   "files"
+case ph_files_bold  =   "files-bold"
+case ph_files_fill  =   "files-fill"
+case ph_files_light  =   "files-light"
+case ph_files_thin  =   "files-thin"
+case ph_film_script  =   "film-script"
+case ph_film_script_bold  =   "film-script-bold"
+case ph_film_script_fill  =   "film-script-fill"
+case ph_film_script_light  =   "film-script-light"
+case ph_film_script_thin  =   "film-script-thin"
+case ph_film_slate  =   "film-slate"
+case ph_film_slate_bold  =   "film-slate-bold"
+case ph_film_slate_fill  =   "film-slate-fill"
+case ph_film_slate_light  =   "film-slate-light"
+case ph_film_slate_thin  =   "film-slate-thin"
+case ph_film_strip  =   "film-strip"
+case ph_film_strip_bold  =   "film-strip-bold"
+case ph_film_strip_fill  =   "film-strip-fill"
+case ph_film_strip_light  =   "film-strip-light"
+case ph_film_strip_thin  =   "film-strip-thin"
+case ph_fingerprint  =   "fingerprint"
+case ph_fingerprint_bold  =   "fingerprint-bold"
+case ph_fingerprint_fill  =   "fingerprint-fill"
+case ph_fingerprint_light  =   "fingerprint-light"
+case ph_fingerprint_simple  =   "fingerprint-simple"
+case ph_fingerprint_simple_bold  =   "fingerprint-simple-bold"
+case ph_fingerprint_simple_fill  =   "fingerprint-simple-fill"
+case ph_fingerprint_simple_light  =   "fingerprint-simple-light"
+case ph_fingerprint_simple_thin  =   "fingerprint-simple-thin"
+case ph_fingerprint_thin  =   "fingerprint-thin"
+case ph_finn_the_human  =   "finn-the-human"
+case ph_finn_the_human_bold  =   "finn-the-human-bold"
+case ph_finn_the_human_fill  =   "finn-the-human-fill"
+case ph_finn_the_human_light  =   "finn-the-human-light"
+case ph_finn_the_human_thin  =   "finn-the-human-thin"
+case ph_fire  =   "fire"
+case ph_fire_bold  =   "fire-bold"
+case ph_fire_fill  =   "fire-fill"
+case ph_fire_light  =   "fire-light"
+case ph_fire_simple  =   "fire-simple"
+case ph_fire_simple_bold  =   "fire-simple-bold"
+case ph_fire_simple_fill  =   "fire-simple-fill"
+case ph_fire_simple_light  =   "fire-simple-light"
+case ph_fire_simple_thin  =   "fire-simple-thin"
+case ph_fire_thin  =   "fire-thin"
+case ph_first_aid  =   "first-aid"
+case ph_first_aid_bold  =   "first-aid-bold"
+case ph_first_aid_fill  =   "first-aid-fill"
+case ph_first_aid_kit  =   "first-aid-kit"
+case ph_first_aid_kit_bold  =   "first-aid-kit-bold"
+case ph_first_aid_kit_fill  =   "first-aid-kit-fill"
+case ph_first_aid_kit_light  =   "first-aid-kit-light"
+case ph_first_aid_kit_thin  =   "first-aid-kit-thin"
+case ph_first_aid_light  =   "first-aid-light"
+case ph_first_aid_thin  =   "first-aid-thin"
+case ph_fish  =   "fish"
+case ph_fish_bold  =   "fish-bold"
+case ph_fish_fill  =   "fish-fill"
+case ph_fish_light  =   "fish-light"
+case ph_fish_simple  =   "fish-simple"
+case ph_fish_simple_bold  =   "fish-simple-bold"
+case ph_fish_simple_fill  =   "fish-simple-fill"
+case ph_fish_simple_light  =   "fish-simple-light"
+case ph_fish_simple_thin  =   "fish-simple-thin"
+case ph_fish_thin  =   "fish-thin"
+case ph_flag  =   "flag"
+case ph_flag_banner  =   "flag-banner"
+case ph_flag_banner_bold  =   "flag-banner-bold"
+case ph_flag_banner_fill  =   "flag-banner-fill"
+case ph_flag_banner_light  =   "flag-banner-light"
+case ph_flag_banner_thin  =   "flag-banner-thin"
+case ph_flag_bold  =   "flag-bold"
+case ph_flag_checkered  =   "flag-checkered"
+case ph_flag_checkered_bold  =   "flag-checkered-bold"
+case ph_flag_checkered_fill  =   "flag-checkered-fill"
+case ph_flag_checkered_light  =   "flag-checkered-light"
+case ph_flag_checkered_thin  =   "flag-checkered-thin"
+case ph_flag_fill  =   "flag-fill"
+case ph_flag_light  =   "flag-light"
+case ph_flag_thin  =   "flag-thin"
+case ph_flame  =   "flame"
+case ph_flame_bold  =   "flame-bold"
+case ph_flame_fill  =   "flame-fill"
+case ph_flame_light  =   "flame-light"
+case ph_flame_thin  =   "flame-thin"
+case ph_flashlight  =   "flashlight"
+case ph_flashlight_bold  =   "flashlight-bold"
+case ph_flashlight_fill  =   "flashlight-fill"
+case ph_flashlight_light  =   "flashlight-light"
+case ph_flashlight_thin  =   "flashlight-thin"
+case ph_flask  =   "flask"
+case ph_flask_bold  =   "flask-bold"
+case ph_flask_fill  =   "flask-fill"
+case ph_flask_light  =   "flask-light"
+case ph_flask_thin  =   "flask-thin"
+case ph_floppy_disk  =   "floppy-disk"
+case ph_floppy_disk_back  =   "floppy-disk-back"
+case ph_floppy_disk_back_bold  =   "floppy-disk-back-bold"
+case ph_floppy_disk_back_fill  =   "floppy-disk-back-fill"
+case ph_floppy_disk_back_light  =   "floppy-disk-back-light"
+case ph_floppy_disk_back_thin  =   "floppy-disk-back-thin"
+case ph_floppy_disk_bold  =   "floppy-disk-bold"
+case ph_floppy_disk_fill  =   "floppy-disk-fill"
+case ph_floppy_disk_light  =   "floppy-disk-light"
+case ph_floppy_disk_thin  =   "floppy-disk-thin"
+case ph_flow_arrow  =   "flow-arrow"
+case ph_flow_arrow_bold  =   "flow-arrow-bold"
+case ph_flow_arrow_fill  =   "flow-arrow-fill"
+case ph_flow_arrow_light  =   "flow-arrow-light"
+case ph_flow_arrow_thin  =   "flow-arrow-thin"
+case ph_flower  =   "flower"
+case ph_flower_bold  =   "flower-bold"
+case ph_flower_fill  =   "flower-fill"
+case ph_flower_light  =   "flower-light"
+case ph_flower_lotus  =   "flower-lotus"
+case ph_flower_lotus_bold  =   "flower-lotus-bold"
+case ph_flower_lotus_fill  =   "flower-lotus-fill"
+case ph_flower_lotus_light  =   "flower-lotus-light"
+case ph_flower_lotus_thin  =   "flower-lotus-thin"
+case ph_flower_thin  =   "flower-thin"
+case ph_flying_saucer  =   "flying-saucer"
+case ph_flying_saucer_bold  =   "flying-saucer-bold"
+case ph_flying_saucer_fill  =   "flying-saucer-fill"
+case ph_flying_saucer_light  =   "flying-saucer-light"
+case ph_flying_saucer_thin  =   "flying-saucer-thin"
+case ph_folder  =   "folder"
+case ph_folder_bold  =   "folder-bold"
+case ph_folder_dotted  =   "folder-dotted"
+case ph_folder_dotted_bold  =   "folder-dotted-bold"
+case ph_folder_dotted_fill  =   "folder-dotted-fill"
+case ph_folder_dotted_light  =   "folder-dotted-light"
+case ph_folder_dotted_thin  =   "folder-dotted-thin"
+case ph_folder_fill  =   "folder-fill"
+case ph_folder_light  =   "folder-light"
+case ph_folder_lock  =   "folder-lock"
+case ph_folder_lock_bold  =   "folder-lock-bold"
+case ph_folder_lock_fill  =   "folder-lock-fill"
+case ph_folder_lock_light  =   "folder-lock-light"
+case ph_folder_lock_thin  =   "folder-lock-thin"
+case ph_folder_minus  =   "folder-minus"
+case ph_folder_minus_bold  =   "folder-minus-bold"
+case ph_folder_minus_fill  =   "folder-minus-fill"
+case ph_folder_minus_light  =   "folder-minus-light"
+case ph_folder_minus_thin  =   "folder-minus-thin"
+case ph_folder_notch  =   "folder-notch"
+case ph_folder_notch_bold  =   "folder-notch-bold"
+case ph_folder_notch_fill  =   "folder-notch-fill"
+case ph_folder_notch_light  =   "folder-notch-light"
+case ph_folder_notch_minus  =   "folder-notch-minus"
+case ph_folder_notch_minus_bold  =   "folder-notch-minus-bold"
+case ph_folder_notch_minus_fill  =   "folder-notch-minus-fill"
+case ph_folder_notch_minus_light  =   "folder-notch-minus-light"
+case ph_folder_notch_minus_thin  =   "folder-notch-minus-thin"
+case ph_folder_notch_open  =   "folder-notch-open"
+case ph_folder_notch_open_bold  =   "folder-notch-open-bold"
+case ph_folder_notch_open_fill  =   "folder-notch-open-fill"
+case ph_folder_notch_open_light  =   "folder-notch-open-light"
+case ph_folder_notch_open_thin  =   "folder-notch-open-thin"
+case ph_folder_notch_plus  =   "folder-notch-plus"
+case ph_folder_notch_plus_bold  =   "folder-notch-plus-bold"
+case ph_folder_notch_plus_fill  =   "folder-notch-plus-fill"
+case ph_folder_notch_plus_light  =   "folder-notch-plus-light"
+case ph_folder_notch_plus_thin  =   "folder-notch-plus-thin"
+case ph_folder_notch_thin  =   "folder-notch-thin"
+case ph_folder_open  =   "folder-open"
+case ph_folder_open_bold  =   "folder-open-bold"
+case ph_folder_open_fill  =   "folder-open-fill"
+case ph_folder_open_light  =   "folder-open-light"
+case ph_folder_open_thin  =   "folder-open-thin"
+case ph_folder_plus  =   "folder-plus"
+case ph_folder_plus_bold  =   "folder-plus-bold"
+case ph_folder_plus_fill  =   "folder-plus-fill"
+case ph_folder_plus_light  =   "folder-plus-light"
+case ph_folder_plus_thin  =   "folder-plus-thin"
+case ph_folder_simple  =   "folder-simple"
+case ph_folder_simple_bold  =   "folder-simple-bold"
+case ph_folder_simple_dotted  =   "folder-simple-dotted"
+case ph_folder_simple_dotted_bold  =   "folder-simple-dotted-bold"
+case ph_folder_simple_dotted_fill  =   "folder-simple-dotted-fill"
+case ph_folder_simple_dotted_light  =   "folder-simple-dotted-light"
+case ph_folder_simple_dotted_thin  =   "folder-simple-dotted-thin"
+case ph_folder_simple_fill  =   "folder-simple-fill"
+case ph_folder_simple_light  =   "folder-simple-light"
+case ph_folder_simple_lock  =   "folder-simple-lock"
+case ph_folder_simple_lock_bold  =   "folder-simple-lock-bold"
+case ph_folder_simple_lock_fill  =   "folder-simple-lock-fill"
+case ph_folder_simple_lock_light  =   "folder-simple-lock-light"
+case ph_folder_simple_lock_thin  =   "folder-simple-lock-thin"
+case ph_folder_simple_minus  =   "folder-simple-minus"
+case ph_folder_simple_minus_bold  =   "folder-simple-minus-bold"
+case ph_folder_simple_minus_fill  =   "folder-simple-minus-fill"
+case ph_folder_simple_minus_light  =   "folder-simple-minus-light"
+case ph_folder_simple_minus_thin  =   "folder-simple-minus-thin"
+case ph_folder_simple_plus  =   "folder-simple-plus"
+case ph_folder_simple_plus_bold  =   "folder-simple-plus-bold"
+case ph_folder_simple_plus_fill  =   "folder-simple-plus-fill"
+case ph_folder_simple_plus_light  =   "folder-simple-plus-light"
+case ph_folder_simple_plus_thin  =   "folder-simple-plus-thin"
+case ph_folder_simple_star  =   "folder-simple-star"
+case ph_folder_simple_star_bold  =   "folder-simple-star-bold"
+case ph_folder_simple_star_fill  =   "folder-simple-star-fill"
+case ph_folder_simple_star_light  =   "folder-simple-star-light"
+case ph_folder_simple_star_thin  =   "folder-simple-star-thin"
+case ph_folder_simple_thin  =   "folder-simple-thin"
+case ph_folder_simple_user  =   "folder-simple-user"
+case ph_folder_simple_user_bold  =   "folder-simple-user-bold"
+case ph_folder_simple_user_fill  =   "folder-simple-user-fill"
+case ph_folder_simple_user_light  =   "folder-simple-user-light"
+case ph_folder_simple_user_thin  =   "folder-simple-user-thin"
+case ph_folder_star  =   "folder-star"
+case ph_folder_star_bold  =   "folder-star-bold"
+case ph_folder_star_fill  =   "folder-star-fill"
+case ph_folder_star_light  =   "folder-star-light"
+case ph_folder_star_thin  =   "folder-star-thin"
+case ph_folder_thin  =   "folder-thin"
+case ph_folder_user  =   "folder-user"
+case ph_folder_user_bold  =   "folder-user-bold"
+case ph_folder_user_fill  =   "folder-user-fill"
+case ph_folder_user_light  =   "folder-user-light"
+case ph_folder_user_thin  =   "folder-user-thin"
+case ph_folders  =   "folders"
+case ph_folders_bold  =   "folders-bold"
+case ph_folders_fill  =   "folders-fill"
+case ph_folders_light  =   "folders-light"
+case ph_folders_thin  =   "folders-thin"
+case ph_football  =   "football"
+case ph_football_bold  =   "football-bold"
+case ph_football_fill  =   "football-fill"
+case ph_football_light  =   "football-light"
+case ph_football_thin  =   "football-thin"
+case ph_fork_knife  =   "fork-knife"
+case ph_fork_knife_bold  =   "fork-knife-bold"
+case ph_fork_knife_fill  =   "fork-knife-fill"
+case ph_fork_knife_light  =   "fork-knife-light"
+case ph_fork_knife_thin  =   "fork-knife-thin"
+case ph_frame_corners  =   "frame-corners"
+case ph_frame_corners_bold  =   "frame-corners-bold"
+case ph_frame_corners_fill  =   "frame-corners-fill"
+case ph_frame_corners_light  =   "frame-corners-light"
+case ph_frame_corners_thin  =   "frame-corners-thin"
+case ph_framer_logo  =   "framer-logo"
+case ph_framer_logo_bold  =   "framer-logo-bold"
+case ph_framer_logo_fill  =   "framer-logo-fill"
+case ph_framer_logo_light  =   "framer-logo-light"
+case ph_framer_logo_thin  =   "framer-logo-thin"
+case ph_function  =   "function"
+case ph_function_bold  =   "function-bold"
+case ph_function_fill  =   "function-fill"
+case ph_function_light  =   "function-light"
+case ph_function_thin  =   "function-thin"
+case ph_funnel  =   "funnel"
+case ph_funnel_bold  =   "funnel-bold"
+case ph_funnel_fill  =   "funnel-fill"
+case ph_funnel_light  =   "funnel-light"
+case ph_funnel_simple  =   "funnel-simple"
+case ph_funnel_simple_bold  =   "funnel-simple-bold"
+case ph_funnel_simple_fill  =   "funnel-simple-fill"
+case ph_funnel_simple_light  =   "funnel-simple-light"
+case ph_funnel_simple_thin  =   "funnel-simple-thin"
+case ph_funnel_thin  =   "funnel-thin"
+case ph_game_controller  =   "game-controller"
+case ph_game_controller_bold  =   "game-controller-bold"
+case ph_game_controller_fill  =   "game-controller-fill"
+case ph_game_controller_light  =   "game-controller-light"
+case ph_game_controller_thin  =   "game-controller-thin"
+case ph_gas_pump  =   "gas-pump"
+case ph_gas_pump_bold  =   "gas-pump-bold"
+case ph_gas_pump_fill  =   "gas-pump-fill"
+case ph_gas_pump_light  =   "gas-pump-light"
+case ph_gas_pump_thin  =   "gas-pump-thin"
+case ph_gauge  =   "gauge"
+case ph_gauge_bold  =   "gauge-bold"
+case ph_gauge_fill  =   "gauge-fill"
+case ph_gauge_light  =   "gauge-light"
+case ph_gauge_thin  =   "gauge-thin"
+case ph_gear  =   "gear"
+case ph_gear_bold  =   "gear-bold"
+case ph_gear_fill  =   "gear-fill"
+case ph_gear_light  =   "gear-light"
+case ph_gear_six  =   "gear-six"
+case ph_gear_six_bold  =   "gear-six-bold"
+case ph_gear_six_fill  =   "gear-six-fill"
+case ph_gear_six_light  =   "gear-six-light"
+case ph_gear_six_thin  =   "gear-six-thin"
+case ph_gear_thin  =   "gear-thin"
+case ph_gender_female  =   "gender-female"
+case ph_gender_female_bold  =   "gender-female-bold"
+case ph_gender_female_fill  =   "gender-female-fill"
+case ph_gender_female_light  =   "gender-female-light"
+case ph_gender_female_thin  =   "gender-female-thin"
+case ph_gender_intersex  =   "gender-intersex"
+case ph_gender_intersex_bold  =   "gender-intersex-bold"
+case ph_gender_intersex_fill  =   "gender-intersex-fill"
+case ph_gender_intersex_light  =   "gender-intersex-light"
+case ph_gender_intersex_thin  =   "gender-intersex-thin"
+case ph_gender_male  =   "gender-male"
+case ph_gender_male_bold  =   "gender-male-bold"
+case ph_gender_male_fill  =   "gender-male-fill"
+case ph_gender_male_light  =   "gender-male-light"
+case ph_gender_male_thin  =   "gender-male-thin"
+case ph_gender_neuter  =   "gender-neuter"
+case ph_gender_neuter_bold  =   "gender-neuter-bold"
+case ph_gender_neuter_fill  =   "gender-neuter-fill"
+case ph_gender_neuter_light  =   "gender-neuter-light"
+case ph_gender_neuter_thin  =   "gender-neuter-thin"
+case ph_gender_nonbinary  =   "gender-nonbinary"
+case ph_gender_nonbinary_bold  =   "gender-nonbinary-bold"
+case ph_gender_nonbinary_fill  =   "gender-nonbinary-fill"
+case ph_gender_nonbinary_light  =   "gender-nonbinary-light"
+case ph_gender_nonbinary_thin  =   "gender-nonbinary-thin"
+case ph_gender_transgender  =   "gender-transgender"
+case ph_gender_transgender_bold  =   "gender-transgender-bold"
+case ph_gender_transgender_fill  =   "gender-transgender-fill"
+case ph_gender_transgender_light  =   "gender-transgender-light"
+case ph_gender_transgender_thin  =   "gender-transgender-thin"
+case ph_ghost  =   "ghost"
+case ph_ghost_bold  =   "ghost-bold"
+case ph_ghost_fill  =   "ghost-fill"
+case ph_ghost_light  =   "ghost-light"
+case ph_ghost_thin  =   "ghost-thin"
+case ph_gif  =   "gif"
+case ph_gif_bold  =   "gif-bold"
+case ph_gif_fill  =   "gif-fill"
+case ph_gif_light  =   "gif-light"
+case ph_gif_thin  =   "gif-thin"
+case ph_gift  =   "gift"
+case ph_gift_bold  =   "gift-bold"
+case ph_gift_fill  =   "gift-fill"
+case ph_gift_light  =   "gift-light"
+case ph_gift_thin  =   "gift-thin"
+case ph_git_branch  =   "git-branch"
+case ph_git_branch_bold  =   "git-branch-bold"
+case ph_git_branch_fill  =   "git-branch-fill"
+case ph_git_branch_light  =   "git-branch-light"
+case ph_git_branch_thin  =   "git-branch-thin"
+case ph_git_commit  =   "git-commit"
+case ph_git_commit_bold  =   "git-commit-bold"
+case ph_git_commit_fill  =   "git-commit-fill"
+case ph_git_commit_light  =   "git-commit-light"
+case ph_git_commit_thin  =   "git-commit-thin"
+case ph_git_diff  =   "git-diff"
+case ph_git_diff_bold  =   "git-diff-bold"
+case ph_git_diff_fill  =   "git-diff-fill"
+case ph_git_diff_light  =   "git-diff-light"
+case ph_git_diff_thin  =   "git-diff-thin"
+case ph_git_fork  =   "git-fork"
+case ph_git_fork_bold  =   "git-fork-bold"
+case ph_git_fork_fill  =   "git-fork-fill"
+case ph_git_fork_light  =   "git-fork-light"
+case ph_git_fork_thin  =   "git-fork-thin"
+case ph_git_merge  =   "git-merge"
+case ph_git_merge_bold  =   "git-merge-bold"
+case ph_git_merge_fill  =   "git-merge-fill"
+case ph_git_merge_light  =   "git-merge-light"
+case ph_git_merge_thin  =   "git-merge-thin"
+case ph_git_pull_request  =   "git-pull-request"
+case ph_git_pull_request_bold  =   "git-pull-request-bold"
+case ph_git_pull_request_fill  =   "git-pull-request-fill"
+case ph_git_pull_request_light  =   "git-pull-request-light"
+case ph_git_pull_request_thin  =   "git-pull-request-thin"
+case ph_github_logo  =   "github-logo"
+case ph_github_logo_bold  =   "github-logo-bold"
+case ph_github_logo_fill  =   "github-logo-fill"
+case ph_github_logo_light  =   "github-logo-light"
+case ph_github_logo_thin  =   "github-logo-thin"
+case ph_gitlab_logo  =   "gitlab-logo"
+case ph_gitlab_logo_bold  =   "gitlab-logo-bold"
+case ph_gitlab_logo_fill  =   "gitlab-logo-fill"
+case ph_gitlab_logo_light  =   "gitlab-logo-light"
+case ph_gitlab_logo_simple  =   "gitlab-logo-simple"
+case ph_gitlab_logo_simple_bold  =   "gitlab-logo-simple-bold"
+case ph_gitlab_logo_simple_fill  =   "gitlab-logo-simple-fill"
+case ph_gitlab_logo_simple_light  =   "gitlab-logo-simple-light"
+case ph_gitlab_logo_simple_thin  =   "gitlab-logo-simple-thin"
+case ph_gitlab_logo_thin  =   "gitlab-logo-thin"
+case ph_globe  =   "globe"
+case ph_globe_bold  =   "globe-bold"
+case ph_globe_fill  =   "globe-fill"
+case ph_globe_hemisphere_east  =   "globe-hemisphere-east"
+case ph_globe_hemisphere_east_bold  =   "globe-hemisphere-east-bold"
+case ph_globe_hemisphere_east_fill  =   "globe-hemisphere-east-fill"
+case ph_globe_hemisphere_east_light  =   "globe-hemisphere-east-light"
+case ph_globe_hemisphere_east_thin  =   "globe-hemisphere-east-thin"
+case ph_globe_hemisphere_west  =   "globe-hemisphere-west"
+case ph_globe_hemisphere_west_bold  =   "globe-hemisphere-west-bold"
+case ph_globe_hemisphere_west_fill  =   "globe-hemisphere-west-fill"
+case ph_globe_hemisphere_west_light  =   "globe-hemisphere-west-light"
+case ph_globe_hemisphere_west_thin  =   "globe-hemisphere-west-thin"
+case ph_globe_light  =   "globe-light"
+case ph_globe_simple  =   "globe-simple"
+case ph_globe_simple_bold  =   "globe-simple-bold"
+case ph_globe_simple_fill  =   "globe-simple-fill"
+case ph_globe_simple_light  =   "globe-simple-light"
+case ph_globe_simple_thin  =   "globe-simple-thin"
+case ph_globe_stand  =   "globe-stand"
+case ph_globe_stand_bold  =   "globe-stand-bold"
+case ph_globe_stand_fill  =   "globe-stand-fill"
+case ph_globe_stand_light  =   "globe-stand-light"
+case ph_globe_stand_thin  =   "globe-stand-thin"
+case ph_globe_thin  =   "globe-thin"
+case ph_google_chrome_logo  =   "google-chrome-logo"
+case ph_google_chrome_logo_bold  =   "google-chrome-logo-bold"
+case ph_google_chrome_logo_fill  =   "google-chrome-logo-fill"
+case ph_google_chrome_logo_light  =   "google-chrome-logo-light"
+case ph_google_chrome_logo_thin  =   "google-chrome-logo-thin"
+case ph_google_logo  =   "google-logo"
+case ph_google_logo_bold  =   "google-logo-bold"
+case ph_google_logo_fill  =   "google-logo-fill"
+case ph_google_logo_light  =   "google-logo-light"
+case ph_google_logo_thin  =   "google-logo-thin"
+case ph_google_photos_logo  =   "google-photos-logo"
+case ph_google_photos_logo_bold  =   "google-photos-logo-bold"
+case ph_google_photos_logo_fill  =   "google-photos-logo-fill"
+case ph_google_photos_logo_light  =   "google-photos-logo-light"
+case ph_google_photos_logo_thin  =   "google-photos-logo-thin"
+case ph_google_play_logo  =   "google-play-logo"
+case ph_google_play_logo_bold  =   "google-play-logo-bold"
+case ph_google_play_logo_fill  =   "google-play-logo-fill"
+case ph_google_play_logo_light  =   "google-play-logo-light"
+case ph_google_play_logo_thin  =   "google-play-logo-thin"
+case ph_google_podcasts_logo  =   "google-podcasts-logo"
+case ph_google_podcasts_logo_bold  =   "google-podcasts-logo-bold"
+case ph_google_podcasts_logo_fill  =   "google-podcasts-logo-fill"
+case ph_google_podcasts_logo_light  =   "google-podcasts-logo-light"
+case ph_google_podcasts_logo_thin  =   "google-podcasts-logo-thin"
+case ph_gradient  =   "gradient"
+case ph_gradient_bold  =   "gradient-bold"
+case ph_gradient_fill  =   "gradient-fill"
+case ph_gradient_light  =   "gradient-light"
+case ph_gradient_thin  =   "gradient-thin"
+case ph_graduation_cap  =   "graduation-cap"
+case ph_graduation_cap_bold  =   "graduation-cap-bold"
+case ph_graduation_cap_fill  =   "graduation-cap-fill"
+case ph_graduation_cap_light  =   "graduation-cap-light"
+case ph_graduation_cap_thin  =   "graduation-cap-thin"
+case ph_graph  =   "graph"
+case ph_graph_bold  =   "graph-bold"
+case ph_graph_fill  =   "graph-fill"
+case ph_graph_light  =   "graph-light"
+case ph_graph_thin  =   "graph-thin"
+case ph_grid_four  =   "grid-four"
+case ph_grid_four_bold  =   "grid-four-bold"
+case ph_grid_four_fill  =   "grid-four-fill"
+case ph_grid_four_light  =   "grid-four-light"
+case ph_grid_four_thin  =   "grid-four-thin"
+case ph_hamburger  =   "hamburger"
+case ph_hamburger_bold  =   "hamburger-bold"
+case ph_hamburger_fill  =   "hamburger-fill"
+case ph_hamburger_light  =   "hamburger-light"
+case ph_hamburger_thin  =   "hamburger-thin"
+case ph_hand  =   "hand"
+case ph_hand_bold  =   "hand-bold"
+case ph_hand_eye  =   "hand-eye"
+case ph_hand_eye_bold  =   "hand-eye-bold"
+case ph_hand_eye_fill  =   "hand-eye-fill"
+case ph_hand_eye_light  =   "hand-eye-light"
+case ph_hand_eye_thin  =   "hand-eye-thin"
+case ph_hand_fill  =   "hand-fill"
+case ph_hand_fist  =   "hand-fist"
+case ph_hand_fist_bold  =   "hand-fist-bold"
+case ph_hand_fist_fill  =   "hand-fist-fill"
+case ph_hand_fist_light  =   "hand-fist-light"
+case ph_hand_fist_thin  =   "hand-fist-thin"
+case ph_hand_grabbing  =   "hand-grabbing"
+case ph_hand_grabbing_bold  =   "hand-grabbing-bold"
+case ph_hand_grabbing_fill  =   "hand-grabbing-fill"
+case ph_hand_grabbing_light  =   "hand-grabbing-light"
+case ph_hand_grabbing_thin  =   "hand-grabbing-thin"
+case ph_hand_light  =   "hand-light"
+case ph_hand_palm  =   "hand-palm"
+case ph_hand_palm_bold  =   "hand-palm-bold"
+case ph_hand_palm_fill  =   "hand-palm-fill"
+case ph_hand_palm_light  =   "hand-palm-light"
+case ph_hand_palm_thin  =   "hand-palm-thin"
+case ph_hand_pointing  =   "hand-pointing"
+case ph_hand_pointing_bold  =   "hand-pointing-bold"
+case ph_hand_pointing_fill  =   "hand-pointing-fill"
+case ph_hand_pointing_light  =   "hand-pointing-light"
+case ph_hand_pointing_thin  =   "hand-pointing-thin"
+case ph_hand_soap  =   "hand-soap"
+case ph_hand_soap_bold  =   "hand-soap-bold"
+case ph_hand_soap_fill  =   "hand-soap-fill"
+case ph_hand_soap_light  =   "hand-soap-light"
+case ph_hand_soap_thin  =   "hand-soap-thin"
+case ph_hand_thin  =   "hand-thin"
+case ph_hand_waving  =   "hand-waving"
+case ph_hand_waving_bold  =   "hand-waving-bold"
+case ph_hand_waving_fill  =   "hand-waving-fill"
+case ph_hand_waving_light  =   "hand-waving-light"
+case ph_hand_waving_thin  =   "hand-waving-thin"
+case ph_handbag  =   "handbag"
+case ph_handbag_bold  =   "handbag-bold"
+case ph_handbag_fill  =   "handbag-fill"
+case ph_handbag_light  =   "handbag-light"
+case ph_handbag_simple  =   "handbag-simple"
+case ph_handbag_simple_bold  =   "handbag-simple-bold"
+case ph_handbag_simple_fill  =   "handbag-simple-fill"
+case ph_handbag_simple_light  =   "handbag-simple-light"
+case ph_handbag_simple_thin  =   "handbag-simple-thin"
+case ph_handbag_thin  =   "handbag-thin"
+case ph_hands_clapping  =   "hands-clapping"
+case ph_hands_clapping_bold  =   "hands-clapping-bold"
+case ph_hands_clapping_fill  =   "hands-clapping-fill"
+case ph_hands_clapping_light  =   "hands-clapping-light"
+case ph_hands_clapping_thin  =   "hands-clapping-thin"
+case ph_handshake  =   "handshake"
+case ph_handshake_bold  =   "handshake-bold"
+case ph_handshake_fill  =   "handshake-fill"
+case ph_handshake_light  =   "handshake-light"
+case ph_handshake_thin  =   "handshake-thin"
+case ph_hard_drive  =   "hard-drive"
+case ph_hard_drive_bold  =   "hard-drive-bold"
+case ph_hard_drive_fill  =   "hard-drive-fill"
+case ph_hard_drive_light  =   "hard-drive-light"
+case ph_hard_drive_thin  =   "hard-drive-thin"
+case ph_hard_drives  =   "hard-drives"
+case ph_hard_drives_bold  =   "hard-drives-bold"
+case ph_hard_drives_fill  =   "hard-drives-fill"
+case ph_hard_drives_light  =   "hard-drives-light"
+case ph_hard_drives_thin  =   "hard-drives-thin"
+case ph_hash  =   "hash"
+case ph_hash_bold  =   "hash-bold"
+case ph_hash_fill  =   "hash-fill"
+case ph_hash_light  =   "hash-light"
+case ph_hash_straight  =   "hash-straight"
+case ph_hash_straight_bold  =   "hash-straight-bold"
+case ph_hash_straight_fill  =   "hash-straight-fill"
+case ph_hash_straight_light  =   "hash-straight-light"
+case ph_hash_straight_thin  =   "hash-straight-thin"
+case ph_hash_thin  =   "hash-thin"
+case ph_headlights  =   "headlights"
+case ph_headlights_bold  =   "headlights-bold"
+case ph_headlights_fill  =   "headlights-fill"
+case ph_headlights_light  =   "headlights-light"
+case ph_headlights_thin  =   "headlights-thin"
+case ph_headphones  =   "headphones"
+case ph_headphones_bold  =   "headphones-bold"
+case ph_headphones_fill  =   "headphones-fill"
+case ph_headphones_light  =   "headphones-light"
+case ph_headphones_thin  =   "headphones-thin"
+case ph_headset  =   "headset"
+case ph_headset_bold  =   "headset-bold"
+case ph_headset_fill  =   "headset-fill"
+case ph_headset_light  =   "headset-light"
+case ph_headset_thin  =   "headset-thin"
+case ph_heart  =   "heart"
+case ph_heart_bold  =   "heart-bold"
+case ph_heart_break  =   "heart-break"
+case ph_heart_break_bold  =   "heart-break-bold"
+case ph_heart_break_fill  =   "heart-break-fill"
+case ph_heart_break_light  =   "heart-break-light"
+case ph_heart_break_thin  =   "heart-break-thin"
+case ph_heart_fill  =   "heart-fill"
+case ph_heart_light  =   "heart-light"
+case ph_heart_straight  =   "heart-straight"
+case ph_heart_straight_bold  =   "heart-straight-bold"
+case ph_heart_straight_break  =   "heart-straight-break"
+case ph_heart_straight_break_bold  =   "heart-straight-break-bold"
+case ph_heart_straight_break_fill  =   "heart-straight-break-fill"
+case ph_heart_straight_break_light  =   "heart-straight-break-light"
+case ph_heart_straight_break_thin  =   "heart-straight-break-thin"
+case ph_heart_straight_fill  =   "heart-straight-fill"
+case ph_heart_straight_light  =   "heart-straight-light"
+case ph_heart_straight_thin  =   "heart-straight-thin"
+case ph_heart_thin  =   "heart-thin"
+case ph_heartbeat  =   "heartbeat"
+case ph_heartbeat_bold  =   "heartbeat-bold"
+case ph_heartbeat_fill  =   "heartbeat-fill"
+case ph_heartbeat_light  =   "heartbeat-light"
+case ph_heartbeat_thin  =   "heartbeat-thin"
+case ph_hexagon  =   "hexagon"
+case ph_hexagon_bold  =   "hexagon-bold"
+case ph_hexagon_fill  =   "hexagon-fill"
+case ph_hexagon_light  =   "hexagon-light"
+case ph_hexagon_thin  =   "hexagon-thin"
+case ph_highlighter_circle  =   "highlighter-circle"
+case ph_highlighter_circle_bold  =   "highlighter-circle-bold"
+case ph_highlighter_circle_fill  =   "highlighter-circle-fill"
+case ph_highlighter_circle_light  =   "highlighter-circle-light"
+case ph_highlighter_circle_thin  =   "highlighter-circle-thin"
+case ph_horse  =   "horse"
+case ph_horse_bold  =   "horse-bold"
+case ph_horse_fill  =   "horse-fill"
+case ph_horse_light  =   "horse-light"
+case ph_horse_thin  =   "horse-thin"
+case ph_hourglass  =   "hourglass"
+case ph_hourglass_bold  =   "hourglass-bold"
+case ph_hourglass_fill  =   "hourglass-fill"
+case ph_hourglass_high  =   "hourglass-high"
+case ph_hourglass_high_bold  =   "hourglass-high-bold"
+case ph_hourglass_high_fill  =   "hourglass-high-fill"
+case ph_hourglass_high_light  =   "hourglass-high-light"
+case ph_hourglass_high_thin  =   "hourglass-high-thin"
+case ph_hourglass_light  =   "hourglass-light"
+case ph_hourglass_low  =   "hourglass-low"
+case ph_hourglass_low_bold  =   "hourglass-low-bold"
+case ph_hourglass_low_fill  =   "hourglass-low-fill"
+case ph_hourglass_low_light  =   "hourglass-low-light"
+case ph_hourglass_low_thin  =   "hourglass-low-thin"
+case ph_hourglass_medium  =   "hourglass-medium"
+case ph_hourglass_medium_bold  =   "hourglass-medium-bold"
+case ph_hourglass_medium_fill  =   "hourglass-medium-fill"
+case ph_hourglass_medium_light  =   "hourglass-medium-light"
+case ph_hourglass_medium_thin  =   "hourglass-medium-thin"
+case ph_hourglass_simple  =   "hourglass-simple"
+case ph_hourglass_simple_bold  =   "hourglass-simple-bold"
+case ph_hourglass_simple_fill  =   "hourglass-simple-fill"
+case ph_hourglass_simple_high  =   "hourglass-simple-high"
+case ph_hourglass_simple_high_bold  =   "hourglass-simple-high-bold"
+case ph_hourglass_simple_high_fill  =   "hourglass-simple-high-fill"
+case ph_hourglass_simple_high_light  =   "hourglass-simple-high-light"
+case ph_hourglass_simple_high_thin  =   "hourglass-simple-high-thin"
+case ph_hourglass_simple_light  =   "hourglass-simple-light"
+case ph_hourglass_simple_low  =   "hourglass-simple-low"
+case ph_hourglass_simple_low_bold  =   "hourglass-simple-low-bold"
+case ph_hourglass_simple_low_fill  =   "hourglass-simple-low-fill"
+case ph_hourglass_simple_low_light  =   "hourglass-simple-low-light"
+case ph_hourglass_simple_low_thin  =   "hourglass-simple-low-thin"
+case ph_hourglass_simple_medium  =   "hourglass-simple-medium"
+case ph_hourglass_simple_medium_bold  =   "hourglass-simple-medium-bold"
+case ph_hourglass_simple_medium_fill  =   "hourglass-simple-medium-fill"
+case ph_hourglass_simple_medium_light  =   "hourglass-simple-medium-light"
+case ph_hourglass_simple_medium_thin  =   "hourglass-simple-medium-thin"
+case ph_hourglass_simple_thin  =   "hourglass-simple-thin"
+case ph_hourglass_thin  =   "hourglass-thin"
+case ph_house  =   "house"
+case ph_house_bold  =   "house-bold"
+case ph_house_fill  =   "house-fill"
+case ph_house_light  =   "house-light"
+case ph_house_line  =   "house-line"
+case ph_house_line_bold  =   "house-line-bold"
+case ph_house_line_fill  =   "house-line-fill"
+case ph_house_line_light  =   "house-line-light"
+case ph_house_line_thin  =   "house-line-thin"
+case ph_house_simple  =   "house-simple"
+case ph_house_simple_bold  =   "house-simple-bold"
+case ph_house_simple_fill  =   "house-simple-fill"
+case ph_house_simple_light  =   "house-simple-light"
+case ph_house_simple_thin  =   "house-simple-thin"
+case ph_house_thin  =   "house-thin"
+case ph_identification_badge  =   "identification-badge"
+case ph_identification_badge_bold  =   "identification-badge-bold"
+case ph_identification_badge_fill  =   "identification-badge-fill"
+case ph_identification_badge_light  =   "identification-badge-light"
+case ph_identification_badge_thin  =   "identification-badge-thin"
+case ph_identification_card  =   "identification-card"
+case ph_identification_card_bold  =   "identification-card-bold"
+case ph_identification_card_fill  =   "identification-card-fill"
+case ph_identification_card_light  =   "identification-card-light"
+case ph_identification_card_thin  =   "identification-card-thin"
+case ph_image  =   "image"
+case ph_image_bold  =   "image-bold"
+case ph_image_fill  =   "image-fill"
+case ph_image_light  =   "image-light"
+case ph_image_square  =   "image-square"
+case ph_image_square_bold  =   "image-square-bold"
+case ph_image_square_fill  =   "image-square-fill"
+case ph_image_square_light  =   "image-square-light"
+case ph_image_square_thin  =   "image-square-thin"
+case ph_image_thin  =   "image-thin"
+case ph_infinity  =   "infinity"
+case ph_infinity_bold  =   "infinity-bold"
+case ph_infinity_fill  =   "infinity-fill"
+case ph_infinity_light  =   "infinity-light"
+case ph_infinity_thin  =   "infinity-thin"
+case ph_info  =   "info"
+case ph_info_bold  =   "info-bold"
+case ph_info_fill  =   "info-fill"
+case ph_info_light  =   "info-light"
+case ph_info_thin  =   "info-thin"
+case ph_instagram_logo  =   "instagram-logo"
+case ph_instagram_logo_bold  =   "instagram-logo-bold"
+case ph_instagram_logo_fill  =   "instagram-logo-fill"
+case ph_instagram_logo_light  =   "instagram-logo-light"
+case ph_instagram_logo_thin  =   "instagram-logo-thin"
+case ph_intersect  =   "intersect"
+case ph_intersect_bold  =   "intersect-bold"
+case ph_intersect_fill  =   "intersect-fill"
+case ph_intersect_light  =   "intersect-light"
+case ph_intersect_thin  =   "intersect-thin"
+case ph_jeep  =   "jeep"
+case ph_jeep_bold  =   "jeep-bold"
+case ph_jeep_fill  =   "jeep-fill"
+case ph_jeep_light  =   "jeep-light"
+case ph_jeep_thin  =   "jeep-thin"
+case ph_kanban  =   "kanban"
+case ph_kanban_bold  =   "kanban-bold"
+case ph_kanban_fill  =   "kanban-fill"
+case ph_kanban_light  =   "kanban-light"
+case ph_kanban_thin  =   "kanban-thin"
+case ph_key  =   "key"
+case ph_key_bold  =   "key-bold"
+case ph_key_fill  =   "key-fill"
+case ph_key_light  =   "key-light"
+case ph_key_return  =   "key-return"
+case ph_key_return_bold  =   "key-return-bold"
+case ph_key_return_fill  =   "key-return-fill"
+case ph_key_return_light  =   "key-return-light"
+case ph_key_return_thin  =   "key-return-thin"
+case ph_key_thin  =   "key-thin"
+case ph_keyboard  =   "keyboard"
+case ph_keyboard_bold  =   "keyboard-bold"
+case ph_keyboard_fill  =   "keyboard-fill"
+case ph_keyboard_light  =   "keyboard-light"
+case ph_keyboard_thin  =   "keyboard-thin"
+case ph_keyhole  =   "keyhole"
+case ph_keyhole_bold  =   "keyhole-bold"
+case ph_keyhole_fill  =   "keyhole-fill"
+case ph_keyhole_light  =   "keyhole-light"
+case ph_keyhole_thin  =   "keyhole-thin"
+case ph_knife  =   "knife"
+case ph_knife_bold  =   "knife-bold"
+case ph_knife_fill  =   "knife-fill"
+case ph_knife_light  =   "knife-light"
+case ph_knife_thin  =   "knife-thin"
+case ph_ladder  =   "ladder"
+case ph_ladder_bold  =   "ladder-bold"
+case ph_ladder_fill  =   "ladder-fill"
+case ph_ladder_light  =   "ladder-light"
+case ph_ladder_simple  =   "ladder-simple"
+case ph_ladder_simple_bold  =   "ladder-simple-bold"
+case ph_ladder_simple_fill  =   "ladder-simple-fill"
+case ph_ladder_simple_light  =   "ladder-simple-light"
+case ph_ladder_simple_thin  =   "ladder-simple-thin"
+case ph_ladder_thin  =   "ladder-thin"
+case ph_lamp  =   "lamp"
+case ph_lamp_bold  =   "lamp-bold"
+case ph_lamp_fill  =   "lamp-fill"
+case ph_lamp_light  =   "lamp-light"
+case ph_lamp_thin  =   "lamp-thin"
+case ph_laptop  =   "laptop"
+case ph_laptop_bold  =   "laptop-bold"
+case ph_laptop_fill  =   "laptop-fill"
+case ph_laptop_light  =   "laptop-light"
+case ph_laptop_thin  =   "laptop-thin"
+case ph_layout  =   "layout"
+case ph_layout_bold  =   "layout-bold"
+case ph_layout_fill  =   "layout-fill"
+case ph_layout_light  =   "layout-light"
+case ph_layout_thin  =   "layout-thin"
+case ph_leaf  =   "leaf"
+case ph_leaf_bold  =   "leaf-bold"
+case ph_leaf_fill  =   "leaf-fill"
+case ph_leaf_light  =   "leaf-light"
+case ph_leaf_thin  =   "leaf-thin"
+case ph_lifebuoy  =   "lifebuoy"
+case ph_lifebuoy_bold  =   "lifebuoy-bold"
+case ph_lifebuoy_fill  =   "lifebuoy-fill"
+case ph_lifebuoy_light  =   "lifebuoy-light"
+case ph_lifebuoy_thin  =   "lifebuoy-thin"
+case ph_lightbulb  =   "lightbulb"
+case ph_lightbulb_bold  =   "lightbulb-bold"
+case ph_lightbulb_filament  =   "lightbulb-filament"
+case ph_lightbulb_filament_bold  =   "lightbulb-filament-bold"
+case ph_lightbulb_filament_fill  =   "lightbulb-filament-fill"
+case ph_lightbulb_filament_light  =   "lightbulb-filament-light"
+case ph_lightbulb_filament_thin  =   "lightbulb-filament-thin"
+case ph_lightbulb_fill  =   "lightbulb-fill"
+case ph_lightbulb_light  =   "lightbulb-light"
+case ph_lightbulb_thin  =   "lightbulb-thin"
+case ph_lightning  =   "lightning"
+case ph_lightning_bold  =   "lightning-bold"
+case ph_lightning_fill  =   "lightning-fill"
+case ph_lightning_light  =   "lightning-light"
+case ph_lightning_slash  =   "lightning-slash"
+case ph_lightning_slash_bold  =   "lightning-slash-bold"
+case ph_lightning_slash_fill  =   "lightning-slash-fill"
+case ph_lightning_slash_light  =   "lightning-slash-light"
+case ph_lightning_slash_thin  =   "lightning-slash-thin"
+case ph_lightning_thin  =   "lightning-thin"
+case ph_line_segment  =   "line-segment"
+case ph_line_segment_bold  =   "line-segment-bold"
+case ph_line_segment_fill  =   "line-segment-fill"
+case ph_line_segment_light  =   "line-segment-light"
+case ph_line_segment_thin  =   "line-segment-thin"
+case ph_line_segments  =   "line-segments"
+case ph_line_segments_bold  =   "line-segments-bold"
+case ph_line_segments_fill  =   "line-segments-fill"
+case ph_line_segments_light  =   "line-segments-light"
+case ph_line_segments_thin  =   "line-segments-thin"
+case ph_link  =   "link"
+case ph_link_bold  =   "link-bold"
+case ph_link_break  =   "link-break"
+case ph_link_break_bold  =   "link-break-bold"
+case ph_link_break_fill  =   "link-break-fill"
+case ph_link_break_light  =   "link-break-light"
+case ph_link_break_thin  =   "link-break-thin"
+case ph_link_fill  =   "link-fill"
+case ph_link_light  =   "link-light"
+case ph_link_simple  =   "link-simple"
+case ph_link_simple_bold  =   "link-simple-bold"
+case ph_link_simple_break  =   "link-simple-break"
+case ph_link_simple_break_bold  =   "link-simple-break-bold"
+case ph_link_simple_break_fill  =   "link-simple-break-fill"
+case ph_link_simple_break_light  =   "link-simple-break-light"
+case ph_link_simple_break_thin  =   "link-simple-break-thin"
+case ph_link_simple_fill  =   "link-simple-fill"
+case ph_link_simple_horizontal  =   "link-simple-horizontal"
+case ph_link_simple_horizontal_bold  =   "link-simple-horizontal-bold"
+case ph_link_simple_horizontal_break  =   "link-simple-horizontal-break"
+case ph_link_simple_horizontal_break_bold  =   "link-simple-horizontal-break-bold"
+case ph_link_simple_horizontal_break_fill  =   "link-simple-horizontal-break-fill"
+case ph_link_simple_horizontal_break_light  =   "link-simple-horizontal-break-light"
+case ph_link_simple_horizontal_break_thin  =   "link-simple-horizontal-break-thin"
+case ph_link_simple_horizontal_fill  =   "link-simple-horizontal-fill"
+case ph_link_simple_horizontal_light  =   "link-simple-horizontal-light"
+case ph_link_simple_horizontal_thin  =   "link-simple-horizontal-thin"
+case ph_link_simple_light  =   "link-simple-light"
+case ph_link_simple_thin  =   "link-simple-thin"
+case ph_link_thin  =   "link-thin"
+case ph_linkedin_logo  =   "linkedin-logo"
+case ph_linkedin_logo_bold  =   "linkedin-logo-bold"
+case ph_linkedin_logo_fill  =   "linkedin-logo-fill"
+case ph_linkedin_logo_light  =   "linkedin-logo-light"
+case ph_linkedin_logo_thin  =   "linkedin-logo-thin"
+case ph_linux_logo  =   "linux-logo"
+case ph_linux_logo_bold  =   "linux-logo-bold"
+case ph_linux_logo_fill  =   "linux-logo-fill"
+case ph_linux_logo_light  =   "linux-logo-light"
+case ph_linux_logo_thin  =   "linux-logo-thin"
+case ph_list  =   "list"
+case ph_list_bold  =   "list-bold"
+case ph_list_bullets  =   "list-bullets"
+case ph_list_bullets_bold  =   "list-bullets-bold"
+case ph_list_bullets_fill  =   "list-bullets-fill"
+case ph_list_bullets_light  =   "list-bullets-light"
+case ph_list_bullets_thin  =   "list-bullets-thin"
+case ph_list_checks  =   "list-checks"
+case ph_list_checks_bold  =   "list-checks-bold"
+case ph_list_checks_fill  =   "list-checks-fill"
+case ph_list_checks_light  =   "list-checks-light"
+case ph_list_checks_thin  =   "list-checks-thin"
+case ph_list_dashes  =   "list-dashes"
+case ph_list_dashes_bold  =   "list-dashes-bold"
+case ph_list_dashes_fill  =   "list-dashes-fill"
+case ph_list_dashes_light  =   "list-dashes-light"
+case ph_list_dashes_thin  =   "list-dashes-thin"
+case ph_list_fill  =   "list-fill"
+case ph_list_light  =   "list-light"
+case ph_list_numbers  =   "list-numbers"
+case ph_list_numbers_bold  =   "list-numbers-bold"
+case ph_list_numbers_fill  =   "list-numbers-fill"
+case ph_list_numbers_light  =   "list-numbers-light"
+case ph_list_numbers_thin  =   "list-numbers-thin"
+case ph_list_plus  =   "list-plus"
+case ph_list_plus_bold  =   "list-plus-bold"
+case ph_list_plus_fill  =   "list-plus-fill"
+case ph_list_plus_light  =   "list-plus-light"
+case ph_list_plus_thin  =   "list-plus-thin"
+case ph_list_thin  =   "list-thin"
+case ph_lock  =   "lock"
+case ph_lock_bold  =   "lock-bold"
+case ph_lock_fill  =   "lock-fill"
+case ph_lock_key  =   "lock-key"
+case ph_lock_key_bold  =   "lock-key-bold"
+case ph_lock_key_fill  =   "lock-key-fill"
+case ph_lock_key_light  =   "lock-key-light"
+case ph_lock_key_open  =   "lock-key-open"
+case ph_lock_key_open_bold  =   "lock-key-open-bold"
+case ph_lock_key_open_fill  =   "lock-key-open-fill"
+case ph_lock_key_open_light  =   "lock-key-open-light"
+case ph_lock_key_open_thin  =   "lock-key-open-thin"
+case ph_lock_key_thin  =   "lock-key-thin"
+case ph_lock_laminated  =   "lock-laminated"
+case ph_lock_laminated_bold  =   "lock-laminated-bold"
+case ph_lock_laminated_fill  =   "lock-laminated-fill"
+case ph_lock_laminated_light  =   "lock-laminated-light"
+case ph_lock_laminated_open  =   "lock-laminated-open"
+case ph_lock_laminated_open_bold  =   "lock-laminated-open-bold"
+case ph_lock_laminated_open_fill  =   "lock-laminated-open-fill"
+case ph_lock_laminated_open_light  =   "lock-laminated-open-light"
+case ph_lock_laminated_open_thin  =   "lock-laminated-open-thin"
+case ph_lock_laminated_thin  =   "lock-laminated-thin"
+case ph_lock_light  =   "lock-light"
+case ph_lock_open  =   "lock-open"
+case ph_lock_open_bold  =   "lock-open-bold"
+case ph_lock_open_fill  =   "lock-open-fill"
+case ph_lock_open_light  =   "lock-open-light"
+case ph_lock_open_thin  =   "lock-open-thin"
+case ph_lock_simple  =   "lock-simple"
+case ph_lock_simple_bold  =   "lock-simple-bold"
+case ph_lock_simple_fill  =   "lock-simple-fill"
+case ph_lock_simple_light  =   "lock-simple-light"
+case ph_lock_simple_open  =   "lock-simple-open"
+case ph_lock_simple_open_bold  =   "lock-simple-open-bold"
+case ph_lock_simple_open_fill  =   "lock-simple-open-fill"
+case ph_lock_simple_open_light  =   "lock-simple-open-light"
+case ph_lock_simple_open_thin  =   "lock-simple-open-thin"
+case ph_lock_simple_thin  =   "lock-simple-thin"
+case ph_lock_thin  =   "lock-thin"
+case ph_magic_wand  =   "magic-wand"
+case ph_magic_wand_bold  =   "magic-wand-bold"
+case ph_magic_wand_fill  =   "magic-wand-fill"
+case ph_magic_wand_light  =   "magic-wand-light"
+case ph_magic_wand_thin  =   "magic-wand-thin"
+case ph_magnet  =   "magnet"
+case ph_magnet_bold  =   "magnet-bold"
+case ph_magnet_fill  =   "magnet-fill"
+case ph_magnet_light  =   "magnet-light"
+case ph_magnet_straight  =   "magnet-straight"
+case ph_magnet_straight_bold  =   "magnet-straight-bold"
+case ph_magnet_straight_fill  =   "magnet-straight-fill"
+case ph_magnet_straight_light  =   "magnet-straight-light"
+case ph_magnet_straight_thin  =   "magnet-straight-thin"
+case ph_magnet_thin  =   "magnet-thin"
+case ph_magnifying_glass  =   "magnifying-glass"
+case ph_magnifying_glass_bold  =   "magnifying-glass-bold"
+case ph_magnifying_glass_fill  =   "magnifying-glass-fill"
+case ph_magnifying_glass_light  =   "magnifying-glass-light"
+case ph_magnifying_glass_minus  =   "magnifying-glass-minus"
+case ph_magnifying_glass_minus_bold  =   "magnifying-glass-minus-bold"
+case ph_magnifying_glass_minus_fill  =   "magnifying-glass-minus-fill"
+case ph_magnifying_glass_minus_light  =   "magnifying-glass-minus-light"
+case ph_magnifying_glass_minus_thin  =   "magnifying-glass-minus-thin"
+case ph_magnifying_glass_plus  =   "magnifying-glass-plus"
+case ph_magnifying_glass_plus_bold  =   "magnifying-glass-plus-bold"
+case ph_magnifying_glass_plus_fill  =   "magnifying-glass-plus-fill"
+case ph_magnifying_glass_plus_light  =   "magnifying-glass-plus-light"
+case ph_magnifying_glass_plus_thin  =   "magnifying-glass-plus-thin"
+case ph_magnifying_glass_thin  =   "magnifying-glass-thin"
+case ph_map_pin  =   "map-pin"
+case ph_map_pin_bold  =   "map-pin-bold"
+case ph_map_pin_fill  =   "map-pin-fill"
+case ph_map_pin_light  =   "map-pin-light"
+case ph_map_pin_line  =   "map-pin-line"
+case ph_map_pin_line_bold  =   "map-pin-line-bold"
+case ph_map_pin_line_fill  =   "map-pin-line-fill"
+case ph_map_pin_line_light  =   "map-pin-line-light"
+case ph_map_pin_line_thin  =   "map-pin-line-thin"
+case ph_map_pin_thin  =   "map-pin-thin"
+case ph_map_trifold  =   "map-trifold"
+case ph_map_trifold_bold  =   "map-trifold-bold"
+case ph_map_trifold_fill  =   "map-trifold-fill"
+case ph_map_trifold_light  =   "map-trifold-light"
+case ph_map_trifold_thin  =   "map-trifold-thin"
+case ph_marker_circle  =   "marker-circle"
+case ph_marker_circle_bold  =   "marker-circle-bold"
+case ph_marker_circle_fill  =   "marker-circle-fill"
+case ph_marker_circle_light  =   "marker-circle-light"
+case ph_marker_circle_thin  =   "marker-circle-thin"
+case ph_martini  =   "martini"
+case ph_martini_bold  =   "martini-bold"
+case ph_martini_fill  =   "martini-fill"
+case ph_martini_light  =   "martini-light"
+case ph_martini_thin  =   "martini-thin"
+case ph_mask_happy  =   "mask-happy"
+case ph_mask_happy_bold  =   "mask-happy-bold"
+case ph_mask_happy_fill  =   "mask-happy-fill"
+case ph_mask_happy_light  =   "mask-happy-light"
+case ph_mask_happy_thin  =   "mask-happy-thin"
+case ph_mask_sad  =   "mask-sad"
+case ph_mask_sad_bold  =   "mask-sad-bold"
+case ph_mask_sad_fill  =   "mask-sad-fill"
+case ph_mask_sad_light  =   "mask-sad-light"
+case ph_mask_sad_thin  =   "mask-sad-thin"
+case ph_math_operations  =   "math-operations"
+case ph_math_operations_bold  =   "math-operations-bold"
+case ph_math_operations_fill  =   "math-operations-fill"
+case ph_math_operations_light  =   "math-operations-light"
+case ph_math_operations_thin  =   "math-operations-thin"
+case ph_medal  =   "medal"
+case ph_medal_bold  =   "medal-bold"
+case ph_medal_fill  =   "medal-fill"
+case ph_medal_light  =   "medal-light"
+case ph_medal_thin  =   "medal-thin"
+case ph_medium_logo  =   "medium-logo"
+case ph_medium_logo_bold  =   "medium-logo-bold"
+case ph_medium_logo_fill  =   "medium-logo-fill"
+case ph_medium_logo_light  =   "medium-logo-light"
+case ph_medium_logo_thin  =   "medium-logo-thin"
+case ph_megaphone  =   "megaphone"
+case ph_megaphone_bold  =   "megaphone-bold"
+case ph_megaphone_fill  =   "megaphone-fill"
+case ph_megaphone_light  =   "megaphone-light"
+case ph_megaphone_simple  =   "megaphone-simple"
+case ph_megaphone_simple_bold  =   "megaphone-simple-bold"
+case ph_megaphone_simple_fill  =   "megaphone-simple-fill"
+case ph_megaphone_simple_light  =   "megaphone-simple-light"
+case ph_megaphone_simple_thin  =   "megaphone-simple-thin"
+case ph_megaphone_thin  =   "megaphone-thin"
+case ph_messenger_logo  =   "messenger-logo"
+case ph_messenger_logo_bold  =   "messenger-logo-bold"
+case ph_messenger_logo_fill  =   "messenger-logo-fill"
+case ph_messenger_logo_light  =   "messenger-logo-light"
+case ph_messenger_logo_thin  =   "messenger-logo-thin"
+case ph_microphone  =   "microphone"
+case ph_microphone_bold  =   "microphone-bold"
+case ph_microphone_fill  =   "microphone-fill"
+case ph_microphone_light  =   "microphone-light"
+case ph_microphone_slash  =   "microphone-slash"
+case ph_microphone_slash_bold  =   "microphone-slash-bold"
+case ph_microphone_slash_fill  =   "microphone-slash-fill"
+case ph_microphone_slash_light  =   "microphone-slash-light"
+case ph_microphone_slash_thin  =   "microphone-slash-thin"
+case ph_microphone_stage  =   "microphone-stage"
+case ph_microphone_stage_bold  =   "microphone-stage-bold"
+case ph_microphone_stage_fill  =   "microphone-stage-fill"
+case ph_microphone_stage_light  =   "microphone-stage-light"
+case ph_microphone_stage_thin  =   "microphone-stage-thin"
+case ph_microphone_thin  =   "microphone-thin"
+case ph_microsoft_excel_logo  =   "microsoft-excel-logo"
+case ph_microsoft_excel_logo_bold  =   "microsoft-excel-logo-bold"
+case ph_microsoft_excel_logo_fill  =   "microsoft-excel-logo-fill"
+case ph_microsoft_excel_logo_light  =   "microsoft-excel-logo-light"
+case ph_microsoft_excel_logo_thin  =   "microsoft-excel-logo-thin"
+case ph_microsoft_powerpoint_logo  =   "microsoft-powerpoint-logo"
+case ph_microsoft_powerpoint_logo_bold  =   "microsoft-powerpoint-logo-bold"
+case ph_microsoft_powerpoint_logo_fill  =   "microsoft-powerpoint-logo-fill"
+case ph_microsoft_powerpoint_logo_light  =   "microsoft-powerpoint-logo-light"
+case ph_microsoft_powerpoint_logo_thin  =   "microsoft-powerpoint-logo-thin"
+case ph_microsoft_teams_logo  =   "microsoft-teams-logo"
+case ph_microsoft_teams_logo_bold  =   "microsoft-teams-logo-bold"
+case ph_microsoft_teams_logo_fill  =   "microsoft-teams-logo-fill"
+case ph_microsoft_teams_logo_light  =   "microsoft-teams-logo-light"
+case ph_microsoft_teams_logo_thin  =   "microsoft-teams-logo-thin"
+case ph_microsoft_word_logo  =   "microsoft-word-logo"
+case ph_microsoft_word_logo_bold  =   "microsoft-word-logo-bold"
+case ph_microsoft_word_logo_fill  =   "microsoft-word-logo-fill"
+case ph_microsoft_word_logo_light  =   "microsoft-word-logo-light"
+case ph_microsoft_word_logo_thin  =   "microsoft-word-logo-thin"
+case ph_minus  =   "minus"
+case ph_minus_bold  =   "minus-bold"
+case ph_minus_circle  =   "minus-circle"
+case ph_minus_circle_bold  =   "minus-circle-bold"
+case ph_minus_circle_fill  =   "minus-circle-fill"
+case ph_minus_circle_light  =   "minus-circle-light"
+case ph_minus_circle_thin  =   "minus-circle-thin"
+case ph_minus_fill  =   "minus-fill"
+case ph_minus_light  =   "minus-light"
+case ph_minus_thin  =   "minus-thin"
+case ph_money  =   "money"
+case ph_money_bold  =   "money-bold"
+case ph_money_fill  =   "money-fill"
+case ph_money_light  =   "money-light"
+case ph_money_thin  =   "money-thin"
+case ph_monitor  =   "monitor"
+case ph_monitor_bold  =   "monitor-bold"
+case ph_monitor_fill  =   "monitor-fill"
+case ph_monitor_light  =   "monitor-light"
+case ph_monitor_play  =   "monitor-play"
+case ph_monitor_play_bold  =   "monitor-play-bold"
+case ph_monitor_play_fill  =   "monitor-play-fill"
+case ph_monitor_play_light  =   "monitor-play-light"
+case ph_monitor_play_thin  =   "monitor-play-thin"
+case ph_monitor_thin  =   "monitor-thin"
+case ph_moon  =   "moon"
+case ph_moon_bold  =   "moon-bold"
+case ph_moon_fill  =   "moon-fill"
+case ph_moon_light  =   "moon-light"
+case ph_moon_stars  =   "moon-stars"
+case ph_moon_stars_bold  =   "moon-stars-bold"
+case ph_moon_stars_fill  =   "moon-stars-fill"
+case ph_moon_stars_light  =   "moon-stars-light"
+case ph_moon_stars_thin  =   "moon-stars-thin"
+case ph_moon_thin  =   "moon-thin"
+case ph_mountains  =   "mountains"
+case ph_mountains_bold  =   "mountains-bold"
+case ph_mountains_fill  =   "mountains-fill"
+case ph_mountains_light  =   "mountains-light"
+case ph_mountains_thin  =   "mountains-thin"
+case ph_mouse  =   "mouse"
+case ph_mouse_bold  =   "mouse-bold"
+case ph_mouse_fill  =   "mouse-fill"
+case ph_mouse_light  =   "mouse-light"
+case ph_mouse_simple  =   "mouse-simple"
+case ph_mouse_simple_bold  =   "mouse-simple-bold"
+case ph_mouse_simple_fill  =   "mouse-simple-fill"
+case ph_mouse_simple_light  =   "mouse-simple-light"
+case ph_mouse_simple_thin  =   "mouse-simple-thin"
+case ph_mouse_thin  =   "mouse-thin"
+case ph_music_note  =   "music-note"
+case ph_music_note_bold  =   "music-note-bold"
+case ph_music_note_fill  =   "music-note-fill"
+case ph_music_note_light  =   "music-note-light"
+case ph_music_note_simple  =   "music-note-simple"
+case ph_music_note_simple_bold  =   "music-note-simple-bold"
+case ph_music_note_simple_fill  =   "music-note-simple-fill"
+case ph_music_note_simple_light  =   "music-note-simple-light"
+case ph_music_note_simple_thin  =   "music-note-simple-thin"
+case ph_music_note_thin  =   "music-note-thin"
+case ph_music_notes  =   "music-notes"
+case ph_music_notes_bold  =   "music-notes-bold"
+case ph_music_notes_fill  =   "music-notes-fill"
+case ph_music_notes_light  =   "music-notes-light"
+case ph_music_notes_plus  =   "music-notes-plus"
+case ph_music_notes_plus_bold  =   "music-notes-plus-bold"
+case ph_music_notes_plus_fill  =   "music-notes-plus-fill"
+case ph_music_notes_plus_light  =   "music-notes-plus-light"
+case ph_music_notes_plus_thin  =   "music-notes-plus-thin"
+case ph_music_notes_simple  =   "music-notes-simple"
+case ph_music_notes_simple_bold  =   "music-notes-simple-bold"
+case ph_music_notes_simple_fill  =   "music-notes-simple-fill"
+case ph_music_notes_simple_light  =   "music-notes-simple-light"
+case ph_music_notes_simple_thin  =   "music-notes-simple-thin"
+case ph_music_notes_thin  =   "music-notes-thin"
+case ph_navigation_arrow  =   "navigation-arrow"
+case ph_navigation_arrow_bold  =   "navigation-arrow-bold"
+case ph_navigation_arrow_fill  =   "navigation-arrow-fill"
+case ph_navigation_arrow_light  =   "navigation-arrow-light"
+case ph_navigation_arrow_thin  =   "navigation-arrow-thin"
+case ph_needle  =   "needle"
+case ph_needle_bold  =   "needle-bold"
+case ph_needle_fill  =   "needle-fill"
+case ph_needle_light  =   "needle-light"
+case ph_needle_thin  =   "needle-thin"
+case ph_newspaper  =   "newspaper"
+case ph_newspaper_bold  =   "newspaper-bold"
+case ph_newspaper_clipping  =   "newspaper-clipping"
+case ph_newspaper_clipping_bold  =   "newspaper-clipping-bold"
+case ph_newspaper_clipping_fill  =   "newspaper-clipping-fill"
+case ph_newspaper_clipping_light  =   "newspaper-clipping-light"
+case ph_newspaper_clipping_thin  =   "newspaper-clipping-thin"
+case ph_newspaper_fill  =   "newspaper-fill"
+case ph_newspaper_light  =   "newspaper-light"
+case ph_newspaper_thin  =   "newspaper-thin"
+case ph_note  =   "note"
+case ph_note_blank  =   "note-blank"
+case ph_note_blank_bold  =   "note-blank-bold"
+case ph_note_blank_fill  =   "note-blank-fill"
+case ph_note_blank_light  =   "note-blank-light"
+case ph_note_blank_thin  =   "note-blank-thin"
+case ph_note_bold  =   "note-bold"
+case ph_note_fill  =   "note-fill"
+case ph_note_light  =   "note-light"
+case ph_note_pencil  =   "note-pencil"
+case ph_note_pencil_bold  =   "note-pencil-bold"
+case ph_note_pencil_fill  =   "note-pencil-fill"
+case ph_note_pencil_light  =   "note-pencil-light"
+case ph_note_pencil_thin  =   "note-pencil-thin"
+case ph_note_thin  =   "note-thin"
+case ph_notebook  =   "notebook"
+case ph_notebook_bold  =   "notebook-bold"
+case ph_notebook_fill  =   "notebook-fill"
+case ph_notebook_light  =   "notebook-light"
+case ph_notebook_thin  =   "notebook-thin"
+case ph_notepad  =   "notepad"
+case ph_notepad_bold  =   "notepad-bold"
+case ph_notepad_fill  =   "notepad-fill"
+case ph_notepad_light  =   "notepad-light"
+case ph_notepad_thin  =   "notepad-thin"
+case ph_notification  =   "notification"
+case ph_notification_bold  =   "notification-bold"
+case ph_notification_fill  =   "notification-fill"
+case ph_notification_light  =   "notification-light"
+case ph_notification_thin  =   "notification-thin"
+case ph_number_circle_eight  =   "number-circle-eight"
+case ph_number_circle_eight_bold  =   "number-circle-eight-bold"
+case ph_number_circle_eight_fill  =   "number-circle-eight-fill"
+case ph_number_circle_eight_light  =   "number-circle-eight-light"
+case ph_number_circle_eight_thin  =   "number-circle-eight-thin"
+case ph_number_circle_five  =   "number-circle-five"
+case ph_number_circle_five_bold  =   "number-circle-five-bold"
+case ph_number_circle_five_fill  =   "number-circle-five-fill"
+case ph_number_circle_five_light  =   "number-circle-five-light"
+case ph_number_circle_five_thin  =   "number-circle-five-thin"
+case ph_number_circle_four  =   "number-circle-four"
+case ph_number_circle_four_bold  =   "number-circle-four-bold"
+case ph_number_circle_four_fill  =   "number-circle-four-fill"
+case ph_number_circle_four_light  =   "number-circle-four-light"
+case ph_number_circle_four_thin  =   "number-circle-four-thin"
+case ph_number_circle_nine  =   "number-circle-nine"
+case ph_number_circle_nine_bold  =   "number-circle-nine-bold"
+case ph_number_circle_nine_fill  =   "number-circle-nine-fill"
+case ph_number_circle_nine_light  =   "number-circle-nine-light"
+case ph_number_circle_nine_thin  =   "number-circle-nine-thin"
+case ph_number_circle_one  =   "number-circle-one"
+case ph_number_circle_one_bold  =   "number-circle-one-bold"
+case ph_number_circle_one_fill  =   "number-circle-one-fill"
+case ph_number_circle_one_light  =   "number-circle-one-light"
+case ph_number_circle_one_thin  =   "number-circle-one-thin"
+case ph_number_circle_seven  =   "number-circle-seven"
+case ph_number_circle_seven_bold  =   "number-circle-seven-bold"
+case ph_number_circle_seven_fill  =   "number-circle-seven-fill"
+case ph_number_circle_seven_light  =   "number-circle-seven-light"
+case ph_number_circle_seven_thin  =   "number-circle-seven-thin"
+case ph_number_circle_six  =   "number-circle-six"
+case ph_number_circle_six_bold  =   "number-circle-six-bold"
+case ph_number_circle_six_fill  =   "number-circle-six-fill"
+case ph_number_circle_six_light  =   "number-circle-six-light"
+case ph_number_circle_six_thin  =   "number-circle-six-thin"
+case ph_number_circle_three  =   "number-circle-three"
+case ph_number_circle_three_bold  =   "number-circle-three-bold"
+case ph_number_circle_three_fill  =   "number-circle-three-fill"
+case ph_number_circle_three_light  =   "number-circle-three-light"
+case ph_number_circle_three_thin  =   "number-circle-three-thin"
+case ph_number_circle_two  =   "number-circle-two"
+case ph_number_circle_two_bold  =   "number-circle-two-bold"
+case ph_number_circle_two_fill  =   "number-circle-two-fill"
+case ph_number_circle_two_light  =   "number-circle-two-light"
+case ph_number_circle_two_thin  =   "number-circle-two-thin"
+case ph_number_circle_zero  =   "number-circle-zero"
+case ph_number_circle_zero_bold  =   "number-circle-zero-bold"
+case ph_number_circle_zero_fill  =   "number-circle-zero-fill"
+case ph_number_circle_zero_light  =   "number-circle-zero-light"
+case ph_number_circle_zero_thin  =   "number-circle-zero-thin"
+case ph_number_eight  =   "number-eight"
+case ph_number_eight_bold  =   "number-eight-bold"
+case ph_number_eight_fill  =   "number-eight-fill"
+case ph_number_eight_light  =   "number-eight-light"
+case ph_number_eight_thin  =   "number-eight-thin"
+case ph_number_five  =   "number-five"
+case ph_number_five_bold  =   "number-five-bold"
+case ph_number_five_fill  =   "number-five-fill"
+case ph_number_five_light  =   "number-five-light"
+case ph_number_five_thin  =   "number-five-thin"
+case ph_number_four  =   "number-four"
+case ph_number_four_bold  =   "number-four-bold"
+case ph_number_four_fill  =   "number-four-fill"
+case ph_number_four_light  =   "number-four-light"
+case ph_number_four_thin  =   "number-four-thin"
+case ph_number_nine  =   "number-nine"
+case ph_number_nine_bold  =   "number-nine-bold"
+case ph_number_nine_fill  =   "number-nine-fill"
+case ph_number_nine_light  =   "number-nine-light"
+case ph_number_nine_thin  =   "number-nine-thin"
+case ph_number_one  =   "number-one"
+case ph_number_one_bold  =   "number-one-bold"
+case ph_number_one_fill  =   "number-one-fill"
+case ph_number_one_light  =   "number-one-light"
+case ph_number_one_thin  =   "number-one-thin"
+case ph_number_seven  =   "number-seven"
+case ph_number_seven_bold  =   "number-seven-bold"
+case ph_number_seven_fill  =   "number-seven-fill"
+case ph_number_seven_light  =   "number-seven-light"
+case ph_number_seven_thin  =   "number-seven-thin"
+case ph_number_six  =   "number-six"
+case ph_number_six_bold  =   "number-six-bold"
+case ph_number_six_fill  =   "number-six-fill"
+case ph_number_six_light  =   "number-six-light"
+case ph_number_six_thin  =   "number-six-thin"
+case ph_number_square_eight  =   "number-square-eight"
+case ph_number_square_eight_bold  =   "number-square-eight-bold"
+case ph_number_square_eight_fill  =   "number-square-eight-fill"
+case ph_number_square_eight_light  =   "number-square-eight-light"
+case ph_number_square_eight_thin  =   "number-square-eight-thin"
+case ph_number_square_five  =   "number-square-five"
+case ph_number_square_five_bold  =   "number-square-five-bold"
+case ph_number_square_five_fill  =   "number-square-five-fill"
+case ph_number_square_five_light  =   "number-square-five-light"
+case ph_number_square_five_thin  =   "number-square-five-thin"
+case ph_number_square_four  =   "number-square-four"
+case ph_number_square_four_bold  =   "number-square-four-bold"
+case ph_number_square_four_fill  =   "number-square-four-fill"
+case ph_number_square_four_light  =   "number-square-four-light"
+case ph_number_square_four_thin  =   "number-square-four-thin"
+case ph_number_square_nine  =   "number-square-nine"
+case ph_number_square_nine_bold  =   "number-square-nine-bold"
+case ph_number_square_nine_fill  =   "number-square-nine-fill"
+case ph_number_square_nine_light  =   "number-square-nine-light"
+case ph_number_square_nine_thin  =   "number-square-nine-thin"
+case ph_number_square_one  =   "number-square-one"
+case ph_number_square_one_bold  =   "number-square-one-bold"
+case ph_number_square_one_fill  =   "number-square-one-fill"
+case ph_number_square_one_light  =   "number-square-one-light"
+case ph_number_square_one_thin  =   "number-square-one-thin"
+case ph_number_square_seven  =   "number-square-seven"
+case ph_number_square_seven_bold  =   "number-square-seven-bold"
+case ph_number_square_seven_fill  =   "number-square-seven-fill"
+case ph_number_square_seven_light  =   "number-square-seven-light"
+case ph_number_square_seven_thin  =   "number-square-seven-thin"
+case ph_number_square_six  =   "number-square-six"
+case ph_number_square_six_bold  =   "number-square-six-bold"
+case ph_number_square_six_fill  =   "number-square-six-fill"
+case ph_number_square_six_light  =   "number-square-six-light"
+case ph_number_square_six_thin  =   "number-square-six-thin"
+case ph_number_square_three  =   "number-square-three"
+case ph_number_square_three_bold  =   "number-square-three-bold"
+case ph_number_square_three_fill  =   "number-square-three-fill"
+case ph_number_square_three_light  =   "number-square-three-light"
+case ph_number_square_three_thin  =   "number-square-three-thin"
+case ph_number_square_two  =   "number-square-two"
+case ph_number_square_two_bold  =   "number-square-two-bold"
+case ph_number_square_two_fill  =   "number-square-two-fill"
+case ph_number_square_two_light  =   "number-square-two-light"
+case ph_number_square_two_thin  =   "number-square-two-thin"
+case ph_number_square_zero  =   "number-square-zero"
+case ph_number_square_zero_bold  =   "number-square-zero-bold"
+case ph_number_square_zero_fill  =   "number-square-zero-fill"
+case ph_number_square_zero_light  =   "number-square-zero-light"
+case ph_number_square_zero_thin  =   "number-square-zero-thin"
+case ph_number_three  =   "number-three"
+case ph_number_three_bold  =   "number-three-bold"
+case ph_number_three_fill  =   "number-three-fill"
+case ph_number_three_light  =   "number-three-light"
+case ph_number_three_thin  =   "number-three-thin"
+case ph_number_two  =   "number-two"
+case ph_number_two_bold  =   "number-two-bold"
+case ph_number_two_fill  =   "number-two-fill"
+case ph_number_two_light  =   "number-two-light"
+case ph_number_two_thin  =   "number-two-thin"
+case ph_number_zero  =   "number-zero"
+case ph_number_zero_bold  =   "number-zero-bold"
+case ph_number_zero_fill  =   "number-zero-fill"
+case ph_number_zero_light  =   "number-zero-light"
+case ph_number_zero_thin  =   "number-zero-thin"
+case ph_nut  =   "nut"
+case ph_nut_bold  =   "nut-bold"
+case ph_nut_fill  =   "nut-fill"
+case ph_nut_light  =   "nut-light"
+case ph_nut_thin  =   "nut-thin"
+case ph_ny_times_logo  =   "ny-times-logo"
+case ph_ny_times_logo_bold  =   "ny-times-logo-bold"
+case ph_ny_times_logo_fill  =   "ny-times-logo-fill"
+case ph_ny_times_logo_light  =   "ny-times-logo-light"
+case ph_ny_times_logo_thin  =   "ny-times-logo-thin"
+case ph_octagon  =   "octagon"
+case ph_octagon_bold  =   "octagon-bold"
+case ph_octagon_fill  =   "octagon-fill"
+case ph_octagon_light  =   "octagon-light"
+case ph_octagon_thin  =   "octagon-thin"
+case ph_option  =   "option"
+case ph_option_bold  =   "option-bold"
+case ph_option_fill  =   "option-fill"
+case ph_option_light  =   "option-light"
+case ph_option_thin  =   "option-thin"
+case ph_package  =   "package"
+case ph_package_bold  =   "package-bold"
+case ph_package_fill  =   "package-fill"
+case ph_package_light  =   "package-light"
+case ph_package_thin  =   "package-thin"
+case ph_paint_brush  =   "paint-brush"
+case ph_paint_brush_bold  =   "paint-brush-bold"
+case ph_paint_brush_broad  =   "paint-brush-broad"
+case ph_paint_brush_broad_bold  =   "paint-brush-broad-bold"
+case ph_paint_brush_broad_fill  =   "paint-brush-broad-fill"
+case ph_paint_brush_broad_light  =   "paint-brush-broad-light"
+case ph_paint_brush_broad_thin  =   "paint-brush-broad-thin"
+case ph_paint_brush_fill  =   "paint-brush-fill"
+case ph_paint_brush_household  =   "paint-brush-household"
+case ph_paint_brush_household_bold  =   "paint-brush-household-bold"
+case ph_paint_brush_household_fill  =   "paint-brush-household-fill"
+case ph_paint_brush_household_light  =   "paint-brush-household-light"
+case ph_paint_brush_household_thin  =   "paint-brush-household-thin"
+case ph_paint_brush_light  =   "paint-brush-light"
+case ph_paint_brush_thin  =   "paint-brush-thin"
+case ph_paint_bucket  =   "paint-bucket"
+case ph_paint_bucket_bold  =   "paint-bucket-bold"
+case ph_paint_bucket_fill  =   "paint-bucket-fill"
+case ph_paint_bucket_light  =   "paint-bucket-light"
+case ph_paint_bucket_thin  =   "paint-bucket-thin"
+case ph_paint_roller  =   "paint-roller"
+case ph_paint_roller_bold  =   "paint-roller-bold"
+case ph_paint_roller_fill  =   "paint-roller-fill"
+case ph_paint_roller_light  =   "paint-roller-light"
+case ph_paint_roller_thin  =   "paint-roller-thin"
+case ph_palette  =   "palette"
+case ph_palette_bold  =   "palette-bold"
+case ph_palette_fill  =   "palette-fill"
+case ph_palette_light  =   "palette-light"
+case ph_palette_thin  =   "palette-thin"
+case ph_paper_plane  =   "paper-plane"
+case ph_paper_plane_bold  =   "paper-plane-bold"
+case ph_paper_plane_fill  =   "paper-plane-fill"
+case ph_paper_plane_light  =   "paper-plane-light"
+case ph_paper_plane_right  =   "paper-plane-right"
+case ph_paper_plane_right_bold  =   "paper-plane-right-bold"
+case ph_paper_plane_right_fill  =   "paper-plane-right-fill"
+case ph_paper_plane_right_light  =   "paper-plane-right-light"
+case ph_paper_plane_right_thin  =   "paper-plane-right-thin"
+case ph_paper_plane_thin  =   "paper-plane-thin"
+case ph_paper_plane_tilt  =   "paper-plane-tilt"
+case ph_paper_plane_tilt_bold  =   "paper-plane-tilt-bold"
+case ph_paper_plane_tilt_fill  =   "paper-plane-tilt-fill"
+case ph_paper_plane_tilt_light  =   "paper-plane-tilt-light"
+case ph_paper_plane_tilt_thin  =   "paper-plane-tilt-thin"
+case ph_paperclip  =   "paperclip"
+case ph_paperclip_bold  =   "paperclip-bold"
+case ph_paperclip_fill  =   "paperclip-fill"
+case ph_paperclip_horizontal  =   "paperclip-horizontal"
+case ph_paperclip_horizontal_bold  =   "paperclip-horizontal-bold"
+case ph_paperclip_horizontal_fill  =   "paperclip-horizontal-fill"
+case ph_paperclip_horizontal_light  =   "paperclip-horizontal-light"
+case ph_paperclip_horizontal_thin  =   "paperclip-horizontal-thin"
+case ph_paperclip_light  =   "paperclip-light"
+case ph_paperclip_thin  =   "paperclip-thin"
+case ph_parachute  =   "parachute"
+case ph_parachute_bold  =   "parachute-bold"
+case ph_parachute_fill  =   "parachute-fill"
+case ph_parachute_light  =   "parachute-light"
+case ph_parachute_thin  =   "parachute-thin"
+case ph_password  =   "password"
+case ph_password_bold  =   "password-bold"
+case ph_password_fill  =   "password-fill"
+case ph_password_light  =   "password-light"
+case ph_password_thin  =   "password-thin"
+case ph_path  =   "path"
+case ph_path_bold  =   "path-bold"
+case ph_path_fill  =   "path-fill"
+case ph_path_light  =   "path-light"
+case ph_path_thin  =   "path-thin"
+case ph_pause  =   "pause"
+case ph_pause_bold  =   "pause-bold"
+case ph_pause_circle  =   "pause-circle"
+case ph_pause_circle_bold  =   "pause-circle-bold"
+case ph_pause_circle_fill  =   "pause-circle-fill"
+case ph_pause_circle_light  =   "pause-circle-light"
+case ph_pause_circle_thin  =   "pause-circle-thin"
+case ph_pause_fill  =   "pause-fill"
+case ph_pause_light  =   "pause-light"
+case ph_pause_thin  =   "pause-thin"
+case ph_paw_print  =   "paw-print"
+case ph_paw_print_bold  =   "paw-print-bold"
+case ph_paw_print_fill  =   "paw-print-fill"
+case ph_paw_print_light  =   "paw-print-light"
+case ph_paw_print_thin  =   "paw-print-thin"
+case ph_peace  =   "peace"
+case ph_peace_bold  =   "peace-bold"
+case ph_peace_fill  =   "peace-fill"
+case ph_peace_light  =   "peace-light"
+case ph_peace_thin  =   "peace-thin"
+case ph_pen  =   "pen"
+case ph_pen_bold  =   "pen-bold"
+case ph_pen_fill  =   "pen-fill"
+case ph_pen_light  =   "pen-light"
+case ph_pen_nib  =   "pen-nib"
+case ph_pen_nib_bold  =   "pen-nib-bold"
+case ph_pen_nib_fill  =   "pen-nib-fill"
+case ph_pen_nib_light  =   "pen-nib-light"
+case ph_pen_nib_straight  =   "pen-nib-straight"
+case ph_pen_nib_straight_bold  =   "pen-nib-straight-bold"
+case ph_pen_nib_straight_fill  =   "pen-nib-straight-fill"
+case ph_pen_nib_straight_light  =   "pen-nib-straight-light"
+case ph_pen_nib_straight_thin  =   "pen-nib-straight-thin"
+case ph_pen_nib_thin  =   "pen-nib-thin"
+case ph_pen_thin  =   "pen-thin"
+case ph_pencil  =   "pencil"
+case ph_pencil_bold  =   "pencil-bold"
+case ph_pencil_circle  =   "pencil-circle"
+case ph_pencil_circle_bold  =   "pencil-circle-bold"
+case ph_pencil_circle_fill  =   "pencil-circle-fill"
+case ph_pencil_circle_light  =   "pencil-circle-light"
+case ph_pencil_circle_thin  =   "pencil-circle-thin"
+case ph_pencil_fill  =   "pencil-fill"
+case ph_pencil_light  =   "pencil-light"
+case ph_pencil_line  =   "pencil-line"
+case ph_pencil_line_bold  =   "pencil-line-bold"
+case ph_pencil_line_fill  =   "pencil-line-fill"
+case ph_pencil_line_light  =   "pencil-line-light"
+case ph_pencil_line_thin  =   "pencil-line-thin"
+case ph_pencil_simple  =   "pencil-simple"
+case ph_pencil_simple_bold  =   "pencil-simple-bold"
+case ph_pencil_simple_fill  =   "pencil-simple-fill"
+case ph_pencil_simple_light  =   "pencil-simple-light"
+case ph_pencil_simple_line  =   "pencil-simple-line"
+case ph_pencil_simple_line_bold  =   "pencil-simple-line-bold"
+case ph_pencil_simple_line_fill  =   "pencil-simple-line-fill"
+case ph_pencil_simple_line_light  =   "pencil-simple-line-light"
+case ph_pencil_simple_line_thin  =   "pencil-simple-line-thin"
+case ph_pencil_simple_thin  =   "pencil-simple-thin"
+case ph_pencil_thin  =   "pencil-thin"
+case ph_percent  =   "percent"
+case ph_percent_bold  =   "percent-bold"
+case ph_percent_fill  =   "percent-fill"
+case ph_percent_light  =   "percent-light"
+case ph_percent_thin  =   "percent-thin"
+case ph_person  =   "person"
+case ph_person_bold  =   "person-bold"
+case ph_person_fill  =   "person-fill"
+case ph_person_light  =   "person-light"
+case ph_person_simple  =   "person-simple"
+case ph_person_simple_bold  =   "person-simple-bold"
+case ph_person_simple_fill  =   "person-simple-fill"
+case ph_person_simple_light  =   "person-simple-light"
+case ph_person_simple_run  =   "person-simple-run"
+case ph_person_simple_run_bold  =   "person-simple-run-bold"
+case ph_person_simple_run_fill  =   "person-simple-run-fill"
+case ph_person_simple_run_light  =   "person-simple-run-light"
+case ph_person_simple_run_thin  =   "person-simple-run-thin"
+case ph_person_simple_thin  =   "person-simple-thin"
+case ph_person_simple_walk  =   "person-simple-walk"
+case ph_person_simple_walk_bold  =   "person-simple-walk-bold"
+case ph_person_simple_walk_fill  =   "person-simple-walk-fill"
+case ph_person_simple_walk_light  =   "person-simple-walk-light"
+case ph_person_simple_walk_thin  =   "person-simple-walk-thin"
+case ph_person_thin  =   "person-thin"
+case ph_perspective  =   "perspective"
+case ph_perspective_bold  =   "perspective-bold"
+case ph_perspective_fill  =   "perspective-fill"
+case ph_perspective_light  =   "perspective-light"
+case ph_perspective_thin  =   "perspective-thin"
+case ph_phone  =   "phone"
+case ph_phone_bold  =   "phone-bold"
+case ph_phone_call  =   "phone-call"
+case ph_phone_call_bold  =   "phone-call-bold"
+case ph_phone_call_fill  =   "phone-call-fill"
+case ph_phone_call_light  =   "phone-call-light"
+case ph_phone_call_thin  =   "phone-call-thin"
+case ph_phone_disconnect  =   "phone-disconnect"
+case ph_phone_disconnect_bold  =   "phone-disconnect-bold"
+case ph_phone_disconnect_fill  =   "phone-disconnect-fill"
+case ph_phone_disconnect_light  =   "phone-disconnect-light"
+case ph_phone_disconnect_thin  =   "phone-disconnect-thin"
+case ph_phone_fill  =   "phone-fill"
+case ph_phone_incoming  =   "phone-incoming"
+case ph_phone_incoming_bold  =   "phone-incoming-bold"
+case ph_phone_incoming_fill  =   "phone-incoming-fill"
+case ph_phone_incoming_light  =   "phone-incoming-light"
+case ph_phone_incoming_thin  =   "phone-incoming-thin"
+case ph_phone_light  =   "phone-light"
+case ph_phone_outgoing  =   "phone-outgoing"
+case ph_phone_outgoing_bold  =   "phone-outgoing-bold"
+case ph_phone_outgoing_fill  =   "phone-outgoing-fill"
+case ph_phone_outgoing_light  =   "phone-outgoing-light"
+case ph_phone_outgoing_thin  =   "phone-outgoing-thin"
+case ph_phone_slash  =   "phone-slash"
+case ph_phone_slash_bold  =   "phone-slash-bold"
+case ph_phone_slash_fill  =   "phone-slash-fill"
+case ph_phone_slash_light  =   "phone-slash-light"
+case ph_phone_slash_thin  =   "phone-slash-thin"
+case ph_phone_thin  =   "phone-thin"
+case ph_phone_x  =   "phone-x"
+case ph_phone_x_bold  =   "phone-x-bold"
+case ph_phone_x_fill  =   "phone-x-fill"
+case ph_phone_x_light  =   "phone-x-light"
+case ph_phone_x_thin  =   "phone-x-thin"
+case ph_phosphor_logo  =   "phosphor-logo"
+case ph_phosphor_logo_bold  =   "phosphor-logo-bold"
+case ph_phosphor_logo_fill  =   "phosphor-logo-fill"
+case ph_phosphor_logo_light  =   "phosphor-logo-light"
+case ph_phosphor_logo_thin  =   "phosphor-logo-thin"
+case ph_piano_keys  =   "piano-keys"
+case ph_piano_keys_bold  =   "piano-keys-bold"
+case ph_piano_keys_fill  =   "piano-keys-fill"
+case ph_piano_keys_light  =   "piano-keys-light"
+case ph_piano_keys_thin  =   "piano-keys-thin"
+case ph_picture_in_picture  =   "picture-in-picture"
+case ph_picture_in_picture_bold  =   "picture-in-picture-bold"
+case ph_picture_in_picture_fill  =   "picture-in-picture-fill"
+case ph_picture_in_picture_light  =   "picture-in-picture-light"
+case ph_picture_in_picture_thin  =   "picture-in-picture-thin"
+case ph_pill  =   "pill"
+case ph_pill_bold  =   "pill-bold"
+case ph_pill_fill  =   "pill-fill"
+case ph_pill_light  =   "pill-light"
+case ph_pill_thin  =   "pill-thin"
+case ph_pinterest_logo  =   "pinterest-logo"
+case ph_pinterest_logo_bold  =   "pinterest-logo-bold"
+case ph_pinterest_logo_fill  =   "pinterest-logo-fill"
+case ph_pinterest_logo_light  =   "pinterest-logo-light"
+case ph_pinterest_logo_thin  =   "pinterest-logo-thin"
+case ph_pinwheel  =   "pinwheel"
+case ph_pinwheel_bold  =   "pinwheel-bold"
+case ph_pinwheel_fill  =   "pinwheel-fill"
+case ph_pinwheel_light  =   "pinwheel-light"
+case ph_pinwheel_thin  =   "pinwheel-thin"
+case ph_pizza  =   "pizza"
+case ph_pizza_bold  =   "pizza-bold"
+case ph_pizza_fill  =   "pizza-fill"
+case ph_pizza_light  =   "pizza-light"
+case ph_pizza_thin  =   "pizza-thin"
+case ph_placeholder  =   "placeholder"
+case ph_placeholder_bold  =   "placeholder-bold"
+case ph_placeholder_fill  =   "placeholder-fill"
+case ph_placeholder_light  =   "placeholder-light"
+case ph_placeholder_thin  =   "placeholder-thin"
+case ph_planet  =   "planet"
+case ph_planet_bold  =   "planet-bold"
+case ph_planet_fill  =   "planet-fill"
+case ph_planet_light  =   "planet-light"
+case ph_planet_thin  =   "planet-thin"
+case ph_play  =   "play"
+case ph_play_bold  =   "play-bold"
+case ph_play_circle  =   "play-circle"
+case ph_play_circle_bold  =   "play-circle-bold"
+case ph_play_circle_fill  =   "play-circle-fill"
+case ph_play_circle_light  =   "play-circle-light"
+case ph_play_circle_thin  =   "play-circle-thin"
+case ph_play_fill  =   "play-fill"
+case ph_play_light  =   "play-light"
+case ph_play_thin  =   "play-thin"
+case ph_playlist  =   "playlist"
+case ph_playlist_bold  =   "playlist-bold"
+case ph_playlist_fill  =   "playlist-fill"
+case ph_playlist_light  =   "playlist-light"
+case ph_playlist_thin  =   "playlist-thin"
+case ph_plug  =   "plug"
+case ph_plug_bold  =   "plug-bold"
+case ph_plug_fill  =   "plug-fill"
+case ph_plug_light  =   "plug-light"
+case ph_plug_thin  =   "plug-thin"
+case ph_plugs  =   "plugs"
+case ph_plugs_bold  =   "plugs-bold"
+case ph_plugs_connected  =   "plugs-connected"
+case ph_plugs_connected_bold  =   "plugs-connected-bold"
+case ph_plugs_connected_fill  =   "plugs-connected-fill"
+case ph_plugs_connected_light  =   "plugs-connected-light"
+case ph_plugs_connected_thin  =   "plugs-connected-thin"
+case ph_plugs_fill  =   "plugs-fill"
+case ph_plugs_light  =   "plugs-light"
+case ph_plugs_thin  =   "plugs-thin"
+case ph_plus  =   "plus"
+case ph_plus_bold  =   "plus-bold"
+case ph_plus_circle  =   "plus-circle"
+case ph_plus_circle_bold  =   "plus-circle-bold"
+case ph_plus_circle_fill  =   "plus-circle-fill"
+case ph_plus_circle_light  =   "plus-circle-light"
+case ph_plus_circle_thin  =   "plus-circle-thin"
+case ph_plus_fill  =   "plus-fill"
+case ph_plus_light  =   "plus-light"
+case ph_plus_minus  =   "plus-minus"
+case ph_plus_minus_bold  =   "plus-minus-bold"
+case ph_plus_minus_fill  =   "plus-minus-fill"
+case ph_plus_minus_light  =   "plus-minus-light"
+case ph_plus_minus_thin  =   "plus-minus-thin"
+case ph_plus_thin  =   "plus-thin"
+case ph_poker_chip  =   "poker-chip"
+case ph_poker_chip_bold  =   "poker-chip-bold"
+case ph_poker_chip_fill  =   "poker-chip-fill"
+case ph_poker_chip_light  =   "poker-chip-light"
+case ph_poker_chip_thin  =   "poker-chip-thin"
+case ph_police_car  =   "police-car"
+case ph_police_car_bold  =   "police-car-bold"
+case ph_police_car_fill  =   "police-car-fill"
+case ph_police_car_light  =   "police-car-light"
+case ph_police_car_thin  =   "police-car-thin"
+case ph_polygon  =   "polygon"
+case ph_polygon_bold  =   "polygon-bold"
+case ph_polygon_fill  =   "polygon-fill"
+case ph_polygon_light  =   "polygon-light"
+case ph_polygon_thin  =   "polygon-thin"
+case ph_popcorn  =   "popcorn"
+case ph_popcorn_bold  =   "popcorn-bold"
+case ph_popcorn_fill  =   "popcorn-fill"
+case ph_popcorn_light  =   "popcorn-light"
+case ph_popcorn_thin  =   "popcorn-thin"
+case ph_power  =   "power"
+case ph_power_bold  =   "power-bold"
+case ph_power_fill  =   "power-fill"
+case ph_power_light  =   "power-light"
+case ph_power_thin  =   "power-thin"
+case ph_prescription  =   "prescription"
+case ph_prescription_bold  =   "prescription-bold"
+case ph_prescription_fill  =   "prescription-fill"
+case ph_prescription_light  =   "prescription-light"
+case ph_prescription_thin  =   "prescription-thin"
+case ph_presentation  =   "presentation"
+case ph_presentation_bold  =   "presentation-bold"
+case ph_presentation_chart  =   "presentation-chart"
+case ph_presentation_chart_bold  =   "presentation-chart-bold"
+case ph_presentation_chart_fill  =   "presentation-chart-fill"
+case ph_presentation_chart_light  =   "presentation-chart-light"
+case ph_presentation_chart_thin  =   "presentation-chart-thin"
+case ph_presentation_fill  =   "presentation-fill"
+case ph_presentation_light  =   "presentation-light"
+case ph_presentation_thin  =   "presentation-thin"
+case ph_printer  =   "printer"
+case ph_printer_bold  =   "printer-bold"
+case ph_printer_fill  =   "printer-fill"
+case ph_printer_light  =   "printer-light"
+case ph_printer_thin  =   "printer-thin"
+case ph_prohibit  =   "prohibit"
+case ph_prohibit_bold  =   "prohibit-bold"
+case ph_prohibit_fill  =   "prohibit-fill"
+case ph_prohibit_inset  =   "prohibit-inset"
+case ph_prohibit_inset_bold  =   "prohibit-inset-bold"
+case ph_prohibit_inset_fill  =   "prohibit-inset-fill"
+case ph_prohibit_inset_light  =   "prohibit-inset-light"
+case ph_prohibit_inset_thin  =   "prohibit-inset-thin"
+case ph_prohibit_light  =   "prohibit-light"
+case ph_prohibit_thin  =   "prohibit-thin"
+case ph_projector_screen  =   "projector-screen"
+case ph_projector_screen_bold  =   "projector-screen-bold"
+case ph_projector_screen_chart  =   "projector-screen-chart"
+case ph_projector_screen_chart_bold  =   "projector-screen-chart-bold"
+case ph_projector_screen_chart_fill  =   "projector-screen-chart-fill"
+case ph_projector_screen_chart_light  =   "projector-screen-chart-light"
+case ph_projector_screen_chart_thin  =   "projector-screen-chart-thin"
+case ph_projector_screen_fill  =   "projector-screen-fill"
+case ph_projector_screen_light  =   "projector-screen-light"
+case ph_projector_screen_thin  =   "projector-screen-thin"
+case ph_push_pin  =   "push-pin"
+case ph_push_pin_bold  =   "push-pin-bold"
+case ph_push_pin_fill  =   "push-pin-fill"
+case ph_push_pin_light  =   "push-pin-light"
+case ph_push_pin_simple  =   "push-pin-simple"
+case ph_push_pin_simple_bold  =   "push-pin-simple-bold"
+case ph_push_pin_simple_fill  =   "push-pin-simple-fill"
+case ph_push_pin_simple_light  =   "push-pin-simple-light"
+case ph_push_pin_simple_slash  =   "push-pin-simple-slash"
+case ph_push_pin_simple_slash_bold  =   "push-pin-simple-slash-bold"
+case ph_push_pin_simple_slash_fill  =   "push-pin-simple-slash-fill"
+case ph_push_pin_simple_slash_light  =   "push-pin-simple-slash-light"
+case ph_push_pin_simple_slash_thin  =   "push-pin-simple-slash-thin"
+case ph_push_pin_simple_thin  =   "push-pin-simple-thin"
+case ph_push_pin_slash  =   "push-pin-slash"
+case ph_push_pin_slash_bold  =   "push-pin-slash-bold"
+case ph_push_pin_slash_fill  =   "push-pin-slash-fill"
+case ph_push_pin_slash_light  =   "push-pin-slash-light"
+case ph_push_pin_slash_thin  =   "push-pin-slash-thin"
+case ph_push_pin_thin  =   "push-pin-thin"
+case ph_puzzle_piece  =   "puzzle-piece"
+case ph_puzzle_piece_bold  =   "puzzle-piece-bold"
+case ph_puzzle_piece_fill  =   "puzzle-piece-fill"
+case ph_puzzle_piece_light  =   "puzzle-piece-light"
+case ph_puzzle_piece_thin  =   "puzzle-piece-thin"
+case ph_qr_code  =   "qr-code"
+case ph_qr_code_bold  =   "qr-code-bold"
+case ph_qr_code_fill  =   "qr-code-fill"
+case ph_qr_code_light  =   "qr-code-light"
+case ph_qr_code_thin  =   "qr-code-thin"
+case ph_question  =   "question"
+case ph_question_bold  =   "question-bold"
+case ph_question_fill  =   "question-fill"
+case ph_question_light  =   "question-light"
+case ph_question_thin  =   "question-thin"
+case ph_queue  =   "queue"
+case ph_queue_bold  =   "queue-bold"
+case ph_queue_fill  =   "queue-fill"
+case ph_queue_light  =   "queue-light"
+case ph_queue_thin  =   "queue-thin"
+case ph_quotes  =   "quotes"
+case ph_quotes_bold  =   "quotes-bold"
+case ph_quotes_fill  =   "quotes-fill"
+case ph_quotes_light  =   "quotes-light"
+case ph_quotes_thin  =   "quotes-thin"
+case ph_radical  =   "radical"
+case ph_radical_bold  =   "radical-bold"
+case ph_radical_fill  =   "radical-fill"
+case ph_radical_light  =   "radical-light"
+case ph_radical_thin  =   "radical-thin"
+case ph_radio  =   "radio"
+case ph_radio_bold  =   "radio-bold"
+case ph_radio_button  =   "radio-button"
+case ph_radio_button_bold  =   "radio-button-bold"
+case ph_radio_button_fill  =   "radio-button-fill"
+case ph_radio_button_light  =   "radio-button-light"
+case ph_radio_button_thin  =   "radio-button-thin"
+case ph_radio_fill  =   "radio-fill"
+case ph_radio_light  =   "radio-light"
+case ph_radio_thin  =   "radio-thin"
+case ph_rainbow  =   "rainbow"
+case ph_rainbow_bold  =   "rainbow-bold"
+case ph_rainbow_cloud  =   "rainbow-cloud"
+case ph_rainbow_cloud_bold  =   "rainbow-cloud-bold"
+case ph_rainbow_cloud_fill  =   "rainbow-cloud-fill"
+case ph_rainbow_cloud_light  =   "rainbow-cloud-light"
+case ph_rainbow_cloud_thin  =   "rainbow-cloud-thin"
+case ph_rainbow_fill  =   "rainbow-fill"
+case ph_rainbow_light  =   "rainbow-light"
+case ph_rainbow_thin  =   "rainbow-thin"
+case ph_receipt  =   "receipt"
+case ph_receipt_bold  =   "receipt-bold"
+case ph_receipt_fill  =   "receipt-fill"
+case ph_receipt_light  =   "receipt-light"
+case ph_receipt_thin  =   "receipt-thin"
+case ph_record  =   "record"
+case ph_record_bold  =   "record-bold"
+case ph_record_fill  =   "record-fill"
+case ph_record_light  =   "record-light"
+case ph_record_thin  =   "record-thin"
+case ph_rectangle  =   "rectangle"
+case ph_rectangle_bold  =   "rectangle-bold"
+case ph_rectangle_fill  =   "rectangle-fill"
+case ph_rectangle_light  =   "rectangle-light"
+case ph_rectangle_thin  =   "rectangle-thin"
+case ph_recycle  =   "recycle"
+case ph_recycle_bold  =   "recycle-bold"
+case ph_recycle_fill  =   "recycle-fill"
+case ph_recycle_light  =   "recycle-light"
+case ph_recycle_thin  =   "recycle-thin"
+case ph_reddit_logo  =   "reddit-logo"
+case ph_reddit_logo_bold  =   "reddit-logo-bold"
+case ph_reddit_logo_fill  =   "reddit-logo-fill"
+case ph_reddit_logo_light  =   "reddit-logo-light"
+case ph_reddit_logo_thin  =   "reddit-logo-thin"
+case ph_repeat  =   "repeat"
+case ph_repeat_bold  =   "repeat-bold"
+case ph_repeat_fill  =   "repeat-fill"
+case ph_repeat_light  =   "repeat-light"
+case ph_repeat_once  =   "repeat-once"
+case ph_repeat_once_bold  =   "repeat-once-bold"
+case ph_repeat_once_fill  =   "repeat-once-fill"
+case ph_repeat_once_light  =   "repeat-once-light"
+case ph_repeat_once_thin  =   "repeat-once-thin"
+case ph_repeat_thin  =   "repeat-thin"
+case ph_rewind  =   "rewind"
+case ph_rewind_bold  =   "rewind-bold"
+case ph_rewind_circle  =   "rewind-circle"
+case ph_rewind_circle_bold  =   "rewind-circle-bold"
+case ph_rewind_circle_fill  =   "rewind-circle-fill"
+case ph_rewind_circle_light  =   "rewind-circle-light"
+case ph_rewind_circle_thin  =   "rewind-circle-thin"
+case ph_rewind_fill  =   "rewind-fill"
+case ph_rewind_light  =   "rewind-light"
+case ph_rewind_thin  =   "rewind-thin"
+case ph_robot  =   "robot"
+case ph_robot_bold  =   "robot-bold"
+case ph_robot_fill  =   "robot-fill"
+case ph_robot_light  =   "robot-light"
+case ph_robot_thin  =   "robot-thin"
+case ph_rocket  =   "rocket"
+case ph_rocket_bold  =   "rocket-bold"
+case ph_rocket_fill  =   "rocket-fill"
+case ph_rocket_launch  =   "rocket-launch"
+case ph_rocket_launch_bold  =   "rocket-launch-bold"
+case ph_rocket_launch_fill  =   "rocket-launch-fill"
+case ph_rocket_launch_light  =   "rocket-launch-light"
+case ph_rocket_launch_thin  =   "rocket-launch-thin"
+case ph_rocket_light  =   "rocket-light"
+case ph_rocket_thin  =   "rocket-thin"
+case ph_rows  =   "rows"
+case ph_rows_bold  =   "rows-bold"
+case ph_rows_fill  =   "rows-fill"
+case ph_rows_light  =   "rows-light"
+case ph_rows_thin  =   "rows-thin"
+case ph_rss  =   "rss"
+case ph_rss_bold  =   "rss-bold"
+case ph_rss_fill  =   "rss-fill"
+case ph_rss_light  =   "rss-light"
+case ph_rss_simple  =   "rss-simple"
+case ph_rss_simple_bold  =   "rss-simple-bold"
+case ph_rss_simple_fill  =   "rss-simple-fill"
+case ph_rss_simple_light  =   "rss-simple-light"
+case ph_rss_simple_thin  =   "rss-simple-thin"
+case ph_rss_thin  =   "rss-thin"
+case ph_rug  =   "rug"
+case ph_rug_bold  =   "rug-bold"
+case ph_rug_fill  =   "rug-fill"
+case ph_rug_light  =   "rug-light"
+case ph_rug_thin  =   "rug-thin"
+case ph_ruler  =   "ruler"
+case ph_ruler_bold  =   "ruler-bold"
+case ph_ruler_fill  =   "ruler-fill"
+case ph_ruler_light  =   "ruler-light"
+case ph_ruler_thin  =   "ruler-thin"
+case ph_scales  =   "scales"
+case ph_scales_bold  =   "scales-bold"
+case ph_scales_fill  =   "scales-fill"
+case ph_scales_light  =   "scales-light"
+case ph_scales_thin  =   "scales-thin"
+case ph_scan  =   "scan"
+case ph_scan_bold  =   "scan-bold"
+case ph_scan_fill  =   "scan-fill"
+case ph_scan_light  =   "scan-light"
+case ph_scan_thin  =   "scan-thin"
+case ph_scissors  =   "scissors"
+case ph_scissors_bold  =   "scissors-bold"
+case ph_scissors_fill  =   "scissors-fill"
+case ph_scissors_light  =   "scissors-light"
+case ph_scissors_thin  =   "scissors-thin"
+case ph_screencast  =   "screencast"
+case ph_screencast_bold  =   "screencast-bold"
+case ph_screencast_fill  =   "screencast-fill"
+case ph_screencast_light  =   "screencast-light"
+case ph_screencast_thin  =   "screencast-thin"
+case ph_scribble_loop  =   "scribble-loop"
+case ph_scribble_loop_bold  =   "scribble-loop-bold"
+case ph_scribble_loop_fill  =   "scribble-loop-fill"
+case ph_scribble_loop_light  =   "scribble-loop-light"
+case ph_scribble_loop_thin  =   "scribble-loop-thin"
+case ph_scroll  =   "scroll"
+case ph_scroll_bold  =   "scroll-bold"
+case ph_scroll_fill  =   "scroll-fill"
+case ph_scroll_light  =   "scroll-light"
+case ph_scroll_thin  =   "scroll-thin"
+case ph_selection  =   "selection"
+case ph_selection_all  =   "selection-all"
+case ph_selection_all_bold  =   "selection-all-bold"
+case ph_selection_all_fill  =   "selection-all-fill"
+case ph_selection_all_light  =   "selection-all-light"
+case ph_selection_all_thin  =   "selection-all-thin"
+case ph_selection_background  =   "selection-background"
+case ph_selection_background_bold  =   "selection-background-bold"
+case ph_selection_background_fill  =   "selection-background-fill"
+case ph_selection_background_light  =   "selection-background-light"
+case ph_selection_background_thin  =   "selection-background-thin"
+case ph_selection_bold  =   "selection-bold"
+case ph_selection_fill  =   "selection-fill"
+case ph_selection_foreground  =   "selection-foreground"
+case ph_selection_foreground_bold  =   "selection-foreground-bold"
+case ph_selection_foreground_fill  =   "selection-foreground-fill"
+case ph_selection_foreground_light  =   "selection-foreground-light"
+case ph_selection_foreground_thin  =   "selection-foreground-thin"
+case ph_selection_inverse  =   "selection-inverse"
+case ph_selection_inverse_bold  =   "selection-inverse-bold"
+case ph_selection_inverse_fill  =   "selection-inverse-fill"
+case ph_selection_inverse_light  =   "selection-inverse-light"
+case ph_selection_inverse_thin  =   "selection-inverse-thin"
+case ph_selection_light  =   "selection-light"
+case ph_selection_plus  =   "selection-plus"
+case ph_selection_plus_bold  =   "selection-plus-bold"
+case ph_selection_plus_fill  =   "selection-plus-fill"
+case ph_selection_plus_light  =   "selection-plus-light"
+case ph_selection_plus_thin  =   "selection-plus-thin"
+case ph_selection_slash  =   "selection-slash"
+case ph_selection_slash_bold  =   "selection-slash-bold"
+case ph_selection_slash_fill  =   "selection-slash-fill"
+case ph_selection_slash_light  =   "selection-slash-light"
+case ph_selection_slash_thin  =   "selection-slash-thin"
+case ph_selection_thin  =   "selection-thin"
+case ph_share  =   "share"
+case ph_share_bold  =   "share-bold"
+case ph_share_fill  =   "share-fill"
+case ph_share_light  =   "share-light"
+case ph_share_network  =   "share-network"
+case ph_share_network_bold  =   "share-network-bold"
+case ph_share_network_fill  =   "share-network-fill"
+case ph_share_network_light  =   "share-network-light"
+case ph_share_network_thin  =   "share-network-thin"
+case ph_share_thin  =   "share-thin"
+case ph_shield  =   "shield"
+case ph_shield_bold  =   "shield-bold"
+case ph_shield_check  =   "shield-check"
+case ph_shield_check_bold  =   "shield-check-bold"
+case ph_shield_check_fill  =   "shield-check-fill"
+case ph_shield_check_light  =   "shield-check-light"
+case ph_shield_check_thin  =   "shield-check-thin"
+case ph_shield_checkered  =   "shield-checkered"
+case ph_shield_checkered_bold  =   "shield-checkered-bold"
+case ph_shield_checkered_fill  =   "shield-checkered-fill"
+case ph_shield_checkered_light  =   "shield-checkered-light"
+case ph_shield_checkered_thin  =   "shield-checkered-thin"
+case ph_shield_chevron  =   "shield-chevron"
+case ph_shield_chevron_bold  =   "shield-chevron-bold"
+case ph_shield_chevron_fill  =   "shield-chevron-fill"
+case ph_shield_chevron_light  =   "shield-chevron-light"
+case ph_shield_chevron_thin  =   "shield-chevron-thin"
+case ph_shield_fill  =   "shield-fill"
+case ph_shield_light  =   "shield-light"
+case ph_shield_plus  =   "shield-plus"
+case ph_shield_plus_bold  =   "shield-plus-bold"
+case ph_shield_plus_fill  =   "shield-plus-fill"
+case ph_shield_plus_light  =   "shield-plus-light"
+case ph_shield_plus_thin  =   "shield-plus-thin"
+case ph_shield_slash  =   "shield-slash"
+case ph_shield_slash_bold  =   "shield-slash-bold"
+case ph_shield_slash_fill  =   "shield-slash-fill"
+case ph_shield_slash_light  =   "shield-slash-light"
+case ph_shield_slash_thin  =   "shield-slash-thin"
+case ph_shield_star  =   "shield-star"
+case ph_shield_star_bold  =   "shield-star-bold"
+case ph_shield_star_fill  =   "shield-star-fill"
+case ph_shield_star_light  =   "shield-star-light"
+case ph_shield_star_thin  =   "shield-star-thin"
+case ph_shield_thin  =   "shield-thin"
+case ph_shield_warning  =   "shield-warning"
+case ph_shield_warning_bold  =   "shield-warning-bold"
+case ph_shield_warning_fill  =   "shield-warning-fill"
+case ph_shield_warning_light  =   "shield-warning-light"
+case ph_shield_warning_thin  =   "shield-warning-thin"
+case ph_shopping_bag  =   "shopping-bag"
+case ph_shopping_bag_bold  =   "shopping-bag-bold"
+case ph_shopping_bag_fill  =   "shopping-bag-fill"
+case ph_shopping_bag_light  =   "shopping-bag-light"
+case ph_shopping_bag_open  =   "shopping-bag-open"
+case ph_shopping_bag_open_bold  =   "shopping-bag-open-bold"
+case ph_shopping_bag_open_fill  =   "shopping-bag-open-fill"
+case ph_shopping_bag_open_light  =   "shopping-bag-open-light"
+case ph_shopping_bag_open_thin  =   "shopping-bag-open-thin"
+case ph_shopping_bag_thin  =   "shopping-bag-thin"
+case ph_shopping_cart  =   "shopping-cart"
+case ph_shopping_cart_bold  =   "shopping-cart-bold"
+case ph_shopping_cart_fill  =   "shopping-cart-fill"
+case ph_shopping_cart_light  =   "shopping-cart-light"
+case ph_shopping_cart_simple  =   "shopping-cart-simple"
+case ph_shopping_cart_simple_bold  =   "shopping-cart-simple-bold"
+case ph_shopping_cart_simple_fill  =   "shopping-cart-simple-fill"
+case ph_shopping_cart_simple_light  =   "shopping-cart-simple-light"
+case ph_shopping_cart_simple_thin  =   "shopping-cart-simple-thin"
+case ph_shopping_cart_thin  =   "shopping-cart-thin"
+case ph_shower  =   "shower"
+case ph_shower_bold  =   "shower-bold"
+case ph_shower_fill  =   "shower-fill"
+case ph_shower_light  =   "shower-light"
+case ph_shower_thin  =   "shower-thin"
+case ph_shuffle  =   "shuffle"
+case ph_shuffle_angular  =   "shuffle-angular"
+case ph_shuffle_angular_bold  =   "shuffle-angular-bold"
+case ph_shuffle_angular_fill  =   "shuffle-angular-fill"
+case ph_shuffle_angular_light  =   "shuffle-angular-light"
+case ph_shuffle_angular_thin  =   "shuffle-angular-thin"
+case ph_shuffle_bold  =   "shuffle-bold"
+case ph_shuffle_fill  =   "shuffle-fill"
+case ph_shuffle_light  =   "shuffle-light"
+case ph_shuffle_simple  =   "shuffle-simple"
+case ph_shuffle_simple_bold  =   "shuffle-simple-bold"
+case ph_shuffle_simple_fill  =   "shuffle-simple-fill"
+case ph_shuffle_simple_light  =   "shuffle-simple-light"
+case ph_shuffle_simple_thin  =   "shuffle-simple-thin"
+case ph_shuffle_thin  =   "shuffle-thin"
+case ph_sidebar  =   "sidebar"
+case ph_sidebar_bold  =   "sidebar-bold"
+case ph_sidebar_fill  =   "sidebar-fill"
+case ph_sidebar_light  =   "sidebar-light"
+case ph_sidebar_simple  =   "sidebar-simple"
+case ph_sidebar_simple_bold  =   "sidebar-simple-bold"
+case ph_sidebar_simple_fill  =   "sidebar-simple-fill"
+case ph_sidebar_simple_light  =   "sidebar-simple-light"
+case ph_sidebar_simple_thin  =   "sidebar-simple-thin"
+case ph_sidebar_thin  =   "sidebar-thin"
+case ph_sign_in  =   "sign-in"
+case ph_sign_in_bold  =   "sign-in-bold"
+case ph_sign_in_fill  =   "sign-in-fill"
+case ph_sign_in_light  =   "sign-in-light"
+case ph_sign_in_thin  =   "sign-in-thin"
+case ph_sign_out  =   "sign-out"
+case ph_sign_out_bold  =   "sign-out-bold"
+case ph_sign_out_fill  =   "sign-out-fill"
+case ph_sign_out_light  =   "sign-out-light"
+case ph_sign_out_thin  =   "sign-out-thin"
+case ph_signpost  =   "signpost"
+case ph_signpost_bold  =   "signpost-bold"
+case ph_signpost_fill  =   "signpost-fill"
+case ph_signpost_light  =   "signpost-light"
+case ph_signpost_thin  =   "signpost-thin"
+case ph_sim_card  =   "sim-card"
+case ph_sim_card_bold  =   "sim-card-bold"
+case ph_sim_card_fill  =   "sim-card-fill"
+case ph_sim_card_light  =   "sim-card-light"
+case ph_sim_card_thin  =   "sim-card-thin"
+case ph_sketch_logo  =   "sketch-logo"
+case ph_sketch_logo_bold  =   "sketch-logo-bold"
+case ph_sketch_logo_fill  =   "sketch-logo-fill"
+case ph_sketch_logo_light  =   "sketch-logo-light"
+case ph_sketch_logo_thin  =   "sketch-logo-thin"
+case ph_skip_back  =   "skip-back"
+case ph_skip_back_bold  =   "skip-back-bold"
+case ph_skip_back_circle  =   "skip-back-circle"
+case ph_skip_back_circle_bold  =   "skip-back-circle-bold"
+case ph_skip_back_circle_fill  =   "skip-back-circle-fill"
+case ph_skip_back_circle_light  =   "skip-back-circle-light"
+case ph_skip_back_circle_thin  =   "skip-back-circle-thin"
+case ph_skip_back_fill  =   "skip-back-fill"
+case ph_skip_back_light  =   "skip-back-light"
+case ph_skip_back_thin  =   "skip-back-thin"
+case ph_skip_forward  =   "skip-forward"
+case ph_skip_forward_bold  =   "skip-forward-bold"
+case ph_skip_forward_circle  =   "skip-forward-circle"
+case ph_skip_forward_circle_bold  =   "skip-forward-circle-bold"
+case ph_skip_forward_circle_fill  =   "skip-forward-circle-fill"
+case ph_skip_forward_circle_light  =   "skip-forward-circle-light"
+case ph_skip_forward_circle_thin  =   "skip-forward-circle-thin"
+case ph_skip_forward_fill  =   "skip-forward-fill"
+case ph_skip_forward_light  =   "skip-forward-light"
+case ph_skip_forward_thin  =   "skip-forward-thin"
+case ph_skull  =   "skull"
+case ph_skull_bold  =   "skull-bold"
+case ph_skull_fill  =   "skull-fill"
+case ph_skull_light  =   "skull-light"
+case ph_skull_thin  =   "skull-thin"
+case ph_slack_logo  =   "slack-logo"
+case ph_slack_logo_bold  =   "slack-logo-bold"
+case ph_slack_logo_fill  =   "slack-logo-fill"
+case ph_slack_logo_light  =   "slack-logo-light"
+case ph_slack_logo_thin  =   "slack-logo-thin"
+case ph_sliders  =   "sliders"
+case ph_sliders_bold  =   "sliders-bold"
+case ph_sliders_fill  =   "sliders-fill"
+case ph_sliders_horizontal  =   "sliders-horizontal"
+case ph_sliders_horizontal_bold  =   "sliders-horizontal-bold"
+case ph_sliders_horizontal_fill  =   "sliders-horizontal-fill"
+case ph_sliders_horizontal_light  =   "sliders-horizontal-light"
+case ph_sliders_horizontal_thin  =   "sliders-horizontal-thin"
+case ph_sliders_light  =   "sliders-light"
+case ph_sliders_thin  =   "sliders-thin"
+case ph_smiley  =   "smiley"
+case ph_smiley_blank  =   "smiley-blank"
+case ph_smiley_blank_bold  =   "smiley-blank-bold"
+case ph_smiley_blank_fill  =   "smiley-blank-fill"
+case ph_smiley_blank_light  =   "smiley-blank-light"
+case ph_smiley_blank_thin  =   "smiley-blank-thin"
+case ph_smiley_bold  =   "smiley-bold"
+case ph_smiley_fill  =   "smiley-fill"
+case ph_smiley_light  =   "smiley-light"
+case ph_smiley_meh  =   "smiley-meh"
+case ph_smiley_meh_bold  =   "smiley-meh-bold"
+case ph_smiley_meh_fill  =   "smiley-meh-fill"
+case ph_smiley_meh_light  =   "smiley-meh-light"
+case ph_smiley_meh_thin  =   "smiley-meh-thin"
+case ph_smiley_nervous  =   "smiley-nervous"
+case ph_smiley_nervous_bold  =   "smiley-nervous-bold"
+case ph_smiley_nervous_fill  =   "smiley-nervous-fill"
+case ph_smiley_nervous_light  =   "smiley-nervous-light"
+case ph_smiley_nervous_thin  =   "smiley-nervous-thin"
+case ph_smiley_sad  =   "smiley-sad"
+case ph_smiley_sad_bold  =   "smiley-sad-bold"
+case ph_smiley_sad_fill  =   "smiley-sad-fill"
+case ph_smiley_sad_light  =   "smiley-sad-light"
+case ph_smiley_sad_thin  =   "smiley-sad-thin"
+case ph_smiley_sticker  =   "smiley-sticker"
+case ph_smiley_sticker_bold  =   "smiley-sticker-bold"
+case ph_smiley_sticker_fill  =   "smiley-sticker-fill"
+case ph_smiley_sticker_light  =   "smiley-sticker-light"
+case ph_smiley_sticker_thin  =   "smiley-sticker-thin"
+case ph_smiley_thin  =   "smiley-thin"
+case ph_smiley_wink  =   "smiley-wink"
+case ph_smiley_wink_bold  =   "smiley-wink-bold"
+case ph_smiley_wink_fill  =   "smiley-wink-fill"
+case ph_smiley_wink_light  =   "smiley-wink-light"
+case ph_smiley_wink_thin  =   "smiley-wink-thin"
+case ph_smiley_x_eyes  =   "smiley-x-eyes"
+case ph_smiley_x_eyes_bold  =   "smiley-x-eyes-bold"
+case ph_smiley_x_eyes_fill  =   "smiley-x-eyes-fill"
+case ph_smiley_x_eyes_light  =   "smiley-x-eyes-light"
+case ph_smiley_x_eyes_thin  =   "smiley-x-eyes-thin"
+case ph_snapchat_logo  =   "snapchat-logo"
+case ph_snapchat_logo_bold  =   "snapchat-logo-bold"
+case ph_snapchat_logo_fill  =   "snapchat-logo-fill"
+case ph_snapchat_logo_light  =   "snapchat-logo-light"
+case ph_snapchat_logo_thin  =   "snapchat-logo-thin"
+case ph_snowflake  =   "snowflake"
+case ph_snowflake_bold  =   "snowflake-bold"
+case ph_snowflake_fill  =   "snowflake-fill"
+case ph_snowflake_light  =   "snowflake-light"
+case ph_snowflake_thin  =   "snowflake-thin"
+case ph_soccer_ball  =   "soccer-ball"
+case ph_soccer_ball_bold  =   "soccer-ball-bold"
+case ph_soccer_ball_fill  =   "soccer-ball-fill"
+case ph_soccer_ball_light  =   "soccer-ball-light"
+case ph_soccer_ball_thin  =   "soccer-ball-thin"
+case ph_sort_ascending  =   "sort-ascending"
+case ph_sort_ascending_bold  =   "sort-ascending-bold"
+case ph_sort_ascending_fill  =   "sort-ascending-fill"
+case ph_sort_ascending_light  =   "sort-ascending-light"
+case ph_sort_ascending_thin  =   "sort-ascending-thin"
+case ph_sort_descending  =   "sort-descending"
+case ph_sort_descending_bold  =   "sort-descending-bold"
+case ph_sort_descending_fill  =   "sort-descending-fill"
+case ph_sort_descending_light  =   "sort-descending-light"
+case ph_sort_descending_thin  =   "sort-descending-thin"
+case ph_spade  =   "spade"
+case ph_spade_bold  =   "spade-bold"
+case ph_spade_fill  =   "spade-fill"
+case ph_spade_light  =   "spade-light"
+case ph_spade_thin  =   "spade-thin"
+case ph_sparkle  =   "sparkle"
+case ph_sparkle_bold  =   "sparkle-bold"
+case ph_sparkle_fill  =   "sparkle-fill"
+case ph_sparkle_light  =   "sparkle-light"
+case ph_sparkle_thin  =   "sparkle-thin"
+case ph_speaker_high  =   "speaker-high"
+case ph_speaker_high_bold  =   "speaker-high-bold"
+case ph_speaker_high_fill  =   "speaker-high-fill"
+case ph_speaker_high_light  =   "speaker-high-light"
+case ph_speaker_high_thin  =   "speaker-high-thin"
+case ph_speaker_low  =   "speaker-low"
+case ph_speaker_low_bold  =   "speaker-low-bold"
+case ph_speaker_low_fill  =   "speaker-low-fill"
+case ph_speaker_low_light  =   "speaker-low-light"
+case ph_speaker_low_thin  =   "speaker-low-thin"
+case ph_speaker_none  =   "speaker-none"
+case ph_speaker_none_bold  =   "speaker-none-bold"
+case ph_speaker_none_fill  =   "speaker-none-fill"
+case ph_speaker_none_light  =   "speaker-none-light"
+case ph_speaker_none_thin  =   "speaker-none-thin"
+case ph_speaker_simple_high  =   "speaker-simple-high"
+case ph_speaker_simple_high_bold  =   "speaker-simple-high-bold"
+case ph_speaker_simple_high_fill  =   "speaker-simple-high-fill"
+case ph_speaker_simple_high_light  =   "speaker-simple-high-light"
+case ph_speaker_simple_high_thin  =   "speaker-simple-high-thin"
+case ph_speaker_simple_low  =   "speaker-simple-low"
+case ph_speaker_simple_low_bold  =   "speaker-simple-low-bold"
+case ph_speaker_simple_low_fill  =   "speaker-simple-low-fill"
+case ph_speaker_simple_low_light  =   "speaker-simple-low-light"
+case ph_speaker_simple_low_thin  =   "speaker-simple-low-thin"
+case ph_speaker_simple_none  =   "speaker-simple-none"
+case ph_speaker_simple_none_bold  =   "speaker-simple-none-bold"
+case ph_speaker_simple_none_fill  =   "speaker-simple-none-fill"
+case ph_speaker_simple_none_light  =   "speaker-simple-none-light"
+case ph_speaker_simple_none_thin  =   "speaker-simple-none-thin"
+case ph_speaker_simple_slash  =   "speaker-simple-slash"
+case ph_speaker_simple_slash_bold  =   "speaker-simple-slash-bold"
+case ph_speaker_simple_slash_fill  =   "speaker-simple-slash-fill"
+case ph_speaker_simple_slash_light  =   "speaker-simple-slash-light"
+case ph_speaker_simple_slash_thin  =   "speaker-simple-slash-thin"
+case ph_speaker_simple_x  =   "speaker-simple-x"
+case ph_speaker_simple_x_bold  =   "speaker-simple-x-bold"
+case ph_speaker_simple_x_fill  =   "speaker-simple-x-fill"
+case ph_speaker_simple_x_light  =   "speaker-simple-x-light"
+case ph_speaker_simple_x_thin  =   "speaker-simple-x-thin"
+case ph_speaker_slash  =   "speaker-slash"
+case ph_speaker_slash_bold  =   "speaker-slash-bold"
+case ph_speaker_slash_fill  =   "speaker-slash-fill"
+case ph_speaker_slash_light  =   "speaker-slash-light"
+case ph_speaker_slash_thin  =   "speaker-slash-thin"
+case ph_speaker_x  =   "speaker-x"
+case ph_speaker_x_bold  =   "speaker-x-bold"
+case ph_speaker_x_fill  =   "speaker-x-fill"
+case ph_speaker_x_light  =   "speaker-x-light"
+case ph_speaker_x_thin  =   "speaker-x-thin"
+case ph_spinner  =   "spinner"
+case ph_spinner_bold  =   "spinner-bold"
+case ph_spinner_fill  =   "spinner-fill"
+case ph_spinner_gap  =   "spinner-gap"
+case ph_spinner_gap_bold  =   "spinner-gap-bold"
+case ph_spinner_gap_fill  =   "spinner-gap-fill"
+case ph_spinner_gap_light  =   "spinner-gap-light"
+case ph_spinner_gap_thin  =   "spinner-gap-thin"
+case ph_spinner_light  =   "spinner-light"
+case ph_spinner_thin  =   "spinner-thin"
+case ph_spiral  =   "spiral"
+case ph_spiral_bold  =   "spiral-bold"
+case ph_spiral_fill  =   "spiral-fill"
+case ph_spiral_light  =   "spiral-light"
+case ph_spiral_thin  =   "spiral-thin"
+case ph_spotify_logo  =   "spotify-logo"
+case ph_spotify_logo_bold  =   "spotify-logo-bold"
+case ph_spotify_logo_fill  =   "spotify-logo-fill"
+case ph_spotify_logo_light  =   "spotify-logo-light"
+case ph_spotify_logo_thin  =   "spotify-logo-thin"
+case ph_square  =   "square"
+case ph_square_bold  =   "square-bold"
+case ph_square_fill  =   "square-fill"
+case ph_square_half  =   "square-half"
+case ph_square_half_bold  =   "square-half-bold"
+case ph_square_half_bottom  =   "square-half-bottom"
+case ph_square_half_bottom_bold  =   "square-half-bottom-bold"
+case ph_square_half_bottom_fill  =   "square-half-bottom-fill"
+case ph_square_half_bottom_light  =   "square-half-bottom-light"
+case ph_square_half_bottom_thin  =   "square-half-bottom-thin"
+case ph_square_half_fill  =   "square-half-fill"
+case ph_square_half_light  =   "square-half-light"
+case ph_square_half_thin  =   "square-half-thin"
+case ph_square_light  =   "square-light"
+case ph_square_logo  =   "square-logo"
+case ph_square_logo_bold  =   "square-logo-bold"
+case ph_square_logo_fill  =   "square-logo-fill"
+case ph_square_logo_light  =   "square-logo-light"
+case ph_square_logo_thin  =   "square-logo-thin"
+case ph_square_thin  =   "square-thin"
+case ph_squares_four  =   "squares-four"
+case ph_squares_four_bold  =   "squares-four-bold"
+case ph_squares_four_fill  =   "squares-four-fill"
+case ph_squares_four_light  =   "squares-four-light"
+case ph_squares_four_thin  =   "squares-four-thin"
+case ph_stack  =   "stack"
+case ph_stack_bold  =   "stack-bold"
+case ph_stack_fill  =   "stack-fill"
+case ph_stack_light  =   "stack-light"
+case ph_stack_overflow_logo  =   "stack-overflow-logo"
+case ph_stack_overflow_logo_bold  =   "stack-overflow-logo-bold"
+case ph_stack_overflow_logo_fill  =   "stack-overflow-logo-fill"
+case ph_stack_overflow_logo_light  =   "stack-overflow-logo-light"
+case ph_stack_overflow_logo_thin  =   "stack-overflow-logo-thin"
+case ph_stack_simple  =   "stack-simple"
+case ph_stack_simple_bold  =   "stack-simple-bold"
+case ph_stack_simple_fill  =   "stack-simple-fill"
+case ph_stack_simple_light  =   "stack-simple-light"
+case ph_stack_simple_thin  =   "stack-simple-thin"
+case ph_stack_thin  =   "stack-thin"
+case ph_stamp  =   "stamp"
+case ph_stamp_bold  =   "stamp-bold"
+case ph_stamp_fill  =   "stamp-fill"
+case ph_stamp_light  =   "stamp-light"
+case ph_stamp_thin  =   "stamp-thin"
+case ph_star  =   "star"
+case ph_star_bold  =   "star-bold"
+case ph_star_fill  =   "star-fill"
+case ph_star_four  =   "star-four"
+case ph_star_four_bold  =   "star-four-bold"
+case ph_star_four_fill  =   "star-four-fill"
+case ph_star_four_light  =   "star-four-light"
+case ph_star_four_thin  =   "star-four-thin"
+case ph_star_half  =   "star-half"
+case ph_star_half_bold  =   "star-half-bold"
+case ph_star_half_fill  =   "star-half-fill"
+case ph_star_half_light  =   "star-half-light"
+case ph_star_half_thin  =   "star-half-thin"
+case ph_star_light  =   "star-light"
+case ph_star_thin  =   "star-thin"
+case ph_sticker  =   "sticker"
+case ph_sticker_bold  =   "sticker-bold"
+case ph_sticker_fill  =   "sticker-fill"
+case ph_sticker_light  =   "sticker-light"
+case ph_sticker_thin  =   "sticker-thin"
+case ph_stop  =   "stop"
+case ph_stop_bold  =   "stop-bold"
+case ph_stop_circle  =   "stop-circle"
+case ph_stop_circle_bold  =   "stop-circle-bold"
+case ph_stop_circle_fill  =   "stop-circle-fill"
+case ph_stop_circle_light  =   "stop-circle-light"
+case ph_stop_circle_thin  =   "stop-circle-thin"
+case ph_stop_fill  =   "stop-fill"
+case ph_stop_light  =   "stop-light"
+case ph_stop_thin  =   "stop-thin"
+case ph_storefront  =   "storefront"
+case ph_storefront_bold  =   "storefront-bold"
+case ph_storefront_fill  =   "storefront-fill"
+case ph_storefront_light  =   "storefront-light"
+case ph_storefront_thin  =   "storefront-thin"
+case ph_strategy  =   "strategy"
+case ph_strategy_bold  =   "strategy-bold"
+case ph_strategy_fill  =   "strategy-fill"
+case ph_strategy_light  =   "strategy-light"
+case ph_strategy_thin  =   "strategy-thin"
+case ph_stripe_logo  =   "stripe-logo"
+case ph_stripe_logo_bold  =   "stripe-logo-bold"
+case ph_stripe_logo_fill  =   "stripe-logo-fill"
+case ph_stripe_logo_light  =   "stripe-logo-light"
+case ph_stripe_logo_thin  =   "stripe-logo-thin"
+case ph_student  =   "student"
+case ph_student_bold  =   "student-bold"
+case ph_student_fill  =   "student-fill"
+case ph_student_light  =   "student-light"
+case ph_student_thin  =   "student-thin"
+case ph_suitcase  =   "suitcase"
+case ph_suitcase_bold  =   "suitcase-bold"
+case ph_suitcase_fill  =   "suitcase-fill"
+case ph_suitcase_light  =   "suitcase-light"
+case ph_suitcase_simple  =   "suitcase-simple"
+case ph_suitcase_simple_bold  =   "suitcase-simple-bold"
+case ph_suitcase_simple_fill  =   "suitcase-simple-fill"
+case ph_suitcase_simple_light  =   "suitcase-simple-light"
+case ph_suitcase_simple_thin  =   "suitcase-simple-thin"
+case ph_suitcase_thin  =   "suitcase-thin"
+case ph_sun  =   "sun"
+case ph_sun_bold  =   "sun-bold"
+case ph_sun_dim  =   "sun-dim"
+case ph_sun_dim_bold  =   "sun-dim-bold"
+case ph_sun_dim_fill  =   "sun-dim-fill"
+case ph_sun_dim_light  =   "sun-dim-light"
+case ph_sun_dim_thin  =   "sun-dim-thin"
+case ph_sun_fill  =   "sun-fill"
+case ph_sun_horizon  =   "sun-horizon"
+case ph_sun_horizon_bold  =   "sun-horizon-bold"
+case ph_sun_horizon_fill  =   "sun-horizon-fill"
+case ph_sun_horizon_light  =   "sun-horizon-light"
+case ph_sun_horizon_thin  =   "sun-horizon-thin"
+case ph_sun_light  =   "sun-light"
+case ph_sun_thin  =   "sun-thin"
+case ph_sunglasses  =   "sunglasses"
+case ph_sunglasses_bold  =   "sunglasses-bold"
+case ph_sunglasses_fill  =   "sunglasses-fill"
+case ph_sunglasses_light  =   "sunglasses-light"
+case ph_sunglasses_thin  =   "sunglasses-thin"
+case ph_swap  =   "swap"
+case ph_swap_bold  =   "swap-bold"
+case ph_swap_fill  =   "swap-fill"
+case ph_swap_light  =   "swap-light"
+case ph_swap_thin  =   "swap-thin"
+case ph_swatches  =   "swatches"
+case ph_swatches_bold  =   "swatches-bold"
+case ph_swatches_fill  =   "swatches-fill"
+case ph_swatches_light  =   "swatches-light"
+case ph_swatches_thin  =   "swatches-thin"
+case ph_sword  =   "sword"
+case ph_sword_bold  =   "sword-bold"
+case ph_sword_fill  =   "sword-fill"
+case ph_sword_light  =   "sword-light"
+case ph_sword_thin  =   "sword-thin"
+case ph_syringe  =   "syringe"
+case ph_syringe_bold  =   "syringe-bold"
+case ph_syringe_fill  =   "syringe-fill"
+case ph_syringe_light  =   "syringe-light"
+case ph_syringe_thin  =   "syringe-thin"
+case ph_t_shirt  =   "t-shirt"
+case ph_t_shirt_bold  =   "t-shirt-bold"
+case ph_t_shirt_fill  =   "t-shirt-fill"
+case ph_t_shirt_light  =   "t-shirt-light"
+case ph_t_shirt_thin  =   "t-shirt-thin"
+case ph_table  =   "table"
+case ph_table_bold  =   "table-bold"
+case ph_table_fill  =   "table-fill"
+case ph_table_light  =   "table-light"
+case ph_table_thin  =   "table-thin"
+case ph_tabs  =   "tabs"
+case ph_tabs_bold  =   "tabs-bold"
+case ph_tabs_fill  =   "tabs-fill"
+case ph_tabs_light  =   "tabs-light"
+case ph_tabs_thin  =   "tabs-thin"
+case ph_tag  =   "tag"
+case ph_tag_bold  =   "tag-bold"
+case ph_tag_chevron  =   "tag-chevron"
+case ph_tag_chevron_bold  =   "tag-chevron-bold"
+case ph_tag_chevron_fill  =   "tag-chevron-fill"
+case ph_tag_chevron_light  =   "tag-chevron-light"
+case ph_tag_chevron_thin  =   "tag-chevron-thin"
+case ph_tag_fill  =   "tag-fill"
+case ph_tag_light  =   "tag-light"
+case ph_tag_simple  =   "tag-simple"
+case ph_tag_simple_bold  =   "tag-simple-bold"
+case ph_tag_simple_fill  =   "tag-simple-fill"
+case ph_tag_simple_light  =   "tag-simple-light"
+case ph_tag_simple_thin  =   "tag-simple-thin"
+case ph_tag_thin  =   "tag-thin"
+case ph_target  =   "target"
+case ph_target_bold  =   "target-bold"
+case ph_target_fill  =   "target-fill"
+case ph_target_light  =   "target-light"
+case ph_target_thin  =   "target-thin"
+case ph_taxi  =   "taxi"
+case ph_taxi_bold  =   "taxi-bold"
+case ph_taxi_fill  =   "taxi-fill"
+case ph_taxi_light  =   "taxi-light"
+case ph_taxi_thin  =   "taxi-thin"
+case ph_telegram_logo  =   "telegram-logo"
+case ph_telegram_logo_bold  =   "telegram-logo-bold"
+case ph_telegram_logo_fill  =   "telegram-logo-fill"
+case ph_telegram_logo_light  =   "telegram-logo-light"
+case ph_telegram_logo_thin  =   "telegram-logo-thin"
+case ph_television  =   "television"
+case ph_television_bold  =   "television-bold"
+case ph_television_fill  =   "television-fill"
+case ph_television_light  =   "television-light"
+case ph_television_simple  =   "television-simple"
+case ph_television_simple_bold  =   "television-simple-bold"
+case ph_television_simple_fill  =   "television-simple-fill"
+case ph_television_simple_light  =   "television-simple-light"
+case ph_television_simple_thin  =   "television-simple-thin"
+case ph_television_thin  =   "television-thin"
+case ph_tennis_ball  =   "tennis-ball"
+case ph_tennis_ball_bold  =   "tennis-ball-bold"
+case ph_tennis_ball_fill  =   "tennis-ball-fill"
+case ph_tennis_ball_light  =   "tennis-ball-light"
+case ph_tennis_ball_thin  =   "tennis-ball-thin"
+case ph_terminal  =   "terminal"
+case ph_terminal_bold  =   "terminal-bold"
+case ph_terminal_fill  =   "terminal-fill"
+case ph_terminal_light  =   "terminal-light"
+case ph_terminal_thin  =   "terminal-thin"
+case ph_terminal_window  =   "terminal-window"
+case ph_terminal_window_bold  =   "terminal-window-bold"
+case ph_terminal_window_fill  =   "terminal-window-fill"
+case ph_terminal_window_light  =   "terminal-window-light"
+case ph_terminal_window_thin  =   "terminal-window-thin"
+case ph_test_tube  =   "test-tube"
+case ph_test_tube_bold  =   "test-tube-bold"
+case ph_test_tube_fill  =   "test-tube-fill"
+case ph_test_tube_light  =   "test-tube-light"
+case ph_test_tube_thin  =   "test-tube-thin"
+case ph_text_aa  =   "text-aa"
+case ph_text_aa_bold  =   "text-aa-bold"
+case ph_text_aa_fill  =   "text-aa-fill"
+case ph_text_aa_light  =   "text-aa-light"
+case ph_text_aa_thin  =   "text-aa-thin"
+case ph_text_align_center  =   "text-align-center"
+case ph_text_align_center_bold  =   "text-align-center-bold"
+case ph_text_align_center_fill  =   "text-align-center-fill"
+case ph_text_align_center_light  =   "text-align-center-light"
+case ph_text_align_center_thin  =   "text-align-center-thin"
+case ph_text_align_justify  =   "text-align-justify"
+case ph_text_align_justify_bold  =   "text-align-justify-bold"
+case ph_text_align_justify_fill  =   "text-align-justify-fill"
+case ph_text_align_justify_light  =   "text-align-justify-light"
+case ph_text_align_justify_thin  =   "text-align-justify-thin"
+case ph_text_align_left  =   "text-align-left"
+case ph_text_align_left_bold  =   "text-align-left-bold"
+case ph_text_align_left_fill  =   "text-align-left-fill"
+case ph_text_align_left_light  =   "text-align-left-light"
+case ph_text_align_left_thin  =   "text-align-left-thin"
+case ph_text_align_right  =   "text-align-right"
+case ph_text_align_right_bold  =   "text-align-right-bold"
+case ph_text_align_right_fill  =   "text-align-right-fill"
+case ph_text_align_right_light  =   "text-align-right-light"
+case ph_text_align_right_thin  =   "text-align-right-thin"
+case ph_text_bolder  =   "text-bolder"
+case ph_text_bolder_bold  =   "text-bolder-bold"
+case ph_text_bolder_fill  =   "text-bolder-fill"
+case ph_text_bolder_light  =   "text-bolder-light"
+case ph_text_bolder_thin  =   "text-bolder-thin"
+case ph_text_h  =   "text-h"
+case ph_text_h_bold  =   "text-h-bold"
+case ph_text_h_fill  =   "text-h-fill"
+case ph_text_h_five  =   "text-h-five"
+case ph_text_h_five_bold  =   "text-h-five-bold"
+case ph_text_h_five_fill  =   "text-h-five-fill"
+case ph_text_h_five_light  =   "text-h-five-light"
+case ph_text_h_five_thin  =   "text-h-five-thin"
+case ph_text_h_four  =   "text-h-four"
+case ph_text_h_four_bold  =   "text-h-four-bold"
+case ph_text_h_four_fill  =   "text-h-four-fill"
+case ph_text_h_four_light  =   "text-h-four-light"
+case ph_text_h_four_thin  =   "text-h-four-thin"
+case ph_text_h_light  =   "text-h-light"
+case ph_text_h_one  =   "text-h-one"
+case ph_text_h_one_bold  =   "text-h-one-bold"
+case ph_text_h_one_fill  =   "text-h-one-fill"
+case ph_text_h_one_light  =   "text-h-one-light"
+case ph_text_h_one_thin  =   "text-h-one-thin"
+case ph_text_h_six  =   "text-h-six"
+case ph_text_h_six_bold  =   "text-h-six-bold"
+case ph_text_h_six_fill  =   "text-h-six-fill"
+case ph_text_h_six_light  =   "text-h-six-light"
+case ph_text_h_six_thin  =   "text-h-six-thin"
+case ph_text_h_thin  =   "text-h-thin"
+case ph_text_h_three  =   "text-h-three"
+case ph_text_h_three_bold  =   "text-h-three-bold"
+case ph_text_h_three_fill  =   "text-h-three-fill"
+case ph_text_h_three_light  =   "text-h-three-light"
+case ph_text_h_three_thin  =   "text-h-three-thin"
+case ph_text_h_two  =   "text-h-two"
+case ph_text_h_two_bold  =   "text-h-two-bold"
+case ph_text_h_two_fill  =   "text-h-two-fill"
+case ph_text_h_two_light  =   "text-h-two-light"
+case ph_text_h_two_thin  =   "text-h-two-thin"
+case ph_text_indent  =   "text-indent"
+case ph_text_indent_bold  =   "text-indent-bold"
+case ph_text_indent_fill  =   "text-indent-fill"
+case ph_text_indent_light  =   "text-indent-light"
+case ph_text_indent_thin  =   "text-indent-thin"
+case ph_text_italic  =   "text-italic"
+case ph_text_italic_bold  =   "text-italic-bold"
+case ph_text_italic_fill  =   "text-italic-fill"
+case ph_text_italic_light  =   "text-italic-light"
+case ph_text_italic_thin  =   "text-italic-thin"
+case ph_text_outdent  =   "text-outdent"
+case ph_text_outdent_bold  =   "text-outdent-bold"
+case ph_text_outdent_fill  =   "text-outdent-fill"
+case ph_text_outdent_light  =   "text-outdent-light"
+case ph_text_outdent_thin  =   "text-outdent-thin"
+case ph_text_strikethrough  =   "text-strikethrough"
+case ph_text_strikethrough_bold  =   "text-strikethrough-bold"
+case ph_text_strikethrough_fill  =   "text-strikethrough-fill"
+case ph_text_strikethrough_light  =   "text-strikethrough-light"
+case ph_text_strikethrough_thin  =   "text-strikethrough-thin"
+case ph_text_t  =   "text-t"
+case ph_text_t_bold  =   "text-t-bold"
+case ph_text_t_fill  =   "text-t-fill"
+case ph_text_t_light  =   "text-t-light"
+case ph_text_t_thin  =   "text-t-thin"
+case ph_text_underline  =   "text-underline"
+case ph_text_underline_bold  =   "text-underline-bold"
+case ph_text_underline_fill  =   "text-underline-fill"
+case ph_text_underline_light  =   "text-underline-light"
+case ph_text_underline_thin  =   "text-underline-thin"
+case ph_textbox  =   "textbox"
+case ph_textbox_bold  =   "textbox-bold"
+case ph_textbox_fill  =   "textbox-fill"
+case ph_textbox_light  =   "textbox-light"
+case ph_textbox_thin  =   "textbox-thin"
+case ph_thermometer  =   "thermometer"
+case ph_thermometer_bold  =   "thermometer-bold"
+case ph_thermometer_cold  =   "thermometer-cold"
+case ph_thermometer_cold_bold  =   "thermometer-cold-bold"
+case ph_thermometer_cold_fill  =   "thermometer-cold-fill"
+case ph_thermometer_cold_light  =   "thermometer-cold-light"
+case ph_thermometer_cold_thin  =   "thermometer-cold-thin"
+case ph_thermometer_fill  =   "thermometer-fill"
+case ph_thermometer_hot  =   "thermometer-hot"
+case ph_thermometer_hot_bold  =   "thermometer-hot-bold"
+case ph_thermometer_hot_fill  =   "thermometer-hot-fill"
+case ph_thermometer_hot_light  =   "thermometer-hot-light"
+case ph_thermometer_hot_thin  =   "thermometer-hot-thin"
+case ph_thermometer_light  =   "thermometer-light"
+case ph_thermometer_simple  =   "thermometer-simple"
+case ph_thermometer_simple_bold  =   "thermometer-simple-bold"
+case ph_thermometer_simple_fill  =   "thermometer-simple-fill"
+case ph_thermometer_simple_light  =   "thermometer-simple-light"
+case ph_thermometer_simple_thin  =   "thermometer-simple-thin"
+case ph_thermometer_thin  =   "thermometer-thin"
+case ph_thumbs_down  =   "thumbs-down"
+case ph_thumbs_down_bold  =   "thumbs-down-bold"
+case ph_thumbs_down_fill  =   "thumbs-down-fill"
+case ph_thumbs_down_light  =   "thumbs-down-light"
+case ph_thumbs_down_thin  =   "thumbs-down-thin"
+case ph_thumbs_up  =   "thumbs-up"
+case ph_thumbs_up_bold  =   "thumbs-up-bold"
+case ph_thumbs_up_fill  =   "thumbs-up-fill"
+case ph_thumbs_up_light  =   "thumbs-up-light"
+case ph_thumbs_up_thin  =   "thumbs-up-thin"
+case ph_ticket  =   "ticket"
+case ph_ticket_bold  =   "ticket-bold"
+case ph_ticket_fill  =   "ticket-fill"
+case ph_ticket_light  =   "ticket-light"
+case ph_ticket_thin  =   "ticket-thin"
+case ph_tiktok_logo  =   "tiktok-logo"
+case ph_tiktok_logo_bold  =   "tiktok-logo-bold"
+case ph_tiktok_logo_fill  =   "tiktok-logo-fill"
+case ph_tiktok_logo_light  =   "tiktok-logo-light"
+case ph_tiktok_logo_thin  =   "tiktok-logo-thin"
+case ph_timer  =   "timer"
+case ph_timer_bold  =   "timer-bold"
+case ph_timer_fill  =   "timer-fill"
+case ph_timer_light  =   "timer-light"
+case ph_timer_thin  =   "timer-thin"
+case ph_toggle_left  =   "toggle-left"
+case ph_toggle_left_bold  =   "toggle-left-bold"
+case ph_toggle_left_fill  =   "toggle-left-fill"
+case ph_toggle_left_light  =   "toggle-left-light"
+case ph_toggle_left_thin  =   "toggle-left-thin"
+case ph_toggle_right  =   "toggle-right"
+case ph_toggle_right_bold  =   "toggle-right-bold"
+case ph_toggle_right_fill  =   "toggle-right-fill"
+case ph_toggle_right_light  =   "toggle-right-light"
+case ph_toggle_right_thin  =   "toggle-right-thin"
+case ph_toilet  =   "toilet"
+case ph_toilet_bold  =   "toilet-bold"
+case ph_toilet_fill  =   "toilet-fill"
+case ph_toilet_light  =   "toilet-light"
+case ph_toilet_paper  =   "toilet-paper"
+case ph_toilet_paper_bold  =   "toilet-paper-bold"
+case ph_toilet_paper_fill  =   "toilet-paper-fill"
+case ph_toilet_paper_light  =   "toilet-paper-light"
+case ph_toilet_paper_thin  =   "toilet-paper-thin"
+case ph_toilet_thin  =   "toilet-thin"
+case ph_tote  =   "tote"
+case ph_tote_bold  =   "tote-bold"
+case ph_tote_fill  =   "tote-fill"
+case ph_tote_light  =   "tote-light"
+case ph_tote_simple  =   "tote-simple"
+case ph_tote_simple_bold  =   "tote-simple-bold"
+case ph_tote_simple_fill  =   "tote-simple-fill"
+case ph_tote_simple_light  =   "tote-simple-light"
+case ph_tote_simple_thin  =   "tote-simple-thin"
+case ph_tote_thin  =   "tote-thin"
+case ph_trademark_registered  =   "trademark-registered"
+case ph_trademark_registered_bold  =   "trademark-registered-bold"
+case ph_trademark_registered_fill  =   "trademark-registered-fill"
+case ph_trademark_registered_light  =   "trademark-registered-light"
+case ph_trademark_registered_thin  =   "trademark-registered-thin"
+case ph_traffic_cone  =   "traffic-cone"
+case ph_traffic_cone_bold  =   "traffic-cone-bold"
+case ph_traffic_cone_fill  =   "traffic-cone-fill"
+case ph_traffic_cone_light  =   "traffic-cone-light"
+case ph_traffic_cone_thin  =   "traffic-cone-thin"
+case ph_traffic_sign  =   "traffic-sign"
+case ph_traffic_sign_bold  =   "traffic-sign-bold"
+case ph_traffic_sign_fill  =   "traffic-sign-fill"
+case ph_traffic_sign_light  =   "traffic-sign-light"
+case ph_traffic_sign_thin  =   "traffic-sign-thin"
+case ph_traffic_signal  =   "traffic-signal"
+case ph_traffic_signal_bold  =   "traffic-signal-bold"
+case ph_traffic_signal_fill  =   "traffic-signal-fill"
+case ph_traffic_signal_light  =   "traffic-signal-light"
+case ph_traffic_signal_thin  =   "traffic-signal-thin"
+case ph_train  =   "train"
+case ph_train_bold  =   "train-bold"
+case ph_train_fill  =   "train-fill"
+case ph_train_light  =   "train-light"
+case ph_train_regional  =   "train-regional"
+case ph_train_regional_bold  =   "train-regional-bold"
+case ph_train_regional_fill  =   "train-regional-fill"
+case ph_train_regional_light  =   "train-regional-light"
+case ph_train_regional_thin  =   "train-regional-thin"
+case ph_train_simple  =   "train-simple"
+case ph_train_simple_bold  =   "train-simple-bold"
+case ph_train_simple_fill  =   "train-simple-fill"
+case ph_train_simple_light  =   "train-simple-light"
+case ph_train_simple_thin  =   "train-simple-thin"
+case ph_train_thin  =   "train-thin"
+case ph_translate  =   "translate"
+case ph_translate_bold  =   "translate-bold"
+case ph_translate_fill  =   "translate-fill"
+case ph_translate_light  =   "translate-light"
+case ph_translate_thin  =   "translate-thin"
+case ph_trash  =   "trash"
+case ph_trash_bold  =   "trash-bold"
+case ph_trash_fill  =   "trash-fill"
+case ph_trash_light  =   "trash-light"
+case ph_trash_simple  =   "trash-simple"
+case ph_trash_simple_bold  =   "trash-simple-bold"
+case ph_trash_simple_fill  =   "trash-simple-fill"
+case ph_trash_simple_light  =   "trash-simple-light"
+case ph_trash_simple_thin  =   "trash-simple-thin"
+case ph_trash_thin  =   "trash-thin"
+case ph_tray  =   "tray"
+case ph_tray_bold  =   "tray-bold"
+case ph_tray_fill  =   "tray-fill"
+case ph_tray_light  =   "tray-light"
+case ph_tray_thin  =   "tray-thin"
+case ph_tree  =   "tree"
+case ph_tree_bold  =   "tree-bold"
+case ph_tree_evergreen  =   "tree-evergreen"
+case ph_tree_evergreen_bold  =   "tree-evergreen-bold"
+case ph_tree_evergreen_fill  =   "tree-evergreen-fill"
+case ph_tree_evergreen_light  =   "tree-evergreen-light"
+case ph_tree_evergreen_thin  =   "tree-evergreen-thin"
+case ph_tree_fill  =   "tree-fill"
+case ph_tree_light  =   "tree-light"
+case ph_tree_structure  =   "tree-structure"
+case ph_tree_structure_bold  =   "tree-structure-bold"
+case ph_tree_structure_fill  =   "tree-structure-fill"
+case ph_tree_structure_light  =   "tree-structure-light"
+case ph_tree_structure_thin  =   "tree-structure-thin"
+case ph_tree_thin  =   "tree-thin"
+case ph_trend_down  =   "trend-down"
+case ph_trend_down_bold  =   "trend-down-bold"
+case ph_trend_down_fill  =   "trend-down-fill"
+case ph_trend_down_light  =   "trend-down-light"
+case ph_trend_down_thin  =   "trend-down-thin"
+case ph_trend_up  =   "trend-up"
+case ph_trend_up_bold  =   "trend-up-bold"
+case ph_trend_up_fill  =   "trend-up-fill"
+case ph_trend_up_light  =   "trend-up-light"
+case ph_trend_up_thin  =   "trend-up-thin"
+case ph_triangle  =   "triangle"
+case ph_triangle_bold  =   "triangle-bold"
+case ph_triangle_fill  =   "triangle-fill"
+case ph_triangle_light  =   "triangle-light"
+case ph_triangle_thin  =   "triangle-thin"
+case ph_trophy  =   "trophy"
+case ph_trophy_bold  =   "trophy-bold"
+case ph_trophy_fill  =   "trophy-fill"
+case ph_trophy_light  =   "trophy-light"
+case ph_trophy_thin  =   "trophy-thin"
+case ph_truck  =   "truck"
+case ph_truck_bold  =   "truck-bold"
+case ph_truck_fill  =   "truck-fill"
+case ph_truck_light  =   "truck-light"
+case ph_truck_thin  =   "truck-thin"
+case ph_twitch_logo  =   "twitch-logo"
+case ph_twitch_logo_bold  =   "twitch-logo-bold"
+case ph_twitch_logo_fill  =   "twitch-logo-fill"
+case ph_twitch_logo_light  =   "twitch-logo-light"
+case ph_twitch_logo_thin  =   "twitch-logo-thin"
+case ph_twitter_logo  =   "twitter-logo"
+case ph_twitter_logo_bold  =   "twitter-logo-bold"
+case ph_twitter_logo_fill  =   "twitter-logo-fill"
+case ph_twitter_logo_light  =   "twitter-logo-light"
+case ph_twitter_logo_thin  =   "twitter-logo-thin"
+case ph_umbrella  =   "umbrella"
+case ph_umbrella_bold  =   "umbrella-bold"
+case ph_umbrella_fill  =   "umbrella-fill"
+case ph_umbrella_light  =   "umbrella-light"
+case ph_umbrella_simple  =   "umbrella-simple"
+case ph_umbrella_simple_bold  =   "umbrella-simple-bold"
+case ph_umbrella_simple_fill  =   "umbrella-simple-fill"
+case ph_umbrella_simple_light  =   "umbrella-simple-light"
+case ph_umbrella_simple_thin  =   "umbrella-simple-thin"
+case ph_umbrella_thin  =   "umbrella-thin"
+case ph_upload  =   "upload"
+case ph_upload_bold  =   "upload-bold"
+case ph_upload_fill  =   "upload-fill"
+case ph_upload_light  =   "upload-light"
+case ph_upload_simple  =   "upload-simple"
+case ph_upload_simple_bold  =   "upload-simple-bold"
+case ph_upload_simple_fill  =   "upload-simple-fill"
+case ph_upload_simple_light  =   "upload-simple-light"
+case ph_upload_simple_thin  =   "upload-simple-thin"
+case ph_upload_thin  =   "upload-thin"
+case ph_user  =   "user"
+case ph_user_bold  =   "user-bold"
+case ph_user_circle  =   "user-circle"
+case ph_user_circle_bold  =   "user-circle-bold"
+case ph_user_circle_fill  =   "user-circle-fill"
+case ph_user_circle_gear  =   "user-circle-gear"
+case ph_user_circle_gear_bold  =   "user-circle-gear-bold"
+case ph_user_circle_gear_fill  =   "user-circle-gear-fill"
+case ph_user_circle_gear_light  =   "user-circle-gear-light"
+case ph_user_circle_gear_thin  =   "user-circle-gear-thin"
+case ph_user_circle_light  =   "user-circle-light"
+case ph_user_circle_minus  =   "user-circle-minus"
+case ph_user_circle_minus_bold  =   "user-circle-minus-bold"
+case ph_user_circle_minus_fill  =   "user-circle-minus-fill"
+case ph_user_circle_minus_light  =   "user-circle-minus-light"
+case ph_user_circle_minus_thin  =   "user-circle-minus-thin"
+case ph_user_circle_plus  =   "user-circle-plus"
+case ph_user_circle_plus_bold  =   "user-circle-plus-bold"
+case ph_user_circle_plus_fill  =   "user-circle-plus-fill"
+case ph_user_circle_plus_light  =   "user-circle-plus-light"
+case ph_user_circle_plus_thin  =   "user-circle-plus-thin"
+case ph_user_circle_thin  =   "user-circle-thin"
+case ph_user_fill  =   "user-fill"
+case ph_user_focus  =   "user-focus"
+case ph_user_focus_bold  =   "user-focus-bold"
+case ph_user_focus_fill  =   "user-focus-fill"
+case ph_user_focus_light  =   "user-focus-light"
+case ph_user_focus_thin  =   "user-focus-thin"
+case ph_user_gear  =   "user-gear"
+case ph_user_gear_bold  =   "user-gear-bold"
+case ph_user_gear_fill  =   "user-gear-fill"
+case ph_user_gear_light  =   "user-gear-light"
+case ph_user_gear_thin  =   "user-gear-thin"
+case ph_user_light  =   "user-light"
+case ph_user_list  =   "user-list"
+case ph_user_list_bold  =   "user-list-bold"
+case ph_user_list_fill  =   "user-list-fill"
+case ph_user_list_light  =   "user-list-light"
+case ph_user_list_thin  =   "user-list-thin"
+case ph_user_minus  =   "user-minus"
+case ph_user_minus_bold  =   "user-minus-bold"
+case ph_user_minus_fill  =   "user-minus-fill"
+case ph_user_minus_light  =   "user-minus-light"
+case ph_user_minus_thin  =   "user-minus-thin"
+case ph_user_plus  =   "user-plus"
+case ph_user_plus_bold  =   "user-plus-bold"
+case ph_user_plus_fill  =   "user-plus-fill"
+case ph_user_plus_light  =   "user-plus-light"
+case ph_user_plus_thin  =   "user-plus-thin"
+case ph_user_rectangle  =   "user-rectangle"
+case ph_user_rectangle_bold  =   "user-rectangle-bold"
+case ph_user_rectangle_fill  =   "user-rectangle-fill"
+case ph_user_rectangle_light  =   "user-rectangle-light"
+case ph_user_rectangle_thin  =   "user-rectangle-thin"
+case ph_user_square  =   "user-square"
+case ph_user_square_bold  =   "user-square-bold"
+case ph_user_square_fill  =   "user-square-fill"
+case ph_user_square_light  =   "user-square-light"
+case ph_user_square_thin  =   "user-square-thin"
+case ph_user_switch  =   "user-switch"
+case ph_user_switch_bold  =   "user-switch-bold"
+case ph_user_switch_fill  =   "user-switch-fill"
+case ph_user_switch_light  =   "user-switch-light"
+case ph_user_switch_thin  =   "user-switch-thin"
+case ph_user_thin  =   "user-thin"
+case ph_users  =   "users"
+case ph_users_bold  =   "users-bold"
+case ph_users_fill  =   "users-fill"
+case ph_users_four  =   "users-four"
+case ph_users_four_bold  =   "users-four-bold"
+case ph_users_four_fill  =   "users-four-fill"
+case ph_users_four_light  =   "users-four-light"
+case ph_users_four_thin  =   "users-four-thin"
+case ph_users_light  =   "users-light"
+case ph_users_thin  =   "users-thin"
+case ph_users_three  =   "users-three"
+case ph_users_three_bold  =   "users-three-bold"
+case ph_users_three_fill  =   "users-three-fill"
+case ph_users_three_light  =   "users-three-light"
+case ph_users_three_thin  =   "users-three-thin"
+case ph_vault  =   "vault"
+case ph_vault_bold  =   "vault-bold"
+case ph_vault_fill  =   "vault-fill"
+case ph_vault_light  =   "vault-light"
+case ph_vault_thin  =   "vault-thin"
+case ph_vibrate  =   "vibrate"
+case ph_vibrate_bold  =   "vibrate-bold"
+case ph_vibrate_fill  =   "vibrate-fill"
+case ph_vibrate_light  =   "vibrate-light"
+case ph_vibrate_thin  =   "vibrate-thin"
+case ph_video_camera  =   "video-camera"
+case ph_video_camera_bold  =   "video-camera-bold"
+case ph_video_camera_fill  =   "video-camera-fill"
+case ph_video_camera_light  =   "video-camera-light"
+case ph_video_camera_slash  =   "video-camera-slash"
+case ph_video_camera_slash_bold  =   "video-camera-slash-bold"
+case ph_video_camera_slash_fill  =   "video-camera-slash-fill"
+case ph_video_camera_slash_light  =   "video-camera-slash-light"
+case ph_video_camera_slash_thin  =   "video-camera-slash-thin"
+case ph_video_camera_thin  =   "video-camera-thin"
+case ph_vignette  =   "vignette"
+case ph_vignette_bold  =   "vignette-bold"
+case ph_vignette_fill  =   "vignette-fill"
+case ph_vignette_light  =   "vignette-light"
+case ph_vignette_thin  =   "vignette-thin"
+case ph_voicemail  =   "voicemail"
+case ph_voicemail_bold  =   "voicemail-bold"
+case ph_voicemail_fill  =   "voicemail-fill"
+case ph_voicemail_light  =   "voicemail-light"
+case ph_voicemail_thin  =   "voicemail-thin"
+case ph_volleyball  =   "volleyball"
+case ph_volleyball_bold  =   "volleyball-bold"
+case ph_volleyball_fill  =   "volleyball-fill"
+case ph_volleyball_light  =   "volleyball-light"
+case ph_volleyball_thin  =   "volleyball-thin"
+case ph_wall  =   "wall"
+case ph_wall_bold  =   "wall-bold"
+case ph_wall_fill  =   "wall-fill"
+case ph_wall_light  =   "wall-light"
+case ph_wall_thin  =   "wall-thin"
+case ph_wallet  =   "wallet"
+case ph_wallet_bold  =   "wallet-bold"
+case ph_wallet_fill  =   "wallet-fill"
+case ph_wallet_light  =   "wallet-light"
+case ph_wallet_thin  =   "wallet-thin"
+case ph_warning  =   "warning"
+case ph_warning_bold  =   "warning-bold"
+case ph_warning_circle  =   "warning-circle"
+case ph_warning_circle_bold  =   "warning-circle-bold"
+case ph_warning_circle_fill  =   "warning-circle-fill"
+case ph_warning_circle_light  =   "warning-circle-light"
+case ph_warning_circle_thin  =   "warning-circle-thin"
+case ph_warning_fill  =   "warning-fill"
+case ph_warning_light  =   "warning-light"
+case ph_warning_octagon  =   "warning-octagon"
+case ph_warning_octagon_bold  =   "warning-octagon-bold"
+case ph_warning_octagon_fill  =   "warning-octagon-fill"
+case ph_warning_octagon_light  =   "warning-octagon-light"
+case ph_warning_octagon_thin  =   "warning-octagon-thin"
+case ph_warning_thin  =   "warning-thin"
+case ph_watch  =   "watch"
+case ph_watch_bold  =   "watch-bold"
+case ph_watch_fill  =   "watch-fill"
+case ph_watch_light  =   "watch-light"
+case ph_watch_thin  =   "watch-thin"
+case ph_wave_sawtooth  =   "wave-sawtooth"
+case ph_wave_sawtooth_bold  =   "wave-sawtooth-bold"
+case ph_wave_sawtooth_fill  =   "wave-sawtooth-fill"
+case ph_wave_sawtooth_light  =   "wave-sawtooth-light"
+case ph_wave_sawtooth_thin  =   "wave-sawtooth-thin"
+case ph_wave_sine  =   "wave-sine"
+case ph_wave_sine_bold  =   "wave-sine-bold"
+case ph_wave_sine_fill  =   "wave-sine-fill"
+case ph_wave_sine_light  =   "wave-sine-light"
+case ph_wave_sine_thin  =   "wave-sine-thin"
+case ph_wave_square  =   "wave-square"
+case ph_wave_square_bold  =   "wave-square-bold"
+case ph_wave_square_fill  =   "wave-square-fill"
+case ph_wave_square_light  =   "wave-square-light"
+case ph_wave_square_thin  =   "wave-square-thin"
+case ph_wave_triangle  =   "wave-triangle"
+case ph_wave_triangle_bold  =   "wave-triangle-bold"
+case ph_wave_triangle_fill  =   "wave-triangle-fill"
+case ph_wave_triangle_light  =   "wave-triangle-light"
+case ph_wave_triangle_thin  =   "wave-triangle-thin"
+case ph_waves  =   "waves"
+case ph_waves_bold  =   "waves-bold"
+case ph_waves_fill  =   "waves-fill"
+case ph_waves_light  =   "waves-light"
+case ph_waves_thin  =   "waves-thin"
+case ph_webcam  =   "webcam"
+case ph_webcam_bold  =   "webcam-bold"
+case ph_webcam_fill  =   "webcam-fill"
+case ph_webcam_light  =   "webcam-light"
+case ph_webcam_thin  =   "webcam-thin"
+case ph_whatsapp_logo  =   "whatsapp-logo"
+case ph_whatsapp_logo_bold  =   "whatsapp-logo-bold"
+case ph_whatsapp_logo_fill  =   "whatsapp-logo-fill"
+case ph_whatsapp_logo_light  =   "whatsapp-logo-light"
+case ph_whatsapp_logo_thin  =   "whatsapp-logo-thin"
+case ph_wheelchair  =   "wheelchair"
+case ph_wheelchair_bold  =   "wheelchair-bold"
+case ph_wheelchair_fill  =   "wheelchair-fill"
+case ph_wheelchair_light  =   "wheelchair-light"
+case ph_wheelchair_thin  =   "wheelchair-thin"
+case ph_wifi_high  =   "wifi-high"
+case ph_wifi_high_bold  =   "wifi-high-bold"
+case ph_wifi_high_fill  =   "wifi-high-fill"
+case ph_wifi_high_light  =   "wifi-high-light"
+case ph_wifi_high_thin  =   "wifi-high-thin"
+case ph_wifi_low  =   "wifi-low"
+case ph_wifi_low_bold  =   "wifi-low-bold"
+case ph_wifi_low_fill  =   "wifi-low-fill"
+case ph_wifi_low_light  =   "wifi-low-light"
+case ph_wifi_low_thin  =   "wifi-low-thin"
+case ph_wifi_medium  =   "wifi-medium"
+case ph_wifi_medium_bold  =   "wifi-medium-bold"
+case ph_wifi_medium_fill  =   "wifi-medium-fill"
+case ph_wifi_medium_light  =   "wifi-medium-light"
+case ph_wifi_medium_thin  =   "wifi-medium-thin"
+case ph_wifi_none  =   "wifi-none"
+case ph_wifi_none_bold  =   "wifi-none-bold"
+case ph_wifi_none_fill  =   "wifi-none-fill"
+case ph_wifi_none_light  =   "wifi-none-light"
+case ph_wifi_none_thin  =   "wifi-none-thin"
+case ph_wifi_slash  =   "wifi-slash"
+case ph_wifi_slash_bold  =   "wifi-slash-bold"
+case ph_wifi_slash_fill  =   "wifi-slash-fill"
+case ph_wifi_slash_light  =   "wifi-slash-light"
+case ph_wifi_slash_thin  =   "wifi-slash-thin"
+case ph_wifi_x  =   "wifi-x"
+case ph_wifi_x_bold  =   "wifi-x-bold"
+case ph_wifi_x_fill  =   "wifi-x-fill"
+case ph_wifi_x_light  =   "wifi-x-light"
+case ph_wifi_x_thin  =   "wifi-x-thin"
+case ph_wind  =   "wind"
+case ph_wind_bold  =   "wind-bold"
+case ph_wind_fill  =   "wind-fill"
+case ph_wind_light  =   "wind-light"
+case ph_wind_thin  =   "wind-thin"
+case ph_windows_logo  =   "windows-logo"
+case ph_windows_logo_bold  =   "windows-logo-bold"
+case ph_windows_logo_fill  =   "windows-logo-fill"
+case ph_windows_logo_light  =   "windows-logo-light"
+case ph_windows_logo_thin  =   "windows-logo-thin"
+case ph_wine  =   "wine"
+case ph_wine_bold  =   "wine-bold"
+case ph_wine_fill  =   "wine-fill"
+case ph_wine_light  =   "wine-light"
+case ph_wine_thin  =   "wine-thin"
+case ph_wrench  =   "wrench"
+case ph_wrench_bold  =   "wrench-bold"
+case ph_wrench_fill  =   "wrench-fill"
+case ph_wrench_light  =   "wrench-light"
+case ph_wrench_thin  =   "wrench-thin"
+case ph_x  =   "x"
+case ph_x_bold  =   "x-bold"
+case ph_x_circle  =   "x-circle"
+case ph_x_circle_bold  =   "x-circle-bold"
+case ph_x_circle_fill  =   "x-circle-fill"
+case ph_x_circle_light  =   "x-circle-light"
+case ph_x_circle_thin  =   "x-circle-thin"
+case ph_x_fill  =   "x-fill"
+case ph_x_light  =   "x-light"
+case ph_x_square  =   "x-square"
+case ph_x_square_bold  =   "x-square-bold"
+case ph_x_square_fill  =   "x-square-fill"
+case ph_x_square_light  =   "x-square-light"
+case ph_x_square_thin  =   "x-square-thin"
+case ph_x_thin  =   "x-thin"
+case ph_yin_yang  =   "yin-yang"
+case ph_yin_yang_bold  =   "yin-yang-bold"
+case ph_yin_yang_fill  =   "yin-yang-fill"
+case ph_yin_yang_light  =   "yin-yang-light"
+case ph_yin_yang_thin  =   "yin-yang-thin"
+case ph_youtube_logo  =   "youtube-logo"
+case ph_youtube_logo_bold  =   "youtube-logo-bold"
+case ph_youtube_logo_fill  =   "youtube-logo-fill"
+case ph_youtube_logo_light  =   "youtube-logo-light"
+case ph_youtube_logo_thin  =   "youtube-logo-thin" 
+
+
 
 
 
@@ -7697,6 +12935,5246 @@ case .gm_zoom_in : return "\u{e8ff}"
 case .gm_zoom_in_map : return "\u{eb2d}"
 case .gm_zoom_out : return "\u{e900}"
 case .gm_zoom_out_map : return "\u{e56b}"
+
+//phospher
+ case .ph_activity : return "\u{f230}" 
+case .ph_activity_bold : return "\u{f647}" 
+case .ph_activity_fill : return "\u{fa5e}" 
+case .ph_activity_light : return "\u{ee19}" 
+case .ph_activity_thin : return "\u{ea02}" 
+case .ph_address_book : return "\u{f231}" 
+case .ph_address_book_bold : return "\u{f648}" 
+case .ph_address_book_fill : return "\u{fa5f}" 
+case .ph_address_book_light : return "\u{ee1a}" 
+case .ph_address_book_thin : return "\u{ea03}" 
+case .ph_airplane : return "\u{f232}" 
+case .ph_airplane_bold : return "\u{f649}" 
+case .ph_airplane_fill : return "\u{fa60}" 
+case .ph_airplane_in_flight : return "\u{f233}" 
+case .ph_airplane_in_flight_bold : return "\u{f64a}" 
+case .ph_airplane_in_flight_fill : return "\u{fa61}" 
+case .ph_airplane_in_flight_light : return "\u{ee1b}" 
+case .ph_airplane_in_flight_thin : return "\u{ea04}" 
+case .ph_airplane_landing : return "\u{f234}" 
+case .ph_airplane_landing_bold : return "\u{f64b}" 
+case .ph_airplane_landing_fill : return "\u{fa62}" 
+case .ph_airplane_landing_light : return "\u{ee1c}" 
+case .ph_airplane_landing_thin : return "\u{ea05}" 
+case .ph_airplane_light : return "\u{ee1d}" 
+case .ph_airplane_takeoff : return "\u{f235}" 
+case .ph_airplane_takeoff_bold : return "\u{f64c}" 
+case .ph_airplane_takeoff_fill : return "\u{fa63}" 
+case .ph_airplane_takeoff_light : return "\u{ee1e}" 
+case .ph_airplane_takeoff_thin : return "\u{ea06}" 
+case .ph_airplane_thin : return "\u{ea07}" 
+case .ph_airplane_tilt : return "\u{f236}" 
+case .ph_airplane_tilt_bold : return "\u{f64d}" 
+case .ph_airplane_tilt_fill : return "\u{fa64}" 
+case .ph_airplane_tilt_light : return "\u{ee1f}" 
+case .ph_airplane_tilt_thin : return "\u{ea08}" 
+case .ph_airplay : return "\u{f237}" 
+case .ph_airplay_bold : return "\u{f64e}" 
+case .ph_airplay_fill : return "\u{fa65}" 
+case .ph_airplay_light : return "\u{ee20}" 
+case .ph_airplay_thin : return "\u{ea09}" 
+case .ph_alarm : return "\u{f238}" 
+case .ph_alarm_bold : return "\u{f64f}" 
+case .ph_alarm_fill : return "\u{fa66}" 
+case .ph_alarm_light : return "\u{ee21}" 
+case .ph_alarm_thin : return "\u{ea0a}" 
+case .ph_alien : return "\u{f239}" 
+case .ph_alien_bold : return "\u{f650}" 
+case .ph_alien_fill : return "\u{fa67}" 
+case .ph_alien_light : return "\u{ee22}" 
+case .ph_alien_thin : return "\u{ea0b}" 
+case .ph_align_bottom : return "\u{f23a}" 
+case .ph_align_bottom_bold : return "\u{f651}" 
+case .ph_align_bottom_fill : return "\u{fa68}" 
+case .ph_align_bottom_light : return "\u{ee23}" 
+case .ph_align_bottom_simple : return "\u{f23b}" 
+case .ph_align_bottom_simple_bold : return "\u{f652}" 
+case .ph_align_bottom_simple_fill : return "\u{fa69}" 
+case .ph_align_bottom_simple_light : return "\u{ee24}" 
+case .ph_align_bottom_simple_thin : return "\u{ea0c}" 
+case .ph_align_bottom_thin : return "\u{ea0d}" 
+case .ph_align_center_horizontal : return "\u{f23c}" 
+case .ph_align_center_horizontal_bold : return "\u{f653}" 
+case .ph_align_center_horizontal_fill : return "\u{fa6a}" 
+case .ph_align_center_horizontal_light : return "\u{ee25}" 
+case .ph_align_center_horizontal_simple : return "\u{f23d}" 
+case .ph_align_center_horizontal_simple_bold : return "\u{f654}" 
+case .ph_align_center_horizontal_simple_fill : return "\u{fa6b}" 
+case .ph_align_center_horizontal_simple_light : return "\u{ee26}" 
+case .ph_align_center_horizontal_simple_thin : return "\u{ea0e}" 
+case .ph_align_center_horizontal_thin : return "\u{ea0f}" 
+case .ph_align_center_vertical : return "\u{f23e}" 
+case .ph_align_center_vertical_bold : return "\u{f655}" 
+case .ph_align_center_vertical_fill : return "\u{fa6c}" 
+case .ph_align_center_vertical_light : return "\u{ee27}" 
+case .ph_align_center_vertical_simple : return "\u{f23f}" 
+case .ph_align_center_vertical_simple_bold : return "\u{f656}" 
+case .ph_align_center_vertical_simple_fill : return "\u{fa6d}" 
+case .ph_align_center_vertical_simple_light : return "\u{ee28}" 
+case .ph_align_center_vertical_simple_thin : return "\u{ea10}" 
+case .ph_align_center_vertical_thin : return "\u{ea11}" 
+case .ph_align_left : return "\u{f240}" 
+case .ph_align_left_bold : return "\u{f657}" 
+case .ph_align_left_fill : return "\u{fa6e}" 
+case .ph_align_left_light : return "\u{ee29}" 
+case .ph_align_left_simple : return "\u{f241}" 
+case .ph_align_left_simple_bold : return "\u{f658}" 
+case .ph_align_left_simple_fill : return "\u{fa6f}" 
+case .ph_align_left_simple_light : return "\u{ee2a}" 
+case .ph_align_left_simple_thin : return "\u{ea12}" 
+case .ph_align_left_thin : return "\u{ea13}" 
+case .ph_align_right : return "\u{f242}" 
+case .ph_align_right_bold : return "\u{f659}" 
+case .ph_align_right_fill : return "\u{fa70}" 
+case .ph_align_right_light : return "\u{ee2b}" 
+case .ph_align_right_simple : return "\u{f243}" 
+case .ph_align_right_simple_bold : return "\u{f65a}" 
+case .ph_align_right_simple_fill : return "\u{fa71}" 
+case .ph_align_right_simple_light : return "\u{ee2c}" 
+case .ph_align_right_simple_thin : return "\u{ea14}" 
+case .ph_align_right_thin : return "\u{ea15}" 
+case .ph_align_top : return "\u{f244}" 
+case .ph_align_top_bold : return "\u{f65b}" 
+case .ph_align_top_fill : return "\u{fa72}" 
+case .ph_align_top_light : return "\u{ee2d}" 
+case .ph_align_top_simple : return "\u{f245}" 
+case .ph_align_top_simple_bold : return "\u{f65c}" 
+case .ph_align_top_simple_fill : return "\u{fa73}" 
+case .ph_align_top_simple_light : return "\u{ee2e}" 
+case .ph_align_top_simple_thin : return "\u{ea16}" 
+case .ph_align_top_thin : return "\u{ea17}" 
+case .ph_anchor : return "\u{f246}" 
+case .ph_anchor_bold : return "\u{f65d}" 
+case .ph_anchor_fill : return "\u{fa74}" 
+case .ph_anchor_light : return "\u{ee2f}" 
+case .ph_anchor_simple : return "\u{f247}" 
+case .ph_anchor_simple_bold : return "\u{f65e}" 
+case .ph_anchor_simple_fill : return "\u{fa75}" 
+case .ph_anchor_simple_light : return "\u{ee30}" 
+case .ph_anchor_simple_thin : return "\u{ea18}" 
+case .ph_anchor_thin : return "\u{ea19}" 
+case .ph_android_logo : return "\u{f248}" 
+case .ph_android_logo_bold : return "\u{f65f}" 
+case .ph_android_logo_fill : return "\u{fa76}" 
+case .ph_android_logo_light : return "\u{ee31}" 
+case .ph_android_logo_thin : return "\u{ea1a}" 
+case .ph_angular_logo : return "\u{f249}" 
+case .ph_angular_logo_bold : return "\u{f660}" 
+case .ph_angular_logo_fill : return "\u{fa77}" 
+case .ph_angular_logo_light : return "\u{ee32}" 
+case .ph_angular_logo_thin : return "\u{ea1b}" 
+case .ph_aperture : return "\u{f24a}" 
+case .ph_aperture_bold : return "\u{f661}" 
+case .ph_aperture_fill : return "\u{fa78}" 
+case .ph_aperture_light : return "\u{ee33}" 
+case .ph_aperture_thin : return "\u{ea1c}" 
+case .ph_app_store_logo : return "\u{f24b}" 
+case .ph_app_store_logo_bold : return "\u{f662}" 
+case .ph_app_store_logo_fill : return "\u{fa79}" 
+case .ph_app_store_logo_light : return "\u{ee34}" 
+case .ph_app_store_logo_thin : return "\u{ea1d}" 
+case .ph_app_window : return "\u{f24c}" 
+case .ph_app_window_bold : return "\u{f663}" 
+case .ph_app_window_fill : return "\u{fa7a}" 
+case .ph_app_window_light : return "\u{ee35}" 
+case .ph_app_window_thin : return "\u{ea1e}" 
+case .ph_apple_logo : return "\u{f24d}" 
+case .ph_apple_logo_bold : return "\u{f664}" 
+case .ph_apple_logo_fill : return "\u{fa7b}" 
+case .ph_apple_logo_light : return "\u{ee36}" 
+case .ph_apple_logo_thin : return "\u{ea1f}" 
+case .ph_apple_podcasts_logo : return "\u{f24e}" 
+case .ph_apple_podcasts_logo_bold : return "\u{f665}" 
+case .ph_apple_podcasts_logo_fill : return "\u{fa7c}" 
+case .ph_apple_podcasts_logo_light : return "\u{ee37}" 
+case .ph_apple_podcasts_logo_thin : return "\u{ea20}" 
+case .ph_archive : return "\u{f24f}" 
+case .ph_archive_bold : return "\u{f666}" 
+case .ph_archive_box : return "\u{f250}" 
+case .ph_archive_box_bold : return "\u{f667}" 
+case .ph_archive_box_fill : return "\u{fa7d}" 
+case .ph_archive_box_light : return "\u{ee38}" 
+case .ph_archive_box_thin : return "\u{ea21}" 
+case .ph_archive_fill : return "\u{fa7e}" 
+case .ph_archive_light : return "\u{ee39}" 
+case .ph_archive_thin : return "\u{ea22}" 
+case .ph_archive_tray : return "\u{f251}" 
+case .ph_archive_tray_bold : return "\u{f668}" 
+case .ph_archive_tray_fill : return "\u{fa7f}" 
+case .ph_archive_tray_light : return "\u{ee3a}" 
+case .ph_archive_tray_thin : return "\u{ea23}" 
+case .ph_armchair : return "\u{f252}" 
+case .ph_armchair_bold : return "\u{f669}" 
+case .ph_armchair_fill : return "\u{fa80}" 
+case .ph_armchair_light : return "\u{ee3b}" 
+case .ph_armchair_thin : return "\u{ea24}" 
+case .ph_arrow_arc_left : return "\u{f253}" 
+case .ph_arrow_arc_left_bold : return "\u{f66a}" 
+case .ph_arrow_arc_left_fill : return "\u{fa81}" 
+case .ph_arrow_arc_left_light : return "\u{ee3c}" 
+case .ph_arrow_arc_left_thin : return "\u{ea25}" 
+case .ph_arrow_arc_right : return "\u{f254}" 
+case .ph_arrow_arc_right_bold : return "\u{f66b}" 
+case .ph_arrow_arc_right_fill : return "\u{fa82}" 
+case .ph_arrow_arc_right_light : return "\u{ee3d}" 
+case .ph_arrow_arc_right_thin : return "\u{ea26}" 
+case .ph_arrow_bend_double_up_left : return "\u{f255}" 
+case .ph_arrow_bend_double_up_left_bold : return "\u{f66c}" 
+case .ph_arrow_bend_double_up_left_fill : return "\u{fa83}" 
+case .ph_arrow_bend_double_up_left_light : return "\u{ee3e}" 
+case .ph_arrow_bend_double_up_left_thin : return "\u{ea27}" 
+case .ph_arrow_bend_double_up_right : return "\u{f256}" 
+case .ph_arrow_bend_double_up_right_bold : return "\u{f66d}" 
+case .ph_arrow_bend_double_up_right_fill : return "\u{fa84}" 
+case .ph_arrow_bend_double_up_right_light : return "\u{ee3f}" 
+case .ph_arrow_bend_double_up_right_thin : return "\u{ea28}" 
+case .ph_arrow_bend_down_left : return "\u{f257}" 
+case .ph_arrow_bend_down_left_bold : return "\u{f66e}" 
+case .ph_arrow_bend_down_left_fill : return "\u{fa85}" 
+case .ph_arrow_bend_down_left_light : return "\u{ee40}" 
+case .ph_arrow_bend_down_left_thin : return "\u{ea29}" 
+case .ph_arrow_bend_down_right : return "\u{f258}" 
+case .ph_arrow_bend_down_right_bold : return "\u{f66f}" 
+case .ph_arrow_bend_down_right_fill : return "\u{fa86}" 
+case .ph_arrow_bend_down_right_light : return "\u{ee41}" 
+case .ph_arrow_bend_down_right_thin : return "\u{ea2a}" 
+case .ph_arrow_bend_left_down : return "\u{f259}" 
+case .ph_arrow_bend_left_down_bold : return "\u{f670}" 
+case .ph_arrow_bend_left_down_fill : return "\u{fa87}" 
+case .ph_arrow_bend_left_down_light : return "\u{ee42}" 
+case .ph_arrow_bend_left_down_thin : return "\u{ea2b}" 
+case .ph_arrow_bend_left_up : return "\u{f25a}" 
+case .ph_arrow_bend_left_up_bold : return "\u{f671}" 
+case .ph_arrow_bend_left_up_fill : return "\u{fa88}" 
+case .ph_arrow_bend_left_up_light : return "\u{ee43}" 
+case .ph_arrow_bend_left_up_thin : return "\u{ea2c}" 
+case .ph_arrow_bend_right_down : return "\u{f25b}" 
+case .ph_arrow_bend_right_down_bold : return "\u{f672}" 
+case .ph_arrow_bend_right_down_fill : return "\u{fa89}" 
+case .ph_arrow_bend_right_down_light : return "\u{ee44}" 
+case .ph_arrow_bend_right_down_thin : return "\u{ea2d}" 
+case .ph_arrow_bend_right_up : return "\u{f25c}" 
+case .ph_arrow_bend_right_up_bold : return "\u{f673}" 
+case .ph_arrow_bend_right_up_fill : return "\u{fa8a}" 
+case .ph_arrow_bend_right_up_light : return "\u{ee45}" 
+case .ph_arrow_bend_right_up_thin : return "\u{ea2e}" 
+case .ph_arrow_bend_up_left : return "\u{f25d}" 
+case .ph_arrow_bend_up_left_bold : return "\u{f674}" 
+case .ph_arrow_bend_up_left_fill : return "\u{fa8b}" 
+case .ph_arrow_bend_up_left_light : return "\u{ee46}" 
+case .ph_arrow_bend_up_left_thin : return "\u{ea2f}" 
+case .ph_arrow_bend_up_right : return "\u{f25e}" 
+case .ph_arrow_bend_up_right_bold : return "\u{f675}" 
+case .ph_arrow_bend_up_right_fill : return "\u{fa8c}" 
+case .ph_arrow_bend_up_right_light : return "\u{ee47}" 
+case .ph_arrow_bend_up_right_thin : return "\u{ea30}" 
+case .ph_arrow_circle_down : return "\u{f25f}" 
+case .ph_arrow_circle_down_bold : return "\u{f676}" 
+case .ph_arrow_circle_down_fill : return "\u{fa8d}" 
+case .ph_arrow_circle_down_left : return "\u{f260}" 
+case .ph_arrow_circle_down_left_bold : return "\u{f677}" 
+case .ph_arrow_circle_down_left_fill : return "\u{fa8e}" 
+case .ph_arrow_circle_down_left_light : return "\u{ee48}" 
+case .ph_arrow_circle_down_left_thin : return "\u{ea31}" 
+case .ph_arrow_circle_down_light : return "\u{ee49}" 
+case .ph_arrow_circle_down_right : return "\u{f261}" 
+case .ph_arrow_circle_down_right_bold : return "\u{f678}" 
+case .ph_arrow_circle_down_right_fill : return "\u{fa8f}" 
+case .ph_arrow_circle_down_right_light : return "\u{ee4a}" 
+case .ph_arrow_circle_down_right_thin : return "\u{ea32}" 
+case .ph_arrow_circle_down_thin : return "\u{ea33}" 
+case .ph_arrow_circle_left : return "\u{f262}" 
+case .ph_arrow_circle_left_bold : return "\u{f679}" 
+case .ph_arrow_circle_left_fill : return "\u{fa90}" 
+case .ph_arrow_circle_left_light : return "\u{ee4b}" 
+case .ph_arrow_circle_left_thin : return "\u{ea34}" 
+case .ph_arrow_circle_right : return "\u{f263}" 
+case .ph_arrow_circle_right_bold : return "\u{f67a}" 
+case .ph_arrow_circle_right_fill : return "\u{fa91}" 
+case .ph_arrow_circle_right_light : return "\u{ee4c}" 
+case .ph_arrow_circle_right_thin : return "\u{ea35}" 
+case .ph_arrow_circle_up : return "\u{f264}" 
+case .ph_arrow_circle_up_bold : return "\u{f67b}" 
+case .ph_arrow_circle_up_fill : return "\u{fa92}" 
+case .ph_arrow_circle_up_left : return "\u{f265}" 
+case .ph_arrow_circle_up_left_bold : return "\u{f67c}" 
+case .ph_arrow_circle_up_left_fill : return "\u{fa93}" 
+case .ph_arrow_circle_up_left_light : return "\u{ee4d}" 
+case .ph_arrow_circle_up_left_thin : return "\u{ea36}" 
+case .ph_arrow_circle_up_light : return "\u{ee4e}" 
+case .ph_arrow_circle_up_right : return "\u{f266}" 
+case .ph_arrow_circle_up_right_bold : return "\u{f67d}" 
+case .ph_arrow_circle_up_right_fill : return "\u{fa94}" 
+case .ph_arrow_circle_up_right_light : return "\u{ee4f}" 
+case .ph_arrow_circle_up_right_thin : return "\u{ea37}" 
+case .ph_arrow_circle_up_thin : return "\u{ea38}" 
+case .ph_arrow_clockwise : return "\u{f267}" 
+case .ph_arrow_clockwise_bold : return "\u{f67e}" 
+case .ph_arrow_clockwise_fill : return "\u{fa95}" 
+case .ph_arrow_clockwise_light : return "\u{ee50}" 
+case .ph_arrow_clockwise_thin : return "\u{ea39}" 
+case .ph_arrow_counter_clockwise : return "\u{f268}" 
+case .ph_arrow_counter_clockwise_bold : return "\u{f67f}" 
+case .ph_arrow_counter_clockwise_fill : return "\u{fa96}" 
+case .ph_arrow_counter_clockwise_light : return "\u{ee51}" 
+case .ph_arrow_counter_clockwise_thin : return "\u{ea3a}" 
+case .ph_arrow_down : return "\u{f269}" 
+case .ph_arrow_down_bold : return "\u{f680}" 
+case .ph_arrow_down_fill : return "\u{fa97}" 
+case .ph_arrow_down_left : return "\u{f26a}" 
+case .ph_arrow_down_left_bold : return "\u{f681}" 
+case .ph_arrow_down_left_fill : return "\u{fa98}" 
+case .ph_arrow_down_left_light : return "\u{ee52}" 
+case .ph_arrow_down_left_thin : return "\u{ea3b}" 
+case .ph_arrow_down_light : return "\u{ee53}" 
+case .ph_arrow_down_right : return "\u{f26b}" 
+case .ph_arrow_down_right_bold : return "\u{f682}" 
+case .ph_arrow_down_right_fill : return "\u{fa99}" 
+case .ph_arrow_down_right_light : return "\u{ee54}" 
+case .ph_arrow_down_right_thin : return "\u{ea3c}" 
+case .ph_arrow_down_thin : return "\u{ea3d}" 
+case .ph_arrow_elbow_down_left : return "\u{f26c}" 
+case .ph_arrow_elbow_down_left_bold : return "\u{f683}" 
+case .ph_arrow_elbow_down_left_fill : return "\u{fa9a}" 
+case .ph_arrow_elbow_down_left_light : return "\u{ee55}" 
+case .ph_arrow_elbow_down_left_thin : return "\u{ea3e}" 
+case .ph_arrow_elbow_down_right : return "\u{f26d}" 
+case .ph_arrow_elbow_down_right_bold : return "\u{f684}" 
+case .ph_arrow_elbow_down_right_fill : return "\u{fa9b}" 
+case .ph_arrow_elbow_down_right_light : return "\u{ee56}" 
+case .ph_arrow_elbow_down_right_thin : return "\u{ea3f}" 
+case .ph_arrow_elbow_left : return "\u{f26e}" 
+case .ph_arrow_elbow_left_bold : return "\u{f685}" 
+case .ph_arrow_elbow_left_down : return "\u{f26f}" 
+case .ph_arrow_elbow_left_down_bold : return "\u{f686}" 
+case .ph_arrow_elbow_left_down_fill : return "\u{fa9c}" 
+case .ph_arrow_elbow_left_down_light : return "\u{ee57}" 
+case .ph_arrow_elbow_left_down_thin : return "\u{ea40}" 
+case .ph_arrow_elbow_left_fill : return "\u{fa9d}" 
+case .ph_arrow_elbow_left_light : return "\u{ee58}" 
+case .ph_arrow_elbow_left_thin : return "\u{ea41}" 
+case .ph_arrow_elbow_left_up : return "\u{f270}" 
+case .ph_arrow_elbow_left_up_bold : return "\u{f687}" 
+case .ph_arrow_elbow_left_up_fill : return "\u{fa9e}" 
+case .ph_arrow_elbow_left_up_light : return "\u{ee59}" 
+case .ph_arrow_elbow_left_up_thin : return "\u{ea42}" 
+case .ph_arrow_elbow_right : return "\u{f271}" 
+case .ph_arrow_elbow_right_bold : return "\u{f688}" 
+case .ph_arrow_elbow_right_down : return "\u{f272}" 
+case .ph_arrow_elbow_right_down_bold : return "\u{f689}" 
+case .ph_arrow_elbow_right_down_fill : return "\u{fa9f}" 
+case .ph_arrow_elbow_right_down_light : return "\u{ee5a}" 
+case .ph_arrow_elbow_right_down_thin : return "\u{ea43}" 
+case .ph_arrow_elbow_right_fill : return "\u{faa0}" 
+case .ph_arrow_elbow_right_light : return "\u{ee5b}" 
+case .ph_arrow_elbow_right_thin : return "\u{ea44}" 
+case .ph_arrow_elbow_right_up : return "\u{f273}" 
+case .ph_arrow_elbow_right_up_bold : return "\u{f68a}" 
+case .ph_arrow_elbow_right_up_fill : return "\u{faa1}" 
+case .ph_arrow_elbow_right_up_light : return "\u{ee5c}" 
+case .ph_arrow_elbow_right_up_thin : return "\u{ea45}" 
+case .ph_arrow_elbow_up_left : return "\u{f274}" 
+case .ph_arrow_elbow_up_left_bold : return "\u{f68b}" 
+case .ph_arrow_elbow_up_left_fill : return "\u{faa2}" 
+case .ph_arrow_elbow_up_left_light : return "\u{ee5d}" 
+case .ph_arrow_elbow_up_left_thin : return "\u{ea46}" 
+case .ph_arrow_elbow_up_right : return "\u{f275}" 
+case .ph_arrow_elbow_up_right_bold : return "\u{f68c}" 
+case .ph_arrow_elbow_up_right_fill : return "\u{faa3}" 
+case .ph_arrow_elbow_up_right_light : return "\u{ee5e}" 
+case .ph_arrow_elbow_up_right_thin : return "\u{ea47}" 
+case .ph_arrow_fat_down : return "\u{f276}" 
+case .ph_arrow_fat_down_bold : return "\u{f68d}" 
+case .ph_arrow_fat_down_fill : return "\u{faa4}" 
+case .ph_arrow_fat_down_light : return "\u{ee5f}" 
+case .ph_arrow_fat_down_thin : return "\u{ea48}" 
+case .ph_arrow_fat_left : return "\u{f277}" 
+case .ph_arrow_fat_left_bold : return "\u{f68e}" 
+case .ph_arrow_fat_left_fill : return "\u{faa5}" 
+case .ph_arrow_fat_left_light : return "\u{ee60}" 
+case .ph_arrow_fat_left_thin : return "\u{ea49}" 
+case .ph_arrow_fat_line_down : return "\u{f278}" 
+case .ph_arrow_fat_line_down_bold : return "\u{f68f}" 
+case .ph_arrow_fat_line_down_fill : return "\u{faa6}" 
+case .ph_arrow_fat_line_down_light : return "\u{ee61}" 
+case .ph_arrow_fat_line_down_thin : return "\u{ea4a}" 
+case .ph_arrow_fat_line_left : return "\u{f279}" 
+case .ph_arrow_fat_line_left_bold : return "\u{f690}" 
+case .ph_arrow_fat_line_left_fill : return "\u{faa7}" 
+case .ph_arrow_fat_line_left_light : return "\u{ee62}" 
+case .ph_arrow_fat_line_left_thin : return "\u{ea4b}" 
+case .ph_arrow_fat_line_right : return "\u{f27a}" 
+case .ph_arrow_fat_line_right_bold : return "\u{f691}" 
+case .ph_arrow_fat_line_right_fill : return "\u{faa8}" 
+case .ph_arrow_fat_line_right_light : return "\u{ee63}" 
+case .ph_arrow_fat_line_right_thin : return "\u{ea4c}" 
+case .ph_arrow_fat_line_up : return "\u{f27b}" 
+case .ph_arrow_fat_line_up_bold : return "\u{f692}" 
+case .ph_arrow_fat_line_up_fill : return "\u{faa9}" 
+case .ph_arrow_fat_line_up_light : return "\u{ee64}" 
+case .ph_arrow_fat_line_up_thin : return "\u{ea4d}" 
+case .ph_arrow_fat_lines_down : return "\u{f27c}" 
+case .ph_arrow_fat_lines_down_bold : return "\u{f693}" 
+case .ph_arrow_fat_lines_down_fill : return "\u{faaa}" 
+case .ph_arrow_fat_lines_down_light : return "\u{ee65}" 
+case .ph_arrow_fat_lines_down_thin : return "\u{ea4e}" 
+case .ph_arrow_fat_lines_left : return "\u{f27d}" 
+case .ph_arrow_fat_lines_left_bold : return "\u{f694}" 
+case .ph_arrow_fat_lines_left_fill : return "\u{faab}" 
+case .ph_arrow_fat_lines_left_light : return "\u{ee66}" 
+case .ph_arrow_fat_lines_left_thin : return "\u{ea4f}" 
+case .ph_arrow_fat_lines_right : return "\u{f27e}" 
+case .ph_arrow_fat_lines_right_bold : return "\u{f695}" 
+case .ph_arrow_fat_lines_right_fill : return "\u{faac}" 
+case .ph_arrow_fat_lines_right_light : return "\u{ee67}" 
+case .ph_arrow_fat_lines_right_thin : return "\u{ea50}" 
+case .ph_arrow_fat_lines_up : return "\u{f27f}" 
+case .ph_arrow_fat_lines_up_bold : return "\u{f696}" 
+case .ph_arrow_fat_lines_up_fill : return "\u{faad}" 
+case .ph_arrow_fat_lines_up_light : return "\u{ee68}" 
+case .ph_arrow_fat_lines_up_thin : return "\u{ea51}" 
+case .ph_arrow_fat_right : return "\u{f280}" 
+case .ph_arrow_fat_right_bold : return "\u{f697}" 
+case .ph_arrow_fat_right_fill : return "\u{faae}" 
+case .ph_arrow_fat_right_light : return "\u{ee69}" 
+case .ph_arrow_fat_right_thin : return "\u{ea52}" 
+case .ph_arrow_fat_up : return "\u{f281}" 
+case .ph_arrow_fat_up_bold : return "\u{f698}" 
+case .ph_arrow_fat_up_fill : return "\u{faaf}" 
+case .ph_arrow_fat_up_light : return "\u{ee6a}" 
+case .ph_arrow_fat_up_thin : return "\u{ea53}" 
+case .ph_arrow_left : return "\u{f282}" 
+case .ph_arrow_left_bold : return "\u{f699}" 
+case .ph_arrow_left_fill : return "\u{fab0}" 
+case .ph_arrow_left_light : return "\u{ee6b}" 
+case .ph_arrow_left_thin : return "\u{ea54}" 
+case .ph_arrow_line_down : return "\u{f283}" 
+case .ph_arrow_line_down_bold : return "\u{f69a}" 
+case .ph_arrow_line_down_fill : return "\u{fab1}" 
+case .ph_arrow_line_down_left : return "\u{f284}" 
+case .ph_arrow_line_down_left_bold : return "\u{f69b}" 
+case .ph_arrow_line_down_left_fill : return "\u{fab2}" 
+case .ph_arrow_line_down_left_light : return "\u{ee6c}" 
+case .ph_arrow_line_down_left_thin : return "\u{ea55}" 
+case .ph_arrow_line_down_light : return "\u{ee6d}" 
+case .ph_arrow_line_down_right : return "\u{f285}" 
+case .ph_arrow_line_down_right_bold : return "\u{f69c}" 
+case .ph_arrow_line_down_right_fill : return "\u{fab3}" 
+case .ph_arrow_line_down_right_light : return "\u{ee6e}" 
+case .ph_arrow_line_down_right_thin : return "\u{ea56}" 
+case .ph_arrow_line_down_thin : return "\u{ea57}" 
+case .ph_arrow_line_left : return "\u{f286}" 
+case .ph_arrow_line_left_bold : return "\u{f69d}" 
+case .ph_arrow_line_left_fill : return "\u{fab4}" 
+case .ph_arrow_line_left_light : return "\u{ee6f}" 
+case .ph_arrow_line_left_thin : return "\u{ea58}" 
+case .ph_arrow_line_right : return "\u{f287}" 
+case .ph_arrow_line_right_bold : return "\u{f69e}" 
+case .ph_arrow_line_right_fill : return "\u{fab5}" 
+case .ph_arrow_line_right_light : return "\u{ee70}" 
+case .ph_arrow_line_right_thin : return "\u{ea59}" 
+case .ph_arrow_line_up : return "\u{f288}" 
+case .ph_arrow_line_up_bold : return "\u{f69f}" 
+case .ph_arrow_line_up_fill : return "\u{fab6}" 
+case .ph_arrow_line_up_left : return "\u{f289}" 
+case .ph_arrow_line_up_left_bold : return "\u{f6a0}" 
+case .ph_arrow_line_up_left_fill : return "\u{fab7}" 
+case .ph_arrow_line_up_left_light : return "\u{ee71}" 
+case .ph_arrow_line_up_left_thin : return "\u{ea5a}" 
+case .ph_arrow_line_up_light : return "\u{ee72}" 
+case .ph_arrow_line_up_right : return "\u{f28a}" 
+case .ph_arrow_line_up_right_bold : return "\u{f6a1}" 
+case .ph_arrow_line_up_right_fill : return "\u{fab8}" 
+case .ph_arrow_line_up_right_light : return "\u{ee73}" 
+case .ph_arrow_line_up_right_thin : return "\u{ea5b}" 
+case .ph_arrow_line_up_thin : return "\u{ea5c}" 
+case .ph_arrow_right : return "\u{f28b}" 
+case .ph_arrow_right_bold : return "\u{f6a2}" 
+case .ph_arrow_right_fill : return "\u{fab9}" 
+case .ph_arrow_right_light : return "\u{ee74}" 
+case .ph_arrow_right_thin : return "\u{ea5d}" 
+case .ph_arrow_square_down : return "\u{f28c}" 
+case .ph_arrow_square_down_bold : return "\u{f6a3}" 
+case .ph_arrow_square_down_fill : return "\u{faba}" 
+case .ph_arrow_square_down_left : return "\u{f28d}" 
+case .ph_arrow_square_down_left_bold : return "\u{f6a4}" 
+case .ph_arrow_square_down_left_fill : return "\u{fabb}" 
+case .ph_arrow_square_down_left_light : return "\u{ee75}" 
+case .ph_arrow_square_down_left_thin : return "\u{ea5e}" 
+case .ph_arrow_square_down_light : return "\u{ee76}" 
+case .ph_arrow_square_down_right : return "\u{f28e}" 
+case .ph_arrow_square_down_right_bold : return "\u{f6a5}" 
+case .ph_arrow_square_down_right_fill : return "\u{fabc}" 
+case .ph_arrow_square_down_right_light : return "\u{ee77}" 
+case .ph_arrow_square_down_right_thin : return "\u{ea5f}" 
+case .ph_arrow_square_down_thin : return "\u{ea60}" 
+case .ph_arrow_square_in : return "\u{f28f}" 
+case .ph_arrow_square_in_bold : return "\u{f6a6}" 
+case .ph_arrow_square_in_fill : return "\u{fabd}" 
+case .ph_arrow_square_in_light : return "\u{ee78}" 
+case .ph_arrow_square_in_thin : return "\u{ea61}" 
+case .ph_arrow_square_left : return "\u{f290}" 
+case .ph_arrow_square_left_bold : return "\u{f6a7}" 
+case .ph_arrow_square_left_fill : return "\u{fabe}" 
+case .ph_arrow_square_left_light : return "\u{ee79}" 
+case .ph_arrow_square_left_thin : return "\u{ea62}" 
+case .ph_arrow_square_out : return "\u{f291}" 
+case .ph_arrow_square_out_bold : return "\u{f6a8}" 
+case .ph_arrow_square_out_fill : return "\u{fabf}" 
+case .ph_arrow_square_out_light : return "\u{ee7a}" 
+case .ph_arrow_square_out_thin : return "\u{ea63}" 
+case .ph_arrow_square_right : return "\u{f292}" 
+case .ph_arrow_square_right_bold : return "\u{f6a9}" 
+case .ph_arrow_square_right_fill : return "\u{fac0}" 
+case .ph_arrow_square_right_light : return "\u{ee7b}" 
+case .ph_arrow_square_right_thin : return "\u{ea64}" 
+case .ph_arrow_square_up : return "\u{f293}" 
+case .ph_arrow_square_up_bold : return "\u{f6aa}" 
+case .ph_arrow_square_up_fill : return "\u{fac1}" 
+case .ph_arrow_square_up_left : return "\u{f294}" 
+case .ph_arrow_square_up_left_bold : return "\u{f6ab}" 
+case .ph_arrow_square_up_left_fill : return "\u{fac2}" 
+case .ph_arrow_square_up_left_light : return "\u{ee7c}" 
+case .ph_arrow_square_up_left_thin : return "\u{ea65}" 
+case .ph_arrow_square_up_light : return "\u{ee7d}" 
+case .ph_arrow_square_up_right : return "\u{f295}" 
+case .ph_arrow_square_up_right_bold : return "\u{f6ac}" 
+case .ph_arrow_square_up_right_fill : return "\u{fac3}" 
+case .ph_arrow_square_up_right_light : return "\u{ee7e}" 
+case .ph_arrow_square_up_right_thin : return "\u{ea66}" 
+case .ph_arrow_square_up_thin : return "\u{ea67}" 
+case .ph_arrow_u_down_left : return "\u{f296}" 
+case .ph_arrow_u_down_left_bold : return "\u{f6ad}" 
+case .ph_arrow_u_down_left_fill : return "\u{fac4}" 
+case .ph_arrow_u_down_left_light : return "\u{ee7f}" 
+case .ph_arrow_u_down_left_thin : return "\u{ea68}" 
+case .ph_arrow_u_down_right : return "\u{f297}" 
+case .ph_arrow_u_down_right_bold : return "\u{f6ae}" 
+case .ph_arrow_u_down_right_fill : return "\u{fac5}" 
+case .ph_arrow_u_down_right_light : return "\u{ee80}" 
+case .ph_arrow_u_down_right_thin : return "\u{ea69}" 
+case .ph_arrow_u_left_down : return "\u{f298}" 
+case .ph_arrow_u_left_down_bold : return "\u{f6af}" 
+case .ph_arrow_u_left_down_fill : return "\u{fac6}" 
+case .ph_arrow_u_left_down_light : return "\u{ee81}" 
+case .ph_arrow_u_left_down_thin : return "\u{ea6a}" 
+case .ph_arrow_u_left_up : return "\u{f299}" 
+case .ph_arrow_u_left_up_bold : return "\u{f6b0}" 
+case .ph_arrow_u_left_up_fill : return "\u{fac7}" 
+case .ph_arrow_u_left_up_light : return "\u{ee82}" 
+case .ph_arrow_u_left_up_thin : return "\u{ea6b}" 
+case .ph_arrow_u_right_down : return "\u{f29a}" 
+case .ph_arrow_u_right_down_bold : return "\u{f6b1}" 
+case .ph_arrow_u_right_down_fill : return "\u{fac8}" 
+case .ph_arrow_u_right_down_light : return "\u{ee83}" 
+case .ph_arrow_u_right_down_thin : return "\u{ea6c}" 
+case .ph_arrow_u_right_up : return "\u{f29b}" 
+case .ph_arrow_u_right_up_bold : return "\u{f6b2}" 
+case .ph_arrow_u_right_up_fill : return "\u{fac9}" 
+case .ph_arrow_u_right_up_light : return "\u{ee84}" 
+case .ph_arrow_u_right_up_thin : return "\u{ea6d}" 
+case .ph_arrow_u_up_left : return "\u{f29c}" 
+case .ph_arrow_u_up_left_bold : return "\u{f6b3}" 
+case .ph_arrow_u_up_left_fill : return "\u{faca}" 
+case .ph_arrow_u_up_left_light : return "\u{ee85}" 
+case .ph_arrow_u_up_left_thin : return "\u{ea6e}" 
+case .ph_arrow_u_up_right : return "\u{f29d}" 
+case .ph_arrow_u_up_right_bold : return "\u{f6b4}" 
+case .ph_arrow_u_up_right_fill : return "\u{facb}" 
+case .ph_arrow_u_up_right_light : return "\u{ee86}" 
+case .ph_arrow_u_up_right_thin : return "\u{ea6f}" 
+case .ph_arrow_up : return "\u{f29e}" 
+case .ph_arrow_up_bold : return "\u{f6b5}" 
+case .ph_arrow_up_fill : return "\u{facc}" 
+case .ph_arrow_up_left : return "\u{f29f}" 
+case .ph_arrow_up_left_bold : return "\u{f6b6}" 
+case .ph_arrow_up_left_fill : return "\u{facd}" 
+case .ph_arrow_up_left_light : return "\u{ee87}" 
+case .ph_arrow_up_left_thin : return "\u{ea70}" 
+case .ph_arrow_up_light : return "\u{ee88}" 
+case .ph_arrow_up_right : return "\u{f2a0}" 
+case .ph_arrow_up_right_bold : return "\u{f6b7}" 
+case .ph_arrow_up_right_fill : return "\u{face}" 
+case .ph_arrow_up_right_light : return "\u{ee89}" 
+case .ph_arrow_up_right_thin : return "\u{ea71}" 
+case .ph_arrow_up_thin : return "\u{ea72}" 
+case .ph_arrows_clockwise : return "\u{f2a1}" 
+case .ph_arrows_clockwise_bold : return "\u{f6b8}" 
+case .ph_arrows_clockwise_fill : return "\u{facf}" 
+case .ph_arrows_clockwise_light : return "\u{ee8a}" 
+case .ph_arrows_clockwise_thin : return "\u{ea73}" 
+case .ph_arrows_counter_clockwise : return "\u{f2a2}" 
+case .ph_arrows_counter_clockwise_bold : return "\u{f6b9}" 
+case .ph_arrows_counter_clockwise_fill : return "\u{fad0}" 
+case .ph_arrows_counter_clockwise_light : return "\u{ee8b}" 
+case .ph_arrows_counter_clockwise_thin : return "\u{ea74}" 
+case .ph_arrows_down_up : return "\u{f2a3}" 
+case .ph_arrows_down_up_bold : return "\u{f6ba}" 
+case .ph_arrows_down_up_fill : return "\u{fad1}" 
+case .ph_arrows_down_up_light : return "\u{ee8c}" 
+case .ph_arrows_down_up_thin : return "\u{ea75}" 
+case .ph_arrows_horizontal : return "\u{f2a4}" 
+case .ph_arrows_horizontal_bold : return "\u{f6bb}" 
+case .ph_arrows_horizontal_fill : return "\u{fad2}" 
+case .ph_arrows_horizontal_light : return "\u{ee8d}" 
+case .ph_arrows_horizontal_thin : return "\u{ea76}" 
+case .ph_arrows_in : return "\u{f2a5}" 
+case .ph_arrows_in_bold : return "\u{f6bc}" 
+case .ph_arrows_in_cardinal : return "\u{f2a6}" 
+case .ph_arrows_in_cardinal_bold : return "\u{f6bd}" 
+case .ph_arrows_in_cardinal_fill : return "\u{fad3}" 
+case .ph_arrows_in_cardinal_light : return "\u{ee8e}" 
+case .ph_arrows_in_cardinal_thin : return "\u{ea77}" 
+case .ph_arrows_in_fill : return "\u{fad4}" 
+case .ph_arrows_in_light : return "\u{ee8f}" 
+case .ph_arrows_in_line_horizontal : return "\u{f2a7}" 
+case .ph_arrows_in_line_horizontal_bold : return "\u{f6be}" 
+case .ph_arrows_in_line_horizontal_fill : return "\u{fad5}" 
+case .ph_arrows_in_line_horizontal_light : return "\u{ee90}" 
+case .ph_arrows_in_line_horizontal_thin : return "\u{ea78}" 
+case .ph_arrows_in_line_vertical : return "\u{f2a8}" 
+case .ph_arrows_in_line_vertical_bold : return "\u{f6bf}" 
+case .ph_arrows_in_line_vertical_fill : return "\u{fad6}" 
+case .ph_arrows_in_line_vertical_light : return "\u{ee91}" 
+case .ph_arrows_in_line_vertical_thin : return "\u{ea79}" 
+case .ph_arrows_in_simple : return "\u{f2a9}" 
+case .ph_arrows_in_simple_bold : return "\u{f6c0}" 
+case .ph_arrows_in_simple_fill : return "\u{fad7}" 
+case .ph_arrows_in_simple_light : return "\u{ee92}" 
+case .ph_arrows_in_simple_thin : return "\u{ea7a}" 
+case .ph_arrows_in_thin : return "\u{ea7b}" 
+case .ph_arrows_left_right : return "\u{f2aa}" 
+case .ph_arrows_left_right_bold : return "\u{f6c1}" 
+case .ph_arrows_left_right_fill : return "\u{fad8}" 
+case .ph_arrows_left_right_light : return "\u{ee93}" 
+case .ph_arrows_left_right_thin : return "\u{ea7c}" 
+case .ph_arrows_out : return "\u{f2ab}" 
+case .ph_arrows_out_bold : return "\u{f6c2}" 
+case .ph_arrows_out_cardinal : return "\u{f2ac}" 
+case .ph_arrows_out_cardinal_bold : return "\u{f6c3}" 
+case .ph_arrows_out_cardinal_fill : return "\u{fad9}" 
+case .ph_arrows_out_cardinal_light : return "\u{ee94}" 
+case .ph_arrows_out_cardinal_thin : return "\u{ea7d}" 
+case .ph_arrows_out_fill : return "\u{fada}" 
+case .ph_arrows_out_light : return "\u{ee95}" 
+case .ph_arrows_out_line_horizontal : return "\u{f2ad}" 
+case .ph_arrows_out_line_horizontal_bold : return "\u{f6c4}" 
+case .ph_arrows_out_line_horizontal_fill : return "\u{fadb}" 
+case .ph_arrows_out_line_horizontal_light : return "\u{ee96}" 
+case .ph_arrows_out_line_horizontal_thin : return "\u{ea7e}" 
+case .ph_arrows_out_line_vertical : return "\u{f2ae}" 
+case .ph_arrows_out_line_vertical_bold : return "\u{f6c5}" 
+case .ph_arrows_out_line_vertical_fill : return "\u{fadc}" 
+case .ph_arrows_out_line_vertical_light : return "\u{ee97}" 
+case .ph_arrows_out_line_vertical_thin : return "\u{ea7f}" 
+case .ph_arrows_out_simple : return "\u{f2af}" 
+case .ph_arrows_out_simple_bold : return "\u{f6c6}" 
+case .ph_arrows_out_simple_fill : return "\u{fadd}" 
+case .ph_arrows_out_simple_light : return "\u{ee98}" 
+case .ph_arrows_out_simple_thin : return "\u{ea80}" 
+case .ph_arrows_out_thin : return "\u{ea81}" 
+case .ph_arrows_vertical : return "\u{f2b0}" 
+case .ph_arrows_vertical_bold : return "\u{f6c7}" 
+case .ph_arrows_vertical_fill : return "\u{fade}" 
+case .ph_arrows_vertical_light : return "\u{ee99}" 
+case .ph_arrows_vertical_thin : return "\u{ea82}" 
+case .ph_article : return "\u{f2b1}" 
+case .ph_article_bold : return "\u{f6c8}" 
+case .ph_article_fill : return "\u{fadf}" 
+case .ph_article_light : return "\u{ee9a}" 
+case .ph_article_medium : return "\u{f2b2}" 
+case .ph_article_medium_bold : return "\u{f6c9}" 
+case .ph_article_medium_fill : return "\u{fae0}" 
+case .ph_article_medium_light : return "\u{ee9b}" 
+case .ph_article_medium_thin : return "\u{ea83}" 
+case .ph_article_ny_times : return "\u{f2b3}" 
+case .ph_article_ny_times_bold : return "\u{f6ca}" 
+case .ph_article_ny_times_fill : return "\u{fae1}" 
+case .ph_article_ny_times_light : return "\u{ee9c}" 
+case .ph_article_ny_times_thin : return "\u{ea84}" 
+case .ph_article_thin : return "\u{ea85}" 
+case .ph_asterisk : return "\u{f2b4}" 
+case .ph_asterisk_bold : return "\u{f6cb}" 
+case .ph_asterisk_fill : return "\u{fae2}" 
+case .ph_asterisk_light : return "\u{ee9d}" 
+case .ph_asterisk_simple : return "\u{f2b5}" 
+case .ph_asterisk_simple_bold : return "\u{f6cc}" 
+case .ph_asterisk_simple_fill : return "\u{fae3}" 
+case .ph_asterisk_simple_light : return "\u{ee9e}" 
+case .ph_asterisk_simple_thin : return "\u{ea86}" 
+case .ph_asterisk_thin : return "\u{ea87}" 
+case .ph_at : return "\u{f2b6}" 
+case .ph_at_bold : return "\u{f6cd}" 
+case .ph_at_fill : return "\u{fae4}" 
+case .ph_at_light : return "\u{ee9f}" 
+case .ph_at_thin : return "\u{ea88}" 
+case .ph_atom : return "\u{f2b7}" 
+case .ph_atom_bold : return "\u{f6ce}" 
+case .ph_atom_fill : return "\u{fae5}" 
+case .ph_atom_light : return "\u{eea0}" 
+case .ph_atom_thin : return "\u{ea89}" 
+case .ph_baby : return "\u{f2b8}" 
+case .ph_baby_bold : return "\u{f6cf}" 
+case .ph_baby_fill : return "\u{fae6}" 
+case .ph_baby_light : return "\u{eea1}" 
+case .ph_baby_thin : return "\u{ea8a}" 
+case .ph_backpack : return "\u{f2b9}" 
+case .ph_backpack_bold : return "\u{f6d0}" 
+case .ph_backpack_fill : return "\u{fae7}" 
+case .ph_backpack_light : return "\u{eea2}" 
+case .ph_backpack_thin : return "\u{ea8b}" 
+case .ph_backspace : return "\u{f2ba}" 
+case .ph_backspace_bold : return "\u{f6d1}" 
+case .ph_backspace_fill : return "\u{fae8}" 
+case .ph_backspace_light : return "\u{eea3}" 
+case .ph_backspace_thin : return "\u{ea8c}" 
+case .ph_bag : return "\u{f2bb}" 
+case .ph_bag_bold : return "\u{f6d2}" 
+case .ph_bag_fill : return "\u{fae9}" 
+case .ph_bag_light : return "\u{eea4}" 
+case .ph_bag_simple : return "\u{f2bc}" 
+case .ph_bag_simple_bold : return "\u{f6d3}" 
+case .ph_bag_simple_fill : return "\u{faea}" 
+case .ph_bag_simple_light : return "\u{eea5}" 
+case .ph_bag_simple_thin : return "\u{ea8d}" 
+case .ph_bag_thin : return "\u{ea8e}" 
+case .ph_balloon : return "\u{f2bd}" 
+case .ph_balloon_bold : return "\u{f6d4}" 
+case .ph_balloon_fill : return "\u{faeb}" 
+case .ph_balloon_light : return "\u{eea6}" 
+case .ph_balloon_thin : return "\u{ea8f}" 
+case .ph_bandaids : return "\u{f2be}" 
+case .ph_bandaids_bold : return "\u{f6d5}" 
+case .ph_bandaids_fill : return "\u{faec}" 
+case .ph_bandaids_light : return "\u{eea7}" 
+case .ph_bandaids_thin : return "\u{ea90}" 
+case .ph_bank : return "\u{f2bf}" 
+case .ph_bank_bold : return "\u{f6d6}" 
+case .ph_bank_fill : return "\u{faed}" 
+case .ph_bank_light : return "\u{eea8}" 
+case .ph_bank_thin : return "\u{ea91}" 
+case .ph_barbell : return "\u{f2c0}" 
+case .ph_barbell_bold : return "\u{f6d7}" 
+case .ph_barbell_fill : return "\u{faee}" 
+case .ph_barbell_light : return "\u{eea9}" 
+case .ph_barbell_thin : return "\u{ea92}" 
+case .ph_barcode : return "\u{f2c1}" 
+case .ph_barcode_bold : return "\u{f6d8}" 
+case .ph_barcode_fill : return "\u{faef}" 
+case .ph_barcode_light : return "\u{eeaa}" 
+case .ph_barcode_thin : return "\u{ea93}" 
+case .ph_barricade : return "\u{f2c2}" 
+case .ph_barricade_bold : return "\u{f6d9}" 
+case .ph_barricade_fill : return "\u{faf0}" 
+case .ph_barricade_light : return "\u{eeab}" 
+case .ph_barricade_thin : return "\u{ea94}" 
+case .ph_baseball : return "\u{f2c3}" 
+case .ph_baseball_bold : return "\u{f6da}" 
+case .ph_baseball_fill : return "\u{faf1}" 
+case .ph_baseball_light : return "\u{eeac}" 
+case .ph_baseball_thin : return "\u{ea95}" 
+case .ph_basketball : return "\u{f2c4}" 
+case .ph_basketball_bold : return "\u{f6db}" 
+case .ph_basketball_fill : return "\u{faf2}" 
+case .ph_basketball_light : return "\u{eead}" 
+case .ph_basketball_thin : return "\u{ea96}" 
+case .ph_bathtub : return "\u{f2c5}" 
+case .ph_bathtub_bold : return "\u{f6dc}" 
+case .ph_bathtub_fill : return "\u{faf3}" 
+case .ph_bathtub_light : return "\u{eeae}" 
+case .ph_bathtub_thin : return "\u{ea97}" 
+case .ph_battery_charging : return "\u{f2c6}" 
+case .ph_battery_charging_bold : return "\u{f6dd}" 
+case .ph_battery_charging_fill : return "\u{faf4}" 
+case .ph_battery_charging_light : return "\u{eeaf}" 
+case .ph_battery_charging_thin : return "\u{ea98}" 
+case .ph_battery_charging_vertical : return "\u{f2c7}" 
+case .ph_battery_charging_vertical_bold : return "\u{f6de}" 
+case .ph_battery_charging_vertical_fill : return "\u{faf5}" 
+case .ph_battery_charging_vertical_light : return "\u{eeb0}" 
+case .ph_battery_charging_vertical_thin : return "\u{ea99}" 
+case .ph_battery_empty : return "\u{f2c8}" 
+case .ph_battery_empty_bold : return "\u{f6df}" 
+case .ph_battery_empty_fill : return "\u{faf6}" 
+case .ph_battery_empty_light : return "\u{eeb1}" 
+case .ph_battery_empty_thin : return "\u{ea9a}" 
+case .ph_battery_full : return "\u{f2c9}" 
+case .ph_battery_full_bold : return "\u{f6e0}" 
+case .ph_battery_full_fill : return "\u{faf7}" 
+case .ph_battery_full_light : return "\u{eeb2}" 
+case .ph_battery_full_thin : return "\u{ea9b}" 
+case .ph_battery_high : return "\u{f2ca}" 
+case .ph_battery_high_bold : return "\u{f6e1}" 
+case .ph_battery_high_fill : return "\u{faf8}" 
+case .ph_battery_high_light : return "\u{eeb3}" 
+case .ph_battery_high_thin : return "\u{ea9c}" 
+case .ph_battery_low : return "\u{f2cb}" 
+case .ph_battery_low_bold : return "\u{f6e2}" 
+case .ph_battery_low_fill : return "\u{faf9}" 
+case .ph_battery_low_light : return "\u{eeb4}" 
+case .ph_battery_low_thin : return "\u{ea9d}" 
+case .ph_battery_medium : return "\u{f2cc}" 
+case .ph_battery_medium_bold : return "\u{f6e3}" 
+case .ph_battery_medium_fill : return "\u{fafa}" 
+case .ph_battery_medium_light : return "\u{eeb5}" 
+case .ph_battery_medium_thin : return "\u{ea9e}" 
+case .ph_battery_plus : return "\u{f2cd}" 
+case .ph_battery_plus_bold : return "\u{f6e4}" 
+case .ph_battery_plus_fill : return "\u{fafb}" 
+case .ph_battery_plus_light : return "\u{eeb6}" 
+case .ph_battery_plus_thin : return "\u{ea9f}" 
+case .ph_battery_warning : return "\u{f2ce}" 
+case .ph_battery_warning_bold : return "\u{f6e5}" 
+case .ph_battery_warning_fill : return "\u{fafc}" 
+case .ph_battery_warning_light : return "\u{eeb7}" 
+case .ph_battery_warning_thin : return "\u{eaa0}" 
+case .ph_battery_warning_vertical : return "\u{f2cf}" 
+case .ph_battery_warning_vertical_bold : return "\u{f6e6}" 
+case .ph_battery_warning_vertical_fill : return "\u{fafd}" 
+case .ph_battery_warning_vertical_light : return "\u{eeb8}" 
+case .ph_battery_warning_vertical_thin : return "\u{eaa1}" 
+case .ph_bed : return "\u{f2d0}" 
+case .ph_bed_bold : return "\u{f6e7}" 
+case .ph_bed_fill : return "\u{fafe}" 
+case .ph_bed_light : return "\u{eeb9}" 
+case .ph_bed_thin : return "\u{eaa2}" 
+case .ph_beer_bottle : return "\u{f2d1}" 
+case .ph_beer_bottle_bold : return "\u{f6e8}" 
+case .ph_beer_bottle_fill : return "\u{faff}" 
+case .ph_beer_bottle_light : return "\u{eeba}" 
+case .ph_beer_bottle_thin : return "\u{eaa3}" 
+case .ph_behance_logo : return "\u{f2d2}" 
+case .ph_behance_logo_bold : return "\u{f6e9}" 
+case .ph_behance_logo_fill : return "\u{fb00}" 
+case .ph_behance_logo_light : return "\u{eebb}" 
+case .ph_behance_logo_thin : return "\u{eaa4}" 
+case .ph_bell : return "\u{f2d3}" 
+case .ph_bell_bold : return "\u{f6ea}" 
+case .ph_bell_fill : return "\u{fb01}" 
+case .ph_bell_light : return "\u{eebc}" 
+case .ph_bell_ringing : return "\u{f2d4}" 
+case .ph_bell_ringing_bold : return "\u{f6eb}" 
+case .ph_bell_ringing_fill : return "\u{fb02}" 
+case .ph_bell_ringing_light : return "\u{eebd}" 
+case .ph_bell_ringing_thin : return "\u{eaa5}" 
+case .ph_bell_simple : return "\u{f2d5}" 
+case .ph_bell_simple_bold : return "\u{f6ec}" 
+case .ph_bell_simple_fill : return "\u{fb03}" 
+case .ph_bell_simple_light : return "\u{eebe}" 
+case .ph_bell_simple_ringing : return "\u{f2d6}" 
+case .ph_bell_simple_ringing_bold : return "\u{f6ed}" 
+case .ph_bell_simple_ringing_fill : return "\u{fb04}" 
+case .ph_bell_simple_ringing_light : return "\u{eebf}" 
+case .ph_bell_simple_ringing_thin : return "\u{eaa6}" 
+case .ph_bell_simple_slash : return "\u{f2d7}" 
+case .ph_bell_simple_slash_bold : return "\u{f6ee}" 
+case .ph_bell_simple_slash_fill : return "\u{fb05}" 
+case .ph_bell_simple_slash_light : return "\u{eec0}" 
+case .ph_bell_simple_slash_thin : return "\u{eaa7}" 
+case .ph_bell_simple_thin : return "\u{eaa8}" 
+case .ph_bell_simple_z : return "\u{f2d8}" 
+case .ph_bell_simple_z_bold : return "\u{f6ef}" 
+case .ph_bell_simple_z_fill : return "\u{fb06}" 
+case .ph_bell_simple_z_light : return "\u{eec1}" 
+case .ph_bell_simple_z_thin : return "\u{eaa9}" 
+case .ph_bell_slash : return "\u{f2d9}" 
+case .ph_bell_slash_bold : return "\u{f6f0}" 
+case .ph_bell_slash_fill : return "\u{fb07}" 
+case .ph_bell_slash_light : return "\u{eec2}" 
+case .ph_bell_slash_thin : return "\u{eaaa}" 
+case .ph_bell_thin : return "\u{eaab}" 
+case .ph_bell_z : return "\u{f2da}" 
+case .ph_bell_z_bold : return "\u{f6f1}" 
+case .ph_bell_z_fill : return "\u{fb08}" 
+case .ph_bell_z_light : return "\u{eec3}" 
+case .ph_bell_z_thin : return "\u{eaac}" 
+case .ph_bezier_curve : return "\u{f2db}" 
+case .ph_bezier_curve_bold : return "\u{f6f2}" 
+case .ph_bezier_curve_fill : return "\u{fb09}" 
+case .ph_bezier_curve_light : return "\u{eec4}" 
+case .ph_bezier_curve_thin : return "\u{eaad}" 
+case .ph_bicycle : return "\u{f2dc}" 
+case .ph_bicycle_bold : return "\u{f6f3}" 
+case .ph_bicycle_fill : return "\u{fb0a}" 
+case .ph_bicycle_light : return "\u{eec5}" 
+case .ph_bicycle_thin : return "\u{eaae}" 
+case .ph_binoculars : return "\u{f2dd}" 
+case .ph_binoculars_bold : return "\u{f6f4}" 
+case .ph_binoculars_fill : return "\u{fb0b}" 
+case .ph_binoculars_light : return "\u{eec6}" 
+case .ph_binoculars_thin : return "\u{eaaf}" 
+case .ph_bird : return "\u{f2de}" 
+case .ph_bird_bold : return "\u{f6f5}" 
+case .ph_bird_fill : return "\u{fb0c}" 
+case .ph_bird_light : return "\u{eec7}" 
+case .ph_bird_thin : return "\u{eab0}" 
+case .ph_bluetooth : return "\u{f2df}" 
+case .ph_bluetooth_bold : return "\u{f6f6}" 
+case .ph_bluetooth_connected : return "\u{f2e0}" 
+case .ph_bluetooth_connected_bold : return "\u{f6f7}" 
+case .ph_bluetooth_connected_fill : return "\u{fb0d}" 
+case .ph_bluetooth_connected_light : return "\u{eec8}" 
+case .ph_bluetooth_connected_thin : return "\u{eab1}" 
+case .ph_bluetooth_fill : return "\u{fb0e}" 
+case .ph_bluetooth_light : return "\u{eec9}" 
+case .ph_bluetooth_slash : return "\u{f2e1}" 
+case .ph_bluetooth_slash_bold : return "\u{f6f8}" 
+case .ph_bluetooth_slash_fill : return "\u{fb0f}" 
+case .ph_bluetooth_slash_light : return "\u{eeca}" 
+case .ph_bluetooth_slash_thin : return "\u{eab2}" 
+case .ph_bluetooth_thin : return "\u{eab3}" 
+case .ph_bluetooth_x : return "\u{f2e2}" 
+case .ph_bluetooth_x_bold : return "\u{f6f9}" 
+case .ph_bluetooth_x_fill : return "\u{fb10}" 
+case .ph_bluetooth_x_light : return "\u{eecb}" 
+case .ph_bluetooth_x_thin : return "\u{eab4}" 
+case .ph_boat : return "\u{f2e3}" 
+case .ph_boat_bold : return "\u{f6fa}" 
+case .ph_boat_fill : return "\u{fb11}" 
+case .ph_boat_light : return "\u{eecc}" 
+case .ph_boat_thin : return "\u{eab5}" 
+case .ph_book : return "\u{f2e4}" 
+case .ph_book_bold : return "\u{f6fb}" 
+case .ph_book_bookmark : return "\u{f2e5}" 
+case .ph_book_bookmark_bold : return "\u{f6fc}" 
+case .ph_book_bookmark_fill : return "\u{fb12}" 
+case .ph_book_bookmark_light : return "\u{eecd}" 
+case .ph_book_bookmark_thin : return "\u{eab6}" 
+case .ph_book_fill : return "\u{fb13}" 
+case .ph_book_light : return "\u{eece}" 
+case .ph_book_open : return "\u{f2e6}" 
+case .ph_book_open_bold : return "\u{f6fd}" 
+case .ph_book_open_fill : return "\u{fb14}" 
+case .ph_book_open_light : return "\u{eecf}" 
+case .ph_book_open_thin : return "\u{eab7}" 
+case .ph_book_thin : return "\u{eab8}" 
+case .ph_bookmark : return "\u{f2e7}" 
+case .ph_bookmark_bold : return "\u{f6fe}" 
+case .ph_bookmark_fill : return "\u{fb15}" 
+case .ph_bookmark_light : return "\u{eed0}" 
+case .ph_bookmark_simple : return "\u{f2e8}" 
+case .ph_bookmark_simple_bold : return "\u{f6ff}" 
+case .ph_bookmark_simple_fill : return "\u{fb16}" 
+case .ph_bookmark_simple_light : return "\u{eed1}" 
+case .ph_bookmark_simple_thin : return "\u{eab9}" 
+case .ph_bookmark_thin : return "\u{eaba}" 
+case .ph_bookmarks : return "\u{f2e9}" 
+case .ph_bookmarks_bold : return "\u{f700}" 
+case .ph_bookmarks_fill : return "\u{fb17}" 
+case .ph_bookmarks_light : return "\u{eed2}" 
+case .ph_bookmarks_simple : return "\u{f2ea}" 
+case .ph_bookmarks_simple_bold : return "\u{f701}" 
+case .ph_bookmarks_simple_fill : return "\u{fb18}" 
+case .ph_bookmarks_simple_light : return "\u{eed3}" 
+case .ph_bookmarks_simple_thin : return "\u{eabb}" 
+case .ph_bookmarks_thin : return "\u{eabc}" 
+case .ph_books : return "\u{f2eb}" 
+case .ph_books_bold : return "\u{f702}" 
+case .ph_books_fill : return "\u{fb19}" 
+case .ph_books_light : return "\u{eed4}" 
+case .ph_books_thin : return "\u{eabd}" 
+case .ph_bounding_box : return "\u{f2ec}" 
+case .ph_bounding_box_bold : return "\u{f703}" 
+case .ph_bounding_box_fill : return "\u{fb1a}" 
+case .ph_bounding_box_light : return "\u{eed5}" 
+case .ph_bounding_box_thin : return "\u{eabe}" 
+case .ph_brackets_angle : return "\u{f2ed}" 
+case .ph_brackets_angle_bold : return "\u{f704}" 
+case .ph_brackets_angle_fill : return "\u{fb1b}" 
+case .ph_brackets_angle_light : return "\u{eed6}" 
+case .ph_brackets_angle_thin : return "\u{eabf}" 
+case .ph_brackets_curly : return "\u{f2ee}" 
+case .ph_brackets_curly_bold : return "\u{f705}" 
+case .ph_brackets_curly_fill : return "\u{fb1c}" 
+case .ph_brackets_curly_light : return "\u{eed7}" 
+case .ph_brackets_curly_thin : return "\u{eac0}" 
+case .ph_brackets_round : return "\u{f2ef}" 
+case .ph_brackets_round_bold : return "\u{f706}" 
+case .ph_brackets_round_fill : return "\u{fb1d}" 
+case .ph_brackets_round_light : return "\u{eed8}" 
+case .ph_brackets_round_thin : return "\u{eac1}" 
+case .ph_brackets_square : return "\u{f2f0}" 
+case .ph_brackets_square_bold : return "\u{f707}" 
+case .ph_brackets_square_fill : return "\u{fb1e}" 
+case .ph_brackets_square_light : return "\u{eed9}" 
+case .ph_brackets_square_thin : return "\u{eac2}" 
+case .ph_brain : return "\u{f2f1}" 
+case .ph_brain_bold : return "\u{f708}" 
+case .ph_brain_fill : return "\u{fb1f}" 
+case .ph_brain_light : return "\u{eeda}" 
+case .ph_brain_thin : return "\u{eac3}" 
+case .ph_brandy : return "\u{f2f2}" 
+case .ph_brandy_bold : return "\u{f709}" 
+case .ph_brandy_fill : return "\u{fb20}" 
+case .ph_brandy_light : return "\u{eedb}" 
+case .ph_brandy_thin : return "\u{eac4}" 
+case .ph_briefcase : return "\u{f2f3}" 
+case .ph_briefcase_bold : return "\u{f70a}" 
+case .ph_briefcase_fill : return "\u{fb21}" 
+case .ph_briefcase_light : return "\u{eedc}" 
+case .ph_briefcase_metal : return "\u{f2f4}" 
+case .ph_briefcase_metal_bold : return "\u{f70b}" 
+case .ph_briefcase_metal_fill : return "\u{fb22}" 
+case .ph_briefcase_metal_light : return "\u{eedd}" 
+case .ph_briefcase_metal_thin : return "\u{eac5}" 
+case .ph_briefcase_thin : return "\u{eac6}" 
+case .ph_broadcast : return "\u{f2f5}" 
+case .ph_broadcast_bold : return "\u{f70c}" 
+case .ph_broadcast_fill : return "\u{fb23}" 
+case .ph_broadcast_light : return "\u{eede}" 
+case .ph_broadcast_thin : return "\u{eac7}" 
+case .ph_browser : return "\u{f2f6}" 
+case .ph_browser_bold : return "\u{f70d}" 
+case .ph_browser_fill : return "\u{fb24}" 
+case .ph_browser_light : return "\u{eedf}" 
+case .ph_browser_thin : return "\u{eac8}" 
+case .ph_browsers : return "\u{f2f7}" 
+case .ph_browsers_bold : return "\u{f70e}" 
+case .ph_browsers_fill : return "\u{fb25}" 
+case .ph_browsers_light : return "\u{eee0}" 
+case .ph_browsers_thin : return "\u{eac9}" 
+case .ph_bug : return "\u{f2f8}" 
+case .ph_bug_beetle : return "\u{f2f9}" 
+case .ph_bug_beetle_bold : return "\u{f70f}" 
+case .ph_bug_beetle_fill : return "\u{fb26}" 
+case .ph_bug_beetle_light : return "\u{eee1}" 
+case .ph_bug_beetle_thin : return "\u{eaca}" 
+case .ph_bug_bold : return "\u{f710}" 
+case .ph_bug_droid : return "\u{f2fa}" 
+case .ph_bug_droid_bold : return "\u{f711}" 
+case .ph_bug_droid_fill : return "\u{fb27}" 
+case .ph_bug_droid_light : return "\u{eee2}" 
+case .ph_bug_droid_thin : return "\u{eacb}" 
+case .ph_bug_fill : return "\u{fb28}" 
+case .ph_bug_light : return "\u{eee3}" 
+case .ph_bug_thin : return "\u{eacc}" 
+case .ph_buildings : return "\u{f2fb}" 
+case .ph_buildings_bold : return "\u{f712}" 
+case .ph_buildings_fill : return "\u{fb29}" 
+case .ph_buildings_light : return "\u{eee4}" 
+case .ph_buildings_thin : return "\u{eacd}" 
+case .ph_bus : return "\u{f2fc}" 
+case .ph_bus_bold : return "\u{f713}" 
+case .ph_bus_fill : return "\u{fb2a}" 
+case .ph_bus_light : return "\u{eee5}" 
+case .ph_bus_thin : return "\u{eace}" 
+case .ph_butterfly : return "\u{f2fd}" 
+case .ph_butterfly_bold : return "\u{f714}" 
+case .ph_butterfly_fill : return "\u{fb2b}" 
+case .ph_butterfly_light : return "\u{eee6}" 
+case .ph_butterfly_thin : return "\u{eacf}" 
+case .ph_cactus : return "\u{f2fe}" 
+case .ph_cactus_bold : return "\u{f715}" 
+case .ph_cactus_fill : return "\u{fb2c}" 
+case .ph_cactus_light : return "\u{eee7}" 
+case .ph_cactus_thin : return "\u{ead0}" 
+case .ph_cake : return "\u{f2ff}" 
+case .ph_cake_bold : return "\u{f716}" 
+case .ph_cake_fill : return "\u{fb2d}" 
+case .ph_cake_light : return "\u{eee8}" 
+case .ph_cake_thin : return "\u{ead1}" 
+case .ph_calculator : return "\u{f300}" 
+case .ph_calculator_bold : return "\u{f717}" 
+case .ph_calculator_fill : return "\u{fb2e}" 
+case .ph_calculator_light : return "\u{eee9}" 
+case .ph_calculator_thin : return "\u{ead2}" 
+case .ph_calendar : return "\u{f301}" 
+case .ph_calendar_blank : return "\u{f302}" 
+case .ph_calendar_blank_bold : return "\u{f718}" 
+case .ph_calendar_blank_fill : return "\u{fb2f}" 
+case .ph_calendar_blank_light : return "\u{eeea}" 
+case .ph_calendar_blank_thin : return "\u{ead3}" 
+case .ph_calendar_bold : return "\u{f719}" 
+case .ph_calendar_check : return "\u{f303}" 
+case .ph_calendar_check_bold : return "\u{f71a}" 
+case .ph_calendar_check_fill : return "\u{fb30}" 
+case .ph_calendar_check_light : return "\u{eeeb}" 
+case .ph_calendar_check_thin : return "\u{ead4}" 
+case .ph_calendar_fill : return "\u{fb31}" 
+case .ph_calendar_light : return "\u{eeec}" 
+case .ph_calendar_plus : return "\u{f304}" 
+case .ph_calendar_plus_bold : return "\u{f71b}" 
+case .ph_calendar_plus_fill : return "\u{fb32}" 
+case .ph_calendar_plus_light : return "\u{eeed}" 
+case .ph_calendar_plus_thin : return "\u{ead5}" 
+case .ph_calendar_thin : return "\u{ead6}" 
+case .ph_calendar_x : return "\u{f305}" 
+case .ph_calendar_x_bold : return "\u{f71c}" 
+case .ph_calendar_x_fill : return "\u{fb33}" 
+case .ph_calendar_x_light : return "\u{eeee}" 
+case .ph_calendar_x_thin : return "\u{ead7}" 
+case .ph_camera : return "\u{f306}" 
+case .ph_camera_bold : return "\u{f71d}" 
+case .ph_camera_fill : return "\u{fb34}" 
+case .ph_camera_light : return "\u{eeef}" 
+case .ph_camera_rotate : return "\u{f307}" 
+case .ph_camera_rotate_bold : return "\u{f71e}" 
+case .ph_camera_rotate_fill : return "\u{fb35}" 
+case .ph_camera_rotate_light : return "\u{eef0}" 
+case .ph_camera_rotate_thin : return "\u{ead8}" 
+case .ph_camera_slash : return "\u{f308}" 
+case .ph_camera_slash_bold : return "\u{f71f}" 
+case .ph_camera_slash_fill : return "\u{fb36}" 
+case .ph_camera_slash_light : return "\u{eef1}" 
+case .ph_camera_slash_thin : return "\u{ead9}" 
+case .ph_camera_thin : return "\u{eada}" 
+case .ph_campfire : return "\u{f309}" 
+case .ph_campfire_bold : return "\u{f720}" 
+case .ph_campfire_fill : return "\u{fb37}" 
+case .ph_campfire_light : return "\u{eef2}" 
+case .ph_campfire_thin : return "\u{eadb}" 
+case .ph_car : return "\u{f30a}" 
+case .ph_car_bold : return "\u{f721}" 
+case .ph_car_fill : return "\u{fb38}" 
+case .ph_car_light : return "\u{eef3}" 
+case .ph_car_simple : return "\u{f30b}" 
+case .ph_car_simple_bold : return "\u{f722}" 
+case .ph_car_simple_fill : return "\u{fb39}" 
+case .ph_car_simple_light : return "\u{eef4}" 
+case .ph_car_simple_thin : return "\u{eadc}" 
+case .ph_car_thin : return "\u{eadd}" 
+case .ph_cardholder : return "\u{f30c}" 
+case .ph_cardholder_bold : return "\u{f723}" 
+case .ph_cardholder_fill : return "\u{fb3a}" 
+case .ph_cardholder_light : return "\u{eef5}" 
+case .ph_cardholder_thin : return "\u{eade}" 
+case .ph_cards : return "\u{f30d}" 
+case .ph_cards_bold : return "\u{f724}" 
+case .ph_cards_fill : return "\u{fb3b}" 
+case .ph_cards_light : return "\u{eef6}" 
+case .ph_cards_thin : return "\u{eadf}" 
+case .ph_caret_circle_double_down : return "\u{f30e}" 
+case .ph_caret_circle_double_down_bold : return "\u{f725}" 
+case .ph_caret_circle_double_down_fill : return "\u{fb3c}" 
+case .ph_caret_circle_double_down_light : return "\u{eef7}" 
+case .ph_caret_circle_double_down_thin : return "\u{eae0}" 
+case .ph_caret_circle_double_left : return "\u{f30f}" 
+case .ph_caret_circle_double_left_bold : return "\u{f726}" 
+case .ph_caret_circle_double_left_fill : return "\u{fb3d}" 
+case .ph_caret_circle_double_left_light : return "\u{eef8}" 
+case .ph_caret_circle_double_left_thin : return "\u{eae1}" 
+case .ph_caret_circle_double_right : return "\u{f310}" 
+case .ph_caret_circle_double_right_bold : return "\u{f727}" 
+case .ph_caret_circle_double_right_fill : return "\u{fb3e}" 
+case .ph_caret_circle_double_right_light : return "\u{eef9}" 
+case .ph_caret_circle_double_right_thin : return "\u{eae2}" 
+case .ph_caret_circle_double_up : return "\u{f311}" 
+case .ph_caret_circle_double_up_bold : return "\u{f728}" 
+case .ph_caret_circle_double_up_fill : return "\u{fb3f}" 
+case .ph_caret_circle_double_up_light : return "\u{eefa}" 
+case .ph_caret_circle_double_up_thin : return "\u{eae3}" 
+case .ph_caret_circle_down : return "\u{f312}" 
+case .ph_caret_circle_down_bold : return "\u{f729}" 
+case .ph_caret_circle_down_fill : return "\u{fb40}" 
+case .ph_caret_circle_down_light : return "\u{eefb}" 
+case .ph_caret_circle_down_thin : return "\u{eae4}" 
+case .ph_caret_circle_left : return "\u{f313}" 
+case .ph_caret_circle_left_bold : return "\u{f72a}" 
+case .ph_caret_circle_left_fill : return "\u{fb41}" 
+case .ph_caret_circle_left_light : return "\u{eefc}" 
+case .ph_caret_circle_left_thin : return "\u{eae5}" 
+case .ph_caret_circle_right : return "\u{f314}" 
+case .ph_caret_circle_right_bold : return "\u{f72b}" 
+case .ph_caret_circle_right_fill : return "\u{fb42}" 
+case .ph_caret_circle_right_light : return "\u{eefd}" 
+case .ph_caret_circle_right_thin : return "\u{eae6}" 
+case .ph_caret_circle_up : return "\u{f315}" 
+case .ph_caret_circle_up_bold : return "\u{f72c}" 
+case .ph_caret_circle_up_fill : return "\u{fb43}" 
+case .ph_caret_circle_up_light : return "\u{eefe}" 
+case .ph_caret_circle_up_thin : return "\u{eae7}" 
+case .ph_caret_double_down : return "\u{f316}" 
+case .ph_caret_double_down_bold : return "\u{f72d}" 
+case .ph_caret_double_down_fill : return "\u{fb44}" 
+case .ph_caret_double_down_light : return "\u{eeff}" 
+case .ph_caret_double_down_thin : return "\u{eae8}" 
+case .ph_caret_double_left : return "\u{f317}" 
+case .ph_caret_double_left_bold : return "\u{f72e}" 
+case .ph_caret_double_left_fill : return "\u{fb45}" 
+case .ph_caret_double_left_light : return "\u{ef00}" 
+case .ph_caret_double_left_thin : return "\u{eae9}" 
+case .ph_caret_double_right : return "\u{f318}" 
+case .ph_caret_double_right_bold : return "\u{f72f}" 
+case .ph_caret_double_right_fill : return "\u{fb46}" 
+case .ph_caret_double_right_light : return "\u{ef01}" 
+case .ph_caret_double_right_thin : return "\u{eaea}" 
+case .ph_caret_double_up : return "\u{f319}" 
+case .ph_caret_double_up_bold : return "\u{f730}" 
+case .ph_caret_double_up_fill : return "\u{fb47}" 
+case .ph_caret_double_up_light : return "\u{ef02}" 
+case .ph_caret_double_up_thin : return "\u{eaeb}" 
+case .ph_caret_down : return "\u{f31a}" 
+case .ph_caret_down_bold : return "\u{f731}" 
+case .ph_caret_down_fill : return "\u{fb48}" 
+case .ph_caret_down_light : return "\u{ef03}" 
+case .ph_caret_down_thin : return "\u{eaec}" 
+case .ph_caret_left : return "\u{f31b}" 
+case .ph_caret_left_bold : return "\u{f732}" 
+case .ph_caret_left_fill : return "\u{fb49}" 
+case .ph_caret_left_light : return "\u{ef04}" 
+case .ph_caret_left_thin : return "\u{eaed}" 
+case .ph_caret_right : return "\u{f31c}" 
+case .ph_caret_right_bold : return "\u{f733}" 
+case .ph_caret_right_fill : return "\u{fb4a}" 
+case .ph_caret_right_light : return "\u{ef05}" 
+case .ph_caret_right_thin : return "\u{eaee}" 
+case .ph_caret_up : return "\u{f31d}" 
+case .ph_caret_up_bold : return "\u{f734}" 
+case .ph_caret_up_fill : return "\u{fb4b}" 
+case .ph_caret_up_light : return "\u{ef06}" 
+case .ph_caret_up_thin : return "\u{eaef}" 
+case .ph_cat : return "\u{f31e}" 
+case .ph_cat_bold : return "\u{f735}" 
+case .ph_cat_fill : return "\u{fb4c}" 
+case .ph_cat_light : return "\u{ef07}" 
+case .ph_cat_thin : return "\u{eaf0}" 
+case .ph_cell_signal_full : return "\u{f31f}" 
+case .ph_cell_signal_full_bold : return "\u{f736}" 
+case .ph_cell_signal_full_fill : return "\u{fb4d}" 
+case .ph_cell_signal_full_light : return "\u{ef08}" 
+case .ph_cell_signal_full_thin : return "\u{eaf1}" 
+case .ph_cell_signal_high : return "\u{f320}" 
+case .ph_cell_signal_high_bold : return "\u{f737}" 
+case .ph_cell_signal_high_fill : return "\u{fb4e}" 
+case .ph_cell_signal_high_light : return "\u{ef09}" 
+case .ph_cell_signal_high_thin : return "\u{eaf2}" 
+case .ph_cell_signal_low : return "\u{f321}" 
+case .ph_cell_signal_low_bold : return "\u{f738}" 
+case .ph_cell_signal_low_fill : return "\u{fb4f}" 
+case .ph_cell_signal_low_light : return "\u{ef0a}" 
+case .ph_cell_signal_low_thin : return "\u{eaf3}" 
+case .ph_cell_signal_medium : return "\u{f322}" 
+case .ph_cell_signal_medium_bold : return "\u{f739}" 
+case .ph_cell_signal_medium_fill : return "\u{fb50}" 
+case .ph_cell_signal_medium_light : return "\u{ef0b}" 
+case .ph_cell_signal_medium_thin : return "\u{eaf4}" 
+case .ph_cell_signal_none : return "\u{f323}" 
+case .ph_cell_signal_none_bold : return "\u{f73a}" 
+case .ph_cell_signal_none_fill : return "\u{fb51}" 
+case .ph_cell_signal_none_light : return "\u{ef0c}" 
+case .ph_cell_signal_none_thin : return "\u{eaf5}" 
+case .ph_cell_signal_slash : return "\u{f324}" 
+case .ph_cell_signal_slash_bold : return "\u{f73b}" 
+case .ph_cell_signal_slash_fill : return "\u{fb52}" 
+case .ph_cell_signal_slash_light : return "\u{ef0d}" 
+case .ph_cell_signal_slash_thin : return "\u{eaf6}" 
+case .ph_cell_signal_x : return "\u{f325}" 
+case .ph_cell_signal_x_bold : return "\u{f73c}" 
+case .ph_cell_signal_x_fill : return "\u{fb53}" 
+case .ph_cell_signal_x_light : return "\u{ef0e}" 
+case .ph_cell_signal_x_thin : return "\u{eaf7}" 
+case .ph_chalkboard : return "\u{f326}" 
+case .ph_chalkboard_bold : return "\u{f73d}" 
+case .ph_chalkboard_fill : return "\u{fb54}" 
+case .ph_chalkboard_light : return "\u{ef0f}" 
+case .ph_chalkboard_simple : return "\u{f327}" 
+case .ph_chalkboard_simple_bold : return "\u{f73e}" 
+case .ph_chalkboard_simple_fill : return "\u{fb55}" 
+case .ph_chalkboard_simple_light : return "\u{ef10}" 
+case .ph_chalkboard_simple_thin : return "\u{eaf8}" 
+case .ph_chalkboard_teacher : return "\u{f328}" 
+case .ph_chalkboard_teacher_bold : return "\u{f73f}" 
+case .ph_chalkboard_teacher_fill : return "\u{fb56}" 
+case .ph_chalkboard_teacher_light : return "\u{ef11}" 
+case .ph_chalkboard_teacher_thin : return "\u{eaf9}" 
+case .ph_chalkboard_thin : return "\u{eafa}" 
+case .ph_chart_bar : return "\u{f329}" 
+case .ph_chart_bar_bold : return "\u{f740}" 
+case .ph_chart_bar_fill : return "\u{fb57}" 
+case .ph_chart_bar_horizontal : return "\u{f32a}" 
+case .ph_chart_bar_horizontal_bold : return "\u{f741}" 
+case .ph_chart_bar_horizontal_fill : return "\u{fb58}" 
+case .ph_chart_bar_horizontal_light : return "\u{ef12}" 
+case .ph_chart_bar_horizontal_thin : return "\u{eafb}" 
+case .ph_chart_bar_light : return "\u{ef13}" 
+case .ph_chart_bar_thin : return "\u{eafc}" 
+case .ph_chart_line : return "\u{f32b}" 
+case .ph_chart_line_bold : return "\u{f742}" 
+case .ph_chart_line_fill : return "\u{fb59}" 
+case .ph_chart_line_light : return "\u{ef14}" 
+case .ph_chart_line_thin : return "\u{eafd}" 
+case .ph_chart_line_up : return "\u{f32c}" 
+case .ph_chart_line_up_bold : return "\u{f743}" 
+case .ph_chart_line_up_fill : return "\u{fb5a}" 
+case .ph_chart_line_up_light : return "\u{ef15}" 
+case .ph_chart_line_up_thin : return "\u{eafe}" 
+case .ph_chart_pie : return "\u{f32d}" 
+case .ph_chart_pie_bold : return "\u{f744}" 
+case .ph_chart_pie_fill : return "\u{fb5b}" 
+case .ph_chart_pie_light : return "\u{ef16}" 
+case .ph_chart_pie_slice : return "\u{f32e}" 
+case .ph_chart_pie_slice_bold : return "\u{f745}" 
+case .ph_chart_pie_slice_fill : return "\u{fb5c}" 
+case .ph_chart_pie_slice_light : return "\u{ef17}" 
+case .ph_chart_pie_slice_thin : return "\u{eaff}" 
+case .ph_chart_pie_thin : return "\u{eb00}" 
+case .ph_chat : return "\u{f32f}" 
+case .ph_chat_bold : return "\u{f746}" 
+case .ph_chat_centered : return "\u{f330}" 
+case .ph_chat_centered_bold : return "\u{f747}" 
+case .ph_chat_centered_dots : return "\u{f331}" 
+case .ph_chat_centered_dots_bold : return "\u{f748}" 
+case .ph_chat_centered_dots_fill : return "\u{fb5d}" 
+case .ph_chat_centered_dots_light : return "\u{ef18}" 
+case .ph_chat_centered_dots_thin : return "\u{eb01}" 
+case .ph_chat_centered_fill : return "\u{fb5e}" 
+case .ph_chat_centered_light : return "\u{ef19}" 
+case .ph_chat_centered_text : return "\u{f332}" 
+case .ph_chat_centered_text_bold : return "\u{f749}" 
+case .ph_chat_centered_text_fill : return "\u{fb5f}" 
+case .ph_chat_centered_text_light : return "\u{ef1a}" 
+case .ph_chat_centered_text_thin : return "\u{eb02}" 
+case .ph_chat_centered_thin : return "\u{eb03}" 
+case .ph_chat_circle : return "\u{f333}" 
+case .ph_chat_circle_bold : return "\u{f74a}" 
+case .ph_chat_circle_dots : return "\u{f334}" 
+case .ph_chat_circle_dots_bold : return "\u{f74b}" 
+case .ph_chat_circle_dots_fill : return "\u{fb60}" 
+case .ph_chat_circle_dots_light : return "\u{ef1b}" 
+case .ph_chat_circle_dots_thin : return "\u{eb04}" 
+case .ph_chat_circle_fill : return "\u{fb61}" 
+case .ph_chat_circle_light : return "\u{ef1c}" 
+case .ph_chat_circle_text : return "\u{f335}" 
+case .ph_chat_circle_text_bold : return "\u{f74c}" 
+case .ph_chat_circle_text_fill : return "\u{fb62}" 
+case .ph_chat_circle_text_light : return "\u{ef1d}" 
+case .ph_chat_circle_text_thin : return "\u{eb05}" 
+case .ph_chat_circle_thin : return "\u{eb06}" 
+case .ph_chat_dots : return "\u{f336}" 
+case .ph_chat_dots_bold : return "\u{f74d}" 
+case .ph_chat_dots_fill : return "\u{fb63}" 
+case .ph_chat_dots_light : return "\u{ef1e}" 
+case .ph_chat_dots_thin : return "\u{eb07}" 
+case .ph_chat_fill : return "\u{fb64}" 
+case .ph_chat_light : return "\u{ef1f}" 
+case .ph_chat_teardrop : return "\u{f337}" 
+case .ph_chat_teardrop_bold : return "\u{f74e}" 
+case .ph_chat_teardrop_dots : return "\u{f338}" 
+case .ph_chat_teardrop_dots_bold : return "\u{f74f}" 
+case .ph_chat_teardrop_dots_fill : return "\u{fb65}" 
+case .ph_chat_teardrop_dots_light : return "\u{ef20}" 
+case .ph_chat_teardrop_dots_thin : return "\u{eb08}" 
+case .ph_chat_teardrop_fill : return "\u{fb66}" 
+case .ph_chat_teardrop_light : return "\u{ef21}" 
+case .ph_chat_teardrop_text : return "\u{f339}" 
+case .ph_chat_teardrop_text_bold : return "\u{f750}" 
+case .ph_chat_teardrop_text_fill : return "\u{fb67}" 
+case .ph_chat_teardrop_text_light : return "\u{ef22}" 
+case .ph_chat_teardrop_text_thin : return "\u{eb09}" 
+case .ph_chat_teardrop_thin : return "\u{eb0a}" 
+case .ph_chat_text : return "\u{f33a}" 
+case .ph_chat_text_bold : return "\u{f751}" 
+case .ph_chat_text_fill : return "\u{fb68}" 
+case .ph_chat_text_light : return "\u{ef23}" 
+case .ph_chat_text_thin : return "\u{eb0b}" 
+case .ph_chat_thin : return "\u{eb0c}" 
+case .ph_chats : return "\u{f33b}" 
+case .ph_chats_bold : return "\u{f752}" 
+case .ph_chats_circle : return "\u{f33c}" 
+case .ph_chats_circle_bold : return "\u{f753}" 
+case .ph_chats_circle_fill : return "\u{fb69}" 
+case .ph_chats_circle_light : return "\u{ef24}" 
+case .ph_chats_circle_thin : return "\u{eb0d}" 
+case .ph_chats_fill : return "\u{fb6a}" 
+case .ph_chats_light : return "\u{ef25}" 
+case .ph_chats_teardrop : return "\u{f33d}" 
+case .ph_chats_teardrop_bold : return "\u{f754}" 
+case .ph_chats_teardrop_fill : return "\u{fb6b}" 
+case .ph_chats_teardrop_light : return "\u{ef26}" 
+case .ph_chats_teardrop_thin : return "\u{eb0e}" 
+case .ph_chats_thin : return "\u{eb0f}" 
+case .ph_check : return "\u{f33e}" 
+case .ph_check_bold : return "\u{f755}" 
+case .ph_check_circle : return "\u{f33f}" 
+case .ph_check_circle_bold : return "\u{f756}" 
+case .ph_check_circle_fill : return "\u{fb6c}" 
+case .ph_check_circle_light : return "\u{ef27}" 
+case .ph_check_circle_thin : return "\u{eb10}" 
+case .ph_check_fill : return "\u{fb6d}" 
+case .ph_check_light : return "\u{ef28}" 
+case .ph_check_square : return "\u{f340}" 
+case .ph_check_square_bold : return "\u{f757}" 
+case .ph_check_square_fill : return "\u{fb6e}" 
+case .ph_check_square_light : return "\u{ef29}" 
+case .ph_check_square_offset : return "\u{f341}" 
+case .ph_check_square_offset_bold : return "\u{f758}" 
+case .ph_check_square_offset_fill : return "\u{fb6f}" 
+case .ph_check_square_offset_light : return "\u{ef2a}" 
+case .ph_check_square_offset_thin : return "\u{eb11}" 
+case .ph_check_square_thin : return "\u{eb12}" 
+case .ph_check_thin : return "\u{eb13}" 
+case .ph_checks : return "\u{f342}" 
+case .ph_checks_bold : return "\u{f759}" 
+case .ph_checks_fill : return "\u{fb70}" 
+case .ph_checks_light : return "\u{ef2b}" 
+case .ph_checks_thin : return "\u{eb14}" 
+case .ph_circle : return "\u{f343}" 
+case .ph_circle_bold : return "\u{f75a}" 
+case .ph_circle_dashed : return "\u{f344}" 
+case .ph_circle_dashed_bold : return "\u{f75b}" 
+case .ph_circle_dashed_fill : return "\u{fb71}" 
+case .ph_circle_dashed_light : return "\u{ef2c}" 
+case .ph_circle_dashed_thin : return "\u{eb15}" 
+case .ph_circle_fill : return "\u{fb72}" 
+case .ph_circle_half : return "\u{f345}" 
+case .ph_circle_half_bold : return "\u{f75c}" 
+case .ph_circle_half_fill : return "\u{fb73}" 
+case .ph_circle_half_light : return "\u{ef2d}" 
+case .ph_circle_half_thin : return "\u{eb16}" 
+case .ph_circle_half_tilt : return "\u{f346}" 
+case .ph_circle_half_tilt_bold : return "\u{f75d}" 
+case .ph_circle_half_tilt_fill : return "\u{fb74}" 
+case .ph_circle_half_tilt_light : return "\u{ef2e}" 
+case .ph_circle_half_tilt_thin : return "\u{eb17}" 
+case .ph_circle_light : return "\u{ef2f}" 
+case .ph_circle_notch : return "\u{f347}" 
+case .ph_circle_notch_bold : return "\u{f75e}" 
+case .ph_circle_notch_fill : return "\u{fb75}" 
+case .ph_circle_notch_light : return "\u{ef30}" 
+case .ph_circle_notch_thin : return "\u{eb18}" 
+case .ph_circle_thin : return "\u{eb19}" 
+case .ph_circle_wavy : return "\u{f348}" 
+case .ph_circle_wavy_bold : return "\u{f75f}" 
+case .ph_circle_wavy_check : return "\u{f349}" 
+case .ph_circle_wavy_check_bold : return "\u{f760}" 
+case .ph_circle_wavy_check_fill : return "\u{fb76}" 
+case .ph_circle_wavy_check_light : return "\u{ef31}" 
+case .ph_circle_wavy_check_thin : return "\u{eb1a}" 
+case .ph_circle_wavy_fill : return "\u{fb77}" 
+case .ph_circle_wavy_light : return "\u{ef32}" 
+case .ph_circle_wavy_question : return "\u{f34a}" 
+case .ph_circle_wavy_question_bold : return "\u{f761}" 
+case .ph_circle_wavy_question_fill : return "\u{fb78}" 
+case .ph_circle_wavy_question_light : return "\u{ef33}" 
+case .ph_circle_wavy_question_thin : return "\u{eb1b}" 
+case .ph_circle_wavy_thin : return "\u{eb1c}" 
+case .ph_circle_wavy_warning : return "\u{f34b}" 
+case .ph_circle_wavy_warning_bold : return "\u{f762}" 
+case .ph_circle_wavy_warning_fill : return "\u{fb79}" 
+case .ph_circle_wavy_warning_light : return "\u{ef34}" 
+case .ph_circle_wavy_warning_thin : return "\u{eb1d}" 
+case .ph_circles_four : return "\u{f34c}" 
+case .ph_circles_four_bold : return "\u{f763}" 
+case .ph_circles_four_fill : return "\u{fb7a}" 
+case .ph_circles_four_light : return "\u{ef35}" 
+case .ph_circles_four_thin : return "\u{eb1e}" 
+case .ph_circles_three : return "\u{f34d}" 
+case .ph_circles_three_bold : return "\u{f764}" 
+case .ph_circles_three_fill : return "\u{fb7b}" 
+case .ph_circles_three_light : return "\u{ef36}" 
+case .ph_circles_three_plus : return "\u{f34e}" 
+case .ph_circles_three_plus_bold : return "\u{f765}" 
+case .ph_circles_three_plus_fill : return "\u{fb7c}" 
+case .ph_circles_three_plus_light : return "\u{ef37}" 
+case .ph_circles_three_plus_thin : return "\u{eb1f}" 
+case .ph_circles_three_thin : return "\u{eb20}" 
+case .ph_clipboard : return "\u{f34f}" 
+case .ph_clipboard_bold : return "\u{f766}" 
+case .ph_clipboard_fill : return "\u{fb7d}" 
+case .ph_clipboard_light : return "\u{ef38}" 
+case .ph_clipboard_text : return "\u{f350}" 
+case .ph_clipboard_text_bold : return "\u{f767}" 
+case .ph_clipboard_text_fill : return "\u{fb7e}" 
+case .ph_clipboard_text_light : return "\u{ef39}" 
+case .ph_clipboard_text_thin : return "\u{eb21}" 
+case .ph_clipboard_thin : return "\u{eb22}" 
+case .ph_clock : return "\u{f351}" 
+case .ph_clock_afternoon : return "\u{f352}" 
+case .ph_clock_afternoon_bold : return "\u{f768}" 
+case .ph_clock_afternoon_fill : return "\u{fb7f}" 
+case .ph_clock_afternoon_light : return "\u{ef3a}" 
+case .ph_clock_afternoon_thin : return "\u{eb23}" 
+case .ph_clock_bold : return "\u{f769}" 
+case .ph_clock_clockwise : return "\u{f353}" 
+case .ph_clock_clockwise_bold : return "\u{f76a}" 
+case .ph_clock_clockwise_fill : return "\u{fb80}" 
+case .ph_clock_clockwise_light : return "\u{ef3b}" 
+case .ph_clock_clockwise_thin : return "\u{eb24}" 
+case .ph_clock_counter_clockwise : return "\u{f354}" 
+case .ph_clock_counter_clockwise_bold : return "\u{f76b}" 
+case .ph_clock_counter_clockwise_fill : return "\u{fb81}" 
+case .ph_clock_counter_clockwise_light : return "\u{ef3c}" 
+case .ph_clock_counter_clockwise_thin : return "\u{eb25}" 
+case .ph_clock_fill : return "\u{fb82}" 
+case .ph_clock_light : return "\u{ef3d}" 
+case .ph_clock_thin : return "\u{eb26}" 
+case .ph_closed_captioning : return "\u{f355}" 
+case .ph_closed_captioning_bold : return "\u{f76c}" 
+case .ph_closed_captioning_fill : return "\u{fb83}" 
+case .ph_closed_captioning_light : return "\u{ef3e}" 
+case .ph_closed_captioning_thin : return "\u{eb27}" 
+case .ph_cloud : return "\u{f356}" 
+case .ph_cloud_arrow_down : return "\u{f357}" 
+case .ph_cloud_arrow_down_bold : return "\u{f76d}" 
+case .ph_cloud_arrow_down_fill : return "\u{fb84}" 
+case .ph_cloud_arrow_down_light : return "\u{ef3f}" 
+case .ph_cloud_arrow_down_thin : return "\u{eb28}" 
+case .ph_cloud_arrow_up : return "\u{f358}" 
+case .ph_cloud_arrow_up_bold : return "\u{f76e}" 
+case .ph_cloud_arrow_up_fill : return "\u{fb85}" 
+case .ph_cloud_arrow_up_light : return "\u{ef40}" 
+case .ph_cloud_arrow_up_thin : return "\u{eb29}" 
+case .ph_cloud_bold : return "\u{f76f}" 
+case .ph_cloud_check : return "\u{f359}" 
+case .ph_cloud_check_bold : return "\u{f770}" 
+case .ph_cloud_check_fill : return "\u{fb86}" 
+case .ph_cloud_check_light : return "\u{ef41}" 
+case .ph_cloud_check_thin : return "\u{eb2a}" 
+case .ph_cloud_fill : return "\u{fb87}" 
+case .ph_cloud_fog : return "\u{f35a}" 
+case .ph_cloud_fog_bold : return "\u{f771}" 
+case .ph_cloud_fog_fill : return "\u{fb88}" 
+case .ph_cloud_fog_light : return "\u{ef42}" 
+case .ph_cloud_fog_thin : return "\u{eb2b}" 
+case .ph_cloud_light : return "\u{ef43}" 
+case .ph_cloud_lightning : return "\u{f35b}" 
+case .ph_cloud_lightning_bold : return "\u{f772}" 
+case .ph_cloud_lightning_fill : return "\u{fb89}" 
+case .ph_cloud_lightning_light : return "\u{ef44}" 
+case .ph_cloud_lightning_thin : return "\u{eb2c}" 
+case .ph_cloud_moon : return "\u{f35c}" 
+case .ph_cloud_moon_bold : return "\u{f773}" 
+case .ph_cloud_moon_fill : return "\u{fb8a}" 
+case .ph_cloud_moon_light : return "\u{ef45}" 
+case .ph_cloud_moon_thin : return "\u{eb2d}" 
+case .ph_cloud_rain : return "\u{f35d}" 
+case .ph_cloud_rain_bold : return "\u{f774}" 
+case .ph_cloud_rain_fill : return "\u{fb8b}" 
+case .ph_cloud_rain_light : return "\u{ef46}" 
+case .ph_cloud_rain_thin : return "\u{eb2e}" 
+case .ph_cloud_slash : return "\u{f35e}" 
+case .ph_cloud_slash_bold : return "\u{f775}" 
+case .ph_cloud_slash_fill : return "\u{fb8c}" 
+case .ph_cloud_slash_light : return "\u{ef47}" 
+case .ph_cloud_slash_thin : return "\u{eb2f}" 
+case .ph_cloud_snow : return "\u{f35f}" 
+case .ph_cloud_snow_bold : return "\u{f776}" 
+case .ph_cloud_snow_fill : return "\u{fb8d}" 
+case .ph_cloud_snow_light : return "\u{ef48}" 
+case .ph_cloud_snow_thin : return "\u{eb30}" 
+case .ph_cloud_sun : return "\u{f360}" 
+case .ph_cloud_sun_bold : return "\u{f777}" 
+case .ph_cloud_sun_fill : return "\u{fb8e}" 
+case .ph_cloud_sun_light : return "\u{ef49}" 
+case .ph_cloud_sun_thin : return "\u{eb31}" 
+case .ph_cloud_thin : return "\u{eb32}" 
+case .ph_club : return "\u{f361}" 
+case .ph_club_bold : return "\u{f778}" 
+case .ph_club_fill : return "\u{fb8f}" 
+case .ph_club_light : return "\u{ef4a}" 
+case .ph_club_thin : return "\u{eb33}" 
+case .ph_coat_hanger : return "\u{f362}" 
+case .ph_coat_hanger_bold : return "\u{f779}" 
+case .ph_coat_hanger_fill : return "\u{fb90}" 
+case .ph_coat_hanger_light : return "\u{ef4b}" 
+case .ph_coat_hanger_thin : return "\u{eb34}" 
+case .ph_code : return "\u{f363}" 
+case .ph_code_bold : return "\u{f77a}" 
+case .ph_code_fill : return "\u{fb91}" 
+case .ph_code_light : return "\u{ef4c}" 
+case .ph_code_simple : return "\u{f364}" 
+case .ph_code_simple_bold : return "\u{f77b}" 
+case .ph_code_simple_fill : return "\u{fb92}" 
+case .ph_code_simple_light : return "\u{ef4d}" 
+case .ph_code_simple_thin : return "\u{eb35}" 
+case .ph_code_thin : return "\u{eb36}" 
+case .ph_codepen_logo : return "\u{f365}" 
+case .ph_codepen_logo_bold : return "\u{f77c}" 
+case .ph_codepen_logo_fill : return "\u{fb93}" 
+case .ph_codepen_logo_light : return "\u{ef4e}" 
+case .ph_codepen_logo_thin : return "\u{eb37}" 
+case .ph_codesandbox_logo : return "\u{f366}" 
+case .ph_codesandbox_logo_bold : return "\u{f77d}" 
+case .ph_codesandbox_logo_fill : return "\u{fb94}" 
+case .ph_codesandbox_logo_light : return "\u{ef4f}" 
+case .ph_codesandbox_logo_thin : return "\u{eb38}" 
+case .ph_coffee : return "\u{f367}" 
+case .ph_coffee_bold : return "\u{f77e}" 
+case .ph_coffee_fill : return "\u{fb95}" 
+case .ph_coffee_light : return "\u{ef50}" 
+case .ph_coffee_thin : return "\u{eb39}" 
+case .ph_coin : return "\u{f368}" 
+case .ph_coin_bold : return "\u{f77f}" 
+case .ph_coin_fill : return "\u{fb96}" 
+case .ph_coin_light : return "\u{ef51}" 
+case .ph_coin_thin : return "\u{eb3a}" 
+case .ph_coin_vertical : return "\u{f369}" 
+case .ph_coin_vertical_bold : return "\u{f780}" 
+case .ph_coin_vertical_fill : return "\u{fb97}" 
+case .ph_coin_vertical_light : return "\u{ef52}" 
+case .ph_coin_vertical_thin : return "\u{eb3b}" 
+case .ph_coins : return "\u{f36a}" 
+case .ph_coins_bold : return "\u{f781}" 
+case .ph_coins_fill : return "\u{fb98}" 
+case .ph_coins_light : return "\u{ef53}" 
+case .ph_coins_thin : return "\u{eb3c}" 
+case .ph_columns : return "\u{f36b}" 
+case .ph_columns_bold : return "\u{f782}" 
+case .ph_columns_fill : return "\u{fb99}" 
+case .ph_columns_light : return "\u{ef54}" 
+case .ph_columns_thin : return "\u{eb3d}" 
+case .ph_command : return "\u{f36c}" 
+case .ph_command_bold : return "\u{f783}" 
+case .ph_command_fill : return "\u{fb9a}" 
+case .ph_command_light : return "\u{ef55}" 
+case .ph_command_thin : return "\u{eb3e}" 
+case .ph_compass : return "\u{f36d}" 
+case .ph_compass_bold : return "\u{f784}" 
+case .ph_compass_fill : return "\u{fb9b}" 
+case .ph_compass_light : return "\u{ef56}" 
+case .ph_compass_thin : return "\u{eb3f}" 
+case .ph_computer_tower : return "\u{f36e}" 
+case .ph_computer_tower_bold : return "\u{f785}" 
+case .ph_computer_tower_fill : return "\u{fb9c}" 
+case .ph_computer_tower_light : return "\u{ef57}" 
+case .ph_computer_tower_thin : return "\u{eb40}" 
+case .ph_confetti : return "\u{f36f}" 
+case .ph_confetti_bold : return "\u{f786}" 
+case .ph_confetti_fill : return "\u{fb9d}" 
+case .ph_confetti_light : return "\u{ef58}" 
+case .ph_confetti_thin : return "\u{eb41}" 
+case .ph_cookie : return "\u{f370}" 
+case .ph_cookie_bold : return "\u{f787}" 
+case .ph_cookie_fill : return "\u{fb9e}" 
+case .ph_cookie_light : return "\u{ef59}" 
+case .ph_cookie_thin : return "\u{eb42}" 
+case .ph_cooking_pot : return "\u{f371}" 
+case .ph_cooking_pot_bold : return "\u{f788}" 
+case .ph_cooking_pot_fill : return "\u{fb9f}" 
+case .ph_cooking_pot_light : return "\u{ef5a}" 
+case .ph_cooking_pot_thin : return "\u{eb43}" 
+case .ph_copy : return "\u{f372}" 
+case .ph_copy_bold : return "\u{f789}" 
+case .ph_copy_fill : return "\u{fba0}" 
+case .ph_copy_light : return "\u{ef5b}" 
+case .ph_copy_simple : return "\u{f373}" 
+case .ph_copy_simple_bold : return "\u{f78a}" 
+case .ph_copy_simple_fill : return "\u{fba1}" 
+case .ph_copy_simple_light : return "\u{ef5c}" 
+case .ph_copy_simple_thin : return "\u{eb44}" 
+case .ph_copy_thin : return "\u{eb45}" 
+case .ph_copyleft : return "\u{f374}" 
+case .ph_copyleft_bold : return "\u{f78b}" 
+case .ph_copyleft_fill : return "\u{fba2}" 
+case .ph_copyleft_light : return "\u{ef5d}" 
+case .ph_copyleft_thin : return "\u{eb46}" 
+case .ph_copyright : return "\u{f375}" 
+case .ph_copyright_bold : return "\u{f78c}" 
+case .ph_copyright_fill : return "\u{fba3}" 
+case .ph_copyright_light : return "\u{ef5e}" 
+case .ph_copyright_thin : return "\u{eb47}" 
+case .ph_corners_in : return "\u{f376}" 
+case .ph_corners_in_bold : return "\u{f78d}" 
+case .ph_corners_in_fill : return "\u{fba4}" 
+case .ph_corners_in_light : return "\u{ef5f}" 
+case .ph_corners_in_thin : return "\u{eb48}" 
+case .ph_corners_out : return "\u{f377}" 
+case .ph_corners_out_bold : return "\u{f78e}" 
+case .ph_corners_out_fill : return "\u{fba5}" 
+case .ph_corners_out_light : return "\u{ef60}" 
+case .ph_corners_out_thin : return "\u{eb49}" 
+case .ph_cpu : return "\u{f378}" 
+case .ph_cpu_bold : return "\u{f78f}" 
+case .ph_cpu_fill : return "\u{fba6}" 
+case .ph_cpu_light : return "\u{ef61}" 
+case .ph_cpu_thin : return "\u{eb4a}" 
+case .ph_credit_card : return "\u{f379}" 
+case .ph_credit_card_bold : return "\u{f790}" 
+case .ph_credit_card_fill : return "\u{fba7}" 
+case .ph_credit_card_light : return "\u{ef62}" 
+case .ph_credit_card_thin : return "\u{eb4b}" 
+case .ph_crop : return "\u{f37a}" 
+case .ph_crop_bold : return "\u{f791}" 
+case .ph_crop_fill : return "\u{fba8}" 
+case .ph_crop_light : return "\u{ef63}" 
+case .ph_crop_thin : return "\u{eb4c}" 
+case .ph_crosshair : return "\u{f37b}" 
+case .ph_crosshair_bold : return "\u{f792}" 
+case .ph_crosshair_fill : return "\u{fba9}" 
+case .ph_crosshair_light : return "\u{ef64}" 
+case .ph_crosshair_simple : return "\u{f37c}" 
+case .ph_crosshair_simple_bold : return "\u{f793}" 
+case .ph_crosshair_simple_fill : return "\u{fbaa}" 
+case .ph_crosshair_simple_light : return "\u{ef65}" 
+case .ph_crosshair_simple_thin : return "\u{eb4d}" 
+case .ph_crosshair_thin : return "\u{eb4e}" 
+case .ph_crown : return "\u{f37d}" 
+case .ph_crown_bold : return "\u{f794}" 
+case .ph_crown_fill : return "\u{fbab}" 
+case .ph_crown_light : return "\u{ef66}" 
+case .ph_crown_simple : return "\u{f37e}" 
+case .ph_crown_simple_bold : return "\u{f795}" 
+case .ph_crown_simple_fill : return "\u{fbac}" 
+case .ph_crown_simple_light : return "\u{ef67}" 
+case .ph_crown_simple_thin : return "\u{eb4f}" 
+case .ph_crown_thin : return "\u{eb50}" 
+case .ph_cube : return "\u{f37f}" 
+case .ph_cube_bold : return "\u{f796}" 
+case .ph_cube_fill : return "\u{fbad}" 
+case .ph_cube_light : return "\u{ef68}" 
+case .ph_cube_thin : return "\u{eb51}" 
+case .ph_currency_btc : return "\u{f380}" 
+case .ph_currency_btc_bold : return "\u{f797}" 
+case .ph_currency_btc_fill : return "\u{fbae}" 
+case .ph_currency_btc_light : return "\u{ef69}" 
+case .ph_currency_btc_thin : return "\u{eb52}" 
+case .ph_currency_circle_dollar : return "\u{f381}" 
+case .ph_currency_circle_dollar_bold : return "\u{f798}" 
+case .ph_currency_circle_dollar_fill : return "\u{fbaf}" 
+case .ph_currency_circle_dollar_light : return "\u{ef6a}" 
+case .ph_currency_circle_dollar_thin : return "\u{eb53}" 
+case .ph_currency_cny : return "\u{f382}" 
+case .ph_currency_cny_bold : return "\u{f799}" 
+case .ph_currency_cny_fill : return "\u{fbb0}" 
+case .ph_currency_cny_light : return "\u{ef6b}" 
+case .ph_currency_cny_thin : return "\u{eb54}" 
+case .ph_currency_dollar : return "\u{f383}" 
+case .ph_currency_dollar_bold : return "\u{f79a}" 
+case .ph_currency_dollar_fill : return "\u{fbb1}" 
+case .ph_currency_dollar_light : return "\u{ef6c}" 
+case .ph_currency_dollar_simple : return "\u{f384}" 
+case .ph_currency_dollar_simple_bold : return "\u{f79b}" 
+case .ph_currency_dollar_simple_fill : return "\u{fbb2}" 
+case .ph_currency_dollar_simple_light : return "\u{ef6d}" 
+case .ph_currency_dollar_simple_thin : return "\u{eb55}" 
+case .ph_currency_dollar_thin : return "\u{eb56}" 
+case .ph_currency_eth : return "\u{f385}" 
+case .ph_currency_eth_bold : return "\u{f79c}" 
+case .ph_currency_eth_fill : return "\u{fbb3}" 
+case .ph_currency_eth_light : return "\u{ef6e}" 
+case .ph_currency_eth_thin : return "\u{eb57}" 
+case .ph_currency_eur : return "\u{f386}" 
+case .ph_currency_eur_bold : return "\u{f79d}" 
+case .ph_currency_eur_fill : return "\u{fbb4}" 
+case .ph_currency_eur_light : return "\u{ef6f}" 
+case .ph_currency_eur_thin : return "\u{eb58}" 
+case .ph_currency_gbp : return "\u{f387}" 
+case .ph_currency_gbp_bold : return "\u{f79e}" 
+case .ph_currency_gbp_fill : return "\u{fbb5}" 
+case .ph_currency_gbp_light : return "\u{ef70}" 
+case .ph_currency_gbp_thin : return "\u{eb59}" 
+case .ph_currency_inr : return "\u{f388}" 
+case .ph_currency_inr_bold : return "\u{f79f}" 
+case .ph_currency_inr_fill : return "\u{fbb6}" 
+case .ph_currency_inr_light : return "\u{ef71}" 
+case .ph_currency_inr_thin : return "\u{eb5a}" 
+case .ph_currency_jpy : return "\u{f389}" 
+case .ph_currency_jpy_bold : return "\u{f7a0}" 
+case .ph_currency_jpy_fill : return "\u{fbb7}" 
+case .ph_currency_jpy_light : return "\u{ef72}" 
+case .ph_currency_jpy_thin : return "\u{eb5b}" 
+case .ph_currency_krw : return "\u{f38a}" 
+case .ph_currency_krw_bold : return "\u{f7a1}" 
+case .ph_currency_krw_fill : return "\u{fbb8}" 
+case .ph_currency_krw_light : return "\u{ef73}" 
+case .ph_currency_krw_thin : return "\u{eb5c}" 
+case .ph_currency_kzt : return "\u{f38b}" 
+case .ph_currency_kzt_bold : return "\u{f7a2}" 
+case .ph_currency_kzt_fill : return "\u{fbb9}" 
+case .ph_currency_kzt_light : return "\u{ef74}" 
+case .ph_currency_kzt_thin : return "\u{eb5d}" 
+case .ph_currency_ngn : return "\u{f38c}" 
+case .ph_currency_ngn_bold : return "\u{f7a3}" 
+case .ph_currency_ngn_fill : return "\u{fbba}" 
+case .ph_currency_ngn_light : return "\u{ef75}" 
+case .ph_currency_ngn_thin : return "\u{eb5e}" 
+case .ph_currency_rub : return "\u{f38d}" 
+case .ph_currency_rub_bold : return "\u{f7a4}" 
+case .ph_currency_rub_fill : return "\u{fbbb}" 
+case .ph_currency_rub_light : return "\u{ef76}" 
+case .ph_currency_rub_thin : return "\u{eb5f}" 
+case .ph_cursor : return "\u{f38e}" 
+case .ph_cursor_bold : return "\u{f7a5}" 
+case .ph_cursor_fill : return "\u{fbbc}" 
+case .ph_cursor_light : return "\u{ef77}" 
+case .ph_cursor_text : return "\u{f38f}" 
+case .ph_cursor_text_bold : return "\u{f7a6}" 
+case .ph_cursor_text_fill : return "\u{fbbd}" 
+case .ph_cursor_text_light : return "\u{ef78}" 
+case .ph_cursor_text_thin : return "\u{eb60}" 
+case .ph_cursor_thin : return "\u{eb61}" 
+case .ph_cylinder : return "\u{f390}" 
+case .ph_cylinder_bold : return "\u{f7a7}" 
+case .ph_cylinder_fill : return "\u{fbbe}" 
+case .ph_cylinder_light : return "\u{ef79}" 
+case .ph_cylinder_thin : return "\u{eb62}" 
+case .ph_database : return "\u{f391}" 
+case .ph_database_bold : return "\u{f7a8}" 
+case .ph_database_fill : return "\u{fbbf}" 
+case .ph_database_light : return "\u{ef7a}" 
+case .ph_database_thin : return "\u{eb63}" 
+case .ph_desktop : return "\u{f392}" 
+case .ph_desktop_bold : return "\u{f7a9}" 
+case .ph_desktop_fill : return "\u{fbc0}" 
+case .ph_desktop_light : return "\u{ef7b}" 
+case .ph_desktop_thin : return "\u{eb64}" 
+case .ph_desktop_tower : return "\u{f393}" 
+case .ph_desktop_tower_bold : return "\u{f7aa}" 
+case .ph_desktop_tower_fill : return "\u{fbc1}" 
+case .ph_desktop_tower_light : return "\u{ef7c}" 
+case .ph_desktop_tower_thin : return "\u{eb65}" 
+case .ph_detective : return "\u{f394}" 
+case .ph_detective_bold : return "\u{f7ab}" 
+case .ph_detective_fill : return "\u{fbc2}" 
+case .ph_detective_light : return "\u{ef7d}" 
+case .ph_detective_thin : return "\u{eb66}" 
+case .ph_device_mobile : return "\u{f395}" 
+case .ph_device_mobile_bold : return "\u{f7ac}" 
+case .ph_device_mobile_camera : return "\u{f396}" 
+case .ph_device_mobile_camera_bold : return "\u{f7ad}" 
+case .ph_device_mobile_camera_fill : return "\u{fbc3}" 
+case .ph_device_mobile_camera_light : return "\u{ef7e}" 
+case .ph_device_mobile_camera_thin : return "\u{eb67}" 
+case .ph_device_mobile_fill : return "\u{fbc4}" 
+case .ph_device_mobile_light : return "\u{ef7f}" 
+case .ph_device_mobile_speaker : return "\u{f397}" 
+case .ph_device_mobile_speaker_bold : return "\u{f7ae}" 
+case .ph_device_mobile_speaker_fill : return "\u{fbc5}" 
+case .ph_device_mobile_speaker_light : return "\u{ef80}" 
+case .ph_device_mobile_speaker_thin : return "\u{eb68}" 
+case .ph_device_mobile_thin : return "\u{eb69}" 
+case .ph_device_tablet : return "\u{f398}" 
+case .ph_device_tablet_bold : return "\u{f7af}" 
+case .ph_device_tablet_camera : return "\u{f399}" 
+case .ph_device_tablet_camera_bold : return "\u{f7b0}" 
+case .ph_device_tablet_camera_fill : return "\u{fbc6}" 
+case .ph_device_tablet_camera_light : return "\u{ef81}" 
+case .ph_device_tablet_camera_thin : return "\u{eb6a}" 
+case .ph_device_tablet_fill : return "\u{fbc7}" 
+case .ph_device_tablet_light : return "\u{ef82}" 
+case .ph_device_tablet_speaker : return "\u{f39a}" 
+case .ph_device_tablet_speaker_bold : return "\u{f7b1}" 
+case .ph_device_tablet_speaker_fill : return "\u{fbc8}" 
+case .ph_device_tablet_speaker_light : return "\u{ef83}" 
+case .ph_device_tablet_speaker_thin : return "\u{eb6b}" 
+case .ph_device_tablet_thin : return "\u{eb6c}" 
+case .ph_diamond : return "\u{f39b}" 
+case .ph_diamond_bold : return "\u{f7b2}" 
+case .ph_diamond_fill : return "\u{fbc9}" 
+case .ph_diamond_light : return "\u{ef84}" 
+case .ph_diamond_thin : return "\u{eb6d}" 
+case .ph_diamonds_four : return "\u{f39c}" 
+case .ph_diamonds_four_bold : return "\u{f7b3}" 
+case .ph_diamonds_four_fill : return "\u{fbca}" 
+case .ph_diamonds_four_light : return "\u{ef85}" 
+case .ph_diamonds_four_thin : return "\u{eb6e}" 
+case .ph_dice_five : return "\u{f39d}" 
+case .ph_dice_five_bold : return "\u{f7b4}" 
+case .ph_dice_five_fill : return "\u{fbcb}" 
+case .ph_dice_five_light : return "\u{ef86}" 
+case .ph_dice_five_thin : return "\u{eb6f}" 
+case .ph_dice_four : return "\u{f39e}" 
+case .ph_dice_four_bold : return "\u{f7b5}" 
+case .ph_dice_four_fill : return "\u{fbcc}" 
+case .ph_dice_four_light : return "\u{ef87}" 
+case .ph_dice_four_thin : return "\u{eb70}" 
+case .ph_dice_one : return "\u{f39f}" 
+case .ph_dice_one_bold : return "\u{f7b6}" 
+case .ph_dice_one_fill : return "\u{fbcd}" 
+case .ph_dice_one_light : return "\u{ef88}" 
+case .ph_dice_one_thin : return "\u{eb71}" 
+case .ph_dice_six : return "\u{f3a0}" 
+case .ph_dice_six_bold : return "\u{f7b7}" 
+case .ph_dice_six_fill : return "\u{fbce}" 
+case .ph_dice_six_light : return "\u{ef89}" 
+case .ph_dice_six_thin : return "\u{eb72}" 
+case .ph_dice_three : return "\u{f3a1}" 
+case .ph_dice_three_bold : return "\u{f7b8}" 
+case .ph_dice_three_fill : return "\u{fbcf}" 
+case .ph_dice_three_light : return "\u{ef8a}" 
+case .ph_dice_three_thin : return "\u{eb73}" 
+case .ph_dice_two : return "\u{f3a2}" 
+case .ph_dice_two_bold : return "\u{f7b9}" 
+case .ph_dice_two_fill : return "\u{fbd0}" 
+case .ph_dice_two_light : return "\u{ef8b}" 
+case .ph_dice_two_thin : return "\u{eb74}" 
+case .ph_disc : return "\u{f3a3}" 
+case .ph_disc_bold : return "\u{f7ba}" 
+case .ph_disc_fill : return "\u{fbd1}" 
+case .ph_disc_light : return "\u{ef8c}" 
+case .ph_disc_thin : return "\u{eb75}" 
+case .ph_discord_logo : return "\u{f3a4}" 
+case .ph_discord_logo_bold : return "\u{f7bb}" 
+case .ph_discord_logo_fill : return "\u{fbd2}" 
+case .ph_discord_logo_light : return "\u{ef8d}" 
+case .ph_discord_logo_thin : return "\u{eb76}" 
+case .ph_divide : return "\u{f3a5}" 
+case .ph_divide_bold : return "\u{f7bc}" 
+case .ph_divide_fill : return "\u{fbd3}" 
+case .ph_divide_light : return "\u{ef8e}" 
+case .ph_divide_thin : return "\u{eb77}" 
+case .ph_dog : return "\u{f3a6}" 
+case .ph_dog_bold : return "\u{f7bd}" 
+case .ph_dog_fill : return "\u{fbd4}" 
+case .ph_dog_light : return "\u{ef8f}" 
+case .ph_dog_thin : return "\u{eb78}" 
+case .ph_door : return "\u{f3a7}" 
+case .ph_door_bold : return "\u{f7be}" 
+case .ph_door_fill : return "\u{fbd5}" 
+case .ph_door_light : return "\u{ef90}" 
+case .ph_door_thin : return "\u{eb79}" 
+case .ph_dots_nine : return "\u{f3a8}" 
+case .ph_dots_nine_bold : return "\u{f7bf}" 
+case .ph_dots_nine_fill : return "\u{fbd6}" 
+case .ph_dots_nine_light : return "\u{ef91}" 
+case .ph_dots_nine_thin : return "\u{eb7a}" 
+case .ph_dots_six : return "\u{f3a9}" 
+case .ph_dots_six_bold : return "\u{f7c0}" 
+case .ph_dots_six_fill : return "\u{fbd7}" 
+case .ph_dots_six_light : return "\u{ef92}" 
+case .ph_dots_six_thin : return "\u{eb7b}" 
+case .ph_dots_six_vertical : return "\u{f3aa}" 
+case .ph_dots_six_vertical_bold : return "\u{f7c1}" 
+case .ph_dots_six_vertical_fill : return "\u{fbd8}" 
+case .ph_dots_six_vertical_light : return "\u{ef93}" 
+case .ph_dots_six_vertical_thin : return "\u{eb7c}" 
+case .ph_dots_three : return "\u{f3ab}" 
+case .ph_dots_three_bold : return "\u{f7c2}" 
+case .ph_dots_three_circle : return "\u{f3ac}" 
+case .ph_dots_three_circle_bold : return "\u{f7c3}" 
+case .ph_dots_three_circle_fill : return "\u{fbd9}" 
+case .ph_dots_three_circle_light : return "\u{ef94}" 
+case .ph_dots_three_circle_thin : return "\u{eb7d}" 
+case .ph_dots_three_circle_vertical : return "\u{f3ad}" 
+case .ph_dots_three_circle_vertical_bold : return "\u{f7c4}" 
+case .ph_dots_three_circle_vertical_fill : return "\u{fbda}" 
+case .ph_dots_three_circle_vertical_light : return "\u{ef95}" 
+case .ph_dots_three_circle_vertical_thin : return "\u{eb7e}" 
+case .ph_dots_three_fill : return "\u{fbdb}" 
+case .ph_dots_three_light : return "\u{ef96}" 
+case .ph_dots_three_outline : return "\u{f3ae}" 
+case .ph_dots_three_outline_bold : return "\u{f7c5}" 
+case .ph_dots_three_outline_fill : return "\u{fbdc}" 
+case .ph_dots_three_outline_light : return "\u{ef97}" 
+case .ph_dots_three_outline_thin : return "\u{eb7f}" 
+case .ph_dots_three_outline_vertical : return "\u{f3af}" 
+case .ph_dots_three_outline_vertical_bold : return "\u{f7c6}" 
+case .ph_dots_three_outline_vertical_fill : return "\u{fbdd}" 
+case .ph_dots_three_outline_vertical_light : return "\u{ef98}" 
+case .ph_dots_three_outline_vertical_thin : return "\u{eb80}" 
+case .ph_dots_three_thin : return "\u{eb81}" 
+case .ph_dots_three_vertical : return "\u{f3b0}" 
+case .ph_dots_three_vertical_bold : return "\u{f7c7}" 
+case .ph_dots_three_vertical_fill : return "\u{fbde}" 
+case .ph_dots_three_vertical_light : return "\u{ef99}" 
+case .ph_dots_three_vertical_thin : return "\u{eb82}" 
+case .ph_download : return "\u{f3b1}" 
+case .ph_download_bold : return "\u{f7c8}" 
+case .ph_download_fill : return "\u{fbdf}" 
+case .ph_download_light : return "\u{ef9a}" 
+case .ph_download_simple : return "\u{f3b2}" 
+case .ph_download_simple_bold : return "\u{f7c9}" 
+case .ph_download_simple_fill : return "\u{fbe0}" 
+case .ph_download_simple_light : return "\u{ef9b}" 
+case .ph_download_simple_thin : return "\u{eb83}" 
+case .ph_download_thin : return "\u{eb84}" 
+case .ph_dribbble_logo : return "\u{f3b3}" 
+case .ph_dribbble_logo_bold : return "\u{f7ca}" 
+case .ph_dribbble_logo_fill : return "\u{fbe1}" 
+case .ph_dribbble_logo_light : return "\u{ef9c}" 
+case .ph_dribbble_logo_thin : return "\u{eb85}" 
+case .ph_drop : return "\u{f3b4}" 
+case .ph_drop_bold : return "\u{f7cb}" 
+case .ph_drop_fill : return "\u{fbe2}" 
+case .ph_drop_half : return "\u{f3b5}" 
+case .ph_drop_half_bold : return "\u{f7cc}" 
+case .ph_drop_half_bottom : return "\u{f3b6}" 
+case .ph_drop_half_bottom_bold : return "\u{f7cd}" 
+case .ph_drop_half_bottom_fill : return "\u{fbe3}" 
+case .ph_drop_half_bottom_light : return "\u{ef9d}" 
+case .ph_drop_half_bottom_thin : return "\u{eb86}" 
+case .ph_drop_half_fill : return "\u{fbe4}" 
+case .ph_drop_half_light : return "\u{ef9e}" 
+case .ph_drop_half_thin : return "\u{eb87}" 
+case .ph_drop_light : return "\u{ef9f}" 
+case .ph_drop_thin : return "\u{eb88}" 
+case .ph_ear : return "\u{f3b7}" 
+case .ph_ear_bold : return "\u{f7ce}" 
+case .ph_ear_fill : return "\u{fbe5}" 
+case .ph_ear_light : return "\u{efa0}" 
+case .ph_ear_slash : return "\u{f3b8}" 
+case .ph_ear_slash_bold : return "\u{f7cf}" 
+case .ph_ear_slash_fill : return "\u{fbe6}" 
+case .ph_ear_slash_light : return "\u{efa1}" 
+case .ph_ear_slash_thin : return "\u{eb89}" 
+case .ph_ear_thin : return "\u{eb8a}" 
+case .ph_egg : return "\u{f3b9}" 
+case .ph_egg_bold : return "\u{f7d0}" 
+case .ph_egg_crack : return "\u{f3ba}" 
+case .ph_egg_crack_bold : return "\u{f7d1}" 
+case .ph_egg_crack_fill : return "\u{fbe7}" 
+case .ph_egg_crack_light : return "\u{efa2}" 
+case .ph_egg_crack_thin : return "\u{eb8b}" 
+case .ph_egg_fill : return "\u{fbe8}" 
+case .ph_egg_light : return "\u{efa3}" 
+case .ph_egg_thin : return "\u{eb8c}" 
+case .ph_eject : return "\u{f3bb}" 
+case .ph_eject_bold : return "\u{f7d2}" 
+case .ph_eject_fill : return "\u{fbe9}" 
+case .ph_eject_light : return "\u{efa4}" 
+case .ph_eject_simple : return "\u{f3bc}" 
+case .ph_eject_simple_bold : return "\u{f7d3}" 
+case .ph_eject_simple_fill : return "\u{fbea}" 
+case .ph_eject_simple_light : return "\u{efa5}" 
+case .ph_eject_simple_thin : return "\u{eb8d}" 
+case .ph_eject_thin : return "\u{eb8e}" 
+case .ph_envelope : return "\u{f3bd}" 
+case .ph_envelope_bold : return "\u{f7d4}" 
+case .ph_envelope_fill : return "\u{fbeb}" 
+case .ph_envelope_light : return "\u{efa6}" 
+case .ph_envelope_open : return "\u{f3be}" 
+case .ph_envelope_open_bold : return "\u{f7d5}" 
+case .ph_envelope_open_fill : return "\u{fbec}" 
+case .ph_envelope_open_light : return "\u{efa7}" 
+case .ph_envelope_open_thin : return "\u{eb8f}" 
+case .ph_envelope_simple : return "\u{f3bf}" 
+case .ph_envelope_simple_bold : return "\u{f7d6}" 
+case .ph_envelope_simple_fill : return "\u{fbed}" 
+case .ph_envelope_simple_light : return "\u{efa8}" 
+case .ph_envelope_simple_open : return "\u{f3c0}" 
+case .ph_envelope_simple_open_bold : return "\u{f7d7}" 
+case .ph_envelope_simple_open_fill : return "\u{fbee}" 
+case .ph_envelope_simple_open_light : return "\u{efa9}" 
+case .ph_envelope_simple_open_thin : return "\u{eb90}" 
+case .ph_envelope_simple_thin : return "\u{eb91}" 
+case .ph_envelope_thin : return "\u{eb92}" 
+case .ph_equalizer : return "\u{f3c1}" 
+case .ph_equalizer_bold : return "\u{f7d8}" 
+case .ph_equalizer_fill : return "\u{fbef}" 
+case .ph_equalizer_light : return "\u{efaa}" 
+case .ph_equalizer_thin : return "\u{eb93}" 
+case .ph_equals : return "\u{f3c2}" 
+case .ph_equals_bold : return "\u{f7d9}" 
+case .ph_equals_fill : return "\u{fbf0}" 
+case .ph_equals_light : return "\u{efab}" 
+case .ph_equals_thin : return "\u{eb94}" 
+case .ph_eraser : return "\u{f3c3}" 
+case .ph_eraser_bold : return "\u{f7da}" 
+case .ph_eraser_fill : return "\u{fbf1}" 
+case .ph_eraser_light : return "\u{efac}" 
+case .ph_eraser_thin : return "\u{eb95}" 
+case .ph_exam : return "\u{f3c4}" 
+case .ph_exam_bold : return "\u{f7db}" 
+case .ph_exam_fill : return "\u{fbf2}" 
+case .ph_exam_light : return "\u{efad}" 
+case .ph_exam_thin : return "\u{eb96}" 
+case .ph_export : return "\u{f3c5}" 
+case .ph_export_bold : return "\u{f7dc}" 
+case .ph_export_fill : return "\u{fbf3}" 
+case .ph_export_light : return "\u{efae}" 
+case .ph_export_thin : return "\u{eb97}" 
+case .ph_eye : return "\u{f3c6}" 
+case .ph_eye_bold : return "\u{f7dd}" 
+case .ph_eye_closed : return "\u{f3c7}" 
+case .ph_eye_closed_bold : return "\u{f7de}" 
+case .ph_eye_closed_fill : return "\u{fbf4}" 
+case .ph_eye_closed_light : return "\u{efaf}" 
+case .ph_eye_closed_thin : return "\u{eb98}" 
+case .ph_eye_fill : return "\u{fbf5}" 
+case .ph_eye_light : return "\u{efb0}" 
+case .ph_eye_slash : return "\u{f3c8}" 
+case .ph_eye_slash_bold : return "\u{f7df}" 
+case .ph_eye_slash_fill : return "\u{fbf6}" 
+case .ph_eye_slash_light : return "\u{efb1}" 
+case .ph_eye_slash_thin : return "\u{eb99}" 
+case .ph_eye_thin : return "\u{eb9a}" 
+case .ph_eyedropper : return "\u{f3c9}" 
+case .ph_eyedropper_bold : return "\u{f7e0}" 
+case .ph_eyedropper_fill : return "\u{fbf7}" 
+case .ph_eyedropper_light : return "\u{efb2}" 
+case .ph_eyedropper_sample : return "\u{f3ca}" 
+case .ph_eyedropper_sample_bold : return "\u{f7e1}" 
+case .ph_eyedropper_sample_fill : return "\u{fbf8}" 
+case .ph_eyedropper_sample_light : return "\u{efb3}" 
+case .ph_eyedropper_sample_thin : return "\u{eb9b}" 
+case .ph_eyedropper_thin : return "\u{eb9c}" 
+case .ph_eyeglasses : return "\u{f3cb}" 
+case .ph_eyeglasses_bold : return "\u{f7e2}" 
+case .ph_eyeglasses_fill : return "\u{fbf9}" 
+case .ph_eyeglasses_light : return "\u{efb4}" 
+case .ph_eyeglasses_thin : return "\u{eb9d}" 
+case .ph_face_mask : return "\u{f3cc}" 
+case .ph_face_mask_bold : return "\u{f7e3}" 
+case .ph_face_mask_fill : return "\u{fbfa}" 
+case .ph_face_mask_light : return "\u{efb5}" 
+case .ph_face_mask_thin : return "\u{eb9e}" 
+case .ph_facebook_logo : return "\u{f3cd}" 
+case .ph_facebook_logo_bold : return "\u{f7e4}" 
+case .ph_facebook_logo_fill : return "\u{fbfb}" 
+case .ph_facebook_logo_light : return "\u{efb6}" 
+case .ph_facebook_logo_thin : return "\u{eb9f}" 
+case .ph_factory : return "\u{f3ce}" 
+case .ph_factory_bold : return "\u{f7e5}" 
+case .ph_factory_fill : return "\u{fbfc}" 
+case .ph_factory_light : return "\u{efb7}" 
+case .ph_factory_thin : return "\u{eba0}" 
+case .ph_faders : return "\u{f3cf}" 
+case .ph_faders_bold : return "\u{f7e6}" 
+case .ph_faders_fill : return "\u{fbfd}" 
+case .ph_faders_horizontal : return "\u{f3d0}" 
+case .ph_faders_horizontal_bold : return "\u{f7e7}" 
+case .ph_faders_horizontal_fill : return "\u{fbfe}" 
+case .ph_faders_horizontal_light : return "\u{efb8}" 
+case .ph_faders_horizontal_thin : return "\u{eba1}" 
+case .ph_faders_light : return "\u{efb9}" 
+case .ph_faders_thin : return "\u{eba2}" 
+case .ph_fast_forward : return "\u{f3d1}" 
+case .ph_fast_forward_bold : return "\u{f7e8}" 
+case .ph_fast_forward_circle : return "\u{f3d2}" 
+case .ph_fast_forward_circle_bold : return "\u{f7e9}" 
+case .ph_fast_forward_circle_fill : return "\u{fbff}" 
+case .ph_fast_forward_circle_light : return "\u{efba}" 
+case .ph_fast_forward_circle_thin : return "\u{eba3}" 
+case .ph_fast_forward_fill : return "\u{fc00}" 
+case .ph_fast_forward_light : return "\u{efbb}" 
+case .ph_fast_forward_thin : return "\u{eba4}" 
+case .ph_figma_logo : return "\u{f3d3}" 
+case .ph_figma_logo_bold : return "\u{f7ea}" 
+case .ph_figma_logo_fill : return "\u{fc01}" 
+case .ph_figma_logo_light : return "\u{efbc}" 
+case .ph_figma_logo_thin : return "\u{eba5}" 
+case .ph_file : return "\u{f3d4}" 
+case .ph_file_arrow_down : return "\u{f3d5}" 
+case .ph_file_arrow_down_bold : return "\u{f7eb}" 
+case .ph_file_arrow_down_fill : return "\u{fc02}" 
+case .ph_file_arrow_down_light : return "\u{efbd}" 
+case .ph_file_arrow_down_thin : return "\u{eba6}" 
+case .ph_file_arrow_up : return "\u{f3d6}" 
+case .ph_file_arrow_up_bold : return "\u{f7ec}" 
+case .ph_file_arrow_up_fill : return "\u{fc03}" 
+case .ph_file_arrow_up_light : return "\u{efbe}" 
+case .ph_file_arrow_up_thin : return "\u{eba7}" 
+case .ph_file_audio : return "\u{f3d7}" 
+case .ph_file_audio_bold : return "\u{f7ed}" 
+case .ph_file_audio_fill : return "\u{fc04}" 
+case .ph_file_audio_light : return "\u{efbf}" 
+case .ph_file_audio_thin : return "\u{eba8}" 
+case .ph_file_bold : return "\u{f7ee}" 
+case .ph_file_cloud : return "\u{f3d8}" 
+case .ph_file_cloud_bold : return "\u{f7ef}" 
+case .ph_file_cloud_fill : return "\u{fc05}" 
+case .ph_file_cloud_light : return "\u{efc0}" 
+case .ph_file_cloud_thin : return "\u{eba9}" 
+case .ph_file_code : return "\u{f3d9}" 
+case .ph_file_code_bold : return "\u{f7f0}" 
+case .ph_file_code_fill : return "\u{fc06}" 
+case .ph_file_code_light : return "\u{efc1}" 
+case .ph_file_code_thin : return "\u{ebaa}" 
+case .ph_file_css : return "\u{f3da}" 
+case .ph_file_css_bold : return "\u{f7f1}" 
+case .ph_file_css_fill : return "\u{fc07}" 
+case .ph_file_css_light : return "\u{efc2}" 
+case .ph_file_css_thin : return "\u{ebab}" 
+case .ph_file_csv : return "\u{f3db}" 
+case .ph_file_csv_bold : return "\u{f7f2}" 
+case .ph_file_csv_fill : return "\u{fc08}" 
+case .ph_file_csv_light : return "\u{efc3}" 
+case .ph_file_csv_thin : return "\u{ebac}" 
+case .ph_file_doc : return "\u{f3dc}" 
+case .ph_file_doc_bold : return "\u{f7f3}" 
+case .ph_file_doc_fill : return "\u{fc09}" 
+case .ph_file_doc_light : return "\u{efc4}" 
+case .ph_file_doc_thin : return "\u{ebad}" 
+case .ph_file_dotted : return "\u{f3dd}" 
+case .ph_file_dotted_bold : return "\u{f7f4}" 
+case .ph_file_dotted_fill : return "\u{fc0a}" 
+case .ph_file_dotted_light : return "\u{efc5}" 
+case .ph_file_dotted_thin : return "\u{ebae}" 
+case .ph_file_fill : return "\u{fc0b}" 
+case .ph_file_html : return "\u{f3de}" 
+case .ph_file_html_bold : return "\u{f7f5}" 
+case .ph_file_html_fill : return "\u{fc0c}" 
+case .ph_file_html_light : return "\u{efc6}" 
+case .ph_file_html_thin : return "\u{ebaf}" 
+case .ph_file_image : return "\u{f3df}" 
+case .ph_file_image_bold : return "\u{f7f6}" 
+case .ph_file_image_fill : return "\u{fc0d}" 
+case .ph_file_image_light : return "\u{efc7}" 
+case .ph_file_image_thin : return "\u{ebb0}" 
+case .ph_file_jpg : return "\u{f3e0}" 
+case .ph_file_jpg_bold : return "\u{f7f7}" 
+case .ph_file_jpg_fill : return "\u{fc0e}" 
+case .ph_file_jpg_light : return "\u{efc8}" 
+case .ph_file_jpg_thin : return "\u{ebb1}" 
+case .ph_file_js : return "\u{f3e1}" 
+case .ph_file_js_bold : return "\u{f7f8}" 
+case .ph_file_js_fill : return "\u{fc0f}" 
+case .ph_file_js_light : return "\u{efc9}" 
+case .ph_file_js_thin : return "\u{ebb2}" 
+case .ph_file_jsx : return "\u{f3e2}" 
+case .ph_file_jsx_bold : return "\u{f7f9}" 
+case .ph_file_jsx_fill : return "\u{fc10}" 
+case .ph_file_jsx_light : return "\u{efca}" 
+case .ph_file_jsx_thin : return "\u{ebb3}" 
+case .ph_file_light : return "\u{efcb}" 
+case .ph_file_lock : return "\u{f3e3}" 
+case .ph_file_lock_bold : return "\u{f7fa}" 
+case .ph_file_lock_fill : return "\u{fc11}" 
+case .ph_file_lock_light : return "\u{efcc}" 
+case .ph_file_lock_thin : return "\u{ebb4}" 
+case .ph_file_minus : return "\u{f3e4}" 
+case .ph_file_minus_bold : return "\u{f7fb}" 
+case .ph_file_minus_fill : return "\u{fc12}" 
+case .ph_file_minus_light : return "\u{efcd}" 
+case .ph_file_minus_thin : return "\u{ebb5}" 
+case .ph_file_pdf : return "\u{f3e5}" 
+case .ph_file_pdf_bold : return "\u{f7fc}" 
+case .ph_file_pdf_fill : return "\u{fc13}" 
+case .ph_file_pdf_light : return "\u{efce}" 
+case .ph_file_pdf_thin : return "\u{ebb6}" 
+case .ph_file_plus : return "\u{f3e6}" 
+case .ph_file_plus_bold : return "\u{f7fd}" 
+case .ph_file_plus_fill : return "\u{fc14}" 
+case .ph_file_plus_light : return "\u{efcf}" 
+case .ph_file_plus_thin : return "\u{ebb7}" 
+case .ph_file_png : return "\u{f3e7}" 
+case .ph_file_png_bold : return "\u{f7fe}" 
+case .ph_file_png_fill : return "\u{fc15}" 
+case .ph_file_png_light : return "\u{efd0}" 
+case .ph_file_png_thin : return "\u{ebb8}" 
+case .ph_file_ppt : return "\u{f3e8}" 
+case .ph_file_ppt_bold : return "\u{f7ff}" 
+case .ph_file_ppt_fill : return "\u{fc16}" 
+case .ph_file_ppt_light : return "\u{efd1}" 
+case .ph_file_ppt_thin : return "\u{ebb9}" 
+case .ph_file_rs : return "\u{f3e9}" 
+case .ph_file_rs_bold : return "\u{f800}" 
+case .ph_file_rs_fill : return "\u{fc17}" 
+case .ph_file_rs_light : return "\u{efd2}" 
+case .ph_file_rs_thin : return "\u{ebba}" 
+case .ph_file_search : return "\u{f3ea}" 
+case .ph_file_search_bold : return "\u{f801}" 
+case .ph_file_search_fill : return "\u{fc18}" 
+case .ph_file_search_light : return "\u{efd3}" 
+case .ph_file_search_thin : return "\u{ebbb}" 
+case .ph_file_text : return "\u{f3eb}" 
+case .ph_file_text_bold : return "\u{f802}" 
+case .ph_file_text_fill : return "\u{fc19}" 
+case .ph_file_text_light : return "\u{efd4}" 
+case .ph_file_text_thin : return "\u{ebbc}" 
+case .ph_file_thin : return "\u{ebbd}" 
+case .ph_file_ts : return "\u{f3ec}" 
+case .ph_file_ts_bold : return "\u{f803}" 
+case .ph_file_ts_fill : return "\u{fc1a}" 
+case .ph_file_ts_light : return "\u{efd5}" 
+case .ph_file_ts_thin : return "\u{ebbe}" 
+case .ph_file_tsx : return "\u{f3ed}" 
+case .ph_file_tsx_bold : return "\u{f804}" 
+case .ph_file_tsx_fill : return "\u{fc1b}" 
+case .ph_file_tsx_light : return "\u{efd6}" 
+case .ph_file_tsx_thin : return "\u{ebbf}" 
+case .ph_file_video : return "\u{f3ee}" 
+case .ph_file_video_bold : return "\u{f805}" 
+case .ph_file_video_fill : return "\u{fc1c}" 
+case .ph_file_video_light : return "\u{efd7}" 
+case .ph_file_video_thin : return "\u{ebc0}" 
+case .ph_file_vue : return "\u{f3ef}" 
+case .ph_file_vue_bold : return "\u{f806}" 
+case .ph_file_vue_fill : return "\u{fc1d}" 
+case .ph_file_vue_light : return "\u{efd8}" 
+case .ph_file_vue_thin : return "\u{ebc1}" 
+case .ph_file_x : return "\u{f3f0}" 
+case .ph_file_x_bold : return "\u{f807}" 
+case .ph_file_x_fill : return "\u{fc1e}" 
+case .ph_file_x_light : return "\u{efd9}" 
+case .ph_file_x_thin : return "\u{ebc2}" 
+case .ph_file_xls : return "\u{f3f1}" 
+case .ph_file_xls_bold : return "\u{f808}" 
+case .ph_file_xls_fill : return "\u{fc1f}" 
+case .ph_file_xls_light : return "\u{efda}" 
+case .ph_file_xls_thin : return "\u{ebc3}" 
+case .ph_file_zip : return "\u{f3f2}" 
+case .ph_file_zip_bold : return "\u{f809}" 
+case .ph_file_zip_fill : return "\u{fc20}" 
+case .ph_file_zip_light : return "\u{efdb}" 
+case .ph_file_zip_thin : return "\u{ebc4}" 
+case .ph_files : return "\u{f3f3}" 
+case .ph_files_bold : return "\u{f80a}" 
+case .ph_files_fill : return "\u{fc21}" 
+case .ph_files_light : return "\u{efdc}" 
+case .ph_files_thin : return "\u{ebc5}" 
+case .ph_film_script : return "\u{f3f4}" 
+case .ph_film_script_bold : return "\u{f80b}" 
+case .ph_film_script_fill : return "\u{fc22}" 
+case .ph_film_script_light : return "\u{efdd}" 
+case .ph_film_script_thin : return "\u{ebc6}" 
+case .ph_film_slate : return "\u{f3f5}" 
+case .ph_film_slate_bold : return "\u{f80c}" 
+case .ph_film_slate_fill : return "\u{fc23}" 
+case .ph_film_slate_light : return "\u{efde}" 
+case .ph_film_slate_thin : return "\u{ebc7}" 
+case .ph_film_strip : return "\u{f3f6}" 
+case .ph_film_strip_bold : return "\u{f80d}" 
+case .ph_film_strip_fill : return "\u{fc24}" 
+case .ph_film_strip_light : return "\u{efdf}" 
+case .ph_film_strip_thin : return "\u{ebc8}" 
+case .ph_fingerprint : return "\u{f3f7}" 
+case .ph_fingerprint_bold : return "\u{f80e}" 
+case .ph_fingerprint_fill : return "\u{fc25}" 
+case .ph_fingerprint_light : return "\u{efe0}" 
+case .ph_fingerprint_simple : return "\u{f3f8}" 
+case .ph_fingerprint_simple_bold : return "\u{f80f}" 
+case .ph_fingerprint_simple_fill : return "\u{fc26}" 
+case .ph_fingerprint_simple_light : return "\u{efe1}" 
+case .ph_fingerprint_simple_thin : return "\u{ebc9}" 
+case .ph_fingerprint_thin : return "\u{ebca}" 
+case .ph_finn_the_human : return "\u{f3f9}" 
+case .ph_finn_the_human_bold : return "\u{f810}" 
+case .ph_finn_the_human_fill : return "\u{fc27}" 
+case .ph_finn_the_human_light : return "\u{efe2}" 
+case .ph_finn_the_human_thin : return "\u{ebcb}" 
+case .ph_fire : return "\u{f3fa}" 
+case .ph_fire_bold : return "\u{f811}" 
+case .ph_fire_fill : return "\u{fc28}" 
+case .ph_fire_light : return "\u{efe3}" 
+case .ph_fire_simple : return "\u{f3fb}" 
+case .ph_fire_simple_bold : return "\u{f812}" 
+case .ph_fire_simple_fill : return "\u{fc29}" 
+case .ph_fire_simple_light : return "\u{efe4}" 
+case .ph_fire_simple_thin : return "\u{ebcc}" 
+case .ph_fire_thin : return "\u{ebcd}" 
+case .ph_first_aid : return "\u{f3fc}" 
+case .ph_first_aid_bold : return "\u{f813}" 
+case .ph_first_aid_fill : return "\u{fc2a}" 
+case .ph_first_aid_kit : return "\u{f3fd}" 
+case .ph_first_aid_kit_bold : return "\u{f814}" 
+case .ph_first_aid_kit_fill : return "\u{fc2b}" 
+case .ph_first_aid_kit_light : return "\u{efe5}" 
+case .ph_first_aid_kit_thin : return "\u{ebce}" 
+case .ph_first_aid_light : return "\u{efe6}" 
+case .ph_first_aid_thin : return "\u{ebcf}" 
+case .ph_fish : return "\u{f3fe}" 
+case .ph_fish_bold : return "\u{f815}" 
+case .ph_fish_fill : return "\u{fc2c}" 
+case .ph_fish_light : return "\u{efe7}" 
+case .ph_fish_simple : return "\u{f3ff}" 
+case .ph_fish_simple_bold : return "\u{f816}" 
+case .ph_fish_simple_fill : return "\u{fc2d}" 
+case .ph_fish_simple_light : return "\u{efe8}" 
+case .ph_fish_simple_thin : return "\u{ebd0}" 
+case .ph_fish_thin : return "\u{ebd1}" 
+case .ph_flag : return "\u{f400}" 
+case .ph_flag_banner : return "\u{f401}" 
+case .ph_flag_banner_bold : return "\u{f817}" 
+case .ph_flag_banner_fill : return "\u{fc2e}" 
+case .ph_flag_banner_light : return "\u{efe9}" 
+case .ph_flag_banner_thin : return "\u{ebd2}" 
+case .ph_flag_bold : return "\u{f818}" 
+case .ph_flag_checkered : return "\u{f402}" 
+case .ph_flag_checkered_bold : return "\u{f819}" 
+case .ph_flag_checkered_fill : return "\u{fc2f}" 
+case .ph_flag_checkered_light : return "\u{efea}" 
+case .ph_flag_checkered_thin : return "\u{ebd3}" 
+case .ph_flag_fill : return "\u{fc30}" 
+case .ph_flag_light : return "\u{efeb}" 
+case .ph_flag_thin : return "\u{ebd4}" 
+case .ph_flame : return "\u{f403}" 
+case .ph_flame_bold : return "\u{f81a}" 
+case .ph_flame_fill : return "\u{fc31}" 
+case .ph_flame_light : return "\u{efec}" 
+case .ph_flame_thin : return "\u{ebd5}" 
+case .ph_flashlight : return "\u{f404}" 
+case .ph_flashlight_bold : return "\u{f81b}" 
+case .ph_flashlight_fill : return "\u{fc32}" 
+case .ph_flashlight_light : return "\u{efed}" 
+case .ph_flashlight_thin : return "\u{ebd6}" 
+case .ph_flask : return "\u{f405}" 
+case .ph_flask_bold : return "\u{f81c}" 
+case .ph_flask_fill : return "\u{fc33}" 
+case .ph_flask_light : return "\u{efee}" 
+case .ph_flask_thin : return "\u{ebd7}" 
+case .ph_floppy_disk : return "\u{f406}" 
+case .ph_floppy_disk_back : return "\u{f407}" 
+case .ph_floppy_disk_back_bold : return "\u{f81d}" 
+case .ph_floppy_disk_back_fill : return "\u{fc34}" 
+case .ph_floppy_disk_back_light : return "\u{efef}" 
+case .ph_floppy_disk_back_thin : return "\u{ebd8}" 
+case .ph_floppy_disk_bold : return "\u{f81e}" 
+case .ph_floppy_disk_fill : return "\u{fc35}" 
+case .ph_floppy_disk_light : return "\u{eff0}" 
+case .ph_floppy_disk_thin : return "\u{ebd9}" 
+case .ph_flow_arrow : return "\u{f408}" 
+case .ph_flow_arrow_bold : return "\u{f81f}" 
+case .ph_flow_arrow_fill : return "\u{fc36}" 
+case .ph_flow_arrow_light : return "\u{eff1}" 
+case .ph_flow_arrow_thin : return "\u{ebda}" 
+case .ph_flower : return "\u{f409}" 
+case .ph_flower_bold : return "\u{f820}" 
+case .ph_flower_fill : return "\u{fc37}" 
+case .ph_flower_light : return "\u{eff2}" 
+case .ph_flower_lotus : return "\u{f40a}" 
+case .ph_flower_lotus_bold : return "\u{f821}" 
+case .ph_flower_lotus_fill : return "\u{fc38}" 
+case .ph_flower_lotus_light : return "\u{eff3}" 
+case .ph_flower_lotus_thin : return "\u{ebdb}" 
+case .ph_flower_thin : return "\u{ebdc}" 
+case .ph_flying_saucer : return "\u{f40b}" 
+case .ph_flying_saucer_bold : return "\u{f822}" 
+case .ph_flying_saucer_fill : return "\u{fc39}" 
+case .ph_flying_saucer_light : return "\u{eff4}" 
+case .ph_flying_saucer_thin : return "\u{ebdd}" 
+case .ph_folder : return "\u{f40c}" 
+case .ph_folder_bold : return "\u{f823}" 
+case .ph_folder_dotted : return "\u{f40d}" 
+case .ph_folder_dotted_bold : return "\u{f824}" 
+case .ph_folder_dotted_fill : return "\u{fc3a}" 
+case .ph_folder_dotted_light : return "\u{eff5}" 
+case .ph_folder_dotted_thin : return "\u{ebde}" 
+case .ph_folder_fill : return "\u{fc3b}" 
+case .ph_folder_light : return "\u{eff6}" 
+case .ph_folder_lock : return "\u{f40e}" 
+case .ph_folder_lock_bold : return "\u{f825}" 
+case .ph_folder_lock_fill : return "\u{fc3c}" 
+case .ph_folder_lock_light : return "\u{eff7}" 
+case .ph_folder_lock_thin : return "\u{ebdf}" 
+case .ph_folder_minus : return "\u{f40f}" 
+case .ph_folder_minus_bold : return "\u{f826}" 
+case .ph_folder_minus_fill : return "\u{fc3d}" 
+case .ph_folder_minus_light : return "\u{eff8}" 
+case .ph_folder_minus_thin : return "\u{ebe0}" 
+case .ph_folder_notch : return "\u{f410}" 
+case .ph_folder_notch_bold : return "\u{f827}" 
+case .ph_folder_notch_fill : return "\u{fc3e}" 
+case .ph_folder_notch_light : return "\u{eff9}" 
+case .ph_folder_notch_minus : return "\u{f411}" 
+case .ph_folder_notch_minus_bold : return "\u{f828}" 
+case .ph_folder_notch_minus_fill : return "\u{fc3f}" 
+case .ph_folder_notch_minus_light : return "\u{effa}" 
+case .ph_folder_notch_minus_thin : return "\u{ebe1}" 
+case .ph_folder_notch_open : return "\u{f412}" 
+case .ph_folder_notch_open_bold : return "\u{f829}" 
+case .ph_folder_notch_open_fill : return "\u{fc40}" 
+case .ph_folder_notch_open_light : return "\u{effb}" 
+case .ph_folder_notch_open_thin : return "\u{ebe2}" 
+case .ph_folder_notch_plus : return "\u{f413}" 
+case .ph_folder_notch_plus_bold : return "\u{f82a}" 
+case .ph_folder_notch_plus_fill : return "\u{fc41}" 
+case .ph_folder_notch_plus_light : return "\u{effc}" 
+case .ph_folder_notch_plus_thin : return "\u{ebe3}" 
+case .ph_folder_notch_thin : return "\u{ebe4}" 
+case .ph_folder_open : return "\u{f414}" 
+case .ph_folder_open_bold : return "\u{f82b}" 
+case .ph_folder_open_fill : return "\u{fc42}" 
+case .ph_folder_open_light : return "\u{effd}" 
+case .ph_folder_open_thin : return "\u{ebe5}" 
+case .ph_folder_plus : return "\u{f415}" 
+case .ph_folder_plus_bold : return "\u{f82c}" 
+case .ph_folder_plus_fill : return "\u{fc43}" 
+case .ph_folder_plus_light : return "\u{effe}" 
+case .ph_folder_plus_thin : return "\u{ebe6}" 
+case .ph_folder_simple : return "\u{f416}" 
+case .ph_folder_simple_bold : return "\u{f82d}" 
+case .ph_folder_simple_dotted : return "\u{f417}" 
+case .ph_folder_simple_dotted_bold : return "\u{f82e}" 
+case .ph_folder_simple_dotted_fill : return "\u{fc44}" 
+case .ph_folder_simple_dotted_light : return "\u{efff}" 
+case .ph_folder_simple_dotted_thin : return "\u{ebe7}" 
+case .ph_folder_simple_fill : return "\u{fc45}" 
+case .ph_folder_simple_light : return "\u{f000}" 
+case .ph_folder_simple_lock : return "\u{f418}" 
+case .ph_folder_simple_lock_bold : return "\u{f82f}" 
+case .ph_folder_simple_lock_fill : return "\u{fc46}" 
+case .ph_folder_simple_lock_light : return "\u{f001}" 
+case .ph_folder_simple_lock_thin : return "\u{ebe8}" 
+case .ph_folder_simple_minus : return "\u{f419}" 
+case .ph_folder_simple_minus_bold : return "\u{f830}" 
+case .ph_folder_simple_minus_fill : return "\u{fc47}" 
+case .ph_folder_simple_minus_light : return "\u{f002}" 
+case .ph_folder_simple_minus_thin : return "\u{ebe9}" 
+case .ph_folder_simple_plus : return "\u{f41a}" 
+case .ph_folder_simple_plus_bold : return "\u{f831}" 
+case .ph_folder_simple_plus_fill : return "\u{fc48}" 
+case .ph_folder_simple_plus_light : return "\u{f003}" 
+case .ph_folder_simple_plus_thin : return "\u{ebea}" 
+case .ph_folder_simple_star : return "\u{f41b}" 
+case .ph_folder_simple_star_bold : return "\u{f832}" 
+case .ph_folder_simple_star_fill : return "\u{fc49}" 
+case .ph_folder_simple_star_light : return "\u{f004}" 
+case .ph_folder_simple_star_thin : return "\u{ebeb}" 
+case .ph_folder_simple_thin : return "\u{ebec}" 
+case .ph_folder_simple_user : return "\u{f41c}" 
+case .ph_folder_simple_user_bold : return "\u{f833}" 
+case .ph_folder_simple_user_fill : return "\u{fc4a}" 
+case .ph_folder_simple_user_light : return "\u{f005}" 
+case .ph_folder_simple_user_thin : return "\u{ebed}" 
+case .ph_folder_star : return "\u{f41d}" 
+case .ph_folder_star_bold : return "\u{f834}" 
+case .ph_folder_star_fill : return "\u{fc4b}" 
+case .ph_folder_star_light : return "\u{f006}" 
+case .ph_folder_star_thin : return "\u{ebee}" 
+case .ph_folder_thin : return "\u{ebef}" 
+case .ph_folder_user : return "\u{f41e}" 
+case .ph_folder_user_bold : return "\u{f835}" 
+case .ph_folder_user_fill : return "\u{fc4c}" 
+case .ph_folder_user_light : return "\u{f007}" 
+case .ph_folder_user_thin : return "\u{ebf0}" 
+case .ph_folders : return "\u{f41f}" 
+case .ph_folders_bold : return "\u{f836}" 
+case .ph_folders_fill : return "\u{fc4d}" 
+case .ph_folders_light : return "\u{f008}" 
+case .ph_folders_thin : return "\u{ebf1}" 
+case .ph_football : return "\u{f420}" 
+case .ph_football_bold : return "\u{f837}" 
+case .ph_football_fill : return "\u{fc4e}" 
+case .ph_football_light : return "\u{f009}" 
+case .ph_football_thin : return "\u{ebf2}" 
+case .ph_fork_knife : return "\u{f421}" 
+case .ph_fork_knife_bold : return "\u{f838}" 
+case .ph_fork_knife_fill : return "\u{fc4f}" 
+case .ph_fork_knife_light : return "\u{f00a}" 
+case .ph_fork_knife_thin : return "\u{ebf3}" 
+case .ph_frame_corners : return "\u{f422}" 
+case .ph_frame_corners_bold : return "\u{f839}" 
+case .ph_frame_corners_fill : return "\u{fc50}" 
+case .ph_frame_corners_light : return "\u{f00b}" 
+case .ph_frame_corners_thin : return "\u{ebf4}" 
+case .ph_framer_logo : return "\u{f423}" 
+case .ph_framer_logo_bold : return "\u{f83a}" 
+case .ph_framer_logo_fill : return "\u{fc51}" 
+case .ph_framer_logo_light : return "\u{f00c}" 
+case .ph_framer_logo_thin : return "\u{ebf5}" 
+case .ph_function : return "\u{f424}" 
+case .ph_function_bold : return "\u{f83b}" 
+case .ph_function_fill : return "\u{fc52}" 
+case .ph_function_light : return "\u{f00d}" 
+case .ph_function_thin : return "\u{ebf6}" 
+case .ph_funnel : return "\u{f425}" 
+case .ph_funnel_bold : return "\u{f83c}" 
+case .ph_funnel_fill : return "\u{fc53}" 
+case .ph_funnel_light : return "\u{f00e}" 
+case .ph_funnel_simple : return "\u{f426}" 
+case .ph_funnel_simple_bold : return "\u{f83d}" 
+case .ph_funnel_simple_fill : return "\u{fc54}" 
+case .ph_funnel_simple_light : return "\u{f00f}" 
+case .ph_funnel_simple_thin : return "\u{ebf7}" 
+case .ph_funnel_thin : return "\u{ebf8}" 
+case .ph_game_controller : return "\u{f427}" 
+case .ph_game_controller_bold : return "\u{f83e}" 
+case .ph_game_controller_fill : return "\u{fc55}" 
+case .ph_game_controller_light : return "\u{f010}" 
+case .ph_game_controller_thin : return "\u{ebf9}" 
+case .ph_gas_pump : return "\u{f428}" 
+case .ph_gas_pump_bold : return "\u{f83f}" 
+case .ph_gas_pump_fill : return "\u{fc56}" 
+case .ph_gas_pump_light : return "\u{f011}" 
+case .ph_gas_pump_thin : return "\u{ebfa}" 
+case .ph_gauge : return "\u{f429}" 
+case .ph_gauge_bold : return "\u{f840}" 
+case .ph_gauge_fill : return "\u{fc57}" 
+case .ph_gauge_light : return "\u{f012}" 
+case .ph_gauge_thin : return "\u{ebfb}" 
+case .ph_gear : return "\u{f42a}" 
+case .ph_gear_bold : return "\u{f841}" 
+case .ph_gear_fill : return "\u{fc58}" 
+case .ph_gear_light : return "\u{f013}" 
+case .ph_gear_six : return "\u{f42b}" 
+case .ph_gear_six_bold : return "\u{f842}" 
+case .ph_gear_six_fill : return "\u{fc59}" 
+case .ph_gear_six_light : return "\u{f014}" 
+case .ph_gear_six_thin : return "\u{ebfc}" 
+case .ph_gear_thin : return "\u{ebfd}" 
+case .ph_gender_female : return "\u{f42c}" 
+case .ph_gender_female_bold : return "\u{f843}" 
+case .ph_gender_female_fill : return "\u{fc5a}" 
+case .ph_gender_female_light : return "\u{f015}" 
+case .ph_gender_female_thin : return "\u{ebfe}" 
+case .ph_gender_intersex : return "\u{f42d}" 
+case .ph_gender_intersex_bold : return "\u{f844}" 
+case .ph_gender_intersex_fill : return "\u{fc5b}" 
+case .ph_gender_intersex_light : return "\u{f016}" 
+case .ph_gender_intersex_thin : return "\u{ebff}" 
+case .ph_gender_male : return "\u{f42e}" 
+case .ph_gender_male_bold : return "\u{f845}" 
+case .ph_gender_male_fill : return "\u{fc5c}" 
+case .ph_gender_male_light : return "\u{f017}" 
+case .ph_gender_male_thin : return "\u{ec00}" 
+case .ph_gender_neuter : return "\u{f42f}" 
+case .ph_gender_neuter_bold : return "\u{f846}" 
+case .ph_gender_neuter_fill : return "\u{fc5d}" 
+case .ph_gender_neuter_light : return "\u{f018}" 
+case .ph_gender_neuter_thin : return "\u{ec01}" 
+case .ph_gender_nonbinary : return "\u{f430}" 
+case .ph_gender_nonbinary_bold : return "\u{f847}" 
+case .ph_gender_nonbinary_fill : return "\u{fc5e}" 
+case .ph_gender_nonbinary_light : return "\u{f019}" 
+case .ph_gender_nonbinary_thin : return "\u{ec02}" 
+case .ph_gender_transgender : return "\u{f431}" 
+case .ph_gender_transgender_bold : return "\u{f848}" 
+case .ph_gender_transgender_fill : return "\u{fc5f}" 
+case .ph_gender_transgender_light : return "\u{f01a}" 
+case .ph_gender_transgender_thin : return "\u{ec03}" 
+case .ph_ghost : return "\u{f432}" 
+case .ph_ghost_bold : return "\u{f849}" 
+case .ph_ghost_fill : return "\u{fc60}" 
+case .ph_ghost_light : return "\u{f01b}" 
+case .ph_ghost_thin : return "\u{ec04}" 
+case .ph_gif : return "\u{f433}" 
+case .ph_gif_bold : return "\u{f84a}" 
+case .ph_gif_fill : return "\u{fc61}" 
+case .ph_gif_light : return "\u{f01c}" 
+case .ph_gif_thin : return "\u{ec05}" 
+case .ph_gift : return "\u{f434}" 
+case .ph_gift_bold : return "\u{f84b}" 
+case .ph_gift_fill : return "\u{fc62}" 
+case .ph_gift_light : return "\u{f01d}" 
+case .ph_gift_thin : return "\u{ec06}" 
+case .ph_git_branch : return "\u{f435}" 
+case .ph_git_branch_bold : return "\u{f84c}" 
+case .ph_git_branch_fill : return "\u{fc63}" 
+case .ph_git_branch_light : return "\u{f01e}" 
+case .ph_git_branch_thin : return "\u{ec07}" 
+case .ph_git_commit : return "\u{f436}" 
+case .ph_git_commit_bold : return "\u{f84d}" 
+case .ph_git_commit_fill : return "\u{fc64}" 
+case .ph_git_commit_light : return "\u{f01f}" 
+case .ph_git_commit_thin : return "\u{ec08}" 
+case .ph_git_diff : return "\u{f437}" 
+case .ph_git_diff_bold : return "\u{f84e}" 
+case .ph_git_diff_fill : return "\u{fc65}" 
+case .ph_git_diff_light : return "\u{f020}" 
+case .ph_git_diff_thin : return "\u{ec09}" 
+case .ph_git_fork : return "\u{f438}" 
+case .ph_git_fork_bold : return "\u{f84f}" 
+case .ph_git_fork_fill : return "\u{fc66}" 
+case .ph_git_fork_light : return "\u{f021}" 
+case .ph_git_fork_thin : return "\u{ec0a}" 
+case .ph_git_merge : return "\u{f439}" 
+case .ph_git_merge_bold : return "\u{f850}" 
+case .ph_git_merge_fill : return "\u{fc67}" 
+case .ph_git_merge_light : return "\u{f022}" 
+case .ph_git_merge_thin : return "\u{ec0b}" 
+case .ph_git_pull_request : return "\u{f43a}" 
+case .ph_git_pull_request_bold : return "\u{f851}" 
+case .ph_git_pull_request_fill : return "\u{fc68}" 
+case .ph_git_pull_request_light : return "\u{f023}" 
+case .ph_git_pull_request_thin : return "\u{ec0c}" 
+case .ph_github_logo : return "\u{f43b}" 
+case .ph_github_logo_bold : return "\u{f852}" 
+case .ph_github_logo_fill : return "\u{fc69}" 
+case .ph_github_logo_light : return "\u{f024}" 
+case .ph_github_logo_thin : return "\u{ec0d}" 
+case .ph_gitlab_logo : return "\u{f43c}" 
+case .ph_gitlab_logo_bold : return "\u{f853}" 
+case .ph_gitlab_logo_fill : return "\u{fc6a}" 
+case .ph_gitlab_logo_light : return "\u{f025}" 
+case .ph_gitlab_logo_simple : return "\u{f43d}" 
+case .ph_gitlab_logo_simple_bold : return "\u{f854}" 
+case .ph_gitlab_logo_simple_fill : return "\u{fc6b}" 
+case .ph_gitlab_logo_simple_light : return "\u{f026}" 
+case .ph_gitlab_logo_simple_thin : return "\u{ec0e}" 
+case .ph_gitlab_logo_thin : return "\u{ec0f}" 
+case .ph_globe : return "\u{f43e}" 
+case .ph_globe_bold : return "\u{f855}" 
+case .ph_globe_fill : return "\u{fc6c}" 
+case .ph_globe_hemisphere_east : return "\u{f43f}" 
+case .ph_globe_hemisphere_east_bold : return "\u{f856}" 
+case .ph_globe_hemisphere_east_fill : return "\u{fc6d}" 
+case .ph_globe_hemisphere_east_light : return "\u{f027}" 
+case .ph_globe_hemisphere_east_thin : return "\u{ec10}" 
+case .ph_globe_hemisphere_west : return "\u{f440}" 
+case .ph_globe_hemisphere_west_bold : return "\u{f857}" 
+case .ph_globe_hemisphere_west_fill : return "\u{fc6e}" 
+case .ph_globe_hemisphere_west_light : return "\u{f028}" 
+case .ph_globe_hemisphere_west_thin : return "\u{ec11}" 
+case .ph_globe_light : return "\u{f029}" 
+case .ph_globe_simple : return "\u{f441}" 
+case .ph_globe_simple_bold : return "\u{f858}" 
+case .ph_globe_simple_fill : return "\u{fc6f}" 
+case .ph_globe_simple_light : return "\u{f02a}" 
+case .ph_globe_simple_thin : return "\u{ec12}" 
+case .ph_globe_stand : return "\u{f442}" 
+case .ph_globe_stand_bold : return "\u{f859}" 
+case .ph_globe_stand_fill : return "\u{fc70}" 
+case .ph_globe_stand_light : return "\u{f02b}" 
+case .ph_globe_stand_thin : return "\u{ec13}" 
+case .ph_globe_thin : return "\u{ec14}" 
+case .ph_google_chrome_logo : return "\u{f443}" 
+case .ph_google_chrome_logo_bold : return "\u{f85a}" 
+case .ph_google_chrome_logo_fill : return "\u{fc71}" 
+case .ph_google_chrome_logo_light : return "\u{f02c}" 
+case .ph_google_chrome_logo_thin : return "\u{ec15}" 
+case .ph_google_logo : return "\u{f444}" 
+case .ph_google_logo_bold : return "\u{f85b}" 
+case .ph_google_logo_fill : return "\u{fc72}" 
+case .ph_google_logo_light : return "\u{f02d}" 
+case .ph_google_logo_thin : return "\u{ec16}" 
+case .ph_google_photos_logo : return "\u{f445}" 
+case .ph_google_photos_logo_bold : return "\u{f85c}" 
+case .ph_google_photos_logo_fill : return "\u{fc73}" 
+case .ph_google_photos_logo_light : return "\u{f02e}" 
+case .ph_google_photos_logo_thin : return "\u{ec17}" 
+case .ph_google_play_logo : return "\u{f446}" 
+case .ph_google_play_logo_bold : return "\u{f85d}" 
+case .ph_google_play_logo_fill : return "\u{fc74}" 
+case .ph_google_play_logo_light : return "\u{f02f}" 
+case .ph_google_play_logo_thin : return "\u{ec18}" 
+case .ph_google_podcasts_logo : return "\u{f447}" 
+case .ph_google_podcasts_logo_bold : return "\u{f85e}" 
+case .ph_google_podcasts_logo_fill : return "\u{fc75}" 
+case .ph_google_podcasts_logo_light : return "\u{f030}" 
+case .ph_google_podcasts_logo_thin : return "\u{ec19}" 
+case .ph_gradient : return "\u{f448}" 
+case .ph_gradient_bold : return "\u{f85f}" 
+case .ph_gradient_fill : return "\u{fc76}" 
+case .ph_gradient_light : return "\u{f031}" 
+case .ph_gradient_thin : return "\u{ec1a}" 
+case .ph_graduation_cap : return "\u{f449}" 
+case .ph_graduation_cap_bold : return "\u{f860}" 
+case .ph_graduation_cap_fill : return "\u{fc77}" 
+case .ph_graduation_cap_light : return "\u{f032}" 
+case .ph_graduation_cap_thin : return "\u{ec1b}" 
+case .ph_graph : return "\u{f44a}" 
+case .ph_graph_bold : return "\u{f861}" 
+case .ph_graph_fill : return "\u{fc78}" 
+case .ph_graph_light : return "\u{f033}" 
+case .ph_graph_thin : return "\u{ec1c}" 
+case .ph_grid_four : return "\u{f44b}" 
+case .ph_grid_four_bold : return "\u{f862}" 
+case .ph_grid_four_fill : return "\u{fc79}" 
+case .ph_grid_four_light : return "\u{f034}" 
+case .ph_grid_four_thin : return "\u{ec1d}" 
+case .ph_hamburger : return "\u{f44c}" 
+case .ph_hamburger_bold : return "\u{f863}" 
+case .ph_hamburger_fill : return "\u{fc7a}" 
+case .ph_hamburger_light : return "\u{f035}" 
+case .ph_hamburger_thin : return "\u{ec1e}" 
+case .ph_hand : return "\u{f44d}" 
+case .ph_hand_bold : return "\u{f864}" 
+case .ph_hand_eye : return "\u{f44e}" 
+case .ph_hand_eye_bold : return "\u{f865}" 
+case .ph_hand_eye_fill : return "\u{fc7b}" 
+case .ph_hand_eye_light : return "\u{f036}" 
+case .ph_hand_eye_thin : return "\u{ec1f}" 
+case .ph_hand_fill : return "\u{fc7c}" 
+case .ph_hand_fist : return "\u{f44f}" 
+case .ph_hand_fist_bold : return "\u{f866}" 
+case .ph_hand_fist_fill : return "\u{fc7d}" 
+case .ph_hand_fist_light : return "\u{f037}" 
+case .ph_hand_fist_thin : return "\u{ec20}" 
+case .ph_hand_grabbing : return "\u{f450}" 
+case .ph_hand_grabbing_bold : return "\u{f867}" 
+case .ph_hand_grabbing_fill : return "\u{fc7e}" 
+case .ph_hand_grabbing_light : return "\u{f038}" 
+case .ph_hand_grabbing_thin : return "\u{ec21}" 
+case .ph_hand_light : return "\u{f039}" 
+case .ph_hand_palm : return "\u{f451}" 
+case .ph_hand_palm_bold : return "\u{f868}" 
+case .ph_hand_palm_fill : return "\u{fc7f}" 
+case .ph_hand_palm_light : return "\u{f03a}" 
+case .ph_hand_palm_thin : return "\u{ec22}" 
+case .ph_hand_pointing : return "\u{f452}" 
+case .ph_hand_pointing_bold : return "\u{f869}" 
+case .ph_hand_pointing_fill : return "\u{fc80}" 
+case .ph_hand_pointing_light : return "\u{f03b}" 
+case .ph_hand_pointing_thin : return "\u{ec23}" 
+case .ph_hand_soap : return "\u{f453}" 
+case .ph_hand_soap_bold : return "\u{f86a}" 
+case .ph_hand_soap_fill : return "\u{fc81}" 
+case .ph_hand_soap_light : return "\u{f03c}" 
+case .ph_hand_soap_thin : return "\u{ec24}" 
+case .ph_hand_thin : return "\u{ec25}" 
+case .ph_hand_waving : return "\u{f454}" 
+case .ph_hand_waving_bold : return "\u{f86b}" 
+case .ph_hand_waving_fill : return "\u{fc82}" 
+case .ph_hand_waving_light : return "\u{f03d}" 
+case .ph_hand_waving_thin : return "\u{ec26}" 
+case .ph_handbag : return "\u{f455}" 
+case .ph_handbag_bold : return "\u{f86c}" 
+case .ph_handbag_fill : return "\u{fc83}" 
+case .ph_handbag_light : return "\u{f03e}" 
+case .ph_handbag_simple : return "\u{f456}" 
+case .ph_handbag_simple_bold : return "\u{f86d}" 
+case .ph_handbag_simple_fill : return "\u{fc84}" 
+case .ph_handbag_simple_light : return "\u{f03f}" 
+case .ph_handbag_simple_thin : return "\u{ec27}" 
+case .ph_handbag_thin : return "\u{ec28}" 
+case .ph_hands_clapping : return "\u{f457}" 
+case .ph_hands_clapping_bold : return "\u{f86e}" 
+case .ph_hands_clapping_fill : return "\u{fc85}" 
+case .ph_hands_clapping_light : return "\u{f040}" 
+case .ph_hands_clapping_thin : return "\u{ec29}" 
+case .ph_handshake : return "\u{f458}" 
+case .ph_handshake_bold : return "\u{f86f}" 
+case .ph_handshake_fill : return "\u{fc86}" 
+case .ph_handshake_light : return "\u{f041}" 
+case .ph_handshake_thin : return "\u{ec2a}" 
+case .ph_hard_drive : return "\u{f459}" 
+case .ph_hard_drive_bold : return "\u{f870}" 
+case .ph_hard_drive_fill : return "\u{fc87}" 
+case .ph_hard_drive_light : return "\u{f042}" 
+case .ph_hard_drive_thin : return "\u{ec2b}" 
+case .ph_hard_drives : return "\u{f45a}" 
+case .ph_hard_drives_bold : return "\u{f871}" 
+case .ph_hard_drives_fill : return "\u{fc88}" 
+case .ph_hard_drives_light : return "\u{f043}" 
+case .ph_hard_drives_thin : return "\u{ec2c}" 
+case .ph_hash : return "\u{f45b}" 
+case .ph_hash_bold : return "\u{f872}" 
+case .ph_hash_fill : return "\u{fc89}" 
+case .ph_hash_light : return "\u{f044}" 
+case .ph_hash_straight : return "\u{f45c}" 
+case .ph_hash_straight_bold : return "\u{f873}" 
+case .ph_hash_straight_fill : return "\u{fc8a}" 
+case .ph_hash_straight_light : return "\u{f045}" 
+case .ph_hash_straight_thin : return "\u{ec2d}" 
+case .ph_hash_thin : return "\u{ec2e}" 
+case .ph_headlights : return "\u{f45d}" 
+case .ph_headlights_bold : return "\u{f874}" 
+case .ph_headlights_fill : return "\u{fc8b}" 
+case .ph_headlights_light : return "\u{f046}" 
+case .ph_headlights_thin : return "\u{ec2f}" 
+case .ph_headphones : return "\u{f45e}" 
+case .ph_headphones_bold : return "\u{f875}" 
+case .ph_headphones_fill : return "\u{fc8c}" 
+case .ph_headphones_light : return "\u{f047}" 
+case .ph_headphones_thin : return "\u{ec30}" 
+case .ph_headset : return "\u{f45f}" 
+case .ph_headset_bold : return "\u{f876}" 
+case .ph_headset_fill : return "\u{fc8d}" 
+case .ph_headset_light : return "\u{f048}" 
+case .ph_headset_thin : return "\u{ec31}" 
+case .ph_heart : return "\u{f460}" 
+case .ph_heart_bold : return "\u{f877}" 
+case .ph_heart_break : return "\u{f461}" 
+case .ph_heart_break_bold : return "\u{f878}" 
+case .ph_heart_break_fill : return "\u{fc8e}" 
+case .ph_heart_break_light : return "\u{f049}" 
+case .ph_heart_break_thin : return "\u{ec32}" 
+case .ph_heart_fill : return "\u{fc8f}" 
+case .ph_heart_light : return "\u{f04a}" 
+case .ph_heart_straight : return "\u{f462}" 
+case .ph_heart_straight_bold : return "\u{f879}" 
+case .ph_heart_straight_break : return "\u{f463}" 
+case .ph_heart_straight_break_bold : return "\u{f87a}" 
+case .ph_heart_straight_break_fill : return "\u{fc90}" 
+case .ph_heart_straight_break_light : return "\u{f04b}" 
+case .ph_heart_straight_break_thin : return "\u{ec33}" 
+case .ph_heart_straight_fill : return "\u{fc91}" 
+case .ph_heart_straight_light : return "\u{f04c}" 
+case .ph_heart_straight_thin : return "\u{ec34}" 
+case .ph_heart_thin : return "\u{ec35}" 
+case .ph_heartbeat : return "\u{f464}" 
+case .ph_heartbeat_bold : return "\u{f87b}" 
+case .ph_heartbeat_fill : return "\u{fc92}" 
+case .ph_heartbeat_light : return "\u{f04d}" 
+case .ph_heartbeat_thin : return "\u{ec36}" 
+case .ph_hexagon : return "\u{f465}" 
+case .ph_hexagon_bold : return "\u{f87c}" 
+case .ph_hexagon_fill : return "\u{fc93}" 
+case .ph_hexagon_light : return "\u{f04e}" 
+case .ph_hexagon_thin : return "\u{ec37}" 
+case .ph_highlighter_circle : return "\u{f466}" 
+case .ph_highlighter_circle_bold : return "\u{f87d}" 
+case .ph_highlighter_circle_fill : return "\u{fc94}" 
+case .ph_highlighter_circle_light : return "\u{f04f}" 
+case .ph_highlighter_circle_thin : return "\u{ec38}" 
+case .ph_horse : return "\u{f467}" 
+case .ph_horse_bold : return "\u{f87e}" 
+case .ph_horse_fill : return "\u{fc95}" 
+case .ph_horse_light : return "\u{f050}" 
+case .ph_horse_thin : return "\u{ec39}" 
+case .ph_hourglass : return "\u{f468}" 
+case .ph_hourglass_bold : return "\u{f87f}" 
+case .ph_hourglass_fill : return "\u{fc96}" 
+case .ph_hourglass_high : return "\u{f469}" 
+case .ph_hourglass_high_bold : return "\u{f880}" 
+case .ph_hourglass_high_fill : return "\u{fc97}" 
+case .ph_hourglass_high_light : return "\u{f051}" 
+case .ph_hourglass_high_thin : return "\u{ec3a}" 
+case .ph_hourglass_light : return "\u{f052}" 
+case .ph_hourglass_low : return "\u{f46a}" 
+case .ph_hourglass_low_bold : return "\u{f881}" 
+case .ph_hourglass_low_fill : return "\u{fc98}" 
+case .ph_hourglass_low_light : return "\u{f053}" 
+case .ph_hourglass_low_thin : return "\u{ec3b}" 
+case .ph_hourglass_medium : return "\u{f46b}" 
+case .ph_hourglass_medium_bold : return "\u{f882}" 
+case .ph_hourglass_medium_fill : return "\u{fc99}" 
+case .ph_hourglass_medium_light : return "\u{f054}" 
+case .ph_hourglass_medium_thin : return "\u{ec3c}" 
+case .ph_hourglass_simple : return "\u{f46c}" 
+case .ph_hourglass_simple_bold : return "\u{f883}" 
+case .ph_hourglass_simple_fill : return "\u{fc9a}" 
+case .ph_hourglass_simple_high : return "\u{f46d}" 
+case .ph_hourglass_simple_high_bold : return "\u{f884}" 
+case .ph_hourglass_simple_high_fill : return "\u{fc9b}" 
+case .ph_hourglass_simple_high_light : return "\u{f055}" 
+case .ph_hourglass_simple_high_thin : return "\u{ec3d}" 
+case .ph_hourglass_simple_light : return "\u{f056}" 
+case .ph_hourglass_simple_low : return "\u{f46e}" 
+case .ph_hourglass_simple_low_bold : return "\u{f885}" 
+case .ph_hourglass_simple_low_fill : return "\u{fc9c}" 
+case .ph_hourglass_simple_low_light : return "\u{f057}" 
+case .ph_hourglass_simple_low_thin : return "\u{ec3e}" 
+case .ph_hourglass_simple_medium : return "\u{f46f}" 
+case .ph_hourglass_simple_medium_bold : return "\u{f886}" 
+case .ph_hourglass_simple_medium_fill : return "\u{fc9d}" 
+case .ph_hourglass_simple_medium_light : return "\u{f058}" 
+case .ph_hourglass_simple_medium_thin : return "\u{ec3f}" 
+case .ph_hourglass_simple_thin : return "\u{ec40}" 
+case .ph_hourglass_thin : return "\u{ec41}" 
+case .ph_house : return "\u{f470}" 
+case .ph_house_bold : return "\u{f887}" 
+case .ph_house_fill : return "\u{fc9e}" 
+case .ph_house_light : return "\u{f059}" 
+case .ph_house_line : return "\u{f471}" 
+case .ph_house_line_bold : return "\u{f888}" 
+case .ph_house_line_fill : return "\u{fc9f}" 
+case .ph_house_line_light : return "\u{f05a}" 
+case .ph_house_line_thin : return "\u{ec42}" 
+case .ph_house_simple : return "\u{f472}" 
+case .ph_house_simple_bold : return "\u{f889}" 
+case .ph_house_simple_fill : return "\u{fca0}" 
+case .ph_house_simple_light : return "\u{f05b}" 
+case .ph_house_simple_thin : return "\u{ec43}" 
+case .ph_house_thin : return "\u{ec44}" 
+case .ph_identification_badge : return "\u{f473}" 
+case .ph_identification_badge_bold : return "\u{f88a}" 
+case .ph_identification_badge_fill : return "\u{fca1}" 
+case .ph_identification_badge_light : return "\u{f05c}" 
+case .ph_identification_badge_thin : return "\u{ec45}" 
+case .ph_identification_card : return "\u{f474}" 
+case .ph_identification_card_bold : return "\u{f88b}" 
+case .ph_identification_card_fill : return "\u{fca2}" 
+case .ph_identification_card_light : return "\u{f05d}" 
+case .ph_identification_card_thin : return "\u{ec46}" 
+case .ph_image : return "\u{f475}" 
+case .ph_image_bold : return "\u{f88c}" 
+case .ph_image_fill : return "\u{fca3}" 
+case .ph_image_light : return "\u{f05e}" 
+case .ph_image_square : return "\u{f476}" 
+case .ph_image_square_bold : return "\u{f88d}" 
+case .ph_image_square_fill : return "\u{fca4}" 
+case .ph_image_square_light : return "\u{f05f}" 
+case .ph_image_square_thin : return "\u{ec47}" 
+case .ph_image_thin : return "\u{ec48}" 
+case .ph_infinity : return "\u{f477}" 
+case .ph_infinity_bold : return "\u{f88e}" 
+case .ph_infinity_fill : return "\u{fca5}" 
+case .ph_infinity_light : return "\u{f060}" 
+case .ph_infinity_thin : return "\u{ec49}" 
+case .ph_info : return "\u{f478}" 
+case .ph_info_bold : return "\u{f88f}" 
+case .ph_info_fill : return "\u{fca6}" 
+case .ph_info_light : return "\u{f061}" 
+case .ph_info_thin : return "\u{ec4a}" 
+case .ph_instagram_logo : return "\u{f479}" 
+case .ph_instagram_logo_bold : return "\u{f890}" 
+case .ph_instagram_logo_fill : return "\u{fca7}" 
+case .ph_instagram_logo_light : return "\u{f062}" 
+case .ph_instagram_logo_thin : return "\u{ec4b}" 
+case .ph_intersect : return "\u{f47a}" 
+case .ph_intersect_bold : return "\u{f891}" 
+case .ph_intersect_fill : return "\u{fca8}" 
+case .ph_intersect_light : return "\u{f063}" 
+case .ph_intersect_thin : return "\u{ec4c}" 
+case .ph_jeep : return "\u{f47b}" 
+case .ph_jeep_bold : return "\u{f892}" 
+case .ph_jeep_fill : return "\u{fca9}" 
+case .ph_jeep_light : return "\u{f064}" 
+case .ph_jeep_thin : return "\u{ec4d}" 
+case .ph_kanban : return "\u{f47c}" 
+case .ph_kanban_bold : return "\u{f893}" 
+case .ph_kanban_fill : return "\u{fcaa}" 
+case .ph_kanban_light : return "\u{f065}" 
+case .ph_kanban_thin : return "\u{ec4e}" 
+case .ph_key : return "\u{f47d}" 
+case .ph_key_bold : return "\u{f894}" 
+case .ph_key_fill : return "\u{fcab}" 
+case .ph_key_light : return "\u{f066}" 
+case .ph_key_return : return "\u{f47e}" 
+case .ph_key_return_bold : return "\u{f895}" 
+case .ph_key_return_fill : return "\u{fcac}" 
+case .ph_key_return_light : return "\u{f067}" 
+case .ph_key_return_thin : return "\u{ec4f}" 
+case .ph_key_thin : return "\u{ec50}" 
+case .ph_keyboard : return "\u{f47f}" 
+case .ph_keyboard_bold : return "\u{f896}" 
+case .ph_keyboard_fill : return "\u{fcad}" 
+case .ph_keyboard_light : return "\u{f068}" 
+case .ph_keyboard_thin : return "\u{ec51}" 
+case .ph_keyhole : return "\u{f480}" 
+case .ph_keyhole_bold : return "\u{f897}" 
+case .ph_keyhole_fill : return "\u{fcae}" 
+case .ph_keyhole_light : return "\u{f069}" 
+case .ph_keyhole_thin : return "\u{ec52}" 
+case .ph_knife : return "\u{f481}" 
+case .ph_knife_bold : return "\u{f898}" 
+case .ph_knife_fill : return "\u{fcaf}" 
+case .ph_knife_light : return "\u{f06a}" 
+case .ph_knife_thin : return "\u{ec53}" 
+case .ph_ladder : return "\u{f482}" 
+case .ph_ladder_bold : return "\u{f899}" 
+case .ph_ladder_fill : return "\u{fcb0}" 
+case .ph_ladder_light : return "\u{f06b}" 
+case .ph_ladder_simple : return "\u{f483}" 
+case .ph_ladder_simple_bold : return "\u{f89a}" 
+case .ph_ladder_simple_fill : return "\u{fcb1}" 
+case .ph_ladder_simple_light : return "\u{f06c}" 
+case .ph_ladder_simple_thin : return "\u{ec54}" 
+case .ph_ladder_thin : return "\u{ec55}" 
+case .ph_lamp : return "\u{f484}" 
+case .ph_lamp_bold : return "\u{f89b}" 
+case .ph_lamp_fill : return "\u{fcb2}" 
+case .ph_lamp_light : return "\u{f06d}" 
+case .ph_lamp_thin : return "\u{ec56}" 
+case .ph_laptop : return "\u{f485}" 
+case .ph_laptop_bold : return "\u{f89c}" 
+case .ph_laptop_fill : return "\u{fcb3}" 
+case .ph_laptop_light : return "\u{f06e}" 
+case .ph_laptop_thin : return "\u{ec57}" 
+case .ph_layout : return "\u{f486}" 
+case .ph_layout_bold : return "\u{f89d}" 
+case .ph_layout_fill : return "\u{fcb4}" 
+case .ph_layout_light : return "\u{f06f}" 
+case .ph_layout_thin : return "\u{ec58}" 
+case .ph_leaf : return "\u{f487}" 
+case .ph_leaf_bold : return "\u{f89e}" 
+case .ph_leaf_fill : return "\u{fcb5}" 
+case .ph_leaf_light : return "\u{f070}" 
+case .ph_leaf_thin : return "\u{ec59}" 
+case .ph_lifebuoy : return "\u{f488}" 
+case .ph_lifebuoy_bold : return "\u{f89f}" 
+case .ph_lifebuoy_fill : return "\u{fcb6}" 
+case .ph_lifebuoy_light : return "\u{f071}" 
+case .ph_lifebuoy_thin : return "\u{ec5a}" 
+case .ph_lightbulb : return "\u{f489}" 
+case .ph_lightbulb_bold : return "\u{f8a0}" 
+case .ph_lightbulb_filament : return "\u{f48a}" 
+case .ph_lightbulb_filament_bold : return "\u{f8a1}" 
+case .ph_lightbulb_filament_fill : return "\u{fcb7}" 
+case .ph_lightbulb_filament_light : return "\u{f072}" 
+case .ph_lightbulb_filament_thin : return "\u{ec5b}" 
+case .ph_lightbulb_fill : return "\u{fcb8}" 
+case .ph_lightbulb_light : return "\u{f073}" 
+case .ph_lightbulb_thin : return "\u{ec5c}" 
+case .ph_lightning : return "\u{f48b}" 
+case .ph_lightning_bold : return "\u{f8a2}" 
+case .ph_lightning_fill : return "\u{fcb9}" 
+case .ph_lightning_light : return "\u{f074}" 
+case .ph_lightning_slash : return "\u{f48c}" 
+case .ph_lightning_slash_bold : return "\u{f8a3}" 
+case .ph_lightning_slash_fill : return "\u{fcba}" 
+case .ph_lightning_slash_light : return "\u{f075}" 
+case .ph_lightning_slash_thin : return "\u{ec5d}" 
+case .ph_lightning_thin : return "\u{ec5e}" 
+case .ph_line_segment : return "\u{f48d}" 
+case .ph_line_segment_bold : return "\u{f8a4}" 
+case .ph_line_segment_fill : return "\u{fcbb}" 
+case .ph_line_segment_light : return "\u{f076}" 
+case .ph_line_segment_thin : return "\u{ec5f}" 
+case .ph_line_segments : return "\u{f48e}" 
+case .ph_line_segments_bold : return "\u{f8a5}" 
+case .ph_line_segments_fill : return "\u{fcbc}" 
+case .ph_line_segments_light : return "\u{f077}" 
+case .ph_line_segments_thin : return "\u{ec60}" 
+case .ph_link : return "\u{f48f}" 
+case .ph_link_bold : return "\u{f8a6}" 
+case .ph_link_break : return "\u{f490}" 
+case .ph_link_break_bold : return "\u{f8a7}" 
+case .ph_link_break_fill : return "\u{fcbd}" 
+case .ph_link_break_light : return "\u{f078}" 
+case .ph_link_break_thin : return "\u{ec61}" 
+case .ph_link_fill : return "\u{fcbe}" 
+case .ph_link_light : return "\u{f079}" 
+case .ph_link_simple : return "\u{f491}" 
+case .ph_link_simple_bold : return "\u{f8a8}" 
+case .ph_link_simple_break : return "\u{f492}" 
+case .ph_link_simple_break_bold : return "\u{f8a9}" 
+case .ph_link_simple_break_fill : return "\u{fcbf}" 
+case .ph_link_simple_break_light : return "\u{f07a}" 
+case .ph_link_simple_break_thin : return "\u{ec62}" 
+case .ph_link_simple_fill : return "\u{fcc0}" 
+case .ph_link_simple_horizontal : return "\u{f493}" 
+case .ph_link_simple_horizontal_bold : return "\u{f8aa}" 
+case .ph_link_simple_horizontal_break : return "\u{f494}" 
+case .ph_link_simple_horizontal_break_bold : return "\u{f8ab}" 
+case .ph_link_simple_horizontal_break_fill : return "\u{fcc1}" 
+case .ph_link_simple_horizontal_break_light : return "\u{f07b}" 
+case .ph_link_simple_horizontal_break_thin : return "\u{ec63}" 
+case .ph_link_simple_horizontal_fill : return "\u{fcc2}" 
+case .ph_link_simple_horizontal_light : return "\u{f07c}" 
+case .ph_link_simple_horizontal_thin : return "\u{ec64}" 
+case .ph_link_simple_light : return "\u{f07d}" 
+case .ph_link_simple_thin : return "\u{ec65}" 
+case .ph_link_thin : return "\u{ec66}" 
+case .ph_linkedin_logo : return "\u{f495}" 
+case .ph_linkedin_logo_bold : return "\u{f8ac}" 
+case .ph_linkedin_logo_fill : return "\u{fcc3}" 
+case .ph_linkedin_logo_light : return "\u{f07e}" 
+case .ph_linkedin_logo_thin : return "\u{ec67}" 
+case .ph_linux_logo : return "\u{f496}" 
+case .ph_linux_logo_bold : return "\u{f8ad}" 
+case .ph_linux_logo_fill : return "\u{fcc4}" 
+case .ph_linux_logo_light : return "\u{f07f}" 
+case .ph_linux_logo_thin : return "\u{ec68}" 
+case .ph_list : return "\u{f497}" 
+case .ph_list_bold : return "\u{f8ae}" 
+case .ph_list_bullets : return "\u{f498}" 
+case .ph_list_bullets_bold : return "\u{f8af}" 
+case .ph_list_bullets_fill : return "\u{fcc5}" 
+case .ph_list_bullets_light : return "\u{f080}" 
+case .ph_list_bullets_thin : return "\u{ec69}" 
+case .ph_list_checks : return "\u{f499}" 
+case .ph_list_checks_bold : return "\u{f8b0}" 
+case .ph_list_checks_fill : return "\u{fcc6}" 
+case .ph_list_checks_light : return "\u{f081}" 
+case .ph_list_checks_thin : return "\u{ec6a}" 
+case .ph_list_dashes : return "\u{f49a}" 
+case .ph_list_dashes_bold : return "\u{f8b1}" 
+case .ph_list_dashes_fill : return "\u{fcc7}" 
+case .ph_list_dashes_light : return "\u{f082}" 
+case .ph_list_dashes_thin : return "\u{ec6b}" 
+case .ph_list_fill : return "\u{fcc8}" 
+case .ph_list_light : return "\u{f083}" 
+case .ph_list_numbers : return "\u{f49b}" 
+case .ph_list_numbers_bold : return "\u{f8b2}" 
+case .ph_list_numbers_fill : return "\u{fcc9}" 
+case .ph_list_numbers_light : return "\u{f084}" 
+case .ph_list_numbers_thin : return "\u{ec6c}" 
+case .ph_list_plus : return "\u{f49c}" 
+case .ph_list_plus_bold : return "\u{f8b3}" 
+case .ph_list_plus_fill : return "\u{fcca}" 
+case .ph_list_plus_light : return "\u{f085}" 
+case .ph_list_plus_thin : return "\u{ec6d}" 
+case .ph_list_thin : return "\u{ec6e}" 
+case .ph_lock : return "\u{f49d}" 
+case .ph_lock_bold : return "\u{f8b4}" 
+case .ph_lock_fill : return "\u{fccb}" 
+case .ph_lock_key : return "\u{f49e}" 
+case .ph_lock_key_bold : return "\u{f8b5}" 
+case .ph_lock_key_fill : return "\u{fccc}" 
+case .ph_lock_key_light : return "\u{f086}" 
+case .ph_lock_key_open : return "\u{f49f}" 
+case .ph_lock_key_open_bold : return "\u{f8b6}" 
+case .ph_lock_key_open_fill : return "\u{fccd}" 
+case .ph_lock_key_open_light : return "\u{f087}" 
+case .ph_lock_key_open_thin : return "\u{ec6f}" 
+case .ph_lock_key_thin : return "\u{ec70}" 
+case .ph_lock_laminated : return "\u{f4a0}" 
+case .ph_lock_laminated_bold : return "\u{f8b7}" 
+case .ph_lock_laminated_fill : return "\u{fcce}" 
+case .ph_lock_laminated_light : return "\u{f088}" 
+case .ph_lock_laminated_open : return "\u{f4a1}" 
+case .ph_lock_laminated_open_bold : return "\u{f8b8}" 
+case .ph_lock_laminated_open_fill : return "\u{fccf}" 
+case .ph_lock_laminated_open_light : return "\u{f089}" 
+case .ph_lock_laminated_open_thin : return "\u{ec71}" 
+case .ph_lock_laminated_thin : return "\u{ec72}" 
+case .ph_lock_light : return "\u{f08a}" 
+case .ph_lock_open : return "\u{f4a2}" 
+case .ph_lock_open_bold : return "\u{f8b9}" 
+case .ph_lock_open_fill : return "\u{fcd0}" 
+case .ph_lock_open_light : return "\u{f08b}" 
+case .ph_lock_open_thin : return "\u{ec73}" 
+case .ph_lock_simple : return "\u{f4a3}" 
+case .ph_lock_simple_bold : return "\u{f8ba}" 
+case .ph_lock_simple_fill : return "\u{fcd1}" 
+case .ph_lock_simple_light : return "\u{f08c}" 
+case .ph_lock_simple_open : return "\u{f4a4}" 
+case .ph_lock_simple_open_bold : return "\u{f8bb}" 
+case .ph_lock_simple_open_fill : return "\u{fcd2}" 
+case .ph_lock_simple_open_light : return "\u{f08d}" 
+case .ph_lock_simple_open_thin : return "\u{ec74}" 
+case .ph_lock_simple_thin : return "\u{ec75}" 
+case .ph_lock_thin : return "\u{ec76}" 
+case .ph_magic_wand : return "\u{f4a5}" 
+case .ph_magic_wand_bold : return "\u{f8bc}" 
+case .ph_magic_wand_fill : return "\u{fcd3}" 
+case .ph_magic_wand_light : return "\u{f08e}" 
+case .ph_magic_wand_thin : return "\u{ec77}" 
+case .ph_magnet : return "\u{f4a6}" 
+case .ph_magnet_bold : return "\u{f8bd}" 
+case .ph_magnet_fill : return "\u{fcd4}" 
+case .ph_magnet_light : return "\u{f08f}" 
+case .ph_magnet_straight : return "\u{f4a7}" 
+case .ph_magnet_straight_bold : return "\u{f8be}" 
+case .ph_magnet_straight_fill : return "\u{fcd5}" 
+case .ph_magnet_straight_light : return "\u{f090}" 
+case .ph_magnet_straight_thin : return "\u{ec78}" 
+case .ph_magnet_thin : return "\u{ec79}" 
+case .ph_magnifying_glass : return "\u{f4a8}" 
+case .ph_magnifying_glass_bold : return "\u{f8bf}" 
+case .ph_magnifying_glass_fill : return "\u{fcd6}" 
+case .ph_magnifying_glass_light : return "\u{f091}" 
+case .ph_magnifying_glass_minus : return "\u{f4a9}" 
+case .ph_magnifying_glass_minus_bold : return "\u{f8c0}" 
+case .ph_magnifying_glass_minus_fill : return "\u{fcd7}" 
+case .ph_magnifying_glass_minus_light : return "\u{f092}" 
+case .ph_magnifying_glass_minus_thin : return "\u{ec7a}" 
+case .ph_magnifying_glass_plus : return "\u{f4aa}" 
+case .ph_magnifying_glass_plus_bold : return "\u{f8c1}" 
+case .ph_magnifying_glass_plus_fill : return "\u{fcd8}" 
+case .ph_magnifying_glass_plus_light : return "\u{f093}" 
+case .ph_magnifying_glass_plus_thin : return "\u{ec7b}" 
+case .ph_magnifying_glass_thin : return "\u{ec7c}" 
+case .ph_map_pin : return "\u{f4ab}" 
+case .ph_map_pin_bold : return "\u{f8c2}" 
+case .ph_map_pin_fill : return "\u{fcd9}" 
+case .ph_map_pin_light : return "\u{f094}" 
+case .ph_map_pin_line : return "\u{f4ac}" 
+case .ph_map_pin_line_bold : return "\u{f8c3}" 
+case .ph_map_pin_line_fill : return "\u{fcda}" 
+case .ph_map_pin_line_light : return "\u{f095}" 
+case .ph_map_pin_line_thin : return "\u{ec7d}" 
+case .ph_map_pin_thin : return "\u{ec7e}" 
+case .ph_map_trifold : return "\u{f4ad}" 
+case .ph_map_trifold_bold : return "\u{f8c4}" 
+case .ph_map_trifold_fill : return "\u{fcdb}" 
+case .ph_map_trifold_light : return "\u{f096}" 
+case .ph_map_trifold_thin : return "\u{ec7f}" 
+case .ph_marker_circle : return "\u{f4ae}" 
+case .ph_marker_circle_bold : return "\u{f8c5}" 
+case .ph_marker_circle_fill : return "\u{fcdc}" 
+case .ph_marker_circle_light : return "\u{f097}" 
+case .ph_marker_circle_thin : return "\u{ec80}" 
+case .ph_martini : return "\u{f4af}" 
+case .ph_martini_bold : return "\u{f8c6}" 
+case .ph_martini_fill : return "\u{fcdd}" 
+case .ph_martini_light : return "\u{f098}" 
+case .ph_martini_thin : return "\u{ec81}" 
+case .ph_mask_happy : return "\u{f4b0}" 
+case .ph_mask_happy_bold : return "\u{f8c7}" 
+case .ph_mask_happy_fill : return "\u{fcde}" 
+case .ph_mask_happy_light : return "\u{f099}" 
+case .ph_mask_happy_thin : return "\u{ec82}" 
+case .ph_mask_sad : return "\u{f4b1}" 
+case .ph_mask_sad_bold : return "\u{f8c8}" 
+case .ph_mask_sad_fill : return "\u{fcdf}" 
+case .ph_mask_sad_light : return "\u{f09a}" 
+case .ph_mask_sad_thin : return "\u{ec83}" 
+case .ph_math_operations : return "\u{f4b2}" 
+case .ph_math_operations_bold : return "\u{f8c9}" 
+case .ph_math_operations_fill : return "\u{fce0}" 
+case .ph_math_operations_light : return "\u{f09b}" 
+case .ph_math_operations_thin : return "\u{ec84}" 
+case .ph_medal : return "\u{f4b3}" 
+case .ph_medal_bold : return "\u{f8ca}" 
+case .ph_medal_fill : return "\u{fce1}" 
+case .ph_medal_light : return "\u{f09c}" 
+case .ph_medal_thin : return "\u{ec85}" 
+case .ph_medium_logo : return "\u{f4b4}" 
+case .ph_medium_logo_bold : return "\u{f8cb}" 
+case .ph_medium_logo_fill : return "\u{fce2}" 
+case .ph_medium_logo_light : return "\u{f09d}" 
+case .ph_medium_logo_thin : return "\u{ec86}" 
+case .ph_megaphone : return "\u{f4b5}" 
+case .ph_megaphone_bold : return "\u{f8cc}" 
+case .ph_megaphone_fill : return "\u{fce3}" 
+case .ph_megaphone_light : return "\u{f09e}" 
+case .ph_megaphone_simple : return "\u{f4b6}" 
+case .ph_megaphone_simple_bold : return "\u{f8cd}" 
+case .ph_megaphone_simple_fill : return "\u{fce4}" 
+case .ph_megaphone_simple_light : return "\u{f09f}" 
+case .ph_megaphone_simple_thin : return "\u{ec87}" 
+case .ph_megaphone_thin : return "\u{ec88}" 
+case .ph_messenger_logo : return "\u{f4b7}" 
+case .ph_messenger_logo_bold : return "\u{f8ce}" 
+case .ph_messenger_logo_fill : return "\u{fce5}" 
+case .ph_messenger_logo_light : return "\u{f0a0}" 
+case .ph_messenger_logo_thin : return "\u{ec89}" 
+case .ph_microphone : return "\u{f4b8}" 
+case .ph_microphone_bold : return "\u{f8cf}" 
+case .ph_microphone_fill : return "\u{fce6}" 
+case .ph_microphone_light : return "\u{f0a1}" 
+case .ph_microphone_slash : return "\u{f4b9}" 
+case .ph_microphone_slash_bold : return "\u{f8d0}" 
+case .ph_microphone_slash_fill : return "\u{fce7}" 
+case .ph_microphone_slash_light : return "\u{f0a2}" 
+case .ph_microphone_slash_thin : return "\u{ec8a}" 
+case .ph_microphone_stage : return "\u{f4ba}" 
+case .ph_microphone_stage_bold : return "\u{f8d1}" 
+case .ph_microphone_stage_fill : return "\u{fce8}" 
+case .ph_microphone_stage_light : return "\u{f0a3}" 
+case .ph_microphone_stage_thin : return "\u{ec8b}" 
+case .ph_microphone_thin : return "\u{ec8c}" 
+case .ph_microsoft_excel_logo : return "\u{f4bb}" 
+case .ph_microsoft_excel_logo_bold : return "\u{f8d2}" 
+case .ph_microsoft_excel_logo_fill : return "\u{fce9}" 
+case .ph_microsoft_excel_logo_light : return "\u{f0a4}" 
+case .ph_microsoft_excel_logo_thin : return "\u{ec8d}" 
+case .ph_microsoft_powerpoint_logo : return "\u{f4bc}" 
+case .ph_microsoft_powerpoint_logo_bold : return "\u{f8d3}" 
+case .ph_microsoft_powerpoint_logo_fill : return "\u{fcea}" 
+case .ph_microsoft_powerpoint_logo_light : return "\u{f0a5}" 
+case .ph_microsoft_powerpoint_logo_thin : return "\u{ec8e}" 
+case .ph_microsoft_teams_logo : return "\u{f4bd}" 
+case .ph_microsoft_teams_logo_bold : return "\u{f8d4}" 
+case .ph_microsoft_teams_logo_fill : return "\u{fceb}" 
+case .ph_microsoft_teams_logo_light : return "\u{f0a6}" 
+case .ph_microsoft_teams_logo_thin : return "\u{ec8f}" 
+case .ph_microsoft_word_logo : return "\u{f4be}" 
+case .ph_microsoft_word_logo_bold : return "\u{f8d5}" 
+case .ph_microsoft_word_logo_fill : return "\u{fcec}" 
+case .ph_microsoft_word_logo_light : return "\u{f0a7}" 
+case .ph_microsoft_word_logo_thin : return "\u{ec90}" 
+case .ph_minus : return "\u{f4bf}" 
+case .ph_minus_bold : return "\u{f8d6}" 
+case .ph_minus_circle : return "\u{f4c0}" 
+case .ph_minus_circle_bold : return "\u{f8d7}" 
+case .ph_minus_circle_fill : return "\u{fced}" 
+case .ph_minus_circle_light : return "\u{f0a8}" 
+case .ph_minus_circle_thin : return "\u{ec91}" 
+case .ph_minus_fill : return "\u{fcee}" 
+case .ph_minus_light : return "\u{f0a9}" 
+case .ph_minus_thin : return "\u{ec92}" 
+case .ph_money : return "\u{f4c1}" 
+case .ph_money_bold : return "\u{f8d8}" 
+case .ph_money_fill : return "\u{fcef}" 
+case .ph_money_light : return "\u{f0aa}" 
+case .ph_money_thin : return "\u{ec93}" 
+case .ph_monitor : return "\u{f4c2}" 
+case .ph_monitor_bold : return "\u{f8d9}" 
+case .ph_monitor_fill : return "\u{fcf0}" 
+case .ph_monitor_light : return "\u{f0ab}" 
+case .ph_monitor_play : return "\u{f4c3}" 
+case .ph_monitor_play_bold : return "\u{f8da}" 
+case .ph_monitor_play_fill : return "\u{fcf1}" 
+case .ph_monitor_play_light : return "\u{f0ac}" 
+case .ph_monitor_play_thin : return "\u{ec94}" 
+case .ph_monitor_thin : return "\u{ec95}" 
+case .ph_moon : return "\u{f4c4}" 
+case .ph_moon_bold : return "\u{f8db}" 
+case .ph_moon_fill : return "\u{fcf2}" 
+case .ph_moon_light : return "\u{f0ad}" 
+case .ph_moon_stars : return "\u{f4c5}" 
+case .ph_moon_stars_bold : return "\u{f8dc}" 
+case .ph_moon_stars_fill : return "\u{fcf3}" 
+case .ph_moon_stars_light : return "\u{f0ae}" 
+case .ph_moon_stars_thin : return "\u{ec96}" 
+case .ph_moon_thin : return "\u{ec97}" 
+case .ph_mountains : return "\u{f4c6}" 
+case .ph_mountains_bold : return "\u{f8dd}" 
+case .ph_mountains_fill : return "\u{fcf4}" 
+case .ph_mountains_light : return "\u{f0af}" 
+case .ph_mountains_thin : return "\u{ec98}" 
+case .ph_mouse : return "\u{f4c7}" 
+case .ph_mouse_bold : return "\u{f8de}" 
+case .ph_mouse_fill : return "\u{fcf5}" 
+case .ph_mouse_light : return "\u{f0b0}" 
+case .ph_mouse_simple : return "\u{f4c8}" 
+case .ph_mouse_simple_bold : return "\u{f8df}" 
+case .ph_mouse_simple_fill : return "\u{fcf6}" 
+case .ph_mouse_simple_light : return "\u{f0b1}" 
+case .ph_mouse_simple_thin : return "\u{ec99}" 
+case .ph_mouse_thin : return "\u{ec9a}" 
+case .ph_music_note : return "\u{f4c9}" 
+case .ph_music_note_bold : return "\u{f8e0}" 
+case .ph_music_note_fill : return "\u{fcf7}" 
+case .ph_music_note_light : return "\u{f0b2}" 
+case .ph_music_note_simple : return "\u{f4ca}" 
+case .ph_music_note_simple_bold : return "\u{f8e1}" 
+case .ph_music_note_simple_fill : return "\u{fcf8}" 
+case .ph_music_note_simple_light : return "\u{f0b3}" 
+case .ph_music_note_simple_thin : return "\u{ec9b}" 
+case .ph_music_note_thin : return "\u{ec9c}" 
+case .ph_music_notes : return "\u{f4cb}" 
+case .ph_music_notes_bold : return "\u{f8e2}" 
+case .ph_music_notes_fill : return "\u{fcf9}" 
+case .ph_music_notes_light : return "\u{f0b4}" 
+case .ph_music_notes_plus : return "\u{f4cc}" 
+case .ph_music_notes_plus_bold : return "\u{f8e3}" 
+case .ph_music_notes_plus_fill : return "\u{fcfa}" 
+case .ph_music_notes_plus_light : return "\u{f0b5}" 
+case .ph_music_notes_plus_thin : return "\u{ec9d}" 
+case .ph_music_notes_simple : return "\u{f4cd}" 
+case .ph_music_notes_simple_bold : return "\u{f8e4}" 
+case .ph_music_notes_simple_fill : return "\u{fcfb}" 
+case .ph_music_notes_simple_light : return "\u{f0b6}" 
+case .ph_music_notes_simple_thin : return "\u{ec9e}" 
+case .ph_music_notes_thin : return "\u{ec9f}" 
+case .ph_navigation_arrow : return "\u{f4ce}" 
+case .ph_navigation_arrow_bold : return "\u{f8e5}" 
+case .ph_navigation_arrow_fill : return "\u{fcfc}" 
+case .ph_navigation_arrow_light : return "\u{f0b7}" 
+case .ph_navigation_arrow_thin : return "\u{eca0}" 
+case .ph_needle : return "\u{f4cf}" 
+case .ph_needle_bold : return "\u{f8e6}" 
+case .ph_needle_fill : return "\u{fcfd}" 
+case .ph_needle_light : return "\u{f0b8}" 
+case .ph_needle_thin : return "\u{eca1}" 
+case .ph_newspaper : return "\u{f4d0}" 
+case .ph_newspaper_bold : return "\u{f8e7}" 
+case .ph_newspaper_clipping : return "\u{f4d1}" 
+case .ph_newspaper_clipping_bold : return "\u{f8e8}" 
+case .ph_newspaper_clipping_fill : return "\u{fcfe}" 
+case .ph_newspaper_clipping_light : return "\u{f0b9}" 
+case .ph_newspaper_clipping_thin : return "\u{eca2}" 
+case .ph_newspaper_fill : return "\u{fcff}" 
+case .ph_newspaper_light : return "\u{f0ba}" 
+case .ph_newspaper_thin : return "\u{eca3}" 
+case .ph_note : return "\u{f4d2}" 
+case .ph_note_blank : return "\u{f4d3}" 
+case .ph_note_blank_bold : return "\u{f8e9}" 
+case .ph_note_blank_fill : return "\u{fd00}" 
+case .ph_note_blank_light : return "\u{f0bb}" 
+case .ph_note_blank_thin : return "\u{eca4}" 
+case .ph_note_bold : return "\u{f8ea}" 
+case .ph_note_fill : return "\u{fd01}" 
+case .ph_note_light : return "\u{f0bc}" 
+case .ph_note_pencil : return "\u{f4d4}" 
+case .ph_note_pencil_bold : return "\u{f8eb}" 
+case .ph_note_pencil_fill : return "\u{fd02}" 
+case .ph_note_pencil_light : return "\u{f0bd}" 
+case .ph_note_pencil_thin : return "\u{eca5}" 
+case .ph_note_thin : return "\u{eca6}" 
+case .ph_notebook : return "\u{f4d5}" 
+case .ph_notebook_bold : return "\u{f8ec}" 
+case .ph_notebook_fill : return "\u{fd03}" 
+case .ph_notebook_light : return "\u{f0be}" 
+case .ph_notebook_thin : return "\u{eca7}" 
+case .ph_notepad : return "\u{f4d6}" 
+case .ph_notepad_bold : return "\u{f8ed}" 
+case .ph_notepad_fill : return "\u{fd04}" 
+case .ph_notepad_light : return "\u{f0bf}" 
+case .ph_notepad_thin : return "\u{eca8}" 
+case .ph_notification : return "\u{f4d7}" 
+case .ph_notification_bold : return "\u{f8ee}" 
+case .ph_notification_fill : return "\u{fd05}" 
+case .ph_notification_light : return "\u{f0c0}" 
+case .ph_notification_thin : return "\u{eca9}" 
+case .ph_number_circle_eight : return "\u{f4d8}" 
+case .ph_number_circle_eight_bold : return "\u{f8ef}" 
+case .ph_number_circle_eight_fill : return "\u{fd06}" 
+case .ph_number_circle_eight_light : return "\u{f0c1}" 
+case .ph_number_circle_eight_thin : return "\u{ecaa}" 
+case .ph_number_circle_five : return "\u{f4d9}" 
+case .ph_number_circle_five_bold : return "\u{f8f0}" 
+case .ph_number_circle_five_fill : return "\u{fd07}" 
+case .ph_number_circle_five_light : return "\u{f0c2}" 
+case .ph_number_circle_five_thin : return "\u{ecab}" 
+case .ph_number_circle_four : return "\u{f4da}" 
+case .ph_number_circle_four_bold : return "\u{f8f1}" 
+case .ph_number_circle_four_fill : return "\u{fd08}" 
+case .ph_number_circle_four_light : return "\u{f0c3}" 
+case .ph_number_circle_four_thin : return "\u{ecac}" 
+case .ph_number_circle_nine : return "\u{f4db}" 
+case .ph_number_circle_nine_bold : return "\u{f8f2}" 
+case .ph_number_circle_nine_fill : return "\u{fd09}" 
+case .ph_number_circle_nine_light : return "\u{f0c4}" 
+case .ph_number_circle_nine_thin : return "\u{ecad}" 
+case .ph_number_circle_one : return "\u{f4dc}" 
+case .ph_number_circle_one_bold : return "\u{f8f3}" 
+case .ph_number_circle_one_fill : return "\u{fd0a}" 
+case .ph_number_circle_one_light : return "\u{f0c5}" 
+case .ph_number_circle_one_thin : return "\u{ecae}" 
+case .ph_number_circle_seven : return "\u{f4dd}" 
+case .ph_number_circle_seven_bold : return "\u{f8f4}" 
+case .ph_number_circle_seven_fill : return "\u{fd0b}" 
+case .ph_number_circle_seven_light : return "\u{f0c6}" 
+case .ph_number_circle_seven_thin : return "\u{ecaf}" 
+case .ph_number_circle_six : return "\u{f4de}" 
+case .ph_number_circle_six_bold : return "\u{f8f5}" 
+case .ph_number_circle_six_fill : return "\u{fd0c}" 
+case .ph_number_circle_six_light : return "\u{f0c7}" 
+case .ph_number_circle_six_thin : return "\u{ecb0}" 
+case .ph_number_circle_three : return "\u{f4df}" 
+case .ph_number_circle_three_bold : return "\u{f8f6}" 
+case .ph_number_circle_three_fill : return "\u{fd0d}" 
+case .ph_number_circle_three_light : return "\u{f0c8}" 
+case .ph_number_circle_three_thin : return "\u{ecb1}" 
+case .ph_number_circle_two : return "\u{f4e0}" 
+case .ph_number_circle_two_bold : return "\u{f8f7}" 
+case .ph_number_circle_two_fill : return "\u{fd0e}" 
+case .ph_number_circle_two_light : return "\u{f0c9}" 
+case .ph_number_circle_two_thin : return "\u{ecb2}" 
+case .ph_number_circle_zero : return "\u{f4e1}" 
+case .ph_number_circle_zero_bold : return "\u{f8f8}" 
+case .ph_number_circle_zero_fill : return "\u{fd0f}" 
+case .ph_number_circle_zero_light : return "\u{f0ca}" 
+case .ph_number_circle_zero_thin : return "\u{ecb3}" 
+case .ph_number_eight : return "\u{f4e2}" 
+case .ph_number_eight_bold : return "\u{f8f9}" 
+case .ph_number_eight_fill : return "\u{fd10}" 
+case .ph_number_eight_light : return "\u{f0cb}" 
+case .ph_number_eight_thin : return "\u{ecb4}" 
+case .ph_number_five : return "\u{f4e3}" 
+case .ph_number_five_bold : return "\u{f8fa}" 
+case .ph_number_five_fill : return "\u{fd11}" 
+case .ph_number_five_light : return "\u{f0cc}" 
+case .ph_number_five_thin : return "\u{ecb5}" 
+case .ph_number_four : return "\u{f4e4}" 
+case .ph_number_four_bold : return "\u{f8fb}" 
+case .ph_number_four_fill : return "\u{fd12}" 
+case .ph_number_four_light : return "\u{f0cd}" 
+case .ph_number_four_thin : return "\u{ecb6}" 
+case .ph_number_nine : return "\u{f4e5}" 
+case .ph_number_nine_bold : return "\u{f8fc}" 
+case .ph_number_nine_fill : return "\u{fd13}" 
+case .ph_number_nine_light : return "\u{f0ce}" 
+case .ph_number_nine_thin : return "\u{ecb7}" 
+case .ph_number_one : return "\u{f4e6}" 
+case .ph_number_one_bold : return "\u{f8fd}" 
+case .ph_number_one_fill : return "\u{fd14}" 
+case .ph_number_one_light : return "\u{f0cf}" 
+case .ph_number_one_thin : return "\u{ecb8}" 
+case .ph_number_seven : return "\u{f4e7}" 
+case .ph_number_seven_bold : return "\u{f8fe}" 
+case .ph_number_seven_fill : return "\u{fd15}" 
+case .ph_number_seven_light : return "\u{f0d0}" 
+case .ph_number_seven_thin : return "\u{ecb9}" 
+case .ph_number_six : return "\u{f4e8}" 
+case .ph_number_six_bold : return "\u{f8ff}" 
+case .ph_number_six_fill : return "\u{fd16}" 
+case .ph_number_six_light : return "\u{f0d1}" 
+case .ph_number_six_thin : return "\u{ecba}" 
+case .ph_number_square_eight : return "\u{f4e9}" 
+case .ph_number_square_eight_bold : return "\u{f900}" 
+case .ph_number_square_eight_fill : return "\u{fd17}" 
+case .ph_number_square_eight_light : return "\u{f0d2}" 
+case .ph_number_square_eight_thin : return "\u{ecbb}" 
+case .ph_number_square_five : return "\u{f4ea}" 
+case .ph_number_square_five_bold : return "\u{f901}" 
+case .ph_number_square_five_fill : return "\u{fd18}" 
+case .ph_number_square_five_light : return "\u{f0d3}" 
+case .ph_number_square_five_thin : return "\u{ecbc}" 
+case .ph_number_square_four : return "\u{f4eb}" 
+case .ph_number_square_four_bold : return "\u{f902}" 
+case .ph_number_square_four_fill : return "\u{fd19}" 
+case .ph_number_square_four_light : return "\u{f0d4}" 
+case .ph_number_square_four_thin : return "\u{ecbd}" 
+case .ph_number_square_nine : return "\u{f4ec}" 
+case .ph_number_square_nine_bold : return "\u{f903}" 
+case .ph_number_square_nine_fill : return "\u{fd1a}" 
+case .ph_number_square_nine_light : return "\u{f0d5}" 
+case .ph_number_square_nine_thin : return "\u{ecbe}" 
+case .ph_number_square_one : return "\u{f4ed}" 
+case .ph_number_square_one_bold : return "\u{f904}" 
+case .ph_number_square_one_fill : return "\u{fd1b}" 
+case .ph_number_square_one_light : return "\u{f0d6}" 
+case .ph_number_square_one_thin : return "\u{ecbf}" 
+case .ph_number_square_seven : return "\u{f4ee}" 
+case .ph_number_square_seven_bold : return "\u{f905}" 
+case .ph_number_square_seven_fill : return "\u{fd1c}" 
+case .ph_number_square_seven_light : return "\u{f0d7}" 
+case .ph_number_square_seven_thin : return "\u{ecc0}" 
+case .ph_number_square_six : return "\u{f4ef}" 
+case .ph_number_square_six_bold : return "\u{f906}" 
+case .ph_number_square_six_fill : return "\u{fd1d}" 
+case .ph_number_square_six_light : return "\u{f0d8}" 
+case .ph_number_square_six_thin : return "\u{ecc1}" 
+case .ph_number_square_three : return "\u{f4f0}" 
+case .ph_number_square_three_bold : return "\u{f907}" 
+case .ph_number_square_three_fill : return "\u{fd1e}" 
+case .ph_number_square_three_light : return "\u{f0d9}" 
+case .ph_number_square_three_thin : return "\u{ecc2}" 
+case .ph_number_square_two : return "\u{f4f1}" 
+case .ph_number_square_two_bold : return "\u{f908}" 
+case .ph_number_square_two_fill : return "\u{fd1f}" 
+case .ph_number_square_two_light : return "\u{f0da}" 
+case .ph_number_square_two_thin : return "\u{ecc3}" 
+case .ph_number_square_zero : return "\u{f4f2}" 
+case .ph_number_square_zero_bold : return "\u{f909}" 
+case .ph_number_square_zero_fill : return "\u{fd20}" 
+case .ph_number_square_zero_light : return "\u{f0db}" 
+case .ph_number_square_zero_thin : return "\u{ecc4}" 
+case .ph_number_three : return "\u{f4f3}" 
+case .ph_number_three_bold : return "\u{f90a}" 
+case .ph_number_three_fill : return "\u{fd21}" 
+case .ph_number_three_light : return "\u{f0dc}" 
+case .ph_number_three_thin : return "\u{ecc5}" 
+case .ph_number_two : return "\u{f4f4}" 
+case .ph_number_two_bold : return "\u{f90b}" 
+case .ph_number_two_fill : return "\u{fd22}" 
+case .ph_number_two_light : return "\u{f0dd}" 
+case .ph_number_two_thin : return "\u{ecc6}" 
+case .ph_number_zero : return "\u{f4f5}" 
+case .ph_number_zero_bold : return "\u{f90c}" 
+case .ph_number_zero_fill : return "\u{fd23}" 
+case .ph_number_zero_light : return "\u{f0de}" 
+case .ph_number_zero_thin : return "\u{ecc7}" 
+case .ph_nut : return "\u{f4f6}" 
+case .ph_nut_bold : return "\u{f90d}" 
+case .ph_nut_fill : return "\u{fd24}" 
+case .ph_nut_light : return "\u{f0df}" 
+case .ph_nut_thin : return "\u{ecc8}" 
+case .ph_ny_times_logo : return "\u{f4f7}" 
+case .ph_ny_times_logo_bold : return "\u{f90e}" 
+case .ph_ny_times_logo_fill : return "\u{fd25}" 
+case .ph_ny_times_logo_light : return "\u{f0e0}" 
+case .ph_ny_times_logo_thin : return "\u{ecc9}" 
+case .ph_octagon : return "\u{f4f8}" 
+case .ph_octagon_bold : return "\u{f90f}" 
+case .ph_octagon_fill : return "\u{fd26}" 
+case .ph_octagon_light : return "\u{f0e1}" 
+case .ph_octagon_thin : return "\u{ecca}" 
+case .ph_option : return "\u{f4f9}" 
+case .ph_option_bold : return "\u{f910}" 
+case .ph_option_fill : return "\u{fd27}" 
+case .ph_option_light : return "\u{f0e2}" 
+case .ph_option_thin : return "\u{eccb}" 
+case .ph_package : return "\u{f4fa}" 
+case .ph_package_bold : return "\u{f911}" 
+case .ph_package_fill : return "\u{fd28}" 
+case .ph_package_light : return "\u{f0e3}" 
+case .ph_package_thin : return "\u{eccc}" 
+case .ph_paint_brush : return "\u{f4fb}" 
+case .ph_paint_brush_bold : return "\u{f912}" 
+case .ph_paint_brush_broad : return "\u{f4fc}" 
+case .ph_paint_brush_broad_bold : return "\u{f913}" 
+case .ph_paint_brush_broad_fill : return "\u{fd29}" 
+case .ph_paint_brush_broad_light : return "\u{f0e4}" 
+case .ph_paint_brush_broad_thin : return "\u{eccd}" 
+case .ph_paint_brush_fill : return "\u{fd2a}" 
+case .ph_paint_brush_household : return "\u{f4fd}" 
+case .ph_paint_brush_household_bold : return "\u{f914}" 
+case .ph_paint_brush_household_fill : return "\u{fd2b}" 
+case .ph_paint_brush_household_light : return "\u{f0e5}" 
+case .ph_paint_brush_household_thin : return "\u{ecce}" 
+case .ph_paint_brush_light : return "\u{f0e6}" 
+case .ph_paint_brush_thin : return "\u{eccf}" 
+case .ph_paint_bucket : return "\u{f4fe}" 
+case .ph_paint_bucket_bold : return "\u{f915}" 
+case .ph_paint_bucket_fill : return "\u{fd2c}" 
+case .ph_paint_bucket_light : return "\u{f0e7}" 
+case .ph_paint_bucket_thin : return "\u{ecd0}" 
+case .ph_paint_roller : return "\u{f4ff}" 
+case .ph_paint_roller_bold : return "\u{f916}" 
+case .ph_paint_roller_fill : return "\u{fd2d}" 
+case .ph_paint_roller_light : return "\u{f0e8}" 
+case .ph_paint_roller_thin : return "\u{ecd1}" 
+case .ph_palette : return "\u{f500}" 
+case .ph_palette_bold : return "\u{f917}" 
+case .ph_palette_fill : return "\u{fd2e}" 
+case .ph_palette_light : return "\u{f0e9}" 
+case .ph_palette_thin : return "\u{ecd2}" 
+case .ph_paper_plane : return "\u{f501}" 
+case .ph_paper_plane_bold : return "\u{f918}" 
+case .ph_paper_plane_fill : return "\u{fd2f}" 
+case .ph_paper_plane_light : return "\u{f0ea}" 
+case .ph_paper_plane_right : return "\u{f502}" 
+case .ph_paper_plane_right_bold : return "\u{f919}" 
+case .ph_paper_plane_right_fill : return "\u{fd30}" 
+case .ph_paper_plane_right_light : return "\u{f0eb}" 
+case .ph_paper_plane_right_thin : return "\u{ecd3}" 
+case .ph_paper_plane_thin : return "\u{ecd4}" 
+case .ph_paper_plane_tilt : return "\u{f503}" 
+case .ph_paper_plane_tilt_bold : return "\u{f91a}" 
+case .ph_paper_plane_tilt_fill : return "\u{fd31}" 
+case .ph_paper_plane_tilt_light : return "\u{f0ec}" 
+case .ph_paper_plane_tilt_thin : return "\u{ecd5}" 
+case .ph_paperclip : return "\u{f504}" 
+case .ph_paperclip_bold : return "\u{f91b}" 
+case .ph_paperclip_fill : return "\u{fd32}" 
+case .ph_paperclip_horizontal : return "\u{f505}" 
+case .ph_paperclip_horizontal_bold : return "\u{f91c}" 
+case .ph_paperclip_horizontal_fill : return "\u{fd33}" 
+case .ph_paperclip_horizontal_light : return "\u{f0ed}" 
+case .ph_paperclip_horizontal_thin : return "\u{ecd6}" 
+case .ph_paperclip_light : return "\u{f0ee}" 
+case .ph_paperclip_thin : return "\u{ecd7}" 
+case .ph_parachute : return "\u{f506}" 
+case .ph_parachute_bold : return "\u{f91d}" 
+case .ph_parachute_fill : return "\u{fd34}" 
+case .ph_parachute_light : return "\u{f0ef}" 
+case .ph_parachute_thin : return "\u{ecd8}" 
+case .ph_password : return "\u{f507}" 
+case .ph_password_bold : return "\u{f91e}" 
+case .ph_password_fill : return "\u{fd35}" 
+case .ph_password_light : return "\u{f0f0}" 
+case .ph_password_thin : return "\u{ecd9}" 
+case .ph_path : return "\u{f508}" 
+case .ph_path_bold : return "\u{f91f}" 
+case .ph_path_fill : return "\u{fd36}" 
+case .ph_path_light : return "\u{f0f1}" 
+case .ph_path_thin : return "\u{ecda}" 
+case .ph_pause : return "\u{f509}" 
+case .ph_pause_bold : return "\u{f920}" 
+case .ph_pause_circle : return "\u{f50a}" 
+case .ph_pause_circle_bold : return "\u{f921}" 
+case .ph_pause_circle_fill : return "\u{fd37}" 
+case .ph_pause_circle_light : return "\u{f0f2}" 
+case .ph_pause_circle_thin : return "\u{ecdb}" 
+case .ph_pause_fill : return "\u{fd38}" 
+case .ph_pause_light : return "\u{f0f3}" 
+case .ph_pause_thin : return "\u{ecdc}" 
+case .ph_paw_print : return "\u{f50b}" 
+case .ph_paw_print_bold : return "\u{f922}" 
+case .ph_paw_print_fill : return "\u{fd39}" 
+case .ph_paw_print_light : return "\u{f0f4}" 
+case .ph_paw_print_thin : return "\u{ecdd}" 
+case .ph_peace : return "\u{f50c}" 
+case .ph_peace_bold : return "\u{f923}" 
+case .ph_peace_fill : return "\u{fd3a}" 
+case .ph_peace_light : return "\u{f0f5}" 
+case .ph_peace_thin : return "\u{ecde}" 
+case .ph_pen : return "\u{f50d}" 
+case .ph_pen_bold : return "\u{f924}" 
+case .ph_pen_fill : return "\u{fd3b}" 
+case .ph_pen_light : return "\u{f0f6}" 
+case .ph_pen_nib : return "\u{f50e}" 
+case .ph_pen_nib_bold : return "\u{f925}" 
+case .ph_pen_nib_fill : return "\u{fd3c}" 
+case .ph_pen_nib_light : return "\u{f0f7}" 
+case .ph_pen_nib_straight : return "\u{f50f}" 
+case .ph_pen_nib_straight_bold : return "\u{f926}" 
+case .ph_pen_nib_straight_fill : return "\u{fd3d}" 
+case .ph_pen_nib_straight_light : return "\u{f0f8}" 
+case .ph_pen_nib_straight_thin : return "\u{ecdf}" 
+case .ph_pen_nib_thin : return "\u{ece0}" 
+case .ph_pen_thin : return "\u{ece1}" 
+case .ph_pencil : return "\u{f510}" 
+case .ph_pencil_bold : return "\u{f927}" 
+case .ph_pencil_circle : return "\u{f511}" 
+case .ph_pencil_circle_bold : return "\u{f928}" 
+case .ph_pencil_circle_fill : return "\u{fd3e}" 
+case .ph_pencil_circle_light : return "\u{f0f9}" 
+case .ph_pencil_circle_thin : return "\u{ece2}" 
+case .ph_pencil_fill : return "\u{fd3f}" 
+case .ph_pencil_light : return "\u{f0fa}" 
+case .ph_pencil_line : return "\u{f512}" 
+case .ph_pencil_line_bold : return "\u{f929}" 
+case .ph_pencil_line_fill : return "\u{fd40}" 
+case .ph_pencil_line_light : return "\u{f0fb}" 
+case .ph_pencil_line_thin : return "\u{ece3}" 
+case .ph_pencil_simple : return "\u{f513}" 
+case .ph_pencil_simple_bold : return "\u{f92a}" 
+case .ph_pencil_simple_fill : return "\u{fd41}" 
+case .ph_pencil_simple_light : return "\u{f0fc}" 
+case .ph_pencil_simple_line : return "\u{f514}" 
+case .ph_pencil_simple_line_bold : return "\u{f92b}" 
+case .ph_pencil_simple_line_fill : return "\u{fd42}" 
+case .ph_pencil_simple_line_light : return "\u{f0fd}" 
+case .ph_pencil_simple_line_thin : return "\u{ece4}" 
+case .ph_pencil_simple_thin : return "\u{ece5}" 
+case .ph_pencil_thin : return "\u{ece6}" 
+case .ph_percent : return "\u{f515}" 
+case .ph_percent_bold : return "\u{f92c}" 
+case .ph_percent_fill : return "\u{fd43}" 
+case .ph_percent_light : return "\u{f0fe}" 
+case .ph_percent_thin : return "\u{ece7}" 
+case .ph_person : return "\u{f516}" 
+case .ph_person_bold : return "\u{f92d}" 
+case .ph_person_fill : return "\u{fd44}" 
+case .ph_person_light : return "\u{f0ff}" 
+case .ph_person_simple : return "\u{f517}" 
+case .ph_person_simple_bold : return "\u{f92e}" 
+case .ph_person_simple_fill : return "\u{fd45}" 
+case .ph_person_simple_light : return "\u{f100}" 
+case .ph_person_simple_run : return "\u{f518}" 
+case .ph_person_simple_run_bold : return "\u{f92f}" 
+case .ph_person_simple_run_fill : return "\u{fd46}" 
+case .ph_person_simple_run_light : return "\u{f101}" 
+case .ph_person_simple_run_thin : return "\u{ece8}" 
+case .ph_person_simple_thin : return "\u{ece9}" 
+case .ph_person_simple_walk : return "\u{f519}" 
+case .ph_person_simple_walk_bold : return "\u{f930}" 
+case .ph_person_simple_walk_fill : return "\u{fd47}" 
+case .ph_person_simple_walk_light : return "\u{f102}" 
+case .ph_person_simple_walk_thin : return "\u{ecea}" 
+case .ph_person_thin : return "\u{eceb}" 
+case .ph_perspective : return "\u{f51a}" 
+case .ph_perspective_bold : return "\u{f931}" 
+case .ph_perspective_fill : return "\u{fd48}" 
+case .ph_perspective_light : return "\u{f103}" 
+case .ph_perspective_thin : return "\u{ecec}" 
+case .ph_phone : return "\u{f51b}" 
+case .ph_phone_bold : return "\u{f932}" 
+case .ph_phone_call : return "\u{f51c}" 
+case .ph_phone_call_bold : return "\u{f933}" 
+case .ph_phone_call_fill : return "\u{fd49}" 
+case .ph_phone_call_light : return "\u{f104}" 
+case .ph_phone_call_thin : return "\u{eced}" 
+case .ph_phone_disconnect : return "\u{f51d}" 
+case .ph_phone_disconnect_bold : return "\u{f934}" 
+case .ph_phone_disconnect_fill : return "\u{fd4a}" 
+case .ph_phone_disconnect_light : return "\u{f105}" 
+case .ph_phone_disconnect_thin : return "\u{ecee}" 
+case .ph_phone_fill : return "\u{fd4b}" 
+case .ph_phone_incoming : return "\u{f51e}" 
+case .ph_phone_incoming_bold : return "\u{f935}" 
+case .ph_phone_incoming_fill : return "\u{fd4c}" 
+case .ph_phone_incoming_light : return "\u{f106}" 
+case .ph_phone_incoming_thin : return "\u{ecef}" 
+case .ph_phone_light : return "\u{f107}" 
+case .ph_phone_outgoing : return "\u{f51f}" 
+case .ph_phone_outgoing_bold : return "\u{f936}" 
+case .ph_phone_outgoing_fill : return "\u{fd4d}" 
+case .ph_phone_outgoing_light : return "\u{f108}" 
+case .ph_phone_outgoing_thin : return "\u{ecf0}" 
+case .ph_phone_slash : return "\u{f520}" 
+case .ph_phone_slash_bold : return "\u{f937}" 
+case .ph_phone_slash_fill : return "\u{fd4e}" 
+case .ph_phone_slash_light : return "\u{f109}" 
+case .ph_phone_slash_thin : return "\u{ecf1}" 
+case .ph_phone_thin : return "\u{ecf2}" 
+case .ph_phone_x : return "\u{f521}" 
+case .ph_phone_x_bold : return "\u{f938}" 
+case .ph_phone_x_fill : return "\u{fd4f}" 
+case .ph_phone_x_light : return "\u{f10a}" 
+case .ph_phone_x_thin : return "\u{ecf3}" 
+case .ph_phosphor_logo : return "\u{f522}" 
+case .ph_phosphor_logo_bold : return "\u{f939}" 
+case .ph_phosphor_logo_fill : return "\u{fd50}" 
+case .ph_phosphor_logo_light : return "\u{f10b}" 
+case .ph_phosphor_logo_thin : return "\u{ecf4}" 
+case .ph_piano_keys : return "\u{f523}" 
+case .ph_piano_keys_bold : return "\u{f93a}" 
+case .ph_piano_keys_fill : return "\u{fd51}" 
+case .ph_piano_keys_light : return "\u{f10c}" 
+case .ph_piano_keys_thin : return "\u{ecf5}" 
+case .ph_picture_in_picture : return "\u{f524}" 
+case .ph_picture_in_picture_bold : return "\u{f93b}" 
+case .ph_picture_in_picture_fill : return "\u{fd52}" 
+case .ph_picture_in_picture_light : return "\u{f10d}" 
+case .ph_picture_in_picture_thin : return "\u{ecf6}" 
+case .ph_pill : return "\u{f525}" 
+case .ph_pill_bold : return "\u{f93c}" 
+case .ph_pill_fill : return "\u{fd53}" 
+case .ph_pill_light : return "\u{f10e}" 
+case .ph_pill_thin : return "\u{ecf7}" 
+case .ph_pinterest_logo : return "\u{f526}" 
+case .ph_pinterest_logo_bold : return "\u{f93d}" 
+case .ph_pinterest_logo_fill : return "\u{fd54}" 
+case .ph_pinterest_logo_light : return "\u{f10f}" 
+case .ph_pinterest_logo_thin : return "\u{ecf8}" 
+case .ph_pinwheel : return "\u{f527}" 
+case .ph_pinwheel_bold : return "\u{f93e}" 
+case .ph_pinwheel_fill : return "\u{fd55}" 
+case .ph_pinwheel_light : return "\u{f110}" 
+case .ph_pinwheel_thin : return "\u{ecf9}" 
+case .ph_pizza : return "\u{f528}" 
+case .ph_pizza_bold : return "\u{f93f}" 
+case .ph_pizza_fill : return "\u{fd56}" 
+case .ph_pizza_light : return "\u{f111}" 
+case .ph_pizza_thin : return "\u{ecfa}" 
+case .ph_placeholder : return "\u{f529}" 
+case .ph_placeholder_bold : return "\u{f940}" 
+case .ph_placeholder_fill : return "\u{fd57}" 
+case .ph_placeholder_light : return "\u{f112}" 
+case .ph_placeholder_thin : return "\u{ecfb}" 
+case .ph_planet : return "\u{f52a}" 
+case .ph_planet_bold : return "\u{f941}" 
+case .ph_planet_fill : return "\u{fd58}" 
+case .ph_planet_light : return "\u{f113}" 
+case .ph_planet_thin : return "\u{ecfc}" 
+case .ph_play : return "\u{f52b}" 
+case .ph_play_bold : return "\u{f942}" 
+case .ph_play_circle : return "\u{f52c}" 
+case .ph_play_circle_bold : return "\u{f943}" 
+case .ph_play_circle_fill : return "\u{fd59}" 
+case .ph_play_circle_light : return "\u{f114}" 
+case .ph_play_circle_thin : return "\u{ecfd}" 
+case .ph_play_fill : return "\u{fd5a}" 
+case .ph_play_light : return "\u{f115}" 
+case .ph_play_thin : return "\u{ecfe}" 
+case .ph_playlist : return "\u{f52d}" 
+case .ph_playlist_bold : return "\u{f944}" 
+case .ph_playlist_fill : return "\u{fd5b}" 
+case .ph_playlist_light : return "\u{f116}" 
+case .ph_playlist_thin : return "\u{ecff}" 
+case .ph_plug : return "\u{f52e}" 
+case .ph_plug_bold : return "\u{f945}" 
+case .ph_plug_fill : return "\u{fd5c}" 
+case .ph_plug_light : return "\u{f117}" 
+case .ph_plug_thin : return "\u{ed00}" 
+case .ph_plugs : return "\u{f52f}" 
+case .ph_plugs_bold : return "\u{f946}" 
+case .ph_plugs_connected : return "\u{f530}" 
+case .ph_plugs_connected_bold : return "\u{f947}" 
+case .ph_plugs_connected_fill : return "\u{fd5d}" 
+case .ph_plugs_connected_light : return "\u{f118}" 
+case .ph_plugs_connected_thin : return "\u{ed01}" 
+case .ph_plugs_fill : return "\u{fd5e}" 
+case .ph_plugs_light : return "\u{f119}" 
+case .ph_plugs_thin : return "\u{ed02}" 
+case .ph_plus : return "\u{f531}" 
+case .ph_plus_bold : return "\u{f948}" 
+case .ph_plus_circle : return "\u{f532}" 
+case .ph_plus_circle_bold : return "\u{f949}" 
+case .ph_plus_circle_fill : return "\u{fd5f}" 
+case .ph_plus_circle_light : return "\u{f11a}" 
+case .ph_plus_circle_thin : return "\u{ed03}" 
+case .ph_plus_fill : return "\u{fd60}" 
+case .ph_plus_light : return "\u{f11b}" 
+case .ph_plus_minus : return "\u{f533}" 
+case .ph_plus_minus_bold : return "\u{f94a}" 
+case .ph_plus_minus_fill : return "\u{fd61}" 
+case .ph_plus_minus_light : return "\u{f11c}" 
+case .ph_plus_minus_thin : return "\u{ed04}" 
+case .ph_plus_thin : return "\u{ed05}" 
+case .ph_poker_chip : return "\u{f534}" 
+case .ph_poker_chip_bold : return "\u{f94b}" 
+case .ph_poker_chip_fill : return "\u{fd62}" 
+case .ph_poker_chip_light : return "\u{f11d}" 
+case .ph_poker_chip_thin : return "\u{ed06}" 
+case .ph_police_car : return "\u{f535}" 
+case .ph_police_car_bold : return "\u{f94c}" 
+case .ph_police_car_fill : return "\u{fd63}" 
+case .ph_police_car_light : return "\u{f11e}" 
+case .ph_police_car_thin : return "\u{ed07}" 
+case .ph_polygon : return "\u{f536}" 
+case .ph_polygon_bold : return "\u{f94d}" 
+case .ph_polygon_fill : return "\u{fd64}" 
+case .ph_polygon_light : return "\u{f11f}" 
+case .ph_polygon_thin : return "\u{ed08}" 
+case .ph_popcorn : return "\u{f537}" 
+case .ph_popcorn_bold : return "\u{f94e}" 
+case .ph_popcorn_fill : return "\u{fd65}" 
+case .ph_popcorn_light : return "\u{f120}" 
+case .ph_popcorn_thin : return "\u{ed09}" 
+case .ph_power : return "\u{f538}" 
+case .ph_power_bold : return "\u{f94f}" 
+case .ph_power_fill : return "\u{fd66}" 
+case .ph_power_light : return "\u{f121}" 
+case .ph_power_thin : return "\u{ed0a}" 
+case .ph_prescription : return "\u{f539}" 
+case .ph_prescription_bold : return "\u{f950}" 
+case .ph_prescription_fill : return "\u{fd67}" 
+case .ph_prescription_light : return "\u{f122}" 
+case .ph_prescription_thin : return "\u{ed0b}" 
+case .ph_presentation : return "\u{f53a}" 
+case .ph_presentation_bold : return "\u{f951}" 
+case .ph_presentation_chart : return "\u{f53b}" 
+case .ph_presentation_chart_bold : return "\u{f952}" 
+case .ph_presentation_chart_fill : return "\u{fd68}" 
+case .ph_presentation_chart_light : return "\u{f123}" 
+case .ph_presentation_chart_thin : return "\u{ed0c}" 
+case .ph_presentation_fill : return "\u{fd69}" 
+case .ph_presentation_light : return "\u{f124}" 
+case .ph_presentation_thin : return "\u{ed0d}" 
+case .ph_printer : return "\u{f53c}" 
+case .ph_printer_bold : return "\u{f953}" 
+case .ph_printer_fill : return "\u{fd6a}" 
+case .ph_printer_light : return "\u{f125}" 
+case .ph_printer_thin : return "\u{ed0e}" 
+case .ph_prohibit : return "\u{f53d}" 
+case .ph_prohibit_bold : return "\u{f954}" 
+case .ph_prohibit_fill : return "\u{fd6b}" 
+case .ph_prohibit_inset : return "\u{f53e}" 
+case .ph_prohibit_inset_bold : return "\u{f955}" 
+case .ph_prohibit_inset_fill : return "\u{fd6c}" 
+case .ph_prohibit_inset_light : return "\u{f126}" 
+case .ph_prohibit_inset_thin : return "\u{ed0f}" 
+case .ph_prohibit_light : return "\u{f127}" 
+case .ph_prohibit_thin : return "\u{ed10}" 
+case .ph_projector_screen : return "\u{f53f}" 
+case .ph_projector_screen_bold : return "\u{f956}" 
+case .ph_projector_screen_chart : return "\u{f540}" 
+case .ph_projector_screen_chart_bold : return "\u{f957}" 
+case .ph_projector_screen_chart_fill : return "\u{fd6d}" 
+case .ph_projector_screen_chart_light : return "\u{f128}" 
+case .ph_projector_screen_chart_thin : return "\u{ed11}" 
+case .ph_projector_screen_fill : return "\u{fd6e}" 
+case .ph_projector_screen_light : return "\u{f129}" 
+case .ph_projector_screen_thin : return "\u{ed12}" 
+case .ph_push_pin : return "\u{f541}" 
+case .ph_push_pin_bold : return "\u{f958}" 
+case .ph_push_pin_fill : return "\u{fd6f}" 
+case .ph_push_pin_light : return "\u{f12a}" 
+case .ph_push_pin_simple : return "\u{f542}" 
+case .ph_push_pin_simple_bold : return "\u{f959}" 
+case .ph_push_pin_simple_fill : return "\u{fd70}" 
+case .ph_push_pin_simple_light : return "\u{f12b}" 
+case .ph_push_pin_simple_slash : return "\u{f543}" 
+case .ph_push_pin_simple_slash_bold : return "\u{f95a}" 
+case .ph_push_pin_simple_slash_fill : return "\u{fd71}" 
+case .ph_push_pin_simple_slash_light : return "\u{f12c}" 
+case .ph_push_pin_simple_slash_thin : return "\u{ed13}" 
+case .ph_push_pin_simple_thin : return "\u{ed14}" 
+case .ph_push_pin_slash : return "\u{f544}" 
+case .ph_push_pin_slash_bold : return "\u{f95b}" 
+case .ph_push_pin_slash_fill : return "\u{fd72}" 
+case .ph_push_pin_slash_light : return "\u{f12d}" 
+case .ph_push_pin_slash_thin : return "\u{ed15}" 
+case .ph_push_pin_thin : return "\u{ed16}" 
+case .ph_puzzle_piece : return "\u{f545}" 
+case .ph_puzzle_piece_bold : return "\u{f95c}" 
+case .ph_puzzle_piece_fill : return "\u{fd73}" 
+case .ph_puzzle_piece_light : return "\u{f12e}" 
+case .ph_puzzle_piece_thin : return "\u{ed17}" 
+case .ph_qr_code : return "\u{f546}" 
+case .ph_qr_code_bold : return "\u{f95d}" 
+case .ph_qr_code_fill : return "\u{fd74}" 
+case .ph_qr_code_light : return "\u{f12f}" 
+case .ph_qr_code_thin : return "\u{ed18}" 
+case .ph_question : return "\u{f547}" 
+case .ph_question_bold : return "\u{f95e}" 
+case .ph_question_fill : return "\u{fd75}" 
+case .ph_question_light : return "\u{f130}" 
+case .ph_question_thin : return "\u{ed19}" 
+case .ph_queue : return "\u{f548}" 
+case .ph_queue_bold : return "\u{f95f}" 
+case .ph_queue_fill : return "\u{fd76}" 
+case .ph_queue_light : return "\u{f131}" 
+case .ph_queue_thin : return "\u{ed1a}" 
+case .ph_quotes : return "\u{f549}" 
+case .ph_quotes_bold : return "\u{f960}" 
+case .ph_quotes_fill : return "\u{fd77}" 
+case .ph_quotes_light : return "\u{f132}" 
+case .ph_quotes_thin : return "\u{ed1b}" 
+case .ph_radical : return "\u{f54a}" 
+case .ph_radical_bold : return "\u{f961}" 
+case .ph_radical_fill : return "\u{fd78}" 
+case .ph_radical_light : return "\u{f133}" 
+case .ph_radical_thin : return "\u{ed1c}" 
+case .ph_radio : return "\u{f54b}" 
+case .ph_radio_bold : return "\u{f962}" 
+case .ph_radio_button : return "\u{f54c}" 
+case .ph_radio_button_bold : return "\u{f963}" 
+case .ph_radio_button_fill : return "\u{fd79}" 
+case .ph_radio_button_light : return "\u{f134}" 
+case .ph_radio_button_thin : return "\u{ed1d}" 
+case .ph_radio_fill : return "\u{fd7a}" 
+case .ph_radio_light : return "\u{f135}" 
+case .ph_radio_thin : return "\u{ed1e}" 
+case .ph_rainbow : return "\u{f54d}" 
+case .ph_rainbow_bold : return "\u{f964}" 
+case .ph_rainbow_cloud : return "\u{f54e}" 
+case .ph_rainbow_cloud_bold : return "\u{f965}" 
+case .ph_rainbow_cloud_fill : return "\u{fd7b}" 
+case .ph_rainbow_cloud_light : return "\u{f136}" 
+case .ph_rainbow_cloud_thin : return "\u{ed1f}" 
+case .ph_rainbow_fill : return "\u{fd7c}" 
+case .ph_rainbow_light : return "\u{f137}" 
+case .ph_rainbow_thin : return "\u{ed20}" 
+case .ph_receipt : return "\u{f54f}" 
+case .ph_receipt_bold : return "\u{f966}" 
+case .ph_receipt_fill : return "\u{fd7d}" 
+case .ph_receipt_light : return "\u{f138}" 
+case .ph_receipt_thin : return "\u{ed21}" 
+case .ph_record : return "\u{f550}" 
+case .ph_record_bold : return "\u{f967}" 
+case .ph_record_fill : return "\u{fd7e}" 
+case .ph_record_light : return "\u{f139}" 
+case .ph_record_thin : return "\u{ed22}" 
+case .ph_rectangle : return "\u{f551}" 
+case .ph_rectangle_bold : return "\u{f968}" 
+case .ph_rectangle_fill : return "\u{fd7f}" 
+case .ph_rectangle_light : return "\u{f13a}" 
+case .ph_rectangle_thin : return "\u{ed23}" 
+case .ph_recycle : return "\u{f552}" 
+case .ph_recycle_bold : return "\u{f969}" 
+case .ph_recycle_fill : return "\u{fd80}" 
+case .ph_recycle_light : return "\u{f13b}" 
+case .ph_recycle_thin : return "\u{ed24}" 
+case .ph_reddit_logo : return "\u{f553}" 
+case .ph_reddit_logo_bold : return "\u{f96a}" 
+case .ph_reddit_logo_fill : return "\u{fd81}" 
+case .ph_reddit_logo_light : return "\u{f13c}" 
+case .ph_reddit_logo_thin : return "\u{ed25}" 
+case .ph_repeat : return "\u{f554}" 
+case .ph_repeat_bold : return "\u{f96b}" 
+case .ph_repeat_fill : return "\u{fd82}" 
+case .ph_repeat_light : return "\u{f13d}" 
+case .ph_repeat_once : return "\u{f555}" 
+case .ph_repeat_once_bold : return "\u{f96c}" 
+case .ph_repeat_once_fill : return "\u{fd83}" 
+case .ph_repeat_once_light : return "\u{f13e}" 
+case .ph_repeat_once_thin : return "\u{ed26}" 
+case .ph_repeat_thin : return "\u{ed27}" 
+case .ph_rewind : return "\u{f556}" 
+case .ph_rewind_bold : return "\u{f96d}" 
+case .ph_rewind_circle : return "\u{f557}" 
+case .ph_rewind_circle_bold : return "\u{f96e}" 
+case .ph_rewind_circle_fill : return "\u{fd84}" 
+case .ph_rewind_circle_light : return "\u{f13f}" 
+case .ph_rewind_circle_thin : return "\u{ed28}" 
+case .ph_rewind_fill : return "\u{fd85}" 
+case .ph_rewind_light : return "\u{f140}" 
+case .ph_rewind_thin : return "\u{ed29}" 
+case .ph_robot : return "\u{f558}" 
+case .ph_robot_bold : return "\u{f96f}" 
+case .ph_robot_fill : return "\u{fd86}" 
+case .ph_robot_light : return "\u{f141}" 
+case .ph_robot_thin : return "\u{ed2a}" 
+case .ph_rocket : return "\u{f559}" 
+case .ph_rocket_bold : return "\u{f970}" 
+case .ph_rocket_fill : return "\u{fd87}" 
+case .ph_rocket_launch : return "\u{f55a}" 
+case .ph_rocket_launch_bold : return "\u{f971}" 
+case .ph_rocket_launch_fill : return "\u{fd88}" 
+case .ph_rocket_launch_light : return "\u{f142}" 
+case .ph_rocket_launch_thin : return "\u{ed2b}" 
+case .ph_rocket_light : return "\u{f143}" 
+case .ph_rocket_thin : return "\u{ed2c}" 
+case .ph_rows : return "\u{f55b}" 
+case .ph_rows_bold : return "\u{f972}" 
+case .ph_rows_fill : return "\u{fd89}" 
+case .ph_rows_light : return "\u{f144}" 
+case .ph_rows_thin : return "\u{ed2d}" 
+case .ph_rss : return "\u{f55c}" 
+case .ph_rss_bold : return "\u{f973}" 
+case .ph_rss_fill : return "\u{fd8a}" 
+case .ph_rss_light : return "\u{f145}" 
+case .ph_rss_simple : return "\u{f55d}" 
+case .ph_rss_simple_bold : return "\u{f974}" 
+case .ph_rss_simple_fill : return "\u{fd8b}" 
+case .ph_rss_simple_light : return "\u{f146}" 
+case .ph_rss_simple_thin : return "\u{ed2e}" 
+case .ph_rss_thin : return "\u{ed2f}" 
+case .ph_rug : return "\u{f55e}" 
+case .ph_rug_bold : return "\u{f975}" 
+case .ph_rug_fill : return "\u{fd8c}" 
+case .ph_rug_light : return "\u{f147}" 
+case .ph_rug_thin : return "\u{ed30}" 
+case .ph_ruler : return "\u{f55f}" 
+case .ph_ruler_bold : return "\u{f976}" 
+case .ph_ruler_fill : return "\u{fd8d}" 
+case .ph_ruler_light : return "\u{f148}" 
+case .ph_ruler_thin : return "\u{ed31}" 
+case .ph_scales : return "\u{f560}" 
+case .ph_scales_bold : return "\u{f977}" 
+case .ph_scales_fill : return "\u{fd8e}" 
+case .ph_scales_light : return "\u{f149}" 
+case .ph_scales_thin : return "\u{ed32}" 
+case .ph_scan : return "\u{f561}" 
+case .ph_scan_bold : return "\u{f978}" 
+case .ph_scan_fill : return "\u{fd8f}" 
+case .ph_scan_light : return "\u{f14a}" 
+case .ph_scan_thin : return "\u{ed33}" 
+case .ph_scissors : return "\u{f562}" 
+case .ph_scissors_bold : return "\u{f979}" 
+case .ph_scissors_fill : return "\u{fd90}" 
+case .ph_scissors_light : return "\u{f14b}" 
+case .ph_scissors_thin : return "\u{ed34}" 
+case .ph_screencast : return "\u{f563}" 
+case .ph_screencast_bold : return "\u{f97a}" 
+case .ph_screencast_fill : return "\u{fd91}" 
+case .ph_screencast_light : return "\u{f14c}" 
+case .ph_screencast_thin : return "\u{ed35}" 
+case .ph_scribble_loop : return "\u{f564}" 
+case .ph_scribble_loop_bold : return "\u{f97b}" 
+case .ph_scribble_loop_fill : return "\u{fd92}" 
+case .ph_scribble_loop_light : return "\u{f14d}" 
+case .ph_scribble_loop_thin : return "\u{ed36}" 
+case .ph_scroll : return "\u{f565}" 
+case .ph_scroll_bold : return "\u{f97c}" 
+case .ph_scroll_fill : return "\u{fd93}" 
+case .ph_scroll_light : return "\u{f14e}" 
+case .ph_scroll_thin : return "\u{ed37}" 
+case .ph_selection : return "\u{f566}" 
+case .ph_selection_all : return "\u{f567}" 
+case .ph_selection_all_bold : return "\u{f97d}" 
+case .ph_selection_all_fill : return "\u{fd94}" 
+case .ph_selection_all_light : return "\u{f14f}" 
+case .ph_selection_all_thin : return "\u{ed38}" 
+case .ph_selection_background : return "\u{f568}" 
+case .ph_selection_background_bold : return "\u{f97e}" 
+case .ph_selection_background_fill : return "\u{fd95}" 
+case .ph_selection_background_light : return "\u{f150}" 
+case .ph_selection_background_thin : return "\u{ed39}" 
+case .ph_selection_bold : return "\u{f97f}" 
+case .ph_selection_fill : return "\u{fd96}" 
+case .ph_selection_foreground : return "\u{f569}" 
+case .ph_selection_foreground_bold : return "\u{f980}" 
+case .ph_selection_foreground_fill : return "\u{fd97}" 
+case .ph_selection_foreground_light : return "\u{f151}" 
+case .ph_selection_foreground_thin : return "\u{ed3a}" 
+case .ph_selection_inverse : return "\u{f56a}" 
+case .ph_selection_inverse_bold : return "\u{f981}" 
+case .ph_selection_inverse_fill : return "\u{fd98}" 
+case .ph_selection_inverse_light : return "\u{f152}" 
+case .ph_selection_inverse_thin : return "\u{ed3b}" 
+case .ph_selection_light : return "\u{f153}" 
+case .ph_selection_plus : return "\u{f56b}" 
+case .ph_selection_plus_bold : return "\u{f982}" 
+case .ph_selection_plus_fill : return "\u{fd99}" 
+case .ph_selection_plus_light : return "\u{f154}" 
+case .ph_selection_plus_thin : return "\u{ed3c}" 
+case .ph_selection_slash : return "\u{f56c}" 
+case .ph_selection_slash_bold : return "\u{f983}" 
+case .ph_selection_slash_fill : return "\u{fd9a}" 
+case .ph_selection_slash_light : return "\u{f155}" 
+case .ph_selection_slash_thin : return "\u{ed3d}" 
+case .ph_selection_thin : return "\u{ed3e}" 
+case .ph_share : return "\u{f56d}" 
+case .ph_share_bold : return "\u{f984}" 
+case .ph_share_fill : return "\u{fd9b}" 
+case .ph_share_light : return "\u{f156}" 
+case .ph_share_network : return "\u{f56e}" 
+case .ph_share_network_bold : return "\u{f985}" 
+case .ph_share_network_fill : return "\u{fd9c}" 
+case .ph_share_network_light : return "\u{f157}" 
+case .ph_share_network_thin : return "\u{ed3f}" 
+case .ph_share_thin : return "\u{ed40}" 
+case .ph_shield : return "\u{f56f}" 
+case .ph_shield_bold : return "\u{f986}" 
+case .ph_shield_check : return "\u{f570}" 
+case .ph_shield_check_bold : return "\u{f987}" 
+case .ph_shield_check_fill : return "\u{fd9d}" 
+case .ph_shield_check_light : return "\u{f158}" 
+case .ph_shield_check_thin : return "\u{ed41}" 
+case .ph_shield_checkered : return "\u{f571}" 
+case .ph_shield_checkered_bold : return "\u{f988}" 
+case .ph_shield_checkered_fill : return "\u{fd9e}" 
+case .ph_shield_checkered_light : return "\u{f159}" 
+case .ph_shield_checkered_thin : return "\u{ed42}" 
+case .ph_shield_chevron : return "\u{f572}" 
+case .ph_shield_chevron_bold : return "\u{f989}" 
+case .ph_shield_chevron_fill : return "\u{fd9f}" 
+case .ph_shield_chevron_light : return "\u{f15a}" 
+case .ph_shield_chevron_thin : return "\u{ed43}" 
+case .ph_shield_fill : return "\u{fda0}" 
+case .ph_shield_light : return "\u{f15b}" 
+case .ph_shield_plus : return "\u{f573}" 
+case .ph_shield_plus_bold : return "\u{f98a}" 
+case .ph_shield_plus_fill : return "\u{fda1}" 
+case .ph_shield_plus_light : return "\u{f15c}" 
+case .ph_shield_plus_thin : return "\u{ed44}" 
+case .ph_shield_slash : return "\u{f574}" 
+case .ph_shield_slash_bold : return "\u{f98b}" 
+case .ph_shield_slash_fill : return "\u{fda2}" 
+case .ph_shield_slash_light : return "\u{f15d}" 
+case .ph_shield_slash_thin : return "\u{ed45}" 
+case .ph_shield_star : return "\u{f575}" 
+case .ph_shield_star_bold : return "\u{f98c}" 
+case .ph_shield_star_fill : return "\u{fda3}" 
+case .ph_shield_star_light : return "\u{f15e}" 
+case .ph_shield_star_thin : return "\u{ed46}" 
+case .ph_shield_thin : return "\u{ed47}" 
+case .ph_shield_warning : return "\u{f576}" 
+case .ph_shield_warning_bold : return "\u{f98d}" 
+case .ph_shield_warning_fill : return "\u{fda4}" 
+case .ph_shield_warning_light : return "\u{f15f}" 
+case .ph_shield_warning_thin : return "\u{ed48}" 
+case .ph_shopping_bag : return "\u{f577}" 
+case .ph_shopping_bag_bold : return "\u{f98e}" 
+case .ph_shopping_bag_fill : return "\u{fda5}" 
+case .ph_shopping_bag_light : return "\u{f160}" 
+case .ph_shopping_bag_open : return "\u{f578}" 
+case .ph_shopping_bag_open_bold : return "\u{f98f}" 
+case .ph_shopping_bag_open_fill : return "\u{fda6}" 
+case .ph_shopping_bag_open_light : return "\u{f161}" 
+case .ph_shopping_bag_open_thin : return "\u{ed49}" 
+case .ph_shopping_bag_thin : return "\u{ed4a}" 
+case .ph_shopping_cart : return "\u{f579}" 
+case .ph_shopping_cart_bold : return "\u{f990}" 
+case .ph_shopping_cart_fill : return "\u{fda7}" 
+case .ph_shopping_cart_light : return "\u{f162}" 
+case .ph_shopping_cart_simple : return "\u{f57a}" 
+case .ph_shopping_cart_simple_bold : return "\u{f991}" 
+case .ph_shopping_cart_simple_fill : return "\u{fda8}" 
+case .ph_shopping_cart_simple_light : return "\u{f163}" 
+case .ph_shopping_cart_simple_thin : return "\u{ed4b}" 
+case .ph_shopping_cart_thin : return "\u{ed4c}" 
+case .ph_shower : return "\u{f57b}" 
+case .ph_shower_bold : return "\u{f992}" 
+case .ph_shower_fill : return "\u{fda9}" 
+case .ph_shower_light : return "\u{f164}" 
+case .ph_shower_thin : return "\u{ed4d}" 
+case .ph_shuffle : return "\u{f57c}" 
+case .ph_shuffle_angular : return "\u{f57d}" 
+case .ph_shuffle_angular_bold : return "\u{f993}" 
+case .ph_shuffle_angular_fill : return "\u{fdaa}" 
+case .ph_shuffle_angular_light : return "\u{f165}" 
+case .ph_shuffle_angular_thin : return "\u{ed4e}" 
+case .ph_shuffle_bold : return "\u{f994}" 
+case .ph_shuffle_fill : return "\u{fdab}" 
+case .ph_shuffle_light : return "\u{f166}" 
+case .ph_shuffle_simple : return "\u{f57e}" 
+case .ph_shuffle_simple_bold : return "\u{f995}" 
+case .ph_shuffle_simple_fill : return "\u{fdac}" 
+case .ph_shuffle_simple_light : return "\u{f167}" 
+case .ph_shuffle_simple_thin : return "\u{ed4f}" 
+case .ph_shuffle_thin : return "\u{ed50}" 
+case .ph_sidebar : return "\u{f57f}" 
+case .ph_sidebar_bold : return "\u{f996}" 
+case .ph_sidebar_fill : return "\u{fdad}" 
+case .ph_sidebar_light : return "\u{f168}" 
+case .ph_sidebar_simple : return "\u{f580}" 
+case .ph_sidebar_simple_bold : return "\u{f997}" 
+case .ph_sidebar_simple_fill : return "\u{fdae}" 
+case .ph_sidebar_simple_light : return "\u{f169}" 
+case .ph_sidebar_simple_thin : return "\u{ed51}" 
+case .ph_sidebar_thin : return "\u{ed52}" 
+case .ph_sign_in : return "\u{f581}" 
+case .ph_sign_in_bold : return "\u{f998}" 
+case .ph_sign_in_fill : return "\u{fdaf}" 
+case .ph_sign_in_light : return "\u{f16a}" 
+case .ph_sign_in_thin : return "\u{ed53}" 
+case .ph_sign_out : return "\u{f582}" 
+case .ph_sign_out_bold : return "\u{f999}" 
+case .ph_sign_out_fill : return "\u{fdb0}" 
+case .ph_sign_out_light : return "\u{f16b}" 
+case .ph_sign_out_thin : return "\u{ed54}" 
+case .ph_signpost : return "\u{f583}" 
+case .ph_signpost_bold : return "\u{f99a}" 
+case .ph_signpost_fill : return "\u{fdb1}" 
+case .ph_signpost_light : return "\u{f16c}" 
+case .ph_signpost_thin : return "\u{ed55}" 
+case .ph_sim_card : return "\u{f584}" 
+case .ph_sim_card_bold : return "\u{f99b}" 
+case .ph_sim_card_fill : return "\u{fdb2}" 
+case .ph_sim_card_light : return "\u{f16d}" 
+case .ph_sim_card_thin : return "\u{ed56}" 
+case .ph_sketch_logo : return "\u{f585}" 
+case .ph_sketch_logo_bold : return "\u{f99c}" 
+case .ph_sketch_logo_fill : return "\u{fdb3}" 
+case .ph_sketch_logo_light : return "\u{f16e}" 
+case .ph_sketch_logo_thin : return "\u{ed57}" 
+case .ph_skip_back : return "\u{f586}" 
+case .ph_skip_back_bold : return "\u{f99d}" 
+case .ph_skip_back_circle : return "\u{f587}" 
+case .ph_skip_back_circle_bold : return "\u{f99e}" 
+case .ph_skip_back_circle_fill : return "\u{fdb4}" 
+case .ph_skip_back_circle_light : return "\u{f16f}" 
+case .ph_skip_back_circle_thin : return "\u{ed58}" 
+case .ph_skip_back_fill : return "\u{fdb5}" 
+case .ph_skip_back_light : return "\u{f170}" 
+case .ph_skip_back_thin : return "\u{ed59}" 
+case .ph_skip_forward : return "\u{f588}" 
+case .ph_skip_forward_bold : return "\u{f99f}" 
+case .ph_skip_forward_circle : return "\u{f589}" 
+case .ph_skip_forward_circle_bold : return "\u{f9a0}" 
+case .ph_skip_forward_circle_fill : return "\u{fdb6}" 
+case .ph_skip_forward_circle_light : return "\u{f171}" 
+case .ph_skip_forward_circle_thin : return "\u{ed5a}" 
+case .ph_skip_forward_fill : return "\u{fdb7}" 
+case .ph_skip_forward_light : return "\u{f172}" 
+case .ph_skip_forward_thin : return "\u{ed5b}" 
+case .ph_skull : return "\u{f58a}" 
+case .ph_skull_bold : return "\u{f9a1}" 
+case .ph_skull_fill : return "\u{fdb8}" 
+case .ph_skull_light : return "\u{f173}" 
+case .ph_skull_thin : return "\u{ed5c}" 
+case .ph_slack_logo : return "\u{f58b}" 
+case .ph_slack_logo_bold : return "\u{f9a2}" 
+case .ph_slack_logo_fill : return "\u{fdb9}" 
+case .ph_slack_logo_light : return "\u{f174}" 
+case .ph_slack_logo_thin : return "\u{ed5d}" 
+case .ph_sliders : return "\u{f58c}" 
+case .ph_sliders_bold : return "\u{f9a3}" 
+case .ph_sliders_fill : return "\u{fdba}" 
+case .ph_sliders_horizontal : return "\u{f58d}" 
+case .ph_sliders_horizontal_bold : return "\u{f9a4}" 
+case .ph_sliders_horizontal_fill : return "\u{fdbb}" 
+case .ph_sliders_horizontal_light : return "\u{f175}" 
+case .ph_sliders_horizontal_thin : return "\u{ed5e}" 
+case .ph_sliders_light : return "\u{f176}" 
+case .ph_sliders_thin : return "\u{ed5f}" 
+case .ph_smiley : return "\u{f58e}" 
+case .ph_smiley_blank : return "\u{f58f}" 
+case .ph_smiley_blank_bold : return "\u{f9a5}" 
+case .ph_smiley_blank_fill : return "\u{fdbc}" 
+case .ph_smiley_blank_light : return "\u{f177}" 
+case .ph_smiley_blank_thin : return "\u{ed60}" 
+case .ph_smiley_bold : return "\u{f9a6}" 
+case .ph_smiley_fill : return "\u{fdbd}" 
+case .ph_smiley_light : return "\u{f178}" 
+case .ph_smiley_meh : return "\u{f590}" 
+case .ph_smiley_meh_bold : return "\u{f9a7}" 
+case .ph_smiley_meh_fill : return "\u{fdbe}" 
+case .ph_smiley_meh_light : return "\u{f179}" 
+case .ph_smiley_meh_thin : return "\u{ed61}" 
+case .ph_smiley_nervous : return "\u{f591}" 
+case .ph_smiley_nervous_bold : return "\u{f9a8}" 
+case .ph_smiley_nervous_fill : return "\u{fdbf}" 
+case .ph_smiley_nervous_light : return "\u{f17a}" 
+case .ph_smiley_nervous_thin : return "\u{ed62}" 
+case .ph_smiley_sad : return "\u{f592}" 
+case .ph_smiley_sad_bold : return "\u{f9a9}" 
+case .ph_smiley_sad_fill : return "\u{fdc0}" 
+case .ph_smiley_sad_light : return "\u{f17b}" 
+case .ph_smiley_sad_thin : return "\u{ed63}" 
+case .ph_smiley_sticker : return "\u{f593}" 
+case .ph_smiley_sticker_bold : return "\u{f9aa}" 
+case .ph_smiley_sticker_fill : return "\u{fdc1}" 
+case .ph_smiley_sticker_light : return "\u{f17c}" 
+case .ph_smiley_sticker_thin : return "\u{ed64}" 
+case .ph_smiley_thin : return "\u{ed65}" 
+case .ph_smiley_wink : return "\u{f594}" 
+case .ph_smiley_wink_bold : return "\u{f9ab}" 
+case .ph_smiley_wink_fill : return "\u{fdc2}" 
+case .ph_smiley_wink_light : return "\u{f17d}" 
+case .ph_smiley_wink_thin : return "\u{ed66}" 
+case .ph_smiley_x_eyes : return "\u{f595}" 
+case .ph_smiley_x_eyes_bold : return "\u{f9ac}" 
+case .ph_smiley_x_eyes_fill : return "\u{fdc3}" 
+case .ph_smiley_x_eyes_light : return "\u{f17e}" 
+case .ph_smiley_x_eyes_thin : return "\u{ed67}" 
+case .ph_snapchat_logo : return "\u{f596}" 
+case .ph_snapchat_logo_bold : return "\u{f9ad}" 
+case .ph_snapchat_logo_fill : return "\u{fdc4}" 
+case .ph_snapchat_logo_light : return "\u{f17f}" 
+case .ph_snapchat_logo_thin : return "\u{ed68}" 
+case .ph_snowflake : return "\u{f597}" 
+case .ph_snowflake_bold : return "\u{f9ae}" 
+case .ph_snowflake_fill : return "\u{fdc5}" 
+case .ph_snowflake_light : return "\u{f180}" 
+case .ph_snowflake_thin : return "\u{ed69}" 
+case .ph_soccer_ball : return "\u{f598}" 
+case .ph_soccer_ball_bold : return "\u{f9af}" 
+case .ph_soccer_ball_fill : return "\u{fdc6}" 
+case .ph_soccer_ball_light : return "\u{f181}" 
+case .ph_soccer_ball_thin : return "\u{ed6a}" 
+case .ph_sort_ascending : return "\u{f599}" 
+case .ph_sort_ascending_bold : return "\u{f9b0}" 
+case .ph_sort_ascending_fill : return "\u{fdc7}" 
+case .ph_sort_ascending_light : return "\u{f182}" 
+case .ph_sort_ascending_thin : return "\u{ed6b}" 
+case .ph_sort_descending : return "\u{f59a}" 
+case .ph_sort_descending_bold : return "\u{f9b1}" 
+case .ph_sort_descending_fill : return "\u{fdc8}" 
+case .ph_sort_descending_light : return "\u{f183}" 
+case .ph_sort_descending_thin : return "\u{ed6c}" 
+case .ph_spade : return "\u{f59b}" 
+case .ph_spade_bold : return "\u{f9b2}" 
+case .ph_spade_fill : return "\u{fdc9}" 
+case .ph_spade_light : return "\u{f184}" 
+case .ph_spade_thin : return "\u{ed6d}" 
+case .ph_sparkle : return "\u{f59c}" 
+case .ph_sparkle_bold : return "\u{f9b3}" 
+case .ph_sparkle_fill : return "\u{fdca}" 
+case .ph_sparkle_light : return "\u{f185}" 
+case .ph_sparkle_thin : return "\u{ed6e}" 
+case .ph_speaker_high : return "\u{f59d}" 
+case .ph_speaker_high_bold : return "\u{f9b4}" 
+case .ph_speaker_high_fill : return "\u{fdcb}" 
+case .ph_speaker_high_light : return "\u{f186}" 
+case .ph_speaker_high_thin : return "\u{ed6f}" 
+case .ph_speaker_low : return "\u{f59e}" 
+case .ph_speaker_low_bold : return "\u{f9b5}" 
+case .ph_speaker_low_fill : return "\u{fdcc}" 
+case .ph_speaker_low_light : return "\u{f187}" 
+case .ph_speaker_low_thin : return "\u{ed70}" 
+case .ph_speaker_none : return "\u{f59f}" 
+case .ph_speaker_none_bold : return "\u{f9b6}" 
+case .ph_speaker_none_fill : return "\u{fdcd}" 
+case .ph_speaker_none_light : return "\u{f188}" 
+case .ph_speaker_none_thin : return "\u{ed71}" 
+case .ph_speaker_simple_high : return "\u{f5a0}" 
+case .ph_speaker_simple_high_bold : return "\u{f9b7}" 
+case .ph_speaker_simple_high_fill : return "\u{fdce}" 
+case .ph_speaker_simple_high_light : return "\u{f189}" 
+case .ph_speaker_simple_high_thin : return "\u{ed72}" 
+case .ph_speaker_simple_low : return "\u{f5a1}" 
+case .ph_speaker_simple_low_bold : return "\u{f9b8}" 
+case .ph_speaker_simple_low_fill : return "\u{fdcf}" 
+case .ph_speaker_simple_low_light : return "\u{f18a}" 
+case .ph_speaker_simple_low_thin : return "\u{ed73}" 
+case .ph_speaker_simple_none : return "\u{f5a2}" 
+case .ph_speaker_simple_none_bold : return "\u{f9b9}" 
+case .ph_speaker_simple_none_fill : return "\u{fdd0}" 
+case .ph_speaker_simple_none_light : return "\u{f18b}" 
+case .ph_speaker_simple_none_thin : return "\u{ed74}" 
+case .ph_speaker_simple_slash : return "\u{f5a3}" 
+case .ph_speaker_simple_slash_bold : return "\u{f9ba}" 
+case .ph_speaker_simple_slash_fill : return "\u{fdd1}" 
+case .ph_speaker_simple_slash_light : return "\u{f18c}" 
+case .ph_speaker_simple_slash_thin : return "\u{ed75}" 
+case .ph_speaker_simple_x : return "\u{f5a4}" 
+case .ph_speaker_simple_x_bold : return "\u{f9bb}" 
+case .ph_speaker_simple_x_fill : return "\u{fdd2}" 
+case .ph_speaker_simple_x_light : return "\u{f18d}" 
+case .ph_speaker_simple_x_thin : return "\u{ed76}" 
+case .ph_speaker_slash : return "\u{f5a5}" 
+case .ph_speaker_slash_bold : return "\u{f9bc}" 
+case .ph_speaker_slash_fill : return "\u{fdd3}" 
+case .ph_speaker_slash_light : return "\u{f18e}" 
+case .ph_speaker_slash_thin : return "\u{ed77}" 
+case .ph_speaker_x : return "\u{f5a6}" 
+case .ph_speaker_x_bold : return "\u{f9bd}" 
+case .ph_speaker_x_fill : return "\u{fdd4}" 
+case .ph_speaker_x_light : return "\u{f18f}" 
+case .ph_speaker_x_thin : return "\u{ed78}" 
+case .ph_spinner : return "\u{f5a7}" 
+case .ph_spinner_bold : return "\u{f9be}" 
+case .ph_spinner_fill : return "\u{fdd5}" 
+case .ph_spinner_gap : return "\u{f5a8}" 
+case .ph_spinner_gap_bold : return "\u{f9bf}" 
+case .ph_spinner_gap_fill : return "\u{fdd6}" 
+case .ph_spinner_gap_light : return "\u{f190}" 
+case .ph_spinner_gap_thin : return "\u{ed79}" 
+case .ph_spinner_light : return "\u{f191}" 
+case .ph_spinner_thin : return "\u{ed7a}" 
+case .ph_spiral : return "\u{f5a9}" 
+case .ph_spiral_bold : return "\u{f9c0}" 
+case .ph_spiral_fill : return "\u{fdd7}" 
+case .ph_spiral_light : return "\u{f192}" 
+case .ph_spiral_thin : return "\u{ed7b}" 
+case .ph_spotify_logo : return "\u{f5aa}" 
+case .ph_spotify_logo_bold : return "\u{f9c1}" 
+case .ph_spotify_logo_fill : return "\u{fdd8}" 
+case .ph_spotify_logo_light : return "\u{f193}" 
+case .ph_spotify_logo_thin : return "\u{ed7c}" 
+case .ph_square : return "\u{f5ab}" 
+case .ph_square_bold : return "\u{f9c2}" 
+case .ph_square_fill : return "\u{fdd9}" 
+case .ph_square_half : return "\u{f5ac}" 
+case .ph_square_half_bold : return "\u{f9c3}" 
+case .ph_square_half_bottom : return "\u{f5ad}" 
+case .ph_square_half_bottom_bold : return "\u{f9c4}" 
+case .ph_square_half_bottom_fill : return "\u{fdda}" 
+case .ph_square_half_bottom_light : return "\u{f194}" 
+case .ph_square_half_bottom_thin : return "\u{ed7d}" 
+case .ph_square_half_fill : return "\u{fddb}" 
+case .ph_square_half_light : return "\u{f195}" 
+case .ph_square_half_thin : return "\u{ed7e}" 
+case .ph_square_light : return "\u{f196}" 
+case .ph_square_logo : return "\u{f5ae}" 
+case .ph_square_logo_bold : return "\u{f9c5}" 
+case .ph_square_logo_fill : return "\u{fddc}" 
+case .ph_square_logo_light : return "\u{f197}" 
+case .ph_square_logo_thin : return "\u{ed7f}" 
+case .ph_square_thin : return "\u{ed80}" 
+case .ph_squares_four : return "\u{f5af}" 
+case .ph_squares_four_bold : return "\u{f9c6}" 
+case .ph_squares_four_fill : return "\u{fddd}" 
+case .ph_squares_four_light : return "\u{f198}" 
+case .ph_squares_four_thin : return "\u{ed81}" 
+case .ph_stack : return "\u{f5b0}" 
+case .ph_stack_bold : return "\u{f9c7}" 
+case .ph_stack_fill : return "\u{fdde}" 
+case .ph_stack_light : return "\u{f199}" 
+case .ph_stack_overflow_logo : return "\u{f5b1}" 
+case .ph_stack_overflow_logo_bold : return "\u{f9c8}" 
+case .ph_stack_overflow_logo_fill : return "\u{fddf}" 
+case .ph_stack_overflow_logo_light : return "\u{f19a}" 
+case .ph_stack_overflow_logo_thin : return "\u{ed82}" 
+case .ph_stack_simple : return "\u{f5b2}" 
+case .ph_stack_simple_bold : return "\u{f9c9}" 
+case .ph_stack_simple_fill : return "\u{fde0}" 
+case .ph_stack_simple_light : return "\u{f19b}" 
+case .ph_stack_simple_thin : return "\u{ed83}" 
+case .ph_stack_thin : return "\u{ed84}" 
+case .ph_stamp : return "\u{f5b3}" 
+case .ph_stamp_bold : return "\u{f9ca}" 
+case .ph_stamp_fill : return "\u{fde1}" 
+case .ph_stamp_light : return "\u{f19c}" 
+case .ph_stamp_thin : return "\u{ed85}" 
+case .ph_star : return "\u{f5b4}" 
+case .ph_star_bold : return "\u{f9cb}" 
+case .ph_star_fill : return "\u{fde2}" 
+case .ph_star_four : return "\u{f5b5}" 
+case .ph_star_four_bold : return "\u{f9cc}" 
+case .ph_star_four_fill : return "\u{fde3}" 
+case .ph_star_four_light : return "\u{f19d}" 
+case .ph_star_four_thin : return "\u{ed86}" 
+case .ph_star_half : return "\u{f5b6}" 
+case .ph_star_half_bold : return "\u{f9cd}" 
+case .ph_star_half_fill : return "\u{fde4}" 
+case .ph_star_half_light : return "\u{f19e}" 
+case .ph_star_half_thin : return "\u{ed87}" 
+case .ph_star_light : return "\u{f19f}" 
+case .ph_star_thin : return "\u{ed88}" 
+case .ph_sticker : return "\u{f5b7}" 
+case .ph_sticker_bold : return "\u{f9ce}" 
+case .ph_sticker_fill : return "\u{fde5}" 
+case .ph_sticker_light : return "\u{f1a0}" 
+case .ph_sticker_thin : return "\u{ed89}" 
+case .ph_stop : return "\u{f5b8}" 
+case .ph_stop_bold : return "\u{f9cf}" 
+case .ph_stop_circle : return "\u{f5b9}" 
+case .ph_stop_circle_bold : return "\u{f9d0}" 
+case .ph_stop_circle_fill : return "\u{fde6}" 
+case .ph_stop_circle_light : return "\u{f1a1}" 
+case .ph_stop_circle_thin : return "\u{ed8a}" 
+case .ph_stop_fill : return "\u{fde7}" 
+case .ph_stop_light : return "\u{f1a2}" 
+case .ph_stop_thin : return "\u{ed8b}" 
+case .ph_storefront : return "\u{f5ba}" 
+case .ph_storefront_bold : return "\u{f9d1}" 
+case .ph_storefront_fill : return "\u{fde8}" 
+case .ph_storefront_light : return "\u{f1a3}" 
+case .ph_storefront_thin : return "\u{ed8c}" 
+case .ph_strategy : return "\u{f5bb}" 
+case .ph_strategy_bold : return "\u{f9d2}" 
+case .ph_strategy_fill : return "\u{fde9}" 
+case .ph_strategy_light : return "\u{f1a4}" 
+case .ph_strategy_thin : return "\u{ed8d}" 
+case .ph_stripe_logo : return "\u{f5bc}" 
+case .ph_stripe_logo_bold : return "\u{f9d3}" 
+case .ph_stripe_logo_fill : return "\u{fdea}" 
+case .ph_stripe_logo_light : return "\u{f1a5}" 
+case .ph_stripe_logo_thin : return "\u{ed8e}" 
+case .ph_student : return "\u{f5bd}" 
+case .ph_student_bold : return "\u{f9d4}" 
+case .ph_student_fill : return "\u{fdeb}" 
+case .ph_student_light : return "\u{f1a6}" 
+case .ph_student_thin : return "\u{ed8f}" 
+case .ph_suitcase : return "\u{f5be}" 
+case .ph_suitcase_bold : return "\u{f9d5}" 
+case .ph_suitcase_fill : return "\u{fdec}" 
+case .ph_suitcase_light : return "\u{f1a7}" 
+case .ph_suitcase_simple : return "\u{f5bf}" 
+case .ph_suitcase_simple_bold : return "\u{f9d6}" 
+case .ph_suitcase_simple_fill : return "\u{fded}" 
+case .ph_suitcase_simple_light : return "\u{f1a8}" 
+case .ph_suitcase_simple_thin : return "\u{ed90}" 
+case .ph_suitcase_thin : return "\u{ed91}" 
+case .ph_sun : return "\u{f5c0}" 
+case .ph_sun_bold : return "\u{f9d7}" 
+case .ph_sun_dim : return "\u{f5c1}" 
+case .ph_sun_dim_bold : return "\u{f9d8}" 
+case .ph_sun_dim_fill : return "\u{fdee}" 
+case .ph_sun_dim_light : return "\u{f1a9}" 
+case .ph_sun_dim_thin : return "\u{ed92}" 
+case .ph_sun_fill : return "\u{fdef}" 
+case .ph_sun_horizon : return "\u{f5c2}" 
+case .ph_sun_horizon_bold : return "\u{f9d9}" 
+case .ph_sun_horizon_fill : return "\u{fdf0}" 
+case .ph_sun_horizon_light : return "\u{f1aa}" 
+case .ph_sun_horizon_thin : return "\u{ed93}" 
+case .ph_sun_light : return "\u{f1ab}" 
+case .ph_sun_thin : return "\u{ed94}" 
+case .ph_sunglasses : return "\u{f5c3}" 
+case .ph_sunglasses_bold : return "\u{f9da}" 
+case .ph_sunglasses_fill : return "\u{fdf1}" 
+case .ph_sunglasses_light : return "\u{f1ac}" 
+case .ph_sunglasses_thin : return "\u{ed95}" 
+case .ph_swap : return "\u{f5c4}" 
+case .ph_swap_bold : return "\u{f9db}" 
+case .ph_swap_fill : return "\u{fdf2}" 
+case .ph_swap_light : return "\u{f1ad}" 
+case .ph_swap_thin : return "\u{ed96}" 
+case .ph_swatches : return "\u{f5c5}" 
+case .ph_swatches_bold : return "\u{f9dc}" 
+case .ph_swatches_fill : return "\u{fdf3}" 
+case .ph_swatches_light : return "\u{f1ae}" 
+case .ph_swatches_thin : return "\u{ed97}" 
+case .ph_sword : return "\u{f5c6}" 
+case .ph_sword_bold : return "\u{f9dd}" 
+case .ph_sword_fill : return "\u{fdf4}" 
+case .ph_sword_light : return "\u{f1af}" 
+case .ph_sword_thin : return "\u{ed98}" 
+case .ph_syringe : return "\u{f5c7}" 
+case .ph_syringe_bold : return "\u{f9de}" 
+case .ph_syringe_fill : return "\u{fdf5}" 
+case .ph_syringe_light : return "\u{f1b0}" 
+case .ph_syringe_thin : return "\u{ed99}" 
+case .ph_t_shirt : return "\u{f5c8}" 
+case .ph_t_shirt_bold : return "\u{f9df}" 
+case .ph_t_shirt_fill : return "\u{fdf6}" 
+case .ph_t_shirt_light : return "\u{f1b1}" 
+case .ph_t_shirt_thin : return "\u{ed9a}" 
+case .ph_table : return "\u{f5c9}" 
+case .ph_table_bold : return "\u{f9e0}" 
+case .ph_table_fill : return "\u{fdf7}" 
+case .ph_table_light : return "\u{f1b2}" 
+case .ph_table_thin : return "\u{ed9b}" 
+case .ph_tabs : return "\u{f5ca}" 
+case .ph_tabs_bold : return "\u{f9e1}" 
+case .ph_tabs_fill : return "\u{fdf8}" 
+case .ph_tabs_light : return "\u{f1b3}" 
+case .ph_tabs_thin : return "\u{ed9c}" 
+case .ph_tag : return "\u{f5cb}" 
+case .ph_tag_bold : return "\u{f9e2}" 
+case .ph_tag_chevron : return "\u{f5cc}" 
+case .ph_tag_chevron_bold : return "\u{f9e3}" 
+case .ph_tag_chevron_fill : return "\u{fdf9}" 
+case .ph_tag_chevron_light : return "\u{f1b4}" 
+case .ph_tag_chevron_thin : return "\u{ed9d}" 
+case .ph_tag_fill : return "\u{fdfa}" 
+case .ph_tag_light : return "\u{f1b5}" 
+case .ph_tag_simple : return "\u{f5cd}" 
+case .ph_tag_simple_bold : return "\u{f9e4}" 
+case .ph_tag_simple_fill : return "\u{fdfb}" 
+case .ph_tag_simple_light : return "\u{f1b6}" 
+case .ph_tag_simple_thin : return "\u{ed9e}" 
+case .ph_tag_thin : return "\u{ed9f}" 
+case .ph_target : return "\u{f5ce}" 
+case .ph_target_bold : return "\u{f9e5}" 
+case .ph_target_fill : return "\u{fdfc}" 
+case .ph_target_light : return "\u{f1b7}" 
+case .ph_target_thin : return "\u{eda0}" 
+case .ph_taxi : return "\u{f5cf}" 
+case .ph_taxi_bold : return "\u{f9e6}" 
+case .ph_taxi_fill : return "\u{fdfd}" 
+case .ph_taxi_light : return "\u{f1b8}" 
+case .ph_taxi_thin : return "\u{eda1}" 
+case .ph_telegram_logo : return "\u{f5d0}" 
+case .ph_telegram_logo_bold : return "\u{f9e7}" 
+case .ph_telegram_logo_fill : return "\u{fdfe}" 
+case .ph_telegram_logo_light : return "\u{f1b9}" 
+case .ph_telegram_logo_thin : return "\u{eda2}" 
+case .ph_television : return "\u{f5d1}" 
+case .ph_television_bold : return "\u{f9e8}" 
+case .ph_television_fill : return "\u{fdff}" 
+case .ph_television_light : return "\u{f1ba}" 
+case .ph_television_simple : return "\u{f5d2}" 
+case .ph_television_simple_bold : return "\u{f9e9}" 
+case .ph_television_simple_fill : return "\u{fe00}" 
+case .ph_television_simple_light : return "\u{f1bb}" 
+case .ph_television_simple_thin : return "\u{eda3}" 
+case .ph_television_thin : return "\u{eda4}" 
+case .ph_tennis_ball : return "\u{f5d3}" 
+case .ph_tennis_ball_bold : return "\u{f9ea}" 
+case .ph_tennis_ball_fill : return "\u{fe01}" 
+case .ph_tennis_ball_light : return "\u{f1bc}" 
+case .ph_tennis_ball_thin : return "\u{eda5}" 
+case .ph_terminal : return "\u{f5d4}" 
+case .ph_terminal_bold : return "\u{f9eb}" 
+case .ph_terminal_fill : return "\u{fe02}" 
+case .ph_terminal_light : return "\u{f1bd}" 
+case .ph_terminal_thin : return "\u{eda6}" 
+case .ph_terminal_window : return "\u{f5d5}" 
+case .ph_terminal_window_bold : return "\u{f9ec}" 
+case .ph_terminal_window_fill : return "\u{fe03}" 
+case .ph_terminal_window_light : return "\u{f1be}" 
+case .ph_terminal_window_thin : return "\u{eda7}" 
+case .ph_test_tube : return "\u{f5d6}" 
+case .ph_test_tube_bold : return "\u{f9ed}" 
+case .ph_test_tube_fill : return "\u{fe04}" 
+case .ph_test_tube_light : return "\u{f1bf}" 
+case .ph_test_tube_thin : return "\u{eda8}" 
+case .ph_text_aa : return "\u{f5d7}" 
+case .ph_text_aa_bold : return "\u{f9ee}" 
+case .ph_text_aa_fill : return "\u{fe05}" 
+case .ph_text_aa_light : return "\u{f1c0}" 
+case .ph_text_aa_thin : return "\u{eda9}" 
+case .ph_text_align_center : return "\u{f5d8}" 
+case .ph_text_align_center_bold : return "\u{f9ef}" 
+case .ph_text_align_center_fill : return "\u{fe06}" 
+case .ph_text_align_center_light : return "\u{f1c1}" 
+case .ph_text_align_center_thin : return "\u{edaa}" 
+case .ph_text_align_justify : return "\u{f5d9}" 
+case .ph_text_align_justify_bold : return "\u{f9f0}" 
+case .ph_text_align_justify_fill : return "\u{fe07}" 
+case .ph_text_align_justify_light : return "\u{f1c2}" 
+case .ph_text_align_justify_thin : return "\u{edab}" 
+case .ph_text_align_left : return "\u{f5da}" 
+case .ph_text_align_left_bold : return "\u{f9f1}" 
+case .ph_text_align_left_fill : return "\u{fe08}" 
+case .ph_text_align_left_light : return "\u{f1c3}" 
+case .ph_text_align_left_thin : return "\u{edac}" 
+case .ph_text_align_right : return "\u{f5db}" 
+case .ph_text_align_right_bold : return "\u{f9f2}" 
+case .ph_text_align_right_fill : return "\u{fe09}" 
+case .ph_text_align_right_light : return "\u{f1c4}" 
+case .ph_text_align_right_thin : return "\u{edad}" 
+case .ph_text_bolder : return "\u{f5dc}" 
+case .ph_text_bolder_bold : return "\u{f9f3}" 
+case .ph_text_bolder_fill : return "\u{fe0a}" 
+case .ph_text_bolder_light : return "\u{f1c5}" 
+case .ph_text_bolder_thin : return "\u{edae}" 
+case .ph_text_h : return "\u{f5dd}" 
+case .ph_text_h_bold : return "\u{f9f4}" 
+case .ph_text_h_fill : return "\u{fe0b}" 
+case .ph_text_h_five : return "\u{f5de}" 
+case .ph_text_h_five_bold : return "\u{f9f5}" 
+case .ph_text_h_five_fill : return "\u{fe0c}" 
+case .ph_text_h_five_light : return "\u{f1c6}" 
+case .ph_text_h_five_thin : return "\u{edaf}" 
+case .ph_text_h_four : return "\u{f5df}" 
+case .ph_text_h_four_bold : return "\u{f9f6}" 
+case .ph_text_h_four_fill : return "\u{fe0d}" 
+case .ph_text_h_four_light : return "\u{f1c7}" 
+case .ph_text_h_four_thin : return "\u{edb0}" 
+case .ph_text_h_light : return "\u{f1c8}" 
+case .ph_text_h_one : return "\u{f5e0}" 
+case .ph_text_h_one_bold : return "\u{f9f7}" 
+case .ph_text_h_one_fill : return "\u{fe0e}" 
+case .ph_text_h_one_light : return "\u{f1c9}" 
+case .ph_text_h_one_thin : return "\u{edb1}" 
+case .ph_text_h_six : return "\u{f5e1}" 
+case .ph_text_h_six_bold : return "\u{f9f8}" 
+case .ph_text_h_six_fill : return "\u{fe0f}" 
+case .ph_text_h_six_light : return "\u{f1ca}" 
+case .ph_text_h_six_thin : return "\u{edb2}" 
+case .ph_text_h_thin : return "\u{edb3}" 
+case .ph_text_h_three : return "\u{f5e2}" 
+case .ph_text_h_three_bold : return "\u{f9f9}" 
+case .ph_text_h_three_fill : return "\u{fe10}" 
+case .ph_text_h_three_light : return "\u{f1cb}" 
+case .ph_text_h_three_thin : return "\u{edb4}" 
+case .ph_text_h_two : return "\u{f5e3}" 
+case .ph_text_h_two_bold : return "\u{f9fa}" 
+case .ph_text_h_two_fill : return "\u{fe11}" 
+case .ph_text_h_two_light : return "\u{f1cc}" 
+case .ph_text_h_two_thin : return "\u{edb5}" 
+case .ph_text_indent : return "\u{f5e4}" 
+case .ph_text_indent_bold : return "\u{f9fb}" 
+case .ph_text_indent_fill : return "\u{fe12}" 
+case .ph_text_indent_light : return "\u{f1cd}" 
+case .ph_text_indent_thin : return "\u{edb6}" 
+case .ph_text_italic : return "\u{f5e5}" 
+case .ph_text_italic_bold : return "\u{f9fc}" 
+case .ph_text_italic_fill : return "\u{fe13}" 
+case .ph_text_italic_light : return "\u{f1ce}" 
+case .ph_text_italic_thin : return "\u{edb7}" 
+case .ph_text_outdent : return "\u{f5e6}" 
+case .ph_text_outdent_bold : return "\u{f9fd}" 
+case .ph_text_outdent_fill : return "\u{fe14}" 
+case .ph_text_outdent_light : return "\u{f1cf}" 
+case .ph_text_outdent_thin : return "\u{edb8}" 
+case .ph_text_strikethrough : return "\u{f5e7}" 
+case .ph_text_strikethrough_bold : return "\u{f9fe}" 
+case .ph_text_strikethrough_fill : return "\u{fe15}" 
+case .ph_text_strikethrough_light : return "\u{f1d0}" 
+case .ph_text_strikethrough_thin : return "\u{edb9}" 
+case .ph_text_t : return "\u{f5e8}" 
+case .ph_text_t_bold : return "\u{f9ff}" 
+case .ph_text_t_fill : return "\u{fe16}" 
+case .ph_text_t_light : return "\u{f1d1}" 
+case .ph_text_t_thin : return "\u{edba}" 
+case .ph_text_underline : return "\u{f5e9}" 
+case .ph_text_underline_bold : return "\u{fa00}" 
+case .ph_text_underline_fill : return "\u{fe17}" 
+case .ph_text_underline_light : return "\u{f1d2}" 
+case .ph_text_underline_thin : return "\u{edbb}" 
+case .ph_textbox : return "\u{f5ea}" 
+case .ph_textbox_bold : return "\u{fa01}" 
+case .ph_textbox_fill : return "\u{fe18}" 
+case .ph_textbox_light : return "\u{f1d3}" 
+case .ph_textbox_thin : return "\u{edbc}" 
+case .ph_thermometer : return "\u{f5eb}" 
+case .ph_thermometer_bold : return "\u{fa02}" 
+case .ph_thermometer_cold : return "\u{f5ec}" 
+case .ph_thermometer_cold_bold : return "\u{fa03}" 
+case .ph_thermometer_cold_fill : return "\u{fe19}" 
+case .ph_thermometer_cold_light : return "\u{f1d4}" 
+case .ph_thermometer_cold_thin : return "\u{edbd}" 
+case .ph_thermometer_fill : return "\u{fe1a}" 
+case .ph_thermometer_hot : return "\u{f5ed}" 
+case .ph_thermometer_hot_bold : return "\u{fa04}" 
+case .ph_thermometer_hot_fill : return "\u{fe1b}" 
+case .ph_thermometer_hot_light : return "\u{f1d5}" 
+case .ph_thermometer_hot_thin : return "\u{edbe}" 
+case .ph_thermometer_light : return "\u{f1d6}" 
+case .ph_thermometer_simple : return "\u{f5ee}" 
+case .ph_thermometer_simple_bold : return "\u{fa05}" 
+case .ph_thermometer_simple_fill : return "\u{fe1c}" 
+case .ph_thermometer_simple_light : return "\u{f1d7}" 
+case .ph_thermometer_simple_thin : return "\u{edbf}" 
+case .ph_thermometer_thin : return "\u{edc0}" 
+case .ph_thumbs_down : return "\u{f5ef}" 
+case .ph_thumbs_down_bold : return "\u{fa06}" 
+case .ph_thumbs_down_fill : return "\u{fe1d}" 
+case .ph_thumbs_down_light : return "\u{f1d8}" 
+case .ph_thumbs_down_thin : return "\u{edc1}" 
+case .ph_thumbs_up : return "\u{f5f0}" 
+case .ph_thumbs_up_bold : return "\u{fa07}" 
+case .ph_thumbs_up_fill : return "\u{fe1e}" 
+case .ph_thumbs_up_light : return "\u{f1d9}" 
+case .ph_thumbs_up_thin : return "\u{edc2}" 
+case .ph_ticket : return "\u{f5f1}" 
+case .ph_ticket_bold : return "\u{fa08}" 
+case .ph_ticket_fill : return "\u{fe1f}" 
+case .ph_ticket_light : return "\u{f1da}" 
+case .ph_ticket_thin : return "\u{edc3}" 
+case .ph_tiktok_logo : return "\u{f5f2}" 
+case .ph_tiktok_logo_bold : return "\u{fa09}" 
+case .ph_tiktok_logo_fill : return "\u{fe20}" 
+case .ph_tiktok_logo_light : return "\u{f1db}" 
+case .ph_tiktok_logo_thin : return "\u{edc4}" 
+case .ph_timer : return "\u{f5f3}" 
+case .ph_timer_bold : return "\u{fa0a}" 
+case .ph_timer_fill : return "\u{fe21}" 
+case .ph_timer_light : return "\u{f1dc}" 
+case .ph_timer_thin : return "\u{edc5}" 
+case .ph_toggle_left : return "\u{f5f4}" 
+case .ph_toggle_left_bold : return "\u{fa0b}" 
+case .ph_toggle_left_fill : return "\u{fe22}" 
+case .ph_toggle_left_light : return "\u{f1dd}" 
+case .ph_toggle_left_thin : return "\u{edc6}" 
+case .ph_toggle_right : return "\u{f5f5}" 
+case .ph_toggle_right_bold : return "\u{fa0c}" 
+case .ph_toggle_right_fill : return "\u{fe23}" 
+case .ph_toggle_right_light : return "\u{f1de}" 
+case .ph_toggle_right_thin : return "\u{edc7}" 
+case .ph_toilet : return "\u{f5f6}" 
+case .ph_toilet_bold : return "\u{fa0d}" 
+case .ph_toilet_fill : return "\u{fe24}" 
+case .ph_toilet_light : return "\u{f1df}" 
+case .ph_toilet_paper : return "\u{f5f7}" 
+case .ph_toilet_paper_bold : return "\u{fa0e}" 
+case .ph_toilet_paper_fill : return "\u{fe25}" 
+case .ph_toilet_paper_light : return "\u{f1e0}" 
+case .ph_toilet_paper_thin : return "\u{edc8}" 
+case .ph_toilet_thin : return "\u{edc9}" 
+case .ph_tote : return "\u{f5f8}" 
+case .ph_tote_bold : return "\u{fa0f}" 
+case .ph_tote_fill : return "\u{fe26}" 
+case .ph_tote_light : return "\u{f1e1}" 
+case .ph_tote_simple : return "\u{f5f9}" 
+case .ph_tote_simple_bold : return "\u{fa10}" 
+case .ph_tote_simple_fill : return "\u{fe27}" 
+case .ph_tote_simple_light : return "\u{f1e2}" 
+case .ph_tote_simple_thin : return "\u{edca}" 
+case .ph_tote_thin : return "\u{edcb}" 
+case .ph_trademark_registered : return "\u{f5fa}" 
+case .ph_trademark_registered_bold : return "\u{fa11}" 
+case .ph_trademark_registered_fill : return "\u{fe28}" 
+case .ph_trademark_registered_light : return "\u{f1e3}" 
+case .ph_trademark_registered_thin : return "\u{edcc}" 
+case .ph_traffic_cone : return "\u{f5fb}" 
+case .ph_traffic_cone_bold : return "\u{fa12}" 
+case .ph_traffic_cone_fill : return "\u{fe29}" 
+case .ph_traffic_cone_light : return "\u{f1e4}" 
+case .ph_traffic_cone_thin : return "\u{edcd}" 
+case .ph_traffic_sign : return "\u{f5fc}" 
+case .ph_traffic_sign_bold : return "\u{fa13}" 
+case .ph_traffic_sign_fill : return "\u{fe2a}" 
+case .ph_traffic_sign_light : return "\u{f1e5}" 
+case .ph_traffic_sign_thin : return "\u{edce}" 
+case .ph_traffic_signal : return "\u{f5fd}" 
+case .ph_traffic_signal_bold : return "\u{fa14}" 
+case .ph_traffic_signal_fill : return "\u{fe2b}" 
+case .ph_traffic_signal_light : return "\u{f1e6}" 
+case .ph_traffic_signal_thin : return "\u{edcf}" 
+case .ph_train : return "\u{f5fe}" 
+case .ph_train_bold : return "\u{fa15}" 
+case .ph_train_fill : return "\u{fe2c}" 
+case .ph_train_light : return "\u{f1e7}" 
+case .ph_train_regional : return "\u{f5ff}" 
+case .ph_train_regional_bold : return "\u{fa16}" 
+case .ph_train_regional_fill : return "\u{fe2d}" 
+case .ph_train_regional_light : return "\u{f1e8}" 
+case .ph_train_regional_thin : return "\u{edd0}" 
+case .ph_train_simple : return "\u{f600}" 
+case .ph_train_simple_bold : return "\u{fa17}" 
+case .ph_train_simple_fill : return "\u{fe2e}" 
+case .ph_train_simple_light : return "\u{f1e9}" 
+case .ph_train_simple_thin : return "\u{edd1}" 
+case .ph_train_thin : return "\u{edd2}" 
+case .ph_translate : return "\u{f601}" 
+case .ph_translate_bold : return "\u{fa18}" 
+case .ph_translate_fill : return "\u{fe2f}" 
+case .ph_translate_light : return "\u{f1ea}" 
+case .ph_translate_thin : return "\u{edd3}" 
+case .ph_trash : return "\u{f602}" 
+case .ph_trash_bold : return "\u{fa19}" 
+case .ph_trash_fill : return "\u{fe30}" 
+case .ph_trash_light : return "\u{f1eb}" 
+case .ph_trash_simple : return "\u{f603}" 
+case .ph_trash_simple_bold : return "\u{fa1a}" 
+case .ph_trash_simple_fill : return "\u{fe31}" 
+case .ph_trash_simple_light : return "\u{f1ec}" 
+case .ph_trash_simple_thin : return "\u{edd4}" 
+case .ph_trash_thin : return "\u{edd5}" 
+case .ph_tray : return "\u{f604}" 
+case .ph_tray_bold : return "\u{fa1b}" 
+case .ph_tray_fill : return "\u{fe32}" 
+case .ph_tray_light : return "\u{f1ed}" 
+case .ph_tray_thin : return "\u{edd6}" 
+case .ph_tree : return "\u{f605}" 
+case .ph_tree_bold : return "\u{fa1c}" 
+case .ph_tree_evergreen : return "\u{f606}" 
+case .ph_tree_evergreen_bold : return "\u{fa1d}" 
+case .ph_tree_evergreen_fill : return "\u{fe33}" 
+case .ph_tree_evergreen_light : return "\u{f1ee}" 
+case .ph_tree_evergreen_thin : return "\u{edd7}" 
+case .ph_tree_fill : return "\u{fe34}" 
+case .ph_tree_light : return "\u{f1ef}" 
+case .ph_tree_structure : return "\u{f607}" 
+case .ph_tree_structure_bold : return "\u{fa1e}" 
+case .ph_tree_structure_fill : return "\u{fe35}" 
+case .ph_tree_structure_light : return "\u{f1f0}" 
+case .ph_tree_structure_thin : return "\u{edd8}" 
+case .ph_tree_thin : return "\u{edd9}" 
+case .ph_trend_down : return "\u{f608}" 
+case .ph_trend_down_bold : return "\u{fa1f}" 
+case .ph_trend_down_fill : return "\u{fe36}" 
+case .ph_trend_down_light : return "\u{f1f1}" 
+case .ph_trend_down_thin : return "\u{edda}" 
+case .ph_trend_up : return "\u{f609}" 
+case .ph_trend_up_bold : return "\u{fa20}" 
+case .ph_trend_up_fill : return "\u{fe37}" 
+case .ph_trend_up_light : return "\u{f1f2}" 
+case .ph_trend_up_thin : return "\u{eddb}" 
+case .ph_triangle : return "\u{f60a}" 
+case .ph_triangle_bold : return "\u{fa21}" 
+case .ph_triangle_fill : return "\u{fe38}" 
+case .ph_triangle_light : return "\u{f1f3}" 
+case .ph_triangle_thin : return "\u{eddc}" 
+case .ph_trophy : return "\u{f60b}" 
+case .ph_trophy_bold : return "\u{fa22}" 
+case .ph_trophy_fill : return "\u{fe39}" 
+case .ph_trophy_light : return "\u{f1f4}" 
+case .ph_trophy_thin : return "\u{eddd}" 
+case .ph_truck : return "\u{f60c}" 
+case .ph_truck_bold : return "\u{fa23}" 
+case .ph_truck_fill : return "\u{fe3a}" 
+case .ph_truck_light : return "\u{f1f5}" 
+case .ph_truck_thin : return "\u{edde}" 
+case .ph_twitch_logo : return "\u{f60d}" 
+case .ph_twitch_logo_bold : return "\u{fa24}" 
+case .ph_twitch_logo_fill : return "\u{fe3b}" 
+case .ph_twitch_logo_light : return "\u{f1f6}" 
+case .ph_twitch_logo_thin : return "\u{eddf}" 
+case .ph_twitter_logo : return "\u{f60e}" 
+case .ph_twitter_logo_bold : return "\u{fa25}" 
+case .ph_twitter_logo_fill : return "\u{fe3c}" 
+case .ph_twitter_logo_light : return "\u{f1f7}" 
+case .ph_twitter_logo_thin : return "\u{ede0}" 
+case .ph_umbrella : return "\u{f60f}" 
+case .ph_umbrella_bold : return "\u{fa26}" 
+case .ph_umbrella_fill : return "\u{fe3d}" 
+case .ph_umbrella_light : return "\u{f1f8}" 
+case .ph_umbrella_simple : return "\u{f610}" 
+case .ph_umbrella_simple_bold : return "\u{fa27}" 
+case .ph_umbrella_simple_fill : return "\u{fe3e}" 
+case .ph_umbrella_simple_light : return "\u{f1f9}" 
+case .ph_umbrella_simple_thin : return "\u{ede1}" 
+case .ph_umbrella_thin : return "\u{ede2}" 
+case .ph_upload : return "\u{f611}" 
+case .ph_upload_bold : return "\u{fa28}" 
+case .ph_upload_fill : return "\u{fe3f}" 
+case .ph_upload_light : return "\u{f1fa}" 
+case .ph_upload_simple : return "\u{f612}" 
+case .ph_upload_simple_bold : return "\u{fa29}" 
+case .ph_upload_simple_fill : return "\u{fe40}" 
+case .ph_upload_simple_light : return "\u{f1fb}" 
+case .ph_upload_simple_thin : return "\u{ede3}" 
+case .ph_upload_thin : return "\u{ede4}" 
+case .ph_user : return "\u{f613}" 
+case .ph_user_bold : return "\u{fa2a}" 
+case .ph_user_circle : return "\u{f614}" 
+case .ph_user_circle_bold : return "\u{fa2b}" 
+case .ph_user_circle_fill : return "\u{fe41}" 
+case .ph_user_circle_gear : return "\u{f615}" 
+case .ph_user_circle_gear_bold : return "\u{fa2c}" 
+case .ph_user_circle_gear_fill : return "\u{fe42}" 
+case .ph_user_circle_gear_light : return "\u{f1fc}" 
+case .ph_user_circle_gear_thin : return "\u{ede5}" 
+case .ph_user_circle_light : return "\u{f1fd}" 
+case .ph_user_circle_minus : return "\u{f616}" 
+case .ph_user_circle_minus_bold : return "\u{fa2d}" 
+case .ph_user_circle_minus_fill : return "\u{fe43}" 
+case .ph_user_circle_minus_light : return "\u{f1fe}" 
+case .ph_user_circle_minus_thin : return "\u{ede6}" 
+case .ph_user_circle_plus : return "\u{f617}" 
+case .ph_user_circle_plus_bold : return "\u{fa2e}" 
+case .ph_user_circle_plus_fill : return "\u{fe44}" 
+case .ph_user_circle_plus_light : return "\u{f1ff}" 
+case .ph_user_circle_plus_thin : return "\u{ede7}" 
+case .ph_user_circle_thin : return "\u{ede8}" 
+case .ph_user_fill : return "\u{fe45}" 
+case .ph_user_focus : return "\u{f618}" 
+case .ph_user_focus_bold : return "\u{fa2f}" 
+case .ph_user_focus_fill : return "\u{fe46}" 
+case .ph_user_focus_light : return "\u{f200}" 
+case .ph_user_focus_thin : return "\u{ede9}" 
+case .ph_user_gear : return "\u{f619}" 
+case .ph_user_gear_bold : return "\u{fa30}" 
+case .ph_user_gear_fill : return "\u{fe47}" 
+case .ph_user_gear_light : return "\u{f201}" 
+case .ph_user_gear_thin : return "\u{edea}" 
+case .ph_user_light : return "\u{f202}" 
+case .ph_user_list : return "\u{f61a}" 
+case .ph_user_list_bold : return "\u{fa31}" 
+case .ph_user_list_fill : return "\u{fe48}" 
+case .ph_user_list_light : return "\u{f203}" 
+case .ph_user_list_thin : return "\u{edeb}" 
+case .ph_user_minus : return "\u{f61b}" 
+case .ph_user_minus_bold : return "\u{fa32}" 
+case .ph_user_minus_fill : return "\u{fe49}" 
+case .ph_user_minus_light : return "\u{f204}" 
+case .ph_user_minus_thin : return "\u{edec}" 
+case .ph_user_plus : return "\u{f61c}" 
+case .ph_user_plus_bold : return "\u{fa33}" 
+case .ph_user_plus_fill : return "\u{fe4a}" 
+case .ph_user_plus_light : return "\u{f205}" 
+case .ph_user_plus_thin : return "\u{eded}" 
+case .ph_user_rectangle : return "\u{f61d}" 
+case .ph_user_rectangle_bold : return "\u{fa34}" 
+case .ph_user_rectangle_fill : return "\u{fe4b}" 
+case .ph_user_rectangle_light : return "\u{f206}" 
+case .ph_user_rectangle_thin : return "\u{edee}" 
+case .ph_user_square : return "\u{f61e}" 
+case .ph_user_square_bold : return "\u{fa35}" 
+case .ph_user_square_fill : return "\u{fe4c}" 
+case .ph_user_square_light : return "\u{f207}" 
+case .ph_user_square_thin : return "\u{edef}" 
+case .ph_user_switch : return "\u{f61f}" 
+case .ph_user_switch_bold : return "\u{fa36}" 
+case .ph_user_switch_fill : return "\u{fe4d}" 
+case .ph_user_switch_light : return "\u{f208}" 
+case .ph_user_switch_thin : return "\u{edf0}" 
+case .ph_user_thin : return "\u{edf1}" 
+case .ph_users : return "\u{f620}" 
+case .ph_users_bold : return "\u{fa37}" 
+case .ph_users_fill : return "\u{fe4e}" 
+case .ph_users_four : return "\u{f621}" 
+case .ph_users_four_bold : return "\u{fa38}" 
+case .ph_users_four_fill : return "\u{fe4f}" 
+case .ph_users_four_light : return "\u{f209}" 
+case .ph_users_four_thin : return "\u{edf2}" 
+case .ph_users_light : return "\u{f20a}" 
+case .ph_users_thin : return "\u{edf3}" 
+case .ph_users_three : return "\u{f622}" 
+case .ph_users_three_bold : return "\u{fa39}" 
+case .ph_users_three_fill : return "\u{fe50}" 
+case .ph_users_three_light : return "\u{f20b}" 
+case .ph_users_three_thin : return "\u{edf4}" 
+case .ph_vault : return "\u{f623}" 
+case .ph_vault_bold : return "\u{fa3a}" 
+case .ph_vault_fill : return "\u{fe51}" 
+case .ph_vault_light : return "\u{f20c}" 
+case .ph_vault_thin : return "\u{edf5}" 
+case .ph_vibrate : return "\u{f624}" 
+case .ph_vibrate_bold : return "\u{fa3b}" 
+case .ph_vibrate_fill : return "\u{fe52}" 
+case .ph_vibrate_light : return "\u{f20d}" 
+case .ph_vibrate_thin : return "\u{edf6}" 
+case .ph_video_camera : return "\u{f625}" 
+case .ph_video_camera_bold : return "\u{fa3c}" 
+case .ph_video_camera_fill : return "\u{fe53}" 
+case .ph_video_camera_light : return "\u{f20e}" 
+case .ph_video_camera_slash : return "\u{f626}" 
+case .ph_video_camera_slash_bold : return "\u{fa3d}" 
+case .ph_video_camera_slash_fill : return "\u{fe54}" 
+case .ph_video_camera_slash_light : return "\u{f20f}" 
+case .ph_video_camera_slash_thin : return "\u{edf7}" 
+case .ph_video_camera_thin : return "\u{edf8}" 
+case .ph_vignette : return "\u{f627}" 
+case .ph_vignette_bold : return "\u{fa3e}" 
+case .ph_vignette_fill : return "\u{fe55}" 
+case .ph_vignette_light : return "\u{f210}" 
+case .ph_vignette_thin : return "\u{edf9}" 
+case .ph_voicemail : return "\u{f628}" 
+case .ph_voicemail_bold : return "\u{fa3f}" 
+case .ph_voicemail_fill : return "\u{fe56}" 
+case .ph_voicemail_light : return "\u{f211}" 
+case .ph_voicemail_thin : return "\u{edfa}" 
+case .ph_volleyball : return "\u{f629}" 
+case .ph_volleyball_bold : return "\u{fa40}" 
+case .ph_volleyball_fill : return "\u{fe57}" 
+case .ph_volleyball_light : return "\u{f212}" 
+case .ph_volleyball_thin : return "\u{edfb}" 
+case .ph_wall : return "\u{f62a}" 
+case .ph_wall_bold : return "\u{fa41}" 
+case .ph_wall_fill : return "\u{fe58}" 
+case .ph_wall_light : return "\u{f213}" 
+case .ph_wall_thin : return "\u{edfc}" 
+case .ph_wallet : return "\u{f62b}" 
+case .ph_wallet_bold : return "\u{fa42}" 
+case .ph_wallet_fill : return "\u{fe59}" 
+case .ph_wallet_light : return "\u{f214}" 
+case .ph_wallet_thin : return "\u{edfd}" 
+case .ph_warning : return "\u{f62c}" 
+case .ph_warning_bold : return "\u{fa43}" 
+case .ph_warning_circle : return "\u{f62d}" 
+case .ph_warning_circle_bold : return "\u{fa44}" 
+case .ph_warning_circle_fill : return "\u{fe5a}" 
+case .ph_warning_circle_light : return "\u{f215}" 
+case .ph_warning_circle_thin : return "\u{edfe}" 
+case .ph_warning_fill : return "\u{fe5b}" 
+case .ph_warning_light : return "\u{f216}" 
+case .ph_warning_octagon : return "\u{f62e}" 
+case .ph_warning_octagon_bold : return "\u{fa45}" 
+case .ph_warning_octagon_fill : return "\u{fe5c}" 
+case .ph_warning_octagon_light : return "\u{f217}" 
+case .ph_warning_octagon_thin : return "\u{edff}" 
+case .ph_warning_thin : return "\u{ee00}" 
+case .ph_watch : return "\u{f62f}" 
+case .ph_watch_bold : return "\u{fa46}" 
+case .ph_watch_fill : return "\u{fe5d}" 
+case .ph_watch_light : return "\u{f218}" 
+case .ph_watch_thin : return "\u{ee01}" 
+case .ph_wave_sawtooth : return "\u{f630}" 
+case .ph_wave_sawtooth_bold : return "\u{fa47}" 
+case .ph_wave_sawtooth_fill : return "\u{fe5e}" 
+case .ph_wave_sawtooth_light : return "\u{f219}" 
+case .ph_wave_sawtooth_thin : return "\u{ee02}" 
+case .ph_wave_sine : return "\u{f631}" 
+case .ph_wave_sine_bold : return "\u{fa48}" 
+case .ph_wave_sine_fill : return "\u{fe5f}" 
+case .ph_wave_sine_light : return "\u{f21a}" 
+case .ph_wave_sine_thin : return "\u{ee03}" 
+case .ph_wave_square : return "\u{f632}" 
+case .ph_wave_square_bold : return "\u{fa49}" 
+case .ph_wave_square_fill : return "\u{fe60}" 
+case .ph_wave_square_light : return "\u{f21b}" 
+case .ph_wave_square_thin : return "\u{ee04}" 
+case .ph_wave_triangle : return "\u{f633}" 
+case .ph_wave_triangle_bold : return "\u{fa4a}" 
+case .ph_wave_triangle_fill : return "\u{fe61}" 
+case .ph_wave_triangle_light : return "\u{f21c}" 
+case .ph_wave_triangle_thin : return "\u{ee05}" 
+case .ph_waves : return "\u{f634}" 
+case .ph_waves_bold : return "\u{fa4b}" 
+case .ph_waves_fill : return "\u{fe62}" 
+case .ph_waves_light : return "\u{f21d}" 
+case .ph_waves_thin : return "\u{ee06}" 
+case .ph_webcam : return "\u{f635}" 
+case .ph_webcam_bold : return "\u{fa4c}" 
+case .ph_webcam_fill : return "\u{fe63}" 
+case .ph_webcam_light : return "\u{f21e}" 
+case .ph_webcam_thin : return "\u{ee07}" 
+case .ph_whatsapp_logo : return "\u{f636}" 
+case .ph_whatsapp_logo_bold : return "\u{fa4d}" 
+case .ph_whatsapp_logo_fill : return "\u{fe64}" 
+case .ph_whatsapp_logo_light : return "\u{f21f}" 
+case .ph_whatsapp_logo_thin : return "\u{ee08}" 
+case .ph_wheelchair : return "\u{f637}" 
+case .ph_wheelchair_bold : return "\u{fa4e}" 
+case .ph_wheelchair_fill : return "\u{fe65}" 
+case .ph_wheelchair_light : return "\u{f220}" 
+case .ph_wheelchair_thin : return "\u{ee09}" 
+case .ph_wifi_high : return "\u{f638}" 
+case .ph_wifi_high_bold : return "\u{fa4f}" 
+case .ph_wifi_high_fill : return "\u{fe66}" 
+case .ph_wifi_high_light : return "\u{f221}" 
+case .ph_wifi_high_thin : return "\u{ee0a}" 
+case .ph_wifi_low : return "\u{f639}" 
+case .ph_wifi_low_bold : return "\u{fa50}" 
+case .ph_wifi_low_fill : return "\u{fe67}" 
+case .ph_wifi_low_light : return "\u{f222}" 
+case .ph_wifi_low_thin : return "\u{ee0b}" 
+case .ph_wifi_medium : return "\u{f63a}" 
+case .ph_wifi_medium_bold : return "\u{fa51}" 
+case .ph_wifi_medium_fill : return "\u{fe68}" 
+case .ph_wifi_medium_light : return "\u{f223}" 
+case .ph_wifi_medium_thin : return "\u{ee0c}" 
+case .ph_wifi_none : return "\u{f63b}" 
+case .ph_wifi_none_bold : return "\u{fa52}" 
+case .ph_wifi_none_fill : return "\u{fe69}" 
+case .ph_wifi_none_light : return "\u{f224}" 
+case .ph_wifi_none_thin : return "\u{ee0d}" 
+case .ph_wifi_slash : return "\u{f63c}" 
+case .ph_wifi_slash_bold : return "\u{fa53}" 
+case .ph_wifi_slash_fill : return "\u{fe6a}" 
+case .ph_wifi_slash_light : return "\u{f225}" 
+case .ph_wifi_slash_thin : return "\u{ee0e}" 
+case .ph_wifi_x : return "\u{f63d}" 
+case .ph_wifi_x_bold : return "\u{fa54}" 
+case .ph_wifi_x_fill : return "\u{fe6b}" 
+case .ph_wifi_x_light : return "\u{f226}" 
+case .ph_wifi_x_thin : return "\u{ee0f}" 
+case .ph_wind : return "\u{f63e}" 
+case .ph_wind_bold : return "\u{fa55}" 
+case .ph_wind_fill : return "\u{fe6c}" 
+case .ph_wind_light : return "\u{f227}" 
+case .ph_wind_thin : return "\u{ee10}" 
+case .ph_windows_logo : return "\u{f63f}" 
+case .ph_windows_logo_bold : return "\u{fa56}" 
+case .ph_windows_logo_fill : return "\u{fe6d}" 
+case .ph_windows_logo_light : return "\u{f228}" 
+case .ph_windows_logo_thin : return "\u{ee11}" 
+case .ph_wine : return "\u{f640}" 
+case .ph_wine_bold : return "\u{fa57}" 
+case .ph_wine_fill : return "\u{fe6e}" 
+case .ph_wine_light : return "\u{f229}" 
+case .ph_wine_thin : return "\u{ee12}" 
+case .ph_wrench : return "\u{f641}" 
+case .ph_wrench_bold : return "\u{fa58}" 
+case .ph_wrench_fill : return "\u{fe6f}" 
+case .ph_wrench_light : return "\u{f22a}" 
+case .ph_wrench_thin : return "\u{ee13}" 
+case .ph_x : return "\u{f642}" 
+case .ph_x_bold : return "\u{fa59}" 
+case .ph_x_circle : return "\u{f643}" 
+case .ph_x_circle_bold : return "\u{fa5a}" 
+case .ph_x_circle_fill : return "\u{fe70}" 
+case .ph_x_circle_light : return "\u{f22b}" 
+case .ph_x_circle_thin : return "\u{ee14}" 
+case .ph_x_fill : return "\u{fe71}" 
+case .ph_x_light : return "\u{f22c}" 
+case .ph_x_square : return "\u{f644}" 
+case .ph_x_square_bold : return "\u{fa5b}" 
+case .ph_x_square_fill : return "\u{fe72}" 
+case .ph_x_square_light : return "\u{f22d}" 
+case .ph_x_square_thin : return "\u{ee15}" 
+case .ph_x_thin : return "\u{ee16}" 
+case .ph_yin_yang : return "\u{f645}" 
+case .ph_yin_yang_bold : return "\u{fa5c}" 
+case .ph_yin_yang_fill : return "\u{fe73}" 
+case .ph_yin_yang_light : return "\u{f22e}" 
+case .ph_yin_yang_thin : return "\u{ee17}" 
+case .ph_youtube_logo : return "\u{f646}" 
+case .ph_youtube_logo_bold : return "\u{fa5d}" 
+case .ph_youtube_logo_fill : return "\u{fe74}" 
+case .ph_youtube_logo_light : return "\u{f22f}" 
+case .ph_youtube_logo_thin  : return "\u{ee18}" 
+
+
+
 
 
             default: return ""
@@ -11539,6 +22017,5245 @@ case .gm_zoom_in : return [.google]
 case .gm_zoom_in_map : return [.google]
 case .gm_zoom_out : return [.google]
 case .gm_zoom_out_map : return [.google]
+
+//phospher
+
+case .ph_activity : return [.phosphor]
+case .ph_activity_bold : return [.phosphor]
+case .ph_activity_fill : return [.phosphor]
+case .ph_activity_light : return [.phosphor]
+case .ph_activity_thin : return [.phosphor]
+case .ph_address_book : return [.phosphor]
+case .ph_address_book_bold : return [.phosphor]
+case .ph_address_book_fill : return [.phosphor]
+case .ph_address_book_light : return [.phosphor]
+case .ph_address_book_thin : return [.phosphor]
+case .ph_airplane : return [.phosphor]
+case .ph_airplane_bold : return [.phosphor]
+case .ph_airplane_fill : return [.phosphor]
+case .ph_airplane_in_flight : return [.phosphor]
+case .ph_airplane_in_flight_bold : return [.phosphor]
+case .ph_airplane_in_flight_fill : return [.phosphor]
+case .ph_airplane_in_flight_light : return [.phosphor]
+case .ph_airplane_in_flight_thin : return [.phosphor]
+case .ph_airplane_landing : return [.phosphor]
+case .ph_airplane_landing_bold : return [.phosphor]
+case .ph_airplane_landing_fill : return [.phosphor]
+case .ph_airplane_landing_light : return [.phosphor]
+case .ph_airplane_landing_thin : return [.phosphor]
+case .ph_airplane_light : return [.phosphor]
+case .ph_airplane_takeoff : return [.phosphor]
+case .ph_airplane_takeoff_bold : return [.phosphor]
+case .ph_airplane_takeoff_fill : return [.phosphor]
+case .ph_airplane_takeoff_light : return [.phosphor]
+case .ph_airplane_takeoff_thin : return [.phosphor]
+case .ph_airplane_thin : return [.phosphor]
+case .ph_airplane_tilt : return [.phosphor]
+case .ph_airplane_tilt_bold : return [.phosphor]
+case .ph_airplane_tilt_fill : return [.phosphor]
+case .ph_airplane_tilt_light : return [.phosphor]
+case .ph_airplane_tilt_thin : return [.phosphor]
+case .ph_airplay : return [.phosphor]
+case .ph_airplay_bold : return [.phosphor]
+case .ph_airplay_fill : return [.phosphor]
+case .ph_airplay_light : return [.phosphor]
+case .ph_airplay_thin : return [.phosphor]
+case .ph_alarm : return [.phosphor]
+case .ph_alarm_bold : return [.phosphor]
+case .ph_alarm_fill : return [.phosphor]
+case .ph_alarm_light : return [.phosphor]
+case .ph_alarm_thin : return [.phosphor]
+case .ph_alien : return [.phosphor]
+case .ph_alien_bold : return [.phosphor]
+case .ph_alien_fill : return [.phosphor]
+case .ph_alien_light : return [.phosphor]
+case .ph_alien_thin : return [.phosphor]
+case .ph_align_bottom : return [.phosphor]
+case .ph_align_bottom_bold : return [.phosphor]
+case .ph_align_bottom_fill : return [.phosphor]
+case .ph_align_bottom_light : return [.phosphor]
+case .ph_align_bottom_simple : return [.phosphor]
+case .ph_align_bottom_simple_bold : return [.phosphor]
+case .ph_align_bottom_simple_fill : return [.phosphor]
+case .ph_align_bottom_simple_light : return [.phosphor]
+case .ph_align_bottom_simple_thin : return [.phosphor]
+case .ph_align_bottom_thin : return [.phosphor]
+case .ph_align_center_horizontal : return [.phosphor]
+case .ph_align_center_horizontal_bold : return [.phosphor]
+case .ph_align_center_horizontal_fill : return [.phosphor]
+case .ph_align_center_horizontal_light : return [.phosphor]
+case .ph_align_center_horizontal_simple : return [.phosphor]
+case .ph_align_center_horizontal_simple_bold : return [.phosphor]
+case .ph_align_center_horizontal_simple_fill : return [.phosphor]
+case .ph_align_center_horizontal_simple_light : return [.phosphor]
+case .ph_align_center_horizontal_simple_thin : return [.phosphor]
+case .ph_align_center_horizontal_thin : return [.phosphor]
+case .ph_align_center_vertical : return [.phosphor]
+case .ph_align_center_vertical_bold : return [.phosphor]
+case .ph_align_center_vertical_fill : return [.phosphor]
+case .ph_align_center_vertical_light : return [.phosphor]
+case .ph_align_center_vertical_simple : return [.phosphor]
+case .ph_align_center_vertical_simple_bold : return [.phosphor]
+case .ph_align_center_vertical_simple_fill : return [.phosphor]
+case .ph_align_center_vertical_simple_light : return [.phosphor]
+case .ph_align_center_vertical_simple_thin : return [.phosphor]
+case .ph_align_center_vertical_thin : return [.phosphor]
+case .ph_align_left : return [.phosphor]
+case .ph_align_left_bold : return [.phosphor]
+case .ph_align_left_fill : return [.phosphor]
+case .ph_align_left_light : return [.phosphor]
+case .ph_align_left_simple : return [.phosphor]
+case .ph_align_left_simple_bold : return [.phosphor]
+case .ph_align_left_simple_fill : return [.phosphor]
+case .ph_align_left_simple_light : return [.phosphor]
+case .ph_align_left_simple_thin : return [.phosphor]
+case .ph_align_left_thin : return [.phosphor]
+case .ph_align_right : return [.phosphor]
+case .ph_align_right_bold : return [.phosphor]
+case .ph_align_right_fill : return [.phosphor]
+case .ph_align_right_light : return [.phosphor]
+case .ph_align_right_simple : return [.phosphor]
+case .ph_align_right_simple_bold : return [.phosphor]
+case .ph_align_right_simple_fill : return [.phosphor]
+case .ph_align_right_simple_light : return [.phosphor]
+case .ph_align_right_simple_thin : return [.phosphor]
+case .ph_align_right_thin : return [.phosphor]
+case .ph_align_top : return [.phosphor]
+case .ph_align_top_bold : return [.phosphor]
+case .ph_align_top_fill : return [.phosphor]
+case .ph_align_top_light : return [.phosphor]
+case .ph_align_top_simple : return [.phosphor]
+case .ph_align_top_simple_bold : return [.phosphor]
+case .ph_align_top_simple_fill : return [.phosphor]
+case .ph_align_top_simple_light : return [.phosphor]
+case .ph_align_top_simple_thin : return [.phosphor]
+case .ph_align_top_thin : return [.phosphor]
+case .ph_anchor : return [.phosphor]
+case .ph_anchor_bold : return [.phosphor]
+case .ph_anchor_fill : return [.phosphor]
+case .ph_anchor_light : return [.phosphor]
+case .ph_anchor_simple : return [.phosphor]
+case .ph_anchor_simple_bold : return [.phosphor]
+case .ph_anchor_simple_fill : return [.phosphor]
+case .ph_anchor_simple_light : return [.phosphor]
+case .ph_anchor_simple_thin : return [.phosphor]
+case .ph_anchor_thin : return [.phosphor]
+case .ph_android_logo : return [.phosphor]
+case .ph_android_logo_bold : return [.phosphor]
+case .ph_android_logo_fill : return [.phosphor]
+case .ph_android_logo_light : return [.phosphor]
+case .ph_android_logo_thin : return [.phosphor]
+case .ph_angular_logo : return [.phosphor]
+case .ph_angular_logo_bold : return [.phosphor]
+case .ph_angular_logo_fill : return [.phosphor]
+case .ph_angular_logo_light : return [.phosphor]
+case .ph_angular_logo_thin : return [.phosphor]
+case .ph_aperture : return [.phosphor]
+case .ph_aperture_bold : return [.phosphor]
+case .ph_aperture_fill : return [.phosphor]
+case .ph_aperture_light : return [.phosphor]
+case .ph_aperture_thin : return [.phosphor]
+case .ph_app_store_logo : return [.phosphor]
+case .ph_app_store_logo_bold : return [.phosphor]
+case .ph_app_store_logo_fill : return [.phosphor]
+case .ph_app_store_logo_light : return [.phosphor]
+case .ph_app_store_logo_thin : return [.phosphor]
+case .ph_app_window : return [.phosphor]
+case .ph_app_window_bold : return [.phosphor]
+case .ph_app_window_fill : return [.phosphor]
+case .ph_app_window_light : return [.phosphor]
+case .ph_app_window_thin : return [.phosphor]
+case .ph_apple_logo : return [.phosphor]
+case .ph_apple_logo_bold : return [.phosphor]
+case .ph_apple_logo_fill : return [.phosphor]
+case .ph_apple_logo_light : return [.phosphor]
+case .ph_apple_logo_thin : return [.phosphor]
+case .ph_apple_podcasts_logo : return [.phosphor]
+case .ph_apple_podcasts_logo_bold : return [.phosphor]
+case .ph_apple_podcasts_logo_fill : return [.phosphor]
+case .ph_apple_podcasts_logo_light : return [.phosphor]
+case .ph_apple_podcasts_logo_thin : return [.phosphor]
+case .ph_archive : return [.phosphor]
+case .ph_archive_bold : return [.phosphor]
+case .ph_archive_box : return [.phosphor]
+case .ph_archive_box_bold : return [.phosphor]
+case .ph_archive_box_fill : return [.phosphor]
+case .ph_archive_box_light : return [.phosphor]
+case .ph_archive_box_thin : return [.phosphor]
+case .ph_archive_fill : return [.phosphor]
+case .ph_archive_light : return [.phosphor]
+case .ph_archive_thin : return [.phosphor]
+case .ph_archive_tray : return [.phosphor]
+case .ph_archive_tray_bold : return [.phosphor]
+case .ph_archive_tray_fill : return [.phosphor]
+case .ph_archive_tray_light : return [.phosphor]
+case .ph_archive_tray_thin : return [.phosphor]
+case .ph_armchair : return [.phosphor]
+case .ph_armchair_bold : return [.phosphor]
+case .ph_armchair_fill : return [.phosphor]
+case .ph_armchair_light : return [.phosphor]
+case .ph_armchair_thin : return [.phosphor]
+case .ph_arrow_arc_left : return [.phosphor]
+case .ph_arrow_arc_left_bold : return [.phosphor]
+case .ph_arrow_arc_left_fill : return [.phosphor]
+case .ph_arrow_arc_left_light : return [.phosphor]
+case .ph_arrow_arc_left_thin : return [.phosphor]
+case .ph_arrow_arc_right : return [.phosphor]
+case .ph_arrow_arc_right_bold : return [.phosphor]
+case .ph_arrow_arc_right_fill : return [.phosphor]
+case .ph_arrow_arc_right_light : return [.phosphor]
+case .ph_arrow_arc_right_thin : return [.phosphor]
+case .ph_arrow_bend_double_up_left : return [.phosphor]
+case .ph_arrow_bend_double_up_left_bold : return [.phosphor]
+case .ph_arrow_bend_double_up_left_fill : return [.phosphor]
+case .ph_arrow_bend_double_up_left_light : return [.phosphor]
+case .ph_arrow_bend_double_up_left_thin : return [.phosphor]
+case .ph_arrow_bend_double_up_right : return [.phosphor]
+case .ph_arrow_bend_double_up_right_bold : return [.phosphor]
+case .ph_arrow_bend_double_up_right_fill : return [.phosphor]
+case .ph_arrow_bend_double_up_right_light : return [.phosphor]
+case .ph_arrow_bend_double_up_right_thin : return [.phosphor]
+case .ph_arrow_bend_down_left : return [.phosphor]
+case .ph_arrow_bend_down_left_bold : return [.phosphor]
+case .ph_arrow_bend_down_left_fill : return [.phosphor]
+case .ph_arrow_bend_down_left_light : return [.phosphor]
+case .ph_arrow_bend_down_left_thin : return [.phosphor]
+case .ph_arrow_bend_down_right : return [.phosphor]
+case .ph_arrow_bend_down_right_bold : return [.phosphor]
+case .ph_arrow_bend_down_right_fill : return [.phosphor]
+case .ph_arrow_bend_down_right_light : return [.phosphor]
+case .ph_arrow_bend_down_right_thin : return [.phosphor]
+case .ph_arrow_bend_left_down : return [.phosphor]
+case .ph_arrow_bend_left_down_bold : return [.phosphor]
+case .ph_arrow_bend_left_down_fill : return [.phosphor]
+case .ph_arrow_bend_left_down_light : return [.phosphor]
+case .ph_arrow_bend_left_down_thin : return [.phosphor]
+case .ph_arrow_bend_left_up : return [.phosphor]
+case .ph_arrow_bend_left_up_bold : return [.phosphor]
+case .ph_arrow_bend_left_up_fill : return [.phosphor]
+case .ph_arrow_bend_left_up_light : return [.phosphor]
+case .ph_arrow_bend_left_up_thin : return [.phosphor]
+case .ph_arrow_bend_right_down : return [.phosphor]
+case .ph_arrow_bend_right_down_bold : return [.phosphor]
+case .ph_arrow_bend_right_down_fill : return [.phosphor]
+case .ph_arrow_bend_right_down_light : return [.phosphor]
+case .ph_arrow_bend_right_down_thin : return [.phosphor]
+case .ph_arrow_bend_right_up : return [.phosphor]
+case .ph_arrow_bend_right_up_bold : return [.phosphor]
+case .ph_arrow_bend_right_up_fill : return [.phosphor]
+case .ph_arrow_bend_right_up_light : return [.phosphor]
+case .ph_arrow_bend_right_up_thin : return [.phosphor]
+case .ph_arrow_bend_up_left : return [.phosphor]
+case .ph_arrow_bend_up_left_bold : return [.phosphor]
+case .ph_arrow_bend_up_left_fill : return [.phosphor]
+case .ph_arrow_bend_up_left_light : return [.phosphor]
+case .ph_arrow_bend_up_left_thin : return [.phosphor]
+case .ph_arrow_bend_up_right : return [.phosphor]
+case .ph_arrow_bend_up_right_bold : return [.phosphor]
+case .ph_arrow_bend_up_right_fill : return [.phosphor]
+case .ph_arrow_bend_up_right_light : return [.phosphor]
+case .ph_arrow_bend_up_right_thin : return [.phosphor]
+case .ph_arrow_circle_down : return [.phosphor]
+case .ph_arrow_circle_down_bold : return [.phosphor]
+case .ph_arrow_circle_down_fill : return [.phosphor]
+case .ph_arrow_circle_down_left : return [.phosphor]
+case .ph_arrow_circle_down_left_bold : return [.phosphor]
+case .ph_arrow_circle_down_left_fill : return [.phosphor]
+case .ph_arrow_circle_down_left_light : return [.phosphor]
+case .ph_arrow_circle_down_left_thin : return [.phosphor]
+case .ph_arrow_circle_down_light : return [.phosphor]
+case .ph_arrow_circle_down_right : return [.phosphor]
+case .ph_arrow_circle_down_right_bold : return [.phosphor]
+case .ph_arrow_circle_down_right_fill : return [.phosphor]
+case .ph_arrow_circle_down_right_light : return [.phosphor]
+case .ph_arrow_circle_down_right_thin : return [.phosphor]
+case .ph_arrow_circle_down_thin : return [.phosphor]
+case .ph_arrow_circle_left : return [.phosphor]
+case .ph_arrow_circle_left_bold : return [.phosphor]
+case .ph_arrow_circle_left_fill : return [.phosphor]
+case .ph_arrow_circle_left_light : return [.phosphor]
+case .ph_arrow_circle_left_thin : return [.phosphor]
+case .ph_arrow_circle_right : return [.phosphor]
+case .ph_arrow_circle_right_bold : return [.phosphor]
+case .ph_arrow_circle_right_fill : return [.phosphor]
+case .ph_arrow_circle_right_light : return [.phosphor]
+case .ph_arrow_circle_right_thin : return [.phosphor]
+case .ph_arrow_circle_up : return [.phosphor]
+case .ph_arrow_circle_up_bold : return [.phosphor]
+case .ph_arrow_circle_up_fill : return [.phosphor]
+case .ph_arrow_circle_up_left : return [.phosphor]
+case .ph_arrow_circle_up_left_bold : return [.phosphor]
+case .ph_arrow_circle_up_left_fill : return [.phosphor]
+case .ph_arrow_circle_up_left_light : return [.phosphor]
+case .ph_arrow_circle_up_left_thin : return [.phosphor]
+case .ph_arrow_circle_up_light : return [.phosphor]
+case .ph_arrow_circle_up_right : return [.phosphor]
+case .ph_arrow_circle_up_right_bold : return [.phosphor]
+case .ph_arrow_circle_up_right_fill : return [.phosphor]
+case .ph_arrow_circle_up_right_light : return [.phosphor]
+case .ph_arrow_circle_up_right_thin : return [.phosphor]
+case .ph_arrow_circle_up_thin : return [.phosphor]
+case .ph_arrow_clockwise : return [.phosphor]
+case .ph_arrow_clockwise_bold : return [.phosphor]
+case .ph_arrow_clockwise_fill : return [.phosphor]
+case .ph_arrow_clockwise_light : return [.phosphor]
+case .ph_arrow_clockwise_thin : return [.phosphor]
+case .ph_arrow_counter_clockwise : return [.phosphor]
+case .ph_arrow_counter_clockwise_bold : return [.phosphor]
+case .ph_arrow_counter_clockwise_fill : return [.phosphor]
+case .ph_arrow_counter_clockwise_light : return [.phosphor]
+case .ph_arrow_counter_clockwise_thin : return [.phosphor]
+case .ph_arrow_down : return [.phosphor]
+case .ph_arrow_down_bold : return [.phosphor]
+case .ph_arrow_down_fill : return [.phosphor]
+case .ph_arrow_down_left : return [.phosphor]
+case .ph_arrow_down_left_bold : return [.phosphor]
+case .ph_arrow_down_left_fill : return [.phosphor]
+case .ph_arrow_down_left_light : return [.phosphor]
+case .ph_arrow_down_left_thin : return [.phosphor]
+case .ph_arrow_down_light : return [.phosphor]
+case .ph_arrow_down_right : return [.phosphor]
+case .ph_arrow_down_right_bold : return [.phosphor]
+case .ph_arrow_down_right_fill : return [.phosphor]
+case .ph_arrow_down_right_light : return [.phosphor]
+case .ph_arrow_down_right_thin : return [.phosphor]
+case .ph_arrow_down_thin : return [.phosphor]
+case .ph_arrow_elbow_down_left : return [.phosphor]
+case .ph_arrow_elbow_down_left_bold : return [.phosphor]
+case .ph_arrow_elbow_down_left_fill : return [.phosphor]
+case .ph_arrow_elbow_down_left_light : return [.phosphor]
+case .ph_arrow_elbow_down_left_thin : return [.phosphor]
+case .ph_arrow_elbow_down_right : return [.phosphor]
+case .ph_arrow_elbow_down_right_bold : return [.phosphor]
+case .ph_arrow_elbow_down_right_fill : return [.phosphor]
+case .ph_arrow_elbow_down_right_light : return [.phosphor]
+case .ph_arrow_elbow_down_right_thin : return [.phosphor]
+case .ph_arrow_elbow_left : return [.phosphor]
+case .ph_arrow_elbow_left_bold : return [.phosphor]
+case .ph_arrow_elbow_left_down : return [.phosphor]
+case .ph_arrow_elbow_left_down_bold : return [.phosphor]
+case .ph_arrow_elbow_left_down_fill : return [.phosphor]
+case .ph_arrow_elbow_left_down_light : return [.phosphor]
+case .ph_arrow_elbow_left_down_thin : return [.phosphor]
+case .ph_arrow_elbow_left_fill : return [.phosphor]
+case .ph_arrow_elbow_left_light : return [.phosphor]
+case .ph_arrow_elbow_left_thin : return [.phosphor]
+case .ph_arrow_elbow_left_up : return [.phosphor]
+case .ph_arrow_elbow_left_up_bold : return [.phosphor]
+case .ph_arrow_elbow_left_up_fill : return [.phosphor]
+case .ph_arrow_elbow_left_up_light : return [.phosphor]
+case .ph_arrow_elbow_left_up_thin : return [.phosphor]
+case .ph_arrow_elbow_right : return [.phosphor]
+case .ph_arrow_elbow_right_bold : return [.phosphor]
+case .ph_arrow_elbow_right_down : return [.phosphor]
+case .ph_arrow_elbow_right_down_bold : return [.phosphor]
+case .ph_arrow_elbow_right_down_fill : return [.phosphor]
+case .ph_arrow_elbow_right_down_light : return [.phosphor]
+case .ph_arrow_elbow_right_down_thin : return [.phosphor]
+case .ph_arrow_elbow_right_fill : return [.phosphor]
+case .ph_arrow_elbow_right_light : return [.phosphor]
+case .ph_arrow_elbow_right_thin : return [.phosphor]
+case .ph_arrow_elbow_right_up : return [.phosphor]
+case .ph_arrow_elbow_right_up_bold : return [.phosphor]
+case .ph_arrow_elbow_right_up_fill : return [.phosphor]
+case .ph_arrow_elbow_right_up_light : return [.phosphor]
+case .ph_arrow_elbow_right_up_thin : return [.phosphor]
+case .ph_arrow_elbow_up_left : return [.phosphor]
+case .ph_arrow_elbow_up_left_bold : return [.phosphor]
+case .ph_arrow_elbow_up_left_fill : return [.phosphor]
+case .ph_arrow_elbow_up_left_light : return [.phosphor]
+case .ph_arrow_elbow_up_left_thin : return [.phosphor]
+case .ph_arrow_elbow_up_right : return [.phosphor]
+case .ph_arrow_elbow_up_right_bold : return [.phosphor]
+case .ph_arrow_elbow_up_right_fill : return [.phosphor]
+case .ph_arrow_elbow_up_right_light : return [.phosphor]
+case .ph_arrow_elbow_up_right_thin : return [.phosphor]
+case .ph_arrow_fat_down : return [.phosphor]
+case .ph_arrow_fat_down_bold : return [.phosphor]
+case .ph_arrow_fat_down_fill : return [.phosphor]
+case .ph_arrow_fat_down_light : return [.phosphor]
+case .ph_arrow_fat_down_thin : return [.phosphor]
+case .ph_arrow_fat_left : return [.phosphor]
+case .ph_arrow_fat_left_bold : return [.phosphor]
+case .ph_arrow_fat_left_fill : return [.phosphor]
+case .ph_arrow_fat_left_light : return [.phosphor]
+case .ph_arrow_fat_left_thin : return [.phosphor]
+case .ph_arrow_fat_line_down : return [.phosphor]
+case .ph_arrow_fat_line_down_bold : return [.phosphor]
+case .ph_arrow_fat_line_down_fill : return [.phosphor]
+case .ph_arrow_fat_line_down_light : return [.phosphor]
+case .ph_arrow_fat_line_down_thin : return [.phosphor]
+case .ph_arrow_fat_line_left : return [.phosphor]
+case .ph_arrow_fat_line_left_bold : return [.phosphor]
+case .ph_arrow_fat_line_left_fill : return [.phosphor]
+case .ph_arrow_fat_line_left_light : return [.phosphor]
+case .ph_arrow_fat_line_left_thin : return [.phosphor]
+case .ph_arrow_fat_line_right : return [.phosphor]
+case .ph_arrow_fat_line_right_bold : return [.phosphor]
+case .ph_arrow_fat_line_right_fill : return [.phosphor]
+case .ph_arrow_fat_line_right_light : return [.phosphor]
+case .ph_arrow_fat_line_right_thin : return [.phosphor]
+case .ph_arrow_fat_line_up : return [.phosphor]
+case .ph_arrow_fat_line_up_bold : return [.phosphor]
+case .ph_arrow_fat_line_up_fill : return [.phosphor]
+case .ph_arrow_fat_line_up_light : return [.phosphor]
+case .ph_arrow_fat_line_up_thin : return [.phosphor]
+case .ph_arrow_fat_lines_down : return [.phosphor]
+case .ph_arrow_fat_lines_down_bold : return [.phosphor]
+case .ph_arrow_fat_lines_down_fill : return [.phosphor]
+case .ph_arrow_fat_lines_down_light : return [.phosphor]
+case .ph_arrow_fat_lines_down_thin : return [.phosphor]
+case .ph_arrow_fat_lines_left : return [.phosphor]
+case .ph_arrow_fat_lines_left_bold : return [.phosphor]
+case .ph_arrow_fat_lines_left_fill : return [.phosphor]
+case .ph_arrow_fat_lines_left_light : return [.phosphor]
+case .ph_arrow_fat_lines_left_thin : return [.phosphor]
+case .ph_arrow_fat_lines_right : return [.phosphor]
+case .ph_arrow_fat_lines_right_bold : return [.phosphor]
+case .ph_arrow_fat_lines_right_fill : return [.phosphor]
+case .ph_arrow_fat_lines_right_light : return [.phosphor]
+case .ph_arrow_fat_lines_right_thin : return [.phosphor]
+case .ph_arrow_fat_lines_up : return [.phosphor]
+case .ph_arrow_fat_lines_up_bold : return [.phosphor]
+case .ph_arrow_fat_lines_up_fill : return [.phosphor]
+case .ph_arrow_fat_lines_up_light : return [.phosphor]
+case .ph_arrow_fat_lines_up_thin : return [.phosphor]
+case .ph_arrow_fat_right : return [.phosphor]
+case .ph_arrow_fat_right_bold : return [.phosphor]
+case .ph_arrow_fat_right_fill : return [.phosphor]
+case .ph_arrow_fat_right_light : return [.phosphor]
+case .ph_arrow_fat_right_thin : return [.phosphor]
+case .ph_arrow_fat_up : return [.phosphor]
+case .ph_arrow_fat_up_bold : return [.phosphor]
+case .ph_arrow_fat_up_fill : return [.phosphor]
+case .ph_arrow_fat_up_light : return [.phosphor]
+case .ph_arrow_fat_up_thin : return [.phosphor]
+case .ph_arrow_left : return [.phosphor]
+case .ph_arrow_left_bold : return [.phosphor]
+case .ph_arrow_left_fill : return [.phosphor]
+case .ph_arrow_left_light : return [.phosphor]
+case .ph_arrow_left_thin : return [.phosphor]
+case .ph_arrow_line_down : return [.phosphor]
+case .ph_arrow_line_down_bold : return [.phosphor]
+case .ph_arrow_line_down_fill : return [.phosphor]
+case .ph_arrow_line_down_left : return [.phosphor]
+case .ph_arrow_line_down_left_bold : return [.phosphor]
+case .ph_arrow_line_down_left_fill : return [.phosphor]
+case .ph_arrow_line_down_left_light : return [.phosphor]
+case .ph_arrow_line_down_left_thin : return [.phosphor]
+case .ph_arrow_line_down_light : return [.phosphor]
+case .ph_arrow_line_down_right : return [.phosphor]
+case .ph_arrow_line_down_right_bold : return [.phosphor]
+case .ph_arrow_line_down_right_fill : return [.phosphor]
+case .ph_arrow_line_down_right_light : return [.phosphor]
+case .ph_arrow_line_down_right_thin : return [.phosphor]
+case .ph_arrow_line_down_thin : return [.phosphor]
+case .ph_arrow_line_left : return [.phosphor]
+case .ph_arrow_line_left_bold : return [.phosphor]
+case .ph_arrow_line_left_fill : return [.phosphor]
+case .ph_arrow_line_left_light : return [.phosphor]
+case .ph_arrow_line_left_thin : return [.phosphor]
+case .ph_arrow_line_right : return [.phosphor]
+case .ph_arrow_line_right_bold : return [.phosphor]
+case .ph_arrow_line_right_fill : return [.phosphor]
+case .ph_arrow_line_right_light : return [.phosphor]
+case .ph_arrow_line_right_thin : return [.phosphor]
+case .ph_arrow_line_up : return [.phosphor]
+case .ph_arrow_line_up_bold : return [.phosphor]
+case .ph_arrow_line_up_fill : return [.phosphor]
+case .ph_arrow_line_up_left : return [.phosphor]
+case .ph_arrow_line_up_left_bold : return [.phosphor]
+case .ph_arrow_line_up_left_fill : return [.phosphor]
+case .ph_arrow_line_up_left_light : return [.phosphor]
+case .ph_arrow_line_up_left_thin : return [.phosphor]
+case .ph_arrow_line_up_light : return [.phosphor]
+case .ph_arrow_line_up_right : return [.phosphor]
+case .ph_arrow_line_up_right_bold : return [.phosphor]
+case .ph_arrow_line_up_right_fill : return [.phosphor]
+case .ph_arrow_line_up_right_light : return [.phosphor]
+case .ph_arrow_line_up_right_thin : return [.phosphor]
+case .ph_arrow_line_up_thin : return [.phosphor]
+case .ph_arrow_right : return [.phosphor]
+case .ph_arrow_right_bold : return [.phosphor]
+case .ph_arrow_right_fill : return [.phosphor]
+case .ph_arrow_right_light : return [.phosphor]
+case .ph_arrow_right_thin : return [.phosphor]
+case .ph_arrow_square_down : return [.phosphor]
+case .ph_arrow_square_down_bold : return [.phosphor]
+case .ph_arrow_square_down_fill : return [.phosphor]
+case .ph_arrow_square_down_left : return [.phosphor]
+case .ph_arrow_square_down_left_bold : return [.phosphor]
+case .ph_arrow_square_down_left_fill : return [.phosphor]
+case .ph_arrow_square_down_left_light : return [.phosphor]
+case .ph_arrow_square_down_left_thin : return [.phosphor]
+case .ph_arrow_square_down_light : return [.phosphor]
+case .ph_arrow_square_down_right : return [.phosphor]
+case .ph_arrow_square_down_right_bold : return [.phosphor]
+case .ph_arrow_square_down_right_fill : return [.phosphor]
+case .ph_arrow_square_down_right_light : return [.phosphor]
+case .ph_arrow_square_down_right_thin : return [.phosphor]
+case .ph_arrow_square_down_thin : return [.phosphor]
+case .ph_arrow_square_in : return [.phosphor]
+case .ph_arrow_square_in_bold : return [.phosphor]
+case .ph_arrow_square_in_fill : return [.phosphor]
+case .ph_arrow_square_in_light : return [.phosphor]
+case .ph_arrow_square_in_thin : return [.phosphor]
+case .ph_arrow_square_left : return [.phosphor]
+case .ph_arrow_square_left_bold : return [.phosphor]
+case .ph_arrow_square_left_fill : return [.phosphor]
+case .ph_arrow_square_left_light : return [.phosphor]
+case .ph_arrow_square_left_thin : return [.phosphor]
+case .ph_arrow_square_out : return [.phosphor]
+case .ph_arrow_square_out_bold : return [.phosphor]
+case .ph_arrow_square_out_fill : return [.phosphor]
+case .ph_arrow_square_out_light : return [.phosphor]
+case .ph_arrow_square_out_thin : return [.phosphor]
+case .ph_arrow_square_right : return [.phosphor]
+case .ph_arrow_square_right_bold : return [.phosphor]
+case .ph_arrow_square_right_fill : return [.phosphor]
+case .ph_arrow_square_right_light : return [.phosphor]
+case .ph_arrow_square_right_thin : return [.phosphor]
+case .ph_arrow_square_up : return [.phosphor]
+case .ph_arrow_square_up_bold : return [.phosphor]
+case .ph_arrow_square_up_fill : return [.phosphor]
+case .ph_arrow_square_up_left : return [.phosphor]
+case .ph_arrow_square_up_left_bold : return [.phosphor]
+case .ph_arrow_square_up_left_fill : return [.phosphor]
+case .ph_arrow_square_up_left_light : return [.phosphor]
+case .ph_arrow_square_up_left_thin : return [.phosphor]
+case .ph_arrow_square_up_light : return [.phosphor]
+case .ph_arrow_square_up_right : return [.phosphor]
+case .ph_arrow_square_up_right_bold : return [.phosphor]
+case .ph_arrow_square_up_right_fill : return [.phosphor]
+case .ph_arrow_square_up_right_light : return [.phosphor]
+case .ph_arrow_square_up_right_thin : return [.phosphor]
+case .ph_arrow_square_up_thin : return [.phosphor]
+case .ph_arrow_u_down_left : return [.phosphor]
+case .ph_arrow_u_down_left_bold : return [.phosphor]
+case .ph_arrow_u_down_left_fill : return [.phosphor]
+case .ph_arrow_u_down_left_light : return [.phosphor]
+case .ph_arrow_u_down_left_thin : return [.phosphor]
+case .ph_arrow_u_down_right : return [.phosphor]
+case .ph_arrow_u_down_right_bold : return [.phosphor]
+case .ph_arrow_u_down_right_fill : return [.phosphor]
+case .ph_arrow_u_down_right_light : return [.phosphor]
+case .ph_arrow_u_down_right_thin : return [.phosphor]
+case .ph_arrow_u_left_down : return [.phosphor]
+case .ph_arrow_u_left_down_bold : return [.phosphor]
+case .ph_arrow_u_left_down_fill : return [.phosphor]
+case .ph_arrow_u_left_down_light : return [.phosphor]
+case .ph_arrow_u_left_down_thin : return [.phosphor]
+case .ph_arrow_u_left_up : return [.phosphor]
+case .ph_arrow_u_left_up_bold : return [.phosphor]
+case .ph_arrow_u_left_up_fill : return [.phosphor]
+case .ph_arrow_u_left_up_light : return [.phosphor]
+case .ph_arrow_u_left_up_thin : return [.phosphor]
+case .ph_arrow_u_right_down : return [.phosphor]
+case .ph_arrow_u_right_down_bold : return [.phosphor]
+case .ph_arrow_u_right_down_fill : return [.phosphor]
+case .ph_arrow_u_right_down_light : return [.phosphor]
+case .ph_arrow_u_right_down_thin : return [.phosphor]
+case .ph_arrow_u_right_up : return [.phosphor]
+case .ph_arrow_u_right_up_bold : return [.phosphor]
+case .ph_arrow_u_right_up_fill : return [.phosphor]
+case .ph_arrow_u_right_up_light : return [.phosphor]
+case .ph_arrow_u_right_up_thin : return [.phosphor]
+case .ph_arrow_u_up_left : return [.phosphor]
+case .ph_arrow_u_up_left_bold : return [.phosphor]
+case .ph_arrow_u_up_left_fill : return [.phosphor]
+case .ph_arrow_u_up_left_light : return [.phosphor]
+case .ph_arrow_u_up_left_thin : return [.phosphor]
+case .ph_arrow_u_up_right : return [.phosphor]
+case .ph_arrow_u_up_right_bold : return [.phosphor]
+case .ph_arrow_u_up_right_fill : return [.phosphor]
+case .ph_arrow_u_up_right_light : return [.phosphor]
+case .ph_arrow_u_up_right_thin : return [.phosphor]
+case .ph_arrow_up : return [.phosphor]
+case .ph_arrow_up_bold : return [.phosphor]
+case .ph_arrow_up_fill : return [.phosphor]
+case .ph_arrow_up_left : return [.phosphor]
+case .ph_arrow_up_left_bold : return [.phosphor]
+case .ph_arrow_up_left_fill : return [.phosphor]
+case .ph_arrow_up_left_light : return [.phosphor]
+case .ph_arrow_up_left_thin : return [.phosphor]
+case .ph_arrow_up_light : return [.phosphor]
+case .ph_arrow_up_right : return [.phosphor]
+case .ph_arrow_up_right_bold : return [.phosphor]
+case .ph_arrow_up_right_fill : return [.phosphor]
+case .ph_arrow_up_right_light : return [.phosphor]
+case .ph_arrow_up_right_thin : return [.phosphor]
+case .ph_arrow_up_thin : return [.phosphor]
+case .ph_arrows_clockwise : return [.phosphor]
+case .ph_arrows_clockwise_bold : return [.phosphor]
+case .ph_arrows_clockwise_fill : return [.phosphor]
+case .ph_arrows_clockwise_light : return [.phosphor]
+case .ph_arrows_clockwise_thin : return [.phosphor]
+case .ph_arrows_counter_clockwise : return [.phosphor]
+case .ph_arrows_counter_clockwise_bold : return [.phosphor]
+case .ph_arrows_counter_clockwise_fill : return [.phosphor]
+case .ph_arrows_counter_clockwise_light : return [.phosphor]
+case .ph_arrows_counter_clockwise_thin : return [.phosphor]
+case .ph_arrows_down_up : return [.phosphor]
+case .ph_arrows_down_up_bold : return [.phosphor]
+case .ph_arrows_down_up_fill : return [.phosphor]
+case .ph_arrows_down_up_light : return [.phosphor]
+case .ph_arrows_down_up_thin : return [.phosphor]
+case .ph_arrows_horizontal : return [.phosphor]
+case .ph_arrows_horizontal_bold : return [.phosphor]
+case .ph_arrows_horizontal_fill : return [.phosphor]
+case .ph_arrows_horizontal_light : return [.phosphor]
+case .ph_arrows_horizontal_thin : return [.phosphor]
+case .ph_arrows_in : return [.phosphor]
+case .ph_arrows_in_bold : return [.phosphor]
+case .ph_arrows_in_cardinal : return [.phosphor]
+case .ph_arrows_in_cardinal_bold : return [.phosphor]
+case .ph_arrows_in_cardinal_fill : return [.phosphor]
+case .ph_arrows_in_cardinal_light : return [.phosphor]
+case .ph_arrows_in_cardinal_thin : return [.phosphor]
+case .ph_arrows_in_fill : return [.phosphor]
+case .ph_arrows_in_light : return [.phosphor]
+case .ph_arrows_in_line_horizontal : return [.phosphor]
+case .ph_arrows_in_line_horizontal_bold : return [.phosphor]
+case .ph_arrows_in_line_horizontal_fill : return [.phosphor]
+case .ph_arrows_in_line_horizontal_light : return [.phosphor]
+case .ph_arrows_in_line_horizontal_thin : return [.phosphor]
+case .ph_arrows_in_line_vertical : return [.phosphor]
+case .ph_arrows_in_line_vertical_bold : return [.phosphor]
+case .ph_arrows_in_line_vertical_fill : return [.phosphor]
+case .ph_arrows_in_line_vertical_light : return [.phosphor]
+case .ph_arrows_in_line_vertical_thin : return [.phosphor]
+case .ph_arrows_in_simple : return [.phosphor]
+case .ph_arrows_in_simple_bold : return [.phosphor]
+case .ph_arrows_in_simple_fill : return [.phosphor]
+case .ph_arrows_in_simple_light : return [.phosphor]
+case .ph_arrows_in_simple_thin : return [.phosphor]
+case .ph_arrows_in_thin : return [.phosphor]
+case .ph_arrows_left_right : return [.phosphor]
+case .ph_arrows_left_right_bold : return [.phosphor]
+case .ph_arrows_left_right_fill : return [.phosphor]
+case .ph_arrows_left_right_light : return [.phosphor]
+case .ph_arrows_left_right_thin : return [.phosphor]
+case .ph_arrows_out : return [.phosphor]
+case .ph_arrows_out_bold : return [.phosphor]
+case .ph_arrows_out_cardinal : return [.phosphor]
+case .ph_arrows_out_cardinal_bold : return [.phosphor]
+case .ph_arrows_out_cardinal_fill : return [.phosphor]
+case .ph_arrows_out_cardinal_light : return [.phosphor]
+case .ph_arrows_out_cardinal_thin : return [.phosphor]
+case .ph_arrows_out_fill : return [.phosphor]
+case .ph_arrows_out_light : return [.phosphor]
+case .ph_arrows_out_line_horizontal : return [.phosphor]
+case .ph_arrows_out_line_horizontal_bold : return [.phosphor]
+case .ph_arrows_out_line_horizontal_fill : return [.phosphor]
+case .ph_arrows_out_line_horizontal_light : return [.phosphor]
+case .ph_arrows_out_line_horizontal_thin : return [.phosphor]
+case .ph_arrows_out_line_vertical : return [.phosphor]
+case .ph_arrows_out_line_vertical_bold : return [.phosphor]
+case .ph_arrows_out_line_vertical_fill : return [.phosphor]
+case .ph_arrows_out_line_vertical_light : return [.phosphor]
+case .ph_arrows_out_line_vertical_thin : return [.phosphor]
+case .ph_arrows_out_simple : return [.phosphor]
+case .ph_arrows_out_simple_bold : return [.phosphor]
+case .ph_arrows_out_simple_fill : return [.phosphor]
+case .ph_arrows_out_simple_light : return [.phosphor]
+case .ph_arrows_out_simple_thin : return [.phosphor]
+case .ph_arrows_out_thin : return [.phosphor]
+case .ph_arrows_vertical : return [.phosphor]
+case .ph_arrows_vertical_bold : return [.phosphor]
+case .ph_arrows_vertical_fill : return [.phosphor]
+case .ph_arrows_vertical_light : return [.phosphor]
+case .ph_arrows_vertical_thin : return [.phosphor]
+case .ph_article : return [.phosphor]
+case .ph_article_bold : return [.phosphor]
+case .ph_article_fill : return [.phosphor]
+case .ph_article_light : return [.phosphor]
+case .ph_article_medium : return [.phosphor]
+case .ph_article_medium_bold : return [.phosphor]
+case .ph_article_medium_fill : return [.phosphor]
+case .ph_article_medium_light : return [.phosphor]
+case .ph_article_medium_thin : return [.phosphor]
+case .ph_article_ny_times : return [.phosphor]
+case .ph_article_ny_times_bold : return [.phosphor]
+case .ph_article_ny_times_fill : return [.phosphor]
+case .ph_article_ny_times_light : return [.phosphor]
+case .ph_article_ny_times_thin : return [.phosphor]
+case .ph_article_thin : return [.phosphor]
+case .ph_asterisk : return [.phosphor]
+case .ph_asterisk_bold : return [.phosphor]
+case .ph_asterisk_fill : return [.phosphor]
+case .ph_asterisk_light : return [.phosphor]
+case .ph_asterisk_simple : return [.phosphor]
+case .ph_asterisk_simple_bold : return [.phosphor]
+case .ph_asterisk_simple_fill : return [.phosphor]
+case .ph_asterisk_simple_light : return [.phosphor]
+case .ph_asterisk_simple_thin : return [.phosphor]
+case .ph_asterisk_thin : return [.phosphor]
+case .ph_at : return [.phosphor]
+case .ph_at_bold : return [.phosphor]
+case .ph_at_fill : return [.phosphor]
+case .ph_at_light : return [.phosphor]
+case .ph_at_thin : return [.phosphor]
+case .ph_atom : return [.phosphor]
+case .ph_atom_bold : return [.phosphor]
+case .ph_atom_fill : return [.phosphor]
+case .ph_atom_light : return [.phosphor]
+case .ph_atom_thin : return [.phosphor]
+case .ph_baby : return [.phosphor]
+case .ph_baby_bold : return [.phosphor]
+case .ph_baby_fill : return [.phosphor]
+case .ph_baby_light : return [.phosphor]
+case .ph_baby_thin : return [.phosphor]
+case .ph_backpack : return [.phosphor]
+case .ph_backpack_bold : return [.phosphor]
+case .ph_backpack_fill : return [.phosphor]
+case .ph_backpack_light : return [.phosphor]
+case .ph_backpack_thin : return [.phosphor]
+case .ph_backspace : return [.phosphor]
+case .ph_backspace_bold : return [.phosphor]
+case .ph_backspace_fill : return [.phosphor]
+case .ph_backspace_light : return [.phosphor]
+case .ph_backspace_thin : return [.phosphor]
+case .ph_bag : return [.phosphor]
+case .ph_bag_bold : return [.phosphor]
+case .ph_bag_fill : return [.phosphor]
+case .ph_bag_light : return [.phosphor]
+case .ph_bag_simple : return [.phosphor]
+case .ph_bag_simple_bold : return [.phosphor]
+case .ph_bag_simple_fill : return [.phosphor]
+case .ph_bag_simple_light : return [.phosphor]
+case .ph_bag_simple_thin : return [.phosphor]
+case .ph_bag_thin : return [.phosphor]
+case .ph_balloon : return [.phosphor]
+case .ph_balloon_bold : return [.phosphor]
+case .ph_balloon_fill : return [.phosphor]
+case .ph_balloon_light : return [.phosphor]
+case .ph_balloon_thin : return [.phosphor]
+case .ph_bandaids : return [.phosphor]
+case .ph_bandaids_bold : return [.phosphor]
+case .ph_bandaids_fill : return [.phosphor]
+case .ph_bandaids_light : return [.phosphor]
+case .ph_bandaids_thin : return [.phosphor]
+case .ph_bank : return [.phosphor]
+case .ph_bank_bold : return [.phosphor]
+case .ph_bank_fill : return [.phosphor]
+case .ph_bank_light : return [.phosphor]
+case .ph_bank_thin : return [.phosphor]
+case .ph_barbell : return [.phosphor]
+case .ph_barbell_bold : return [.phosphor]
+case .ph_barbell_fill : return [.phosphor]
+case .ph_barbell_light : return [.phosphor]
+case .ph_barbell_thin : return [.phosphor]
+case .ph_barcode : return [.phosphor]
+case .ph_barcode_bold : return [.phosphor]
+case .ph_barcode_fill : return [.phosphor]
+case .ph_barcode_light : return [.phosphor]
+case .ph_barcode_thin : return [.phosphor]
+case .ph_barricade : return [.phosphor]
+case .ph_barricade_bold : return [.phosphor]
+case .ph_barricade_fill : return [.phosphor]
+case .ph_barricade_light : return [.phosphor]
+case .ph_barricade_thin : return [.phosphor]
+case .ph_baseball : return [.phosphor]
+case .ph_baseball_bold : return [.phosphor]
+case .ph_baseball_fill : return [.phosphor]
+case .ph_baseball_light : return [.phosphor]
+case .ph_baseball_thin : return [.phosphor]
+case .ph_basketball : return [.phosphor]
+case .ph_basketball_bold : return [.phosphor]
+case .ph_basketball_fill : return [.phosphor]
+case .ph_basketball_light : return [.phosphor]
+case .ph_basketball_thin : return [.phosphor]
+case .ph_bathtub : return [.phosphor]
+case .ph_bathtub_bold : return [.phosphor]
+case .ph_bathtub_fill : return [.phosphor]
+case .ph_bathtub_light : return [.phosphor]
+case .ph_bathtub_thin : return [.phosphor]
+case .ph_battery_charging : return [.phosphor]
+case .ph_battery_charging_bold : return [.phosphor]
+case .ph_battery_charging_fill : return [.phosphor]
+case .ph_battery_charging_light : return [.phosphor]
+case .ph_battery_charging_thin : return [.phosphor]
+case .ph_battery_charging_vertical : return [.phosphor]
+case .ph_battery_charging_vertical_bold : return [.phosphor]
+case .ph_battery_charging_vertical_fill : return [.phosphor]
+case .ph_battery_charging_vertical_light : return [.phosphor]
+case .ph_battery_charging_vertical_thin : return [.phosphor]
+case .ph_battery_empty : return [.phosphor]
+case .ph_battery_empty_bold : return [.phosphor]
+case .ph_battery_empty_fill : return [.phosphor]
+case .ph_battery_empty_light : return [.phosphor]
+case .ph_battery_empty_thin : return [.phosphor]
+case .ph_battery_full : return [.phosphor]
+case .ph_battery_full_bold : return [.phosphor]
+case .ph_battery_full_fill : return [.phosphor]
+case .ph_battery_full_light : return [.phosphor]
+case .ph_battery_full_thin : return [.phosphor]
+case .ph_battery_high : return [.phosphor]
+case .ph_battery_high_bold : return [.phosphor]
+case .ph_battery_high_fill : return [.phosphor]
+case .ph_battery_high_light : return [.phosphor]
+case .ph_battery_high_thin : return [.phosphor]
+case .ph_battery_low : return [.phosphor]
+case .ph_battery_low_bold : return [.phosphor]
+case .ph_battery_low_fill : return [.phosphor]
+case .ph_battery_low_light : return [.phosphor]
+case .ph_battery_low_thin : return [.phosphor]
+case .ph_battery_medium : return [.phosphor]
+case .ph_battery_medium_bold : return [.phosphor]
+case .ph_battery_medium_fill : return [.phosphor]
+case .ph_battery_medium_light : return [.phosphor]
+case .ph_battery_medium_thin : return [.phosphor]
+case .ph_battery_plus : return [.phosphor]
+case .ph_battery_plus_bold : return [.phosphor]
+case .ph_battery_plus_fill : return [.phosphor]
+case .ph_battery_plus_light : return [.phosphor]
+case .ph_battery_plus_thin : return [.phosphor]
+case .ph_battery_warning : return [.phosphor]
+case .ph_battery_warning_bold : return [.phosphor]
+case .ph_battery_warning_fill : return [.phosphor]
+case .ph_battery_warning_light : return [.phosphor]
+case .ph_battery_warning_thin : return [.phosphor]
+case .ph_battery_warning_vertical : return [.phosphor]
+case .ph_battery_warning_vertical_bold : return [.phosphor]
+case .ph_battery_warning_vertical_fill : return [.phosphor]
+case .ph_battery_warning_vertical_light : return [.phosphor]
+case .ph_battery_warning_vertical_thin : return [.phosphor]
+case .ph_bed : return [.phosphor]
+case .ph_bed_bold : return [.phosphor]
+case .ph_bed_fill : return [.phosphor]
+case .ph_bed_light : return [.phosphor]
+case .ph_bed_thin : return [.phosphor]
+case .ph_beer_bottle : return [.phosphor]
+case .ph_beer_bottle_bold : return [.phosphor]
+case .ph_beer_bottle_fill : return [.phosphor]
+case .ph_beer_bottle_light : return [.phosphor]
+case .ph_beer_bottle_thin : return [.phosphor]
+case .ph_behance_logo : return [.phosphor]
+case .ph_behance_logo_bold : return [.phosphor]
+case .ph_behance_logo_fill : return [.phosphor]
+case .ph_behance_logo_light : return [.phosphor]
+case .ph_behance_logo_thin : return [.phosphor]
+case .ph_bell : return [.phosphor]
+case .ph_bell_bold : return [.phosphor]
+case .ph_bell_fill : return [.phosphor]
+case .ph_bell_light : return [.phosphor]
+case .ph_bell_ringing : return [.phosphor]
+case .ph_bell_ringing_bold : return [.phosphor]
+case .ph_bell_ringing_fill : return [.phosphor]
+case .ph_bell_ringing_light : return [.phosphor]
+case .ph_bell_ringing_thin : return [.phosphor]
+case .ph_bell_simple : return [.phosphor]
+case .ph_bell_simple_bold : return [.phosphor]
+case .ph_bell_simple_fill : return [.phosphor]
+case .ph_bell_simple_light : return [.phosphor]
+case .ph_bell_simple_ringing : return [.phosphor]
+case .ph_bell_simple_ringing_bold : return [.phosphor]
+case .ph_bell_simple_ringing_fill : return [.phosphor]
+case .ph_bell_simple_ringing_light : return [.phosphor]
+case .ph_bell_simple_ringing_thin : return [.phosphor]
+case .ph_bell_simple_slash : return [.phosphor]
+case .ph_bell_simple_slash_bold : return [.phosphor]
+case .ph_bell_simple_slash_fill : return [.phosphor]
+case .ph_bell_simple_slash_light : return [.phosphor]
+case .ph_bell_simple_slash_thin : return [.phosphor]
+case .ph_bell_simple_thin : return [.phosphor]
+case .ph_bell_simple_z : return [.phosphor]
+case .ph_bell_simple_z_bold : return [.phosphor]
+case .ph_bell_simple_z_fill : return [.phosphor]
+case .ph_bell_simple_z_light : return [.phosphor]
+case .ph_bell_simple_z_thin : return [.phosphor]
+case .ph_bell_slash : return [.phosphor]
+case .ph_bell_slash_bold : return [.phosphor]
+case .ph_bell_slash_fill : return [.phosphor]
+case .ph_bell_slash_light : return [.phosphor]
+case .ph_bell_slash_thin : return [.phosphor]
+case .ph_bell_thin : return [.phosphor]
+case .ph_bell_z : return [.phosphor]
+case .ph_bell_z_bold : return [.phosphor]
+case .ph_bell_z_fill : return [.phosphor]
+case .ph_bell_z_light : return [.phosphor]
+case .ph_bell_z_thin : return [.phosphor]
+case .ph_bezier_curve : return [.phosphor]
+case .ph_bezier_curve_bold : return [.phosphor]
+case .ph_bezier_curve_fill : return [.phosphor]
+case .ph_bezier_curve_light : return [.phosphor]
+case .ph_bezier_curve_thin : return [.phosphor]
+case .ph_bicycle : return [.phosphor]
+case .ph_bicycle_bold : return [.phosphor]
+case .ph_bicycle_fill : return [.phosphor]
+case .ph_bicycle_light : return [.phosphor]
+case .ph_bicycle_thin : return [.phosphor]
+case .ph_binoculars : return [.phosphor]
+case .ph_binoculars_bold : return [.phosphor]
+case .ph_binoculars_fill : return [.phosphor]
+case .ph_binoculars_light : return [.phosphor]
+case .ph_binoculars_thin : return [.phosphor]
+case .ph_bird : return [.phosphor]
+case .ph_bird_bold : return [.phosphor]
+case .ph_bird_fill : return [.phosphor]
+case .ph_bird_light : return [.phosphor]
+case .ph_bird_thin : return [.phosphor]
+case .ph_bluetooth : return [.phosphor]
+case .ph_bluetooth_bold : return [.phosphor]
+case .ph_bluetooth_connected : return [.phosphor]
+case .ph_bluetooth_connected_bold : return [.phosphor]
+case .ph_bluetooth_connected_fill : return [.phosphor]
+case .ph_bluetooth_connected_light : return [.phosphor]
+case .ph_bluetooth_connected_thin : return [.phosphor]
+case .ph_bluetooth_fill : return [.phosphor]
+case .ph_bluetooth_light : return [.phosphor]
+case .ph_bluetooth_slash : return [.phosphor]
+case .ph_bluetooth_slash_bold : return [.phosphor]
+case .ph_bluetooth_slash_fill : return [.phosphor]
+case .ph_bluetooth_slash_light : return [.phosphor]
+case .ph_bluetooth_slash_thin : return [.phosphor]
+case .ph_bluetooth_thin : return [.phosphor]
+case .ph_bluetooth_x : return [.phosphor]
+case .ph_bluetooth_x_bold : return [.phosphor]
+case .ph_bluetooth_x_fill : return [.phosphor]
+case .ph_bluetooth_x_light : return [.phosphor]
+case .ph_bluetooth_x_thin : return [.phosphor]
+case .ph_boat : return [.phosphor]
+case .ph_boat_bold : return [.phosphor]
+case .ph_boat_fill : return [.phosphor]
+case .ph_boat_light : return [.phosphor]
+case .ph_boat_thin : return [.phosphor]
+case .ph_book : return [.phosphor]
+case .ph_book_bold : return [.phosphor]
+case .ph_book_bookmark : return [.phosphor]
+case .ph_book_bookmark_bold : return [.phosphor]
+case .ph_book_bookmark_fill : return [.phosphor]
+case .ph_book_bookmark_light : return [.phosphor]
+case .ph_book_bookmark_thin : return [.phosphor]
+case .ph_book_fill : return [.phosphor]
+case .ph_book_light : return [.phosphor]
+case .ph_book_open : return [.phosphor]
+case .ph_book_open_bold : return [.phosphor]
+case .ph_book_open_fill : return [.phosphor]
+case .ph_book_open_light : return [.phosphor]
+case .ph_book_open_thin : return [.phosphor]
+case .ph_book_thin : return [.phosphor]
+case .ph_bookmark : return [.phosphor]
+case .ph_bookmark_bold : return [.phosphor]
+case .ph_bookmark_fill : return [.phosphor]
+case .ph_bookmark_light : return [.phosphor]
+case .ph_bookmark_simple : return [.phosphor]
+case .ph_bookmark_simple_bold : return [.phosphor]
+case .ph_bookmark_simple_fill : return [.phosphor]
+case .ph_bookmark_simple_light : return [.phosphor]
+case .ph_bookmark_simple_thin : return [.phosphor]
+case .ph_bookmark_thin : return [.phosphor]
+case .ph_bookmarks : return [.phosphor]
+case .ph_bookmarks_bold : return [.phosphor]
+case .ph_bookmarks_fill : return [.phosphor]
+case .ph_bookmarks_light : return [.phosphor]
+case .ph_bookmarks_simple : return [.phosphor]
+case .ph_bookmarks_simple_bold : return [.phosphor]
+case .ph_bookmarks_simple_fill : return [.phosphor]
+case .ph_bookmarks_simple_light : return [.phosphor]
+case .ph_bookmarks_simple_thin : return [.phosphor]
+case .ph_bookmarks_thin : return [.phosphor]
+case .ph_books : return [.phosphor]
+case .ph_books_bold : return [.phosphor]
+case .ph_books_fill : return [.phosphor]
+case .ph_books_light : return [.phosphor]
+case .ph_books_thin : return [.phosphor]
+case .ph_bounding_box : return [.phosphor]
+case .ph_bounding_box_bold : return [.phosphor]
+case .ph_bounding_box_fill : return [.phosphor]
+case .ph_bounding_box_light : return [.phosphor]
+case .ph_bounding_box_thin : return [.phosphor]
+case .ph_brackets_angle : return [.phosphor]
+case .ph_brackets_angle_bold : return [.phosphor]
+case .ph_brackets_angle_fill : return [.phosphor]
+case .ph_brackets_angle_light : return [.phosphor]
+case .ph_brackets_angle_thin : return [.phosphor]
+case .ph_brackets_curly : return [.phosphor]
+case .ph_brackets_curly_bold : return [.phosphor]
+case .ph_brackets_curly_fill : return [.phosphor]
+case .ph_brackets_curly_light : return [.phosphor]
+case .ph_brackets_curly_thin : return [.phosphor]
+case .ph_brackets_round : return [.phosphor]
+case .ph_brackets_round_bold : return [.phosphor]
+case .ph_brackets_round_fill : return [.phosphor]
+case .ph_brackets_round_light : return [.phosphor]
+case .ph_brackets_round_thin : return [.phosphor]
+case .ph_brackets_square : return [.phosphor]
+case .ph_brackets_square_bold : return [.phosphor]
+case .ph_brackets_square_fill : return [.phosphor]
+case .ph_brackets_square_light : return [.phosphor]
+case .ph_brackets_square_thin : return [.phosphor]
+case .ph_brain : return [.phosphor]
+case .ph_brain_bold : return [.phosphor]
+case .ph_brain_fill : return [.phosphor]
+case .ph_brain_light : return [.phosphor]
+case .ph_brain_thin : return [.phosphor]
+case .ph_brandy : return [.phosphor]
+case .ph_brandy_bold : return [.phosphor]
+case .ph_brandy_fill : return [.phosphor]
+case .ph_brandy_light : return [.phosphor]
+case .ph_brandy_thin : return [.phosphor]
+case .ph_briefcase : return [.phosphor]
+case .ph_briefcase_bold : return [.phosphor]
+case .ph_briefcase_fill : return [.phosphor]
+case .ph_briefcase_light : return [.phosphor]
+case .ph_briefcase_metal : return [.phosphor]
+case .ph_briefcase_metal_bold : return [.phosphor]
+case .ph_briefcase_metal_fill : return [.phosphor]
+case .ph_briefcase_metal_light : return [.phosphor]
+case .ph_briefcase_metal_thin : return [.phosphor]
+case .ph_briefcase_thin : return [.phosphor]
+case .ph_broadcast : return [.phosphor]
+case .ph_broadcast_bold : return [.phosphor]
+case .ph_broadcast_fill : return [.phosphor]
+case .ph_broadcast_light : return [.phosphor]
+case .ph_broadcast_thin : return [.phosphor]
+case .ph_browser : return [.phosphor]
+case .ph_browser_bold : return [.phosphor]
+case .ph_browser_fill : return [.phosphor]
+case .ph_browser_light : return [.phosphor]
+case .ph_browser_thin : return [.phosphor]
+case .ph_browsers : return [.phosphor]
+case .ph_browsers_bold : return [.phosphor]
+case .ph_browsers_fill : return [.phosphor]
+case .ph_browsers_light : return [.phosphor]
+case .ph_browsers_thin : return [.phosphor]
+case .ph_bug : return [.phosphor]
+case .ph_bug_beetle : return [.phosphor]
+case .ph_bug_beetle_bold : return [.phosphor]
+case .ph_bug_beetle_fill : return [.phosphor]
+case .ph_bug_beetle_light : return [.phosphor]
+case .ph_bug_beetle_thin : return [.phosphor]
+case .ph_bug_bold : return [.phosphor]
+case .ph_bug_droid : return [.phosphor]
+case .ph_bug_droid_bold : return [.phosphor]
+case .ph_bug_droid_fill : return [.phosphor]
+case .ph_bug_droid_light : return [.phosphor]
+case .ph_bug_droid_thin : return [.phosphor]
+case .ph_bug_fill : return [.phosphor]
+case .ph_bug_light : return [.phosphor]
+case .ph_bug_thin : return [.phosphor]
+case .ph_buildings : return [.phosphor]
+case .ph_buildings_bold : return [.phosphor]
+case .ph_buildings_fill : return [.phosphor]
+case .ph_buildings_light : return [.phosphor]
+case .ph_buildings_thin : return [.phosphor]
+case .ph_bus : return [.phosphor]
+case .ph_bus_bold : return [.phosphor]
+case .ph_bus_fill : return [.phosphor]
+case .ph_bus_light : return [.phosphor]
+case .ph_bus_thin : return [.phosphor]
+case .ph_butterfly : return [.phosphor]
+case .ph_butterfly_bold : return [.phosphor]
+case .ph_butterfly_fill : return [.phosphor]
+case .ph_butterfly_light : return [.phosphor]
+case .ph_butterfly_thin : return [.phosphor]
+case .ph_cactus : return [.phosphor]
+case .ph_cactus_bold : return [.phosphor]
+case .ph_cactus_fill : return [.phosphor]
+case .ph_cactus_light : return [.phosphor]
+case .ph_cactus_thin : return [.phosphor]
+case .ph_cake : return [.phosphor]
+case .ph_cake_bold : return [.phosphor]
+case .ph_cake_fill : return [.phosphor]
+case .ph_cake_light : return [.phosphor]
+case .ph_cake_thin : return [.phosphor]
+case .ph_calculator : return [.phosphor]
+case .ph_calculator_bold : return [.phosphor]
+case .ph_calculator_fill : return [.phosphor]
+case .ph_calculator_light : return [.phosphor]
+case .ph_calculator_thin : return [.phosphor]
+case .ph_calendar : return [.phosphor]
+case .ph_calendar_blank : return [.phosphor]
+case .ph_calendar_blank_bold : return [.phosphor]
+case .ph_calendar_blank_fill : return [.phosphor]
+case .ph_calendar_blank_light : return [.phosphor]
+case .ph_calendar_blank_thin : return [.phosphor]
+case .ph_calendar_bold : return [.phosphor]
+case .ph_calendar_check : return [.phosphor]
+case .ph_calendar_check_bold : return [.phosphor]
+case .ph_calendar_check_fill : return [.phosphor]
+case .ph_calendar_check_light : return [.phosphor]
+case .ph_calendar_check_thin : return [.phosphor]
+case .ph_calendar_fill : return [.phosphor]
+case .ph_calendar_light : return [.phosphor]
+case .ph_calendar_plus : return [.phosphor]
+case .ph_calendar_plus_bold : return [.phosphor]
+case .ph_calendar_plus_fill : return [.phosphor]
+case .ph_calendar_plus_light : return [.phosphor]
+case .ph_calendar_plus_thin : return [.phosphor]
+case .ph_calendar_thin : return [.phosphor]
+case .ph_calendar_x : return [.phosphor]
+case .ph_calendar_x_bold : return [.phosphor]
+case .ph_calendar_x_fill : return [.phosphor]
+case .ph_calendar_x_light : return [.phosphor]
+case .ph_calendar_x_thin : return [.phosphor]
+case .ph_camera : return [.phosphor]
+case .ph_camera_bold : return [.phosphor]
+case .ph_camera_fill : return [.phosphor]
+case .ph_camera_light : return [.phosphor]
+case .ph_camera_rotate : return [.phosphor]
+case .ph_camera_rotate_bold : return [.phosphor]
+case .ph_camera_rotate_fill : return [.phosphor]
+case .ph_camera_rotate_light : return [.phosphor]
+case .ph_camera_rotate_thin : return [.phosphor]
+case .ph_camera_slash : return [.phosphor]
+case .ph_camera_slash_bold : return [.phosphor]
+case .ph_camera_slash_fill : return [.phosphor]
+case .ph_camera_slash_light : return [.phosphor]
+case .ph_camera_slash_thin : return [.phosphor]
+case .ph_camera_thin : return [.phosphor]
+case .ph_campfire : return [.phosphor]
+case .ph_campfire_bold : return [.phosphor]
+case .ph_campfire_fill : return [.phosphor]
+case .ph_campfire_light : return [.phosphor]
+case .ph_campfire_thin : return [.phosphor]
+case .ph_car : return [.phosphor]
+case .ph_car_bold : return [.phosphor]
+case .ph_car_fill : return [.phosphor]
+case .ph_car_light : return [.phosphor]
+case .ph_car_simple : return [.phosphor]
+case .ph_car_simple_bold : return [.phosphor]
+case .ph_car_simple_fill : return [.phosphor]
+case .ph_car_simple_light : return [.phosphor]
+case .ph_car_simple_thin : return [.phosphor]
+case .ph_car_thin : return [.phosphor]
+case .ph_cardholder : return [.phosphor]
+case .ph_cardholder_bold : return [.phosphor]
+case .ph_cardholder_fill : return [.phosphor]
+case .ph_cardholder_light : return [.phosphor]
+case .ph_cardholder_thin : return [.phosphor]
+case .ph_cards : return [.phosphor]
+case .ph_cards_bold : return [.phosphor]
+case .ph_cards_fill : return [.phosphor]
+case .ph_cards_light : return [.phosphor]
+case .ph_cards_thin : return [.phosphor]
+case .ph_caret_circle_double_down : return [.phosphor]
+case .ph_caret_circle_double_down_bold : return [.phosphor]
+case .ph_caret_circle_double_down_fill : return [.phosphor]
+case .ph_caret_circle_double_down_light : return [.phosphor]
+case .ph_caret_circle_double_down_thin : return [.phosphor]
+case .ph_caret_circle_double_left : return [.phosphor]
+case .ph_caret_circle_double_left_bold : return [.phosphor]
+case .ph_caret_circle_double_left_fill : return [.phosphor]
+case .ph_caret_circle_double_left_light : return [.phosphor]
+case .ph_caret_circle_double_left_thin : return [.phosphor]
+case .ph_caret_circle_double_right : return [.phosphor]
+case .ph_caret_circle_double_right_bold : return [.phosphor]
+case .ph_caret_circle_double_right_fill : return [.phosphor]
+case .ph_caret_circle_double_right_light : return [.phosphor]
+case .ph_caret_circle_double_right_thin : return [.phosphor]
+case .ph_caret_circle_double_up : return [.phosphor]
+case .ph_caret_circle_double_up_bold : return [.phosphor]
+case .ph_caret_circle_double_up_fill : return [.phosphor]
+case .ph_caret_circle_double_up_light : return [.phosphor]
+case .ph_caret_circle_double_up_thin : return [.phosphor]
+case .ph_caret_circle_down : return [.phosphor]
+case .ph_caret_circle_down_bold : return [.phosphor]
+case .ph_caret_circle_down_fill : return [.phosphor]
+case .ph_caret_circle_down_light : return [.phosphor]
+case .ph_caret_circle_down_thin : return [.phosphor]
+case .ph_caret_circle_left : return [.phosphor]
+case .ph_caret_circle_left_bold : return [.phosphor]
+case .ph_caret_circle_left_fill : return [.phosphor]
+case .ph_caret_circle_left_light : return [.phosphor]
+case .ph_caret_circle_left_thin : return [.phosphor]
+case .ph_caret_circle_right : return [.phosphor]
+case .ph_caret_circle_right_bold : return [.phosphor]
+case .ph_caret_circle_right_fill : return [.phosphor]
+case .ph_caret_circle_right_light : return [.phosphor]
+case .ph_caret_circle_right_thin : return [.phosphor]
+case .ph_caret_circle_up : return [.phosphor]
+case .ph_caret_circle_up_bold : return [.phosphor]
+case .ph_caret_circle_up_fill : return [.phosphor]
+case .ph_caret_circle_up_light : return [.phosphor]
+case .ph_caret_circle_up_thin : return [.phosphor]
+case .ph_caret_double_down : return [.phosphor]
+case .ph_caret_double_down_bold : return [.phosphor]
+case .ph_caret_double_down_fill : return [.phosphor]
+case .ph_caret_double_down_light : return [.phosphor]
+case .ph_caret_double_down_thin : return [.phosphor]
+case .ph_caret_double_left : return [.phosphor]
+case .ph_caret_double_left_bold : return [.phosphor]
+case .ph_caret_double_left_fill : return [.phosphor]
+case .ph_caret_double_left_light : return [.phosphor]
+case .ph_caret_double_left_thin : return [.phosphor]
+case .ph_caret_double_right : return [.phosphor]
+case .ph_caret_double_right_bold : return [.phosphor]
+case .ph_caret_double_right_fill : return [.phosphor]
+case .ph_caret_double_right_light : return [.phosphor]
+case .ph_caret_double_right_thin : return [.phosphor]
+case .ph_caret_double_up : return [.phosphor]
+case .ph_caret_double_up_bold : return [.phosphor]
+case .ph_caret_double_up_fill : return [.phosphor]
+case .ph_caret_double_up_light : return [.phosphor]
+case .ph_caret_double_up_thin : return [.phosphor]
+case .ph_caret_down : return [.phosphor]
+case .ph_caret_down_bold : return [.phosphor]
+case .ph_caret_down_fill : return [.phosphor]
+case .ph_caret_down_light : return [.phosphor]
+case .ph_caret_down_thin : return [.phosphor]
+case .ph_caret_left : return [.phosphor]
+case .ph_caret_left_bold : return [.phosphor]
+case .ph_caret_left_fill : return [.phosphor]
+case .ph_caret_left_light : return [.phosphor]
+case .ph_caret_left_thin : return [.phosphor]
+case .ph_caret_right : return [.phosphor]
+case .ph_caret_right_bold : return [.phosphor]
+case .ph_caret_right_fill : return [.phosphor]
+case .ph_caret_right_light : return [.phosphor]
+case .ph_caret_right_thin : return [.phosphor]
+case .ph_caret_up : return [.phosphor]
+case .ph_caret_up_bold : return [.phosphor]
+case .ph_caret_up_fill : return [.phosphor]
+case .ph_caret_up_light : return [.phosphor]
+case .ph_caret_up_thin : return [.phosphor]
+case .ph_cat : return [.phosphor]
+case .ph_cat_bold : return [.phosphor]
+case .ph_cat_fill : return [.phosphor]
+case .ph_cat_light : return [.phosphor]
+case .ph_cat_thin : return [.phosphor]
+case .ph_cell_signal_full : return [.phosphor]
+case .ph_cell_signal_full_bold : return [.phosphor]
+case .ph_cell_signal_full_fill : return [.phosphor]
+case .ph_cell_signal_full_light : return [.phosphor]
+case .ph_cell_signal_full_thin : return [.phosphor]
+case .ph_cell_signal_high : return [.phosphor]
+case .ph_cell_signal_high_bold : return [.phosphor]
+case .ph_cell_signal_high_fill : return [.phosphor]
+case .ph_cell_signal_high_light : return [.phosphor]
+case .ph_cell_signal_high_thin : return [.phosphor]
+case .ph_cell_signal_low : return [.phosphor]
+case .ph_cell_signal_low_bold : return [.phosphor]
+case .ph_cell_signal_low_fill : return [.phosphor]
+case .ph_cell_signal_low_light : return [.phosphor]
+case .ph_cell_signal_low_thin : return [.phosphor]
+case .ph_cell_signal_medium : return [.phosphor]
+case .ph_cell_signal_medium_bold : return [.phosphor]
+case .ph_cell_signal_medium_fill : return [.phosphor]
+case .ph_cell_signal_medium_light : return [.phosphor]
+case .ph_cell_signal_medium_thin : return [.phosphor]
+case .ph_cell_signal_none : return [.phosphor]
+case .ph_cell_signal_none_bold : return [.phosphor]
+case .ph_cell_signal_none_fill : return [.phosphor]
+case .ph_cell_signal_none_light : return [.phosphor]
+case .ph_cell_signal_none_thin : return [.phosphor]
+case .ph_cell_signal_slash : return [.phosphor]
+case .ph_cell_signal_slash_bold : return [.phosphor]
+case .ph_cell_signal_slash_fill : return [.phosphor]
+case .ph_cell_signal_slash_light : return [.phosphor]
+case .ph_cell_signal_slash_thin : return [.phosphor]
+case .ph_cell_signal_x : return [.phosphor]
+case .ph_cell_signal_x_bold : return [.phosphor]
+case .ph_cell_signal_x_fill : return [.phosphor]
+case .ph_cell_signal_x_light : return [.phosphor]
+case .ph_cell_signal_x_thin : return [.phosphor]
+case .ph_chalkboard : return [.phosphor]
+case .ph_chalkboard_bold : return [.phosphor]
+case .ph_chalkboard_fill : return [.phosphor]
+case .ph_chalkboard_light : return [.phosphor]
+case .ph_chalkboard_simple : return [.phosphor]
+case .ph_chalkboard_simple_bold : return [.phosphor]
+case .ph_chalkboard_simple_fill : return [.phosphor]
+case .ph_chalkboard_simple_light : return [.phosphor]
+case .ph_chalkboard_simple_thin : return [.phosphor]
+case .ph_chalkboard_teacher : return [.phosphor]
+case .ph_chalkboard_teacher_bold : return [.phosphor]
+case .ph_chalkboard_teacher_fill : return [.phosphor]
+case .ph_chalkboard_teacher_light : return [.phosphor]
+case .ph_chalkboard_teacher_thin : return [.phosphor]
+case .ph_chalkboard_thin : return [.phosphor]
+case .ph_chart_bar : return [.phosphor]
+case .ph_chart_bar_bold : return [.phosphor]
+case .ph_chart_bar_fill : return [.phosphor]
+case .ph_chart_bar_horizontal : return [.phosphor]
+case .ph_chart_bar_horizontal_bold : return [.phosphor]
+case .ph_chart_bar_horizontal_fill : return [.phosphor]
+case .ph_chart_bar_horizontal_light : return [.phosphor]
+case .ph_chart_bar_horizontal_thin : return [.phosphor]
+case .ph_chart_bar_light : return [.phosphor]
+case .ph_chart_bar_thin : return [.phosphor]
+case .ph_chart_line : return [.phosphor]
+case .ph_chart_line_bold : return [.phosphor]
+case .ph_chart_line_fill : return [.phosphor]
+case .ph_chart_line_light : return [.phosphor]
+case .ph_chart_line_thin : return [.phosphor]
+case .ph_chart_line_up : return [.phosphor]
+case .ph_chart_line_up_bold : return [.phosphor]
+case .ph_chart_line_up_fill : return [.phosphor]
+case .ph_chart_line_up_light : return [.phosphor]
+case .ph_chart_line_up_thin : return [.phosphor]
+case .ph_chart_pie : return [.phosphor]
+case .ph_chart_pie_bold : return [.phosphor]
+case .ph_chart_pie_fill : return [.phosphor]
+case .ph_chart_pie_light : return [.phosphor]
+case .ph_chart_pie_slice : return [.phosphor]
+case .ph_chart_pie_slice_bold : return [.phosphor]
+case .ph_chart_pie_slice_fill : return [.phosphor]
+case .ph_chart_pie_slice_light : return [.phosphor]
+case .ph_chart_pie_slice_thin : return [.phosphor]
+case .ph_chart_pie_thin : return [.phosphor]
+case .ph_chat : return [.phosphor]
+case .ph_chat_bold : return [.phosphor]
+case .ph_chat_centered : return [.phosphor]
+case .ph_chat_centered_bold : return [.phosphor]
+case .ph_chat_centered_dots : return [.phosphor]
+case .ph_chat_centered_dots_bold : return [.phosphor]
+case .ph_chat_centered_dots_fill : return [.phosphor]
+case .ph_chat_centered_dots_light : return [.phosphor]
+case .ph_chat_centered_dots_thin : return [.phosphor]
+case .ph_chat_centered_fill : return [.phosphor]
+case .ph_chat_centered_light : return [.phosphor]
+case .ph_chat_centered_text : return [.phosphor]
+case .ph_chat_centered_text_bold : return [.phosphor]
+case .ph_chat_centered_text_fill : return [.phosphor]
+case .ph_chat_centered_text_light : return [.phosphor]
+case .ph_chat_centered_text_thin : return [.phosphor]
+case .ph_chat_centered_thin : return [.phosphor]
+case .ph_chat_circle : return [.phosphor]
+case .ph_chat_circle_bold : return [.phosphor]
+case .ph_chat_circle_dots : return [.phosphor]
+case .ph_chat_circle_dots_bold : return [.phosphor]
+case .ph_chat_circle_dots_fill : return [.phosphor]
+case .ph_chat_circle_dots_light : return [.phosphor]
+case .ph_chat_circle_dots_thin : return [.phosphor]
+case .ph_chat_circle_fill : return [.phosphor]
+case .ph_chat_circle_light : return [.phosphor]
+case .ph_chat_circle_text : return [.phosphor]
+case .ph_chat_circle_text_bold : return [.phosphor]
+case .ph_chat_circle_text_fill : return [.phosphor]
+case .ph_chat_circle_text_light : return [.phosphor]
+case .ph_chat_circle_text_thin : return [.phosphor]
+case .ph_chat_circle_thin : return [.phosphor]
+case .ph_chat_dots : return [.phosphor]
+case .ph_chat_dots_bold : return [.phosphor]
+case .ph_chat_dots_fill : return [.phosphor]
+case .ph_chat_dots_light : return [.phosphor]
+case .ph_chat_dots_thin : return [.phosphor]
+case .ph_chat_fill : return [.phosphor]
+case .ph_chat_light : return [.phosphor]
+case .ph_chat_teardrop : return [.phosphor]
+case .ph_chat_teardrop_bold : return [.phosphor]
+case .ph_chat_teardrop_dots : return [.phosphor]
+case .ph_chat_teardrop_dots_bold : return [.phosphor]
+case .ph_chat_teardrop_dots_fill : return [.phosphor]
+case .ph_chat_teardrop_dots_light : return [.phosphor]
+case .ph_chat_teardrop_dots_thin : return [.phosphor]
+case .ph_chat_teardrop_fill : return [.phosphor]
+case .ph_chat_teardrop_light : return [.phosphor]
+case .ph_chat_teardrop_text : return [.phosphor]
+case .ph_chat_teardrop_text_bold : return [.phosphor]
+case .ph_chat_teardrop_text_fill : return [.phosphor]
+case .ph_chat_teardrop_text_light : return [.phosphor]
+case .ph_chat_teardrop_text_thin : return [.phosphor]
+case .ph_chat_teardrop_thin : return [.phosphor]
+case .ph_chat_text : return [.phosphor]
+case .ph_chat_text_bold : return [.phosphor]
+case .ph_chat_text_fill : return [.phosphor]
+case .ph_chat_text_light : return [.phosphor]
+case .ph_chat_text_thin : return [.phosphor]
+case .ph_chat_thin : return [.phosphor]
+case .ph_chats : return [.phosphor]
+case .ph_chats_bold : return [.phosphor]
+case .ph_chats_circle : return [.phosphor]
+case .ph_chats_circle_bold : return [.phosphor]
+case .ph_chats_circle_fill : return [.phosphor]
+case .ph_chats_circle_light : return [.phosphor]
+case .ph_chats_circle_thin : return [.phosphor]
+case .ph_chats_fill : return [.phosphor]
+case .ph_chats_light : return [.phosphor]
+case .ph_chats_teardrop : return [.phosphor]
+case .ph_chats_teardrop_bold : return [.phosphor]
+case .ph_chats_teardrop_fill : return [.phosphor]
+case .ph_chats_teardrop_light : return [.phosphor]
+case .ph_chats_teardrop_thin : return [.phosphor]
+case .ph_chats_thin : return [.phosphor]
+case .ph_check : return [.phosphor]
+case .ph_check_bold : return [.phosphor]
+case .ph_check_circle : return [.phosphor]
+case .ph_check_circle_bold : return [.phosphor]
+case .ph_check_circle_fill : return [.phosphor]
+case .ph_check_circle_light : return [.phosphor]
+case .ph_check_circle_thin : return [.phosphor]
+case .ph_check_fill : return [.phosphor]
+case .ph_check_light : return [.phosphor]
+case .ph_check_square : return [.phosphor]
+case .ph_check_square_bold : return [.phosphor]
+case .ph_check_square_fill : return [.phosphor]
+case .ph_check_square_light : return [.phosphor]
+case .ph_check_square_offset : return [.phosphor]
+case .ph_check_square_offset_bold : return [.phosphor]
+case .ph_check_square_offset_fill : return [.phosphor]
+case .ph_check_square_offset_light : return [.phosphor]
+case .ph_check_square_offset_thin : return [.phosphor]
+case .ph_check_square_thin : return [.phosphor]
+case .ph_check_thin : return [.phosphor]
+case .ph_checks : return [.phosphor]
+case .ph_checks_bold : return [.phosphor]
+case .ph_checks_fill : return [.phosphor]
+case .ph_checks_light : return [.phosphor]
+case .ph_checks_thin : return [.phosphor]
+case .ph_circle : return [.phosphor]
+case .ph_circle_bold : return [.phosphor]
+case .ph_circle_dashed : return [.phosphor]
+case .ph_circle_dashed_bold : return [.phosphor]
+case .ph_circle_dashed_fill : return [.phosphor]
+case .ph_circle_dashed_light : return [.phosphor]
+case .ph_circle_dashed_thin : return [.phosphor]
+case .ph_circle_fill : return [.phosphor]
+case .ph_circle_half : return [.phosphor]
+case .ph_circle_half_bold : return [.phosphor]
+case .ph_circle_half_fill : return [.phosphor]
+case .ph_circle_half_light : return [.phosphor]
+case .ph_circle_half_thin : return [.phosphor]
+case .ph_circle_half_tilt : return [.phosphor]
+case .ph_circle_half_tilt_bold : return [.phosphor]
+case .ph_circle_half_tilt_fill : return [.phosphor]
+case .ph_circle_half_tilt_light : return [.phosphor]
+case .ph_circle_half_tilt_thin : return [.phosphor]
+case .ph_circle_light : return [.phosphor]
+case .ph_circle_notch : return [.phosphor]
+case .ph_circle_notch_bold : return [.phosphor]
+case .ph_circle_notch_fill : return [.phosphor]
+case .ph_circle_notch_light : return [.phosphor]
+case .ph_circle_notch_thin : return [.phosphor]
+case .ph_circle_thin : return [.phosphor]
+case .ph_circle_wavy : return [.phosphor]
+case .ph_circle_wavy_bold : return [.phosphor]
+case .ph_circle_wavy_check : return [.phosphor]
+case .ph_circle_wavy_check_bold : return [.phosphor]
+case .ph_circle_wavy_check_fill : return [.phosphor]
+case .ph_circle_wavy_check_light : return [.phosphor]
+case .ph_circle_wavy_check_thin : return [.phosphor]
+case .ph_circle_wavy_fill : return [.phosphor]
+case .ph_circle_wavy_light : return [.phosphor]
+case .ph_circle_wavy_question : return [.phosphor]
+case .ph_circle_wavy_question_bold : return [.phosphor]
+case .ph_circle_wavy_question_fill : return [.phosphor]
+case .ph_circle_wavy_question_light : return [.phosphor]
+case .ph_circle_wavy_question_thin : return [.phosphor]
+case .ph_circle_wavy_thin : return [.phosphor]
+case .ph_circle_wavy_warning : return [.phosphor]
+case .ph_circle_wavy_warning_bold : return [.phosphor]
+case .ph_circle_wavy_warning_fill : return [.phosphor]
+case .ph_circle_wavy_warning_light : return [.phosphor]
+case .ph_circle_wavy_warning_thin : return [.phosphor]
+case .ph_circles_four : return [.phosphor]
+case .ph_circles_four_bold : return [.phosphor]
+case .ph_circles_four_fill : return [.phosphor]
+case .ph_circles_four_light : return [.phosphor]
+case .ph_circles_four_thin : return [.phosphor]
+case .ph_circles_three : return [.phosphor]
+case .ph_circles_three_bold : return [.phosphor]
+case .ph_circles_three_fill : return [.phosphor]
+case .ph_circles_three_light : return [.phosphor]
+case .ph_circles_three_plus : return [.phosphor]
+case .ph_circles_three_plus_bold : return [.phosphor]
+case .ph_circles_three_plus_fill : return [.phosphor]
+case .ph_circles_three_plus_light : return [.phosphor]
+case .ph_circles_three_plus_thin : return [.phosphor]
+case .ph_circles_three_thin : return [.phosphor]
+case .ph_clipboard : return [.phosphor]
+case .ph_clipboard_bold : return [.phosphor]
+case .ph_clipboard_fill : return [.phosphor]
+case .ph_clipboard_light : return [.phosphor]
+case .ph_clipboard_text : return [.phosphor]
+case .ph_clipboard_text_bold : return [.phosphor]
+case .ph_clipboard_text_fill : return [.phosphor]
+case .ph_clipboard_text_light : return [.phosphor]
+case .ph_clipboard_text_thin : return [.phosphor]
+case .ph_clipboard_thin : return [.phosphor]
+case .ph_clock : return [.phosphor]
+case .ph_clock_afternoon : return [.phosphor]
+case .ph_clock_afternoon_bold : return [.phosphor]
+case .ph_clock_afternoon_fill : return [.phosphor]
+case .ph_clock_afternoon_light : return [.phosphor]
+case .ph_clock_afternoon_thin : return [.phosphor]
+case .ph_clock_bold : return [.phosphor]
+case .ph_clock_clockwise : return [.phosphor]
+case .ph_clock_clockwise_bold : return [.phosphor]
+case .ph_clock_clockwise_fill : return [.phosphor]
+case .ph_clock_clockwise_light : return [.phosphor]
+case .ph_clock_clockwise_thin : return [.phosphor]
+case .ph_clock_counter_clockwise : return [.phosphor]
+case .ph_clock_counter_clockwise_bold : return [.phosphor]
+case .ph_clock_counter_clockwise_fill : return [.phosphor]
+case .ph_clock_counter_clockwise_light : return [.phosphor]
+case .ph_clock_counter_clockwise_thin : return [.phosphor]
+case .ph_clock_fill : return [.phosphor]
+case .ph_clock_light : return [.phosphor]
+case .ph_clock_thin : return [.phosphor]
+case .ph_closed_captioning : return [.phosphor]
+case .ph_closed_captioning_bold : return [.phosphor]
+case .ph_closed_captioning_fill : return [.phosphor]
+case .ph_closed_captioning_light : return [.phosphor]
+case .ph_closed_captioning_thin : return [.phosphor]
+case .ph_cloud : return [.phosphor]
+case .ph_cloud_arrow_down : return [.phosphor]
+case .ph_cloud_arrow_down_bold : return [.phosphor]
+case .ph_cloud_arrow_down_fill : return [.phosphor]
+case .ph_cloud_arrow_down_light : return [.phosphor]
+case .ph_cloud_arrow_down_thin : return [.phosphor]
+case .ph_cloud_arrow_up : return [.phosphor]
+case .ph_cloud_arrow_up_bold : return [.phosphor]
+case .ph_cloud_arrow_up_fill : return [.phosphor]
+case .ph_cloud_arrow_up_light : return [.phosphor]
+case .ph_cloud_arrow_up_thin : return [.phosphor]
+case .ph_cloud_bold : return [.phosphor]
+case .ph_cloud_check : return [.phosphor]
+case .ph_cloud_check_bold : return [.phosphor]
+case .ph_cloud_check_fill : return [.phosphor]
+case .ph_cloud_check_light : return [.phosphor]
+case .ph_cloud_check_thin : return [.phosphor]
+case .ph_cloud_fill : return [.phosphor]
+case .ph_cloud_fog : return [.phosphor]
+case .ph_cloud_fog_bold : return [.phosphor]
+case .ph_cloud_fog_fill : return [.phosphor]
+case .ph_cloud_fog_light : return [.phosphor]
+case .ph_cloud_fog_thin : return [.phosphor]
+case .ph_cloud_light : return [.phosphor]
+case .ph_cloud_lightning : return [.phosphor]
+case .ph_cloud_lightning_bold : return [.phosphor]
+case .ph_cloud_lightning_fill : return [.phosphor]
+case .ph_cloud_lightning_light : return [.phosphor]
+case .ph_cloud_lightning_thin : return [.phosphor]
+case .ph_cloud_moon : return [.phosphor]
+case .ph_cloud_moon_bold : return [.phosphor]
+case .ph_cloud_moon_fill : return [.phosphor]
+case .ph_cloud_moon_light : return [.phosphor]
+case .ph_cloud_moon_thin : return [.phosphor]
+case .ph_cloud_rain : return [.phosphor]
+case .ph_cloud_rain_bold : return [.phosphor]
+case .ph_cloud_rain_fill : return [.phosphor]
+case .ph_cloud_rain_light : return [.phosphor]
+case .ph_cloud_rain_thin : return [.phosphor]
+case .ph_cloud_slash : return [.phosphor]
+case .ph_cloud_slash_bold : return [.phosphor]
+case .ph_cloud_slash_fill : return [.phosphor]
+case .ph_cloud_slash_light : return [.phosphor]
+case .ph_cloud_slash_thin : return [.phosphor]
+case .ph_cloud_snow : return [.phosphor]
+case .ph_cloud_snow_bold : return [.phosphor]
+case .ph_cloud_snow_fill : return [.phosphor]
+case .ph_cloud_snow_light : return [.phosphor]
+case .ph_cloud_snow_thin : return [.phosphor]
+case .ph_cloud_sun : return [.phosphor]
+case .ph_cloud_sun_bold : return [.phosphor]
+case .ph_cloud_sun_fill : return [.phosphor]
+case .ph_cloud_sun_light : return [.phosphor]
+case .ph_cloud_sun_thin : return [.phosphor]
+case .ph_cloud_thin : return [.phosphor]
+case .ph_club : return [.phosphor]
+case .ph_club_bold : return [.phosphor]
+case .ph_club_fill : return [.phosphor]
+case .ph_club_light : return [.phosphor]
+case .ph_club_thin : return [.phosphor]
+case .ph_coat_hanger : return [.phosphor]
+case .ph_coat_hanger_bold : return [.phosphor]
+case .ph_coat_hanger_fill : return [.phosphor]
+case .ph_coat_hanger_light : return [.phosphor]
+case .ph_coat_hanger_thin : return [.phosphor]
+case .ph_code : return [.phosphor]
+case .ph_code_bold : return [.phosphor]
+case .ph_code_fill : return [.phosphor]
+case .ph_code_light : return [.phosphor]
+case .ph_code_simple : return [.phosphor]
+case .ph_code_simple_bold : return [.phosphor]
+case .ph_code_simple_fill : return [.phosphor]
+case .ph_code_simple_light : return [.phosphor]
+case .ph_code_simple_thin : return [.phosphor]
+case .ph_code_thin : return [.phosphor]
+case .ph_codepen_logo : return [.phosphor]
+case .ph_codepen_logo_bold : return [.phosphor]
+case .ph_codepen_logo_fill : return [.phosphor]
+case .ph_codepen_logo_light : return [.phosphor]
+case .ph_codepen_logo_thin : return [.phosphor]
+case .ph_codesandbox_logo : return [.phosphor]
+case .ph_codesandbox_logo_bold : return [.phosphor]
+case .ph_codesandbox_logo_fill : return [.phosphor]
+case .ph_codesandbox_logo_light : return [.phosphor]
+case .ph_codesandbox_logo_thin : return [.phosphor]
+case .ph_coffee : return [.phosphor]
+case .ph_coffee_bold : return [.phosphor]
+case .ph_coffee_fill : return [.phosphor]
+case .ph_coffee_light : return [.phosphor]
+case .ph_coffee_thin : return [.phosphor]
+case .ph_coin : return [.phosphor]
+case .ph_coin_bold : return [.phosphor]
+case .ph_coin_fill : return [.phosphor]
+case .ph_coin_light : return [.phosphor]
+case .ph_coin_thin : return [.phosphor]
+case .ph_coin_vertical : return [.phosphor]
+case .ph_coin_vertical_bold : return [.phosphor]
+case .ph_coin_vertical_fill : return [.phosphor]
+case .ph_coin_vertical_light : return [.phosphor]
+case .ph_coin_vertical_thin : return [.phosphor]
+case .ph_coins : return [.phosphor]
+case .ph_coins_bold : return [.phosphor]
+case .ph_coins_fill : return [.phosphor]
+case .ph_coins_light : return [.phosphor]
+case .ph_coins_thin : return [.phosphor]
+case .ph_columns : return [.phosphor]
+case .ph_columns_bold : return [.phosphor]
+case .ph_columns_fill : return [.phosphor]
+case .ph_columns_light : return [.phosphor]
+case .ph_columns_thin : return [.phosphor]
+case .ph_command : return [.phosphor]
+case .ph_command_bold : return [.phosphor]
+case .ph_command_fill : return [.phosphor]
+case .ph_command_light : return [.phosphor]
+case .ph_command_thin : return [.phosphor]
+case .ph_compass : return [.phosphor]
+case .ph_compass_bold : return [.phosphor]
+case .ph_compass_fill : return [.phosphor]
+case .ph_compass_light : return [.phosphor]
+case .ph_compass_thin : return [.phosphor]
+case .ph_computer_tower : return [.phosphor]
+case .ph_computer_tower_bold : return [.phosphor]
+case .ph_computer_tower_fill : return [.phosphor]
+case .ph_computer_tower_light : return [.phosphor]
+case .ph_computer_tower_thin : return [.phosphor]
+case .ph_confetti : return [.phosphor]
+case .ph_confetti_bold : return [.phosphor]
+case .ph_confetti_fill : return [.phosphor]
+case .ph_confetti_light : return [.phosphor]
+case .ph_confetti_thin : return [.phosphor]
+case .ph_cookie : return [.phosphor]
+case .ph_cookie_bold : return [.phosphor]
+case .ph_cookie_fill : return [.phosphor]
+case .ph_cookie_light : return [.phosphor]
+case .ph_cookie_thin : return [.phosphor]
+case .ph_cooking_pot : return [.phosphor]
+case .ph_cooking_pot_bold : return [.phosphor]
+case .ph_cooking_pot_fill : return [.phosphor]
+case .ph_cooking_pot_light : return [.phosphor]
+case .ph_cooking_pot_thin : return [.phosphor]
+case .ph_copy : return [.phosphor]
+case .ph_copy_bold : return [.phosphor]
+case .ph_copy_fill : return [.phosphor]
+case .ph_copy_light : return [.phosphor]
+case .ph_copy_simple : return [.phosphor]
+case .ph_copy_simple_bold : return [.phosphor]
+case .ph_copy_simple_fill : return [.phosphor]
+case .ph_copy_simple_light : return [.phosphor]
+case .ph_copy_simple_thin : return [.phosphor]
+case .ph_copy_thin : return [.phosphor]
+case .ph_copyleft : return [.phosphor]
+case .ph_copyleft_bold : return [.phosphor]
+case .ph_copyleft_fill : return [.phosphor]
+case .ph_copyleft_light : return [.phosphor]
+case .ph_copyleft_thin : return [.phosphor]
+case .ph_copyright : return [.phosphor]
+case .ph_copyright_bold : return [.phosphor]
+case .ph_copyright_fill : return [.phosphor]
+case .ph_copyright_light : return [.phosphor]
+case .ph_copyright_thin : return [.phosphor]
+case .ph_corners_in : return [.phosphor]
+case .ph_corners_in_bold : return [.phosphor]
+case .ph_corners_in_fill : return [.phosphor]
+case .ph_corners_in_light : return [.phosphor]
+case .ph_corners_in_thin : return [.phosphor]
+case .ph_corners_out : return [.phosphor]
+case .ph_corners_out_bold : return [.phosphor]
+case .ph_corners_out_fill : return [.phosphor]
+case .ph_corners_out_light : return [.phosphor]
+case .ph_corners_out_thin : return [.phosphor]
+case .ph_cpu : return [.phosphor]
+case .ph_cpu_bold : return [.phosphor]
+case .ph_cpu_fill : return [.phosphor]
+case .ph_cpu_light : return [.phosphor]
+case .ph_cpu_thin : return [.phosphor]
+case .ph_credit_card : return [.phosphor]
+case .ph_credit_card_bold : return [.phosphor]
+case .ph_credit_card_fill : return [.phosphor]
+case .ph_credit_card_light : return [.phosphor]
+case .ph_credit_card_thin : return [.phosphor]
+case .ph_crop : return [.phosphor]
+case .ph_crop_bold : return [.phosphor]
+case .ph_crop_fill : return [.phosphor]
+case .ph_crop_light : return [.phosphor]
+case .ph_crop_thin : return [.phosphor]
+case .ph_crosshair : return [.phosphor]
+case .ph_crosshair_bold : return [.phosphor]
+case .ph_crosshair_fill : return [.phosphor]
+case .ph_crosshair_light : return [.phosphor]
+case .ph_crosshair_simple : return [.phosphor]
+case .ph_crosshair_simple_bold : return [.phosphor]
+case .ph_crosshair_simple_fill : return [.phosphor]
+case .ph_crosshair_simple_light : return [.phosphor]
+case .ph_crosshair_simple_thin : return [.phosphor]
+case .ph_crosshair_thin : return [.phosphor]
+case .ph_crown : return [.phosphor]
+case .ph_crown_bold : return [.phosphor]
+case .ph_crown_fill : return [.phosphor]
+case .ph_crown_light : return [.phosphor]
+case .ph_crown_simple : return [.phosphor]
+case .ph_crown_simple_bold : return [.phosphor]
+case .ph_crown_simple_fill : return [.phosphor]
+case .ph_crown_simple_light : return [.phosphor]
+case .ph_crown_simple_thin : return [.phosphor]
+case .ph_crown_thin : return [.phosphor]
+case .ph_cube : return [.phosphor]
+case .ph_cube_bold : return [.phosphor]
+case .ph_cube_fill : return [.phosphor]
+case .ph_cube_light : return [.phosphor]
+case .ph_cube_thin : return [.phosphor]
+case .ph_currency_btc : return [.phosphor]
+case .ph_currency_btc_bold : return [.phosphor]
+case .ph_currency_btc_fill : return [.phosphor]
+case .ph_currency_btc_light : return [.phosphor]
+case .ph_currency_btc_thin : return [.phosphor]
+case .ph_currency_circle_dollar : return [.phosphor]
+case .ph_currency_circle_dollar_bold : return [.phosphor]
+case .ph_currency_circle_dollar_fill : return [.phosphor]
+case .ph_currency_circle_dollar_light : return [.phosphor]
+case .ph_currency_circle_dollar_thin : return [.phosphor]
+case .ph_currency_cny : return [.phosphor]
+case .ph_currency_cny_bold : return [.phosphor]
+case .ph_currency_cny_fill : return [.phosphor]
+case .ph_currency_cny_light : return [.phosphor]
+case .ph_currency_cny_thin : return [.phosphor]
+case .ph_currency_dollar : return [.phosphor]
+case .ph_currency_dollar_bold : return [.phosphor]
+case .ph_currency_dollar_fill : return [.phosphor]
+case .ph_currency_dollar_light : return [.phosphor]
+case .ph_currency_dollar_simple : return [.phosphor]
+case .ph_currency_dollar_simple_bold : return [.phosphor]
+case .ph_currency_dollar_simple_fill : return [.phosphor]
+case .ph_currency_dollar_simple_light : return [.phosphor]
+case .ph_currency_dollar_simple_thin : return [.phosphor]
+case .ph_currency_dollar_thin : return [.phosphor]
+case .ph_currency_eth : return [.phosphor]
+case .ph_currency_eth_bold : return [.phosphor]
+case .ph_currency_eth_fill : return [.phosphor]
+case .ph_currency_eth_light : return [.phosphor]
+case .ph_currency_eth_thin : return [.phosphor]
+case .ph_currency_eur : return [.phosphor]
+case .ph_currency_eur_bold : return [.phosphor]
+case .ph_currency_eur_fill : return [.phosphor]
+case .ph_currency_eur_light : return [.phosphor]
+case .ph_currency_eur_thin : return [.phosphor]
+case .ph_currency_gbp : return [.phosphor]
+case .ph_currency_gbp_bold : return [.phosphor]
+case .ph_currency_gbp_fill : return [.phosphor]
+case .ph_currency_gbp_light : return [.phosphor]
+case .ph_currency_gbp_thin : return [.phosphor]
+case .ph_currency_inr : return [.phosphor]
+case .ph_currency_inr_bold : return [.phosphor]
+case .ph_currency_inr_fill : return [.phosphor]
+case .ph_currency_inr_light : return [.phosphor]
+case .ph_currency_inr_thin : return [.phosphor]
+case .ph_currency_jpy : return [.phosphor]
+case .ph_currency_jpy_bold : return [.phosphor]
+case .ph_currency_jpy_fill : return [.phosphor]
+case .ph_currency_jpy_light : return [.phosphor]
+case .ph_currency_jpy_thin : return [.phosphor]
+case .ph_currency_krw : return [.phosphor]
+case .ph_currency_krw_bold : return [.phosphor]
+case .ph_currency_krw_fill : return [.phosphor]
+case .ph_currency_krw_light : return [.phosphor]
+case .ph_currency_krw_thin : return [.phosphor]
+case .ph_currency_kzt : return [.phosphor]
+case .ph_currency_kzt_bold : return [.phosphor]
+case .ph_currency_kzt_fill : return [.phosphor]
+case .ph_currency_kzt_light : return [.phosphor]
+case .ph_currency_kzt_thin : return [.phosphor]
+case .ph_currency_ngn : return [.phosphor]
+case .ph_currency_ngn_bold : return [.phosphor]
+case .ph_currency_ngn_fill : return [.phosphor]
+case .ph_currency_ngn_light : return [.phosphor]
+case .ph_currency_ngn_thin : return [.phosphor]
+case .ph_currency_rub : return [.phosphor]
+case .ph_currency_rub_bold : return [.phosphor]
+case .ph_currency_rub_fill : return [.phosphor]
+case .ph_currency_rub_light : return [.phosphor]
+case .ph_currency_rub_thin : return [.phosphor]
+case .ph_cursor : return [.phosphor]
+case .ph_cursor_bold : return [.phosphor]
+case .ph_cursor_fill : return [.phosphor]
+case .ph_cursor_light : return [.phosphor]
+case .ph_cursor_text : return [.phosphor]
+case .ph_cursor_text_bold : return [.phosphor]
+case .ph_cursor_text_fill : return [.phosphor]
+case .ph_cursor_text_light : return [.phosphor]
+case .ph_cursor_text_thin : return [.phosphor]
+case .ph_cursor_thin : return [.phosphor]
+case .ph_cylinder : return [.phosphor]
+case .ph_cylinder_bold : return [.phosphor]
+case .ph_cylinder_fill : return [.phosphor]
+case .ph_cylinder_light : return [.phosphor]
+case .ph_cylinder_thin : return [.phosphor]
+case .ph_database : return [.phosphor]
+case .ph_database_bold : return [.phosphor]
+case .ph_database_fill : return [.phosphor]
+case .ph_database_light : return [.phosphor]
+case .ph_database_thin : return [.phosphor]
+case .ph_desktop : return [.phosphor]
+case .ph_desktop_bold : return [.phosphor]
+case .ph_desktop_fill : return [.phosphor]
+case .ph_desktop_light : return [.phosphor]
+case .ph_desktop_thin : return [.phosphor]
+case .ph_desktop_tower : return [.phosphor]
+case .ph_desktop_tower_bold : return [.phosphor]
+case .ph_desktop_tower_fill : return [.phosphor]
+case .ph_desktop_tower_light : return [.phosphor]
+case .ph_desktop_tower_thin : return [.phosphor]
+case .ph_detective : return [.phosphor]
+case .ph_detective_bold : return [.phosphor]
+case .ph_detective_fill : return [.phosphor]
+case .ph_detective_light : return [.phosphor]
+case .ph_detective_thin : return [.phosphor]
+case .ph_device_mobile : return [.phosphor]
+case .ph_device_mobile_bold : return [.phosphor]
+case .ph_device_mobile_camera : return [.phosphor]
+case .ph_device_mobile_camera_bold : return [.phosphor]
+case .ph_device_mobile_camera_fill : return [.phosphor]
+case .ph_device_mobile_camera_light : return [.phosphor]
+case .ph_device_mobile_camera_thin : return [.phosphor]
+case .ph_device_mobile_fill : return [.phosphor]
+case .ph_device_mobile_light : return [.phosphor]
+case .ph_device_mobile_speaker : return [.phosphor]
+case .ph_device_mobile_speaker_bold : return [.phosphor]
+case .ph_device_mobile_speaker_fill : return [.phosphor]
+case .ph_device_mobile_speaker_light : return [.phosphor]
+case .ph_device_mobile_speaker_thin : return [.phosphor]
+case .ph_device_mobile_thin : return [.phosphor]
+case .ph_device_tablet : return [.phosphor]
+case .ph_device_tablet_bold : return [.phosphor]
+case .ph_device_tablet_camera : return [.phosphor]
+case .ph_device_tablet_camera_bold : return [.phosphor]
+case .ph_device_tablet_camera_fill : return [.phosphor]
+case .ph_device_tablet_camera_light : return [.phosphor]
+case .ph_device_tablet_camera_thin : return [.phosphor]
+case .ph_device_tablet_fill : return [.phosphor]
+case .ph_device_tablet_light : return [.phosphor]
+case .ph_device_tablet_speaker : return [.phosphor]
+case .ph_device_tablet_speaker_bold : return [.phosphor]
+case .ph_device_tablet_speaker_fill : return [.phosphor]
+case .ph_device_tablet_speaker_light : return [.phosphor]
+case .ph_device_tablet_speaker_thin : return [.phosphor]
+case .ph_device_tablet_thin : return [.phosphor]
+case .ph_diamond : return [.phosphor]
+case .ph_diamond_bold : return [.phosphor]
+case .ph_diamond_fill : return [.phosphor]
+case .ph_diamond_light : return [.phosphor]
+case .ph_diamond_thin : return [.phosphor]
+case .ph_diamonds_four : return [.phosphor]
+case .ph_diamonds_four_bold : return [.phosphor]
+case .ph_diamonds_four_fill : return [.phosphor]
+case .ph_diamonds_four_light : return [.phosphor]
+case .ph_diamonds_four_thin : return [.phosphor]
+case .ph_dice_five : return [.phosphor]
+case .ph_dice_five_bold : return [.phosphor]
+case .ph_dice_five_fill : return [.phosphor]
+case .ph_dice_five_light : return [.phosphor]
+case .ph_dice_five_thin : return [.phosphor]
+case .ph_dice_four : return [.phosphor]
+case .ph_dice_four_bold : return [.phosphor]
+case .ph_dice_four_fill : return [.phosphor]
+case .ph_dice_four_light : return [.phosphor]
+case .ph_dice_four_thin : return [.phosphor]
+case .ph_dice_one : return [.phosphor]
+case .ph_dice_one_bold : return [.phosphor]
+case .ph_dice_one_fill : return [.phosphor]
+case .ph_dice_one_light : return [.phosphor]
+case .ph_dice_one_thin : return [.phosphor]
+case .ph_dice_six : return [.phosphor]
+case .ph_dice_six_bold : return [.phosphor]
+case .ph_dice_six_fill : return [.phosphor]
+case .ph_dice_six_light : return [.phosphor]
+case .ph_dice_six_thin : return [.phosphor]
+case .ph_dice_three : return [.phosphor]
+case .ph_dice_three_bold : return [.phosphor]
+case .ph_dice_three_fill : return [.phosphor]
+case .ph_dice_three_light : return [.phosphor]
+case .ph_dice_three_thin : return [.phosphor]
+case .ph_dice_two : return [.phosphor]
+case .ph_dice_two_bold : return [.phosphor]
+case .ph_dice_two_fill : return [.phosphor]
+case .ph_dice_two_light : return [.phosphor]
+case .ph_dice_two_thin : return [.phosphor]
+case .ph_disc : return [.phosphor]
+case .ph_disc_bold : return [.phosphor]
+case .ph_disc_fill : return [.phosphor]
+case .ph_disc_light : return [.phosphor]
+case .ph_disc_thin : return [.phosphor]
+case .ph_discord_logo : return [.phosphor]
+case .ph_discord_logo_bold : return [.phosphor]
+case .ph_discord_logo_fill : return [.phosphor]
+case .ph_discord_logo_light : return [.phosphor]
+case .ph_discord_logo_thin : return [.phosphor]
+case .ph_divide : return [.phosphor]
+case .ph_divide_bold : return [.phosphor]
+case .ph_divide_fill : return [.phosphor]
+case .ph_divide_light : return [.phosphor]
+case .ph_divide_thin : return [.phosphor]
+case .ph_dog : return [.phosphor]
+case .ph_dog_bold : return [.phosphor]
+case .ph_dog_fill : return [.phosphor]
+case .ph_dog_light : return [.phosphor]
+case .ph_dog_thin : return [.phosphor]
+case .ph_door : return [.phosphor]
+case .ph_door_bold : return [.phosphor]
+case .ph_door_fill : return [.phosphor]
+case .ph_door_light : return [.phosphor]
+case .ph_door_thin : return [.phosphor]
+case .ph_dots_nine : return [.phosphor]
+case .ph_dots_nine_bold : return [.phosphor]
+case .ph_dots_nine_fill : return [.phosphor]
+case .ph_dots_nine_light : return [.phosphor]
+case .ph_dots_nine_thin : return [.phosphor]
+case .ph_dots_six : return [.phosphor]
+case .ph_dots_six_bold : return [.phosphor]
+case .ph_dots_six_fill : return [.phosphor]
+case .ph_dots_six_light : return [.phosphor]
+case .ph_dots_six_thin : return [.phosphor]
+case .ph_dots_six_vertical : return [.phosphor]
+case .ph_dots_six_vertical_bold : return [.phosphor]
+case .ph_dots_six_vertical_fill : return [.phosphor]
+case .ph_dots_six_vertical_light : return [.phosphor]
+case .ph_dots_six_vertical_thin : return [.phosphor]
+case .ph_dots_three : return [.phosphor]
+case .ph_dots_three_bold : return [.phosphor]
+case .ph_dots_three_circle : return [.phosphor]
+case .ph_dots_three_circle_bold : return [.phosphor]
+case .ph_dots_three_circle_fill : return [.phosphor]
+case .ph_dots_three_circle_light : return [.phosphor]
+case .ph_dots_three_circle_thin : return [.phosphor]
+case .ph_dots_three_circle_vertical : return [.phosphor]
+case .ph_dots_three_circle_vertical_bold : return [.phosphor]
+case .ph_dots_three_circle_vertical_fill : return [.phosphor]
+case .ph_dots_three_circle_vertical_light : return [.phosphor]
+case .ph_dots_three_circle_vertical_thin : return [.phosphor]
+case .ph_dots_three_fill : return [.phosphor]
+case .ph_dots_three_light : return [.phosphor]
+case .ph_dots_three_outline : return [.phosphor]
+case .ph_dots_three_outline_bold : return [.phosphor]
+case .ph_dots_three_outline_fill : return [.phosphor]
+case .ph_dots_three_outline_light : return [.phosphor]
+case .ph_dots_three_outline_thin : return [.phosphor]
+case .ph_dots_three_outline_vertical : return [.phosphor]
+case .ph_dots_three_outline_vertical_bold : return [.phosphor]
+case .ph_dots_three_outline_vertical_fill : return [.phosphor]
+case .ph_dots_three_outline_vertical_light : return [.phosphor]
+case .ph_dots_three_outline_vertical_thin : return [.phosphor]
+case .ph_dots_three_thin : return [.phosphor]
+case .ph_dots_three_vertical : return [.phosphor]
+case .ph_dots_three_vertical_bold : return [.phosphor]
+case .ph_dots_three_vertical_fill : return [.phosphor]
+case .ph_dots_three_vertical_light : return [.phosphor]
+case .ph_dots_three_vertical_thin : return [.phosphor]
+case .ph_download : return [.phosphor]
+case .ph_download_bold : return [.phosphor]
+case .ph_download_fill : return [.phosphor]
+case .ph_download_light : return [.phosphor]
+case .ph_download_simple : return [.phosphor]
+case .ph_download_simple_bold : return [.phosphor]
+case .ph_download_simple_fill : return [.phosphor]
+case .ph_download_simple_light : return [.phosphor]
+case .ph_download_simple_thin : return [.phosphor]
+case .ph_download_thin : return [.phosphor]
+case .ph_dribbble_logo : return [.phosphor]
+case .ph_dribbble_logo_bold : return [.phosphor]
+case .ph_dribbble_logo_fill : return [.phosphor]
+case .ph_dribbble_logo_light : return [.phosphor]
+case .ph_dribbble_logo_thin : return [.phosphor]
+case .ph_drop : return [.phosphor]
+case .ph_drop_bold : return [.phosphor]
+case .ph_drop_fill : return [.phosphor]
+case .ph_drop_half : return [.phosphor]
+case .ph_drop_half_bold : return [.phosphor]
+case .ph_drop_half_bottom : return [.phosphor]
+case .ph_drop_half_bottom_bold : return [.phosphor]
+case .ph_drop_half_bottom_fill : return [.phosphor]
+case .ph_drop_half_bottom_light : return [.phosphor]
+case .ph_drop_half_bottom_thin : return [.phosphor]
+case .ph_drop_half_fill : return [.phosphor]
+case .ph_drop_half_light : return [.phosphor]
+case .ph_drop_half_thin : return [.phosphor]
+case .ph_drop_light : return [.phosphor]
+case .ph_drop_thin : return [.phosphor]
+case .ph_ear : return [.phosphor]
+case .ph_ear_bold : return [.phosphor]
+case .ph_ear_fill : return [.phosphor]
+case .ph_ear_light : return [.phosphor]
+case .ph_ear_slash : return [.phosphor]
+case .ph_ear_slash_bold : return [.phosphor]
+case .ph_ear_slash_fill : return [.phosphor]
+case .ph_ear_slash_light : return [.phosphor]
+case .ph_ear_slash_thin : return [.phosphor]
+case .ph_ear_thin : return [.phosphor]
+case .ph_egg : return [.phosphor]
+case .ph_egg_bold : return [.phosphor]
+case .ph_egg_crack : return [.phosphor]
+case .ph_egg_crack_bold : return [.phosphor]
+case .ph_egg_crack_fill : return [.phosphor]
+case .ph_egg_crack_light : return [.phosphor]
+case .ph_egg_crack_thin : return [.phosphor]
+case .ph_egg_fill : return [.phosphor]
+case .ph_egg_light : return [.phosphor]
+case .ph_egg_thin : return [.phosphor]
+case .ph_eject : return [.phosphor]
+case .ph_eject_bold : return [.phosphor]
+case .ph_eject_fill : return [.phosphor]
+case .ph_eject_light : return [.phosphor]
+case .ph_eject_simple : return [.phosphor]
+case .ph_eject_simple_bold : return [.phosphor]
+case .ph_eject_simple_fill : return [.phosphor]
+case .ph_eject_simple_light : return [.phosphor]
+case .ph_eject_simple_thin : return [.phosphor]
+case .ph_eject_thin : return [.phosphor]
+case .ph_envelope : return [.phosphor]
+case .ph_envelope_bold : return [.phosphor]
+case .ph_envelope_fill : return [.phosphor]
+case .ph_envelope_light : return [.phosphor]
+case .ph_envelope_open : return [.phosphor]
+case .ph_envelope_open_bold : return [.phosphor]
+case .ph_envelope_open_fill : return [.phosphor]
+case .ph_envelope_open_light : return [.phosphor]
+case .ph_envelope_open_thin : return [.phosphor]
+case .ph_envelope_simple : return [.phosphor]
+case .ph_envelope_simple_bold : return [.phosphor]
+case .ph_envelope_simple_fill : return [.phosphor]
+case .ph_envelope_simple_light : return [.phosphor]
+case .ph_envelope_simple_open : return [.phosphor]
+case .ph_envelope_simple_open_bold : return [.phosphor]
+case .ph_envelope_simple_open_fill : return [.phosphor]
+case .ph_envelope_simple_open_light : return [.phosphor]
+case .ph_envelope_simple_open_thin : return [.phosphor]
+case .ph_envelope_simple_thin : return [.phosphor]
+case .ph_envelope_thin : return [.phosphor]
+case .ph_equalizer : return [.phosphor]
+case .ph_equalizer_bold : return [.phosphor]
+case .ph_equalizer_fill : return [.phosphor]
+case .ph_equalizer_light : return [.phosphor]
+case .ph_equalizer_thin : return [.phosphor]
+case .ph_equals : return [.phosphor]
+case .ph_equals_bold : return [.phosphor]
+case .ph_equals_fill : return [.phosphor]
+case .ph_equals_light : return [.phosphor]
+case .ph_equals_thin : return [.phosphor]
+case .ph_eraser : return [.phosphor]
+case .ph_eraser_bold : return [.phosphor]
+case .ph_eraser_fill : return [.phosphor]
+case .ph_eraser_light : return [.phosphor]
+case .ph_eraser_thin : return [.phosphor]
+case .ph_exam : return [.phosphor]
+case .ph_exam_bold : return [.phosphor]
+case .ph_exam_fill : return [.phosphor]
+case .ph_exam_light : return [.phosphor]
+case .ph_exam_thin : return [.phosphor]
+case .ph_export : return [.phosphor]
+case .ph_export_bold : return [.phosphor]
+case .ph_export_fill : return [.phosphor]
+case .ph_export_light : return [.phosphor]
+case .ph_export_thin : return [.phosphor]
+case .ph_eye : return [.phosphor]
+case .ph_eye_bold : return [.phosphor]
+case .ph_eye_closed : return [.phosphor]
+case .ph_eye_closed_bold : return [.phosphor]
+case .ph_eye_closed_fill : return [.phosphor]
+case .ph_eye_closed_light : return [.phosphor]
+case .ph_eye_closed_thin : return [.phosphor]
+case .ph_eye_fill : return [.phosphor]
+case .ph_eye_light : return [.phosphor]
+case .ph_eye_slash : return [.phosphor]
+case .ph_eye_slash_bold : return [.phosphor]
+case .ph_eye_slash_fill : return [.phosphor]
+case .ph_eye_slash_light : return [.phosphor]
+case .ph_eye_slash_thin : return [.phosphor]
+case .ph_eye_thin : return [.phosphor]
+case .ph_eyedropper : return [.phosphor]
+case .ph_eyedropper_bold : return [.phosphor]
+case .ph_eyedropper_fill : return [.phosphor]
+case .ph_eyedropper_light : return [.phosphor]
+case .ph_eyedropper_sample : return [.phosphor]
+case .ph_eyedropper_sample_bold : return [.phosphor]
+case .ph_eyedropper_sample_fill : return [.phosphor]
+case .ph_eyedropper_sample_light : return [.phosphor]
+case .ph_eyedropper_sample_thin : return [.phosphor]
+case .ph_eyedropper_thin : return [.phosphor]
+case .ph_eyeglasses : return [.phosphor]
+case .ph_eyeglasses_bold : return [.phosphor]
+case .ph_eyeglasses_fill : return [.phosphor]
+case .ph_eyeglasses_light : return [.phosphor]
+case .ph_eyeglasses_thin : return [.phosphor]
+case .ph_face_mask : return [.phosphor]
+case .ph_face_mask_bold : return [.phosphor]
+case .ph_face_mask_fill : return [.phosphor]
+case .ph_face_mask_light : return [.phosphor]
+case .ph_face_mask_thin : return [.phosphor]
+case .ph_facebook_logo : return [.phosphor]
+case .ph_facebook_logo_bold : return [.phosphor]
+case .ph_facebook_logo_fill : return [.phosphor]
+case .ph_facebook_logo_light : return [.phosphor]
+case .ph_facebook_logo_thin : return [.phosphor]
+case .ph_factory : return [.phosphor]
+case .ph_factory_bold : return [.phosphor]
+case .ph_factory_fill : return [.phosphor]
+case .ph_factory_light : return [.phosphor]
+case .ph_factory_thin : return [.phosphor]
+case .ph_faders : return [.phosphor]
+case .ph_faders_bold : return [.phosphor]
+case .ph_faders_fill : return [.phosphor]
+case .ph_faders_horizontal : return [.phosphor]
+case .ph_faders_horizontal_bold : return [.phosphor]
+case .ph_faders_horizontal_fill : return [.phosphor]
+case .ph_faders_horizontal_light : return [.phosphor]
+case .ph_faders_horizontal_thin : return [.phosphor]
+case .ph_faders_light : return [.phosphor]
+case .ph_faders_thin : return [.phosphor]
+case .ph_fast_forward : return [.phosphor]
+case .ph_fast_forward_bold : return [.phosphor]
+case .ph_fast_forward_circle : return [.phosphor]
+case .ph_fast_forward_circle_bold : return [.phosphor]
+case .ph_fast_forward_circle_fill : return [.phosphor]
+case .ph_fast_forward_circle_light : return [.phosphor]
+case .ph_fast_forward_circle_thin : return [.phosphor]
+case .ph_fast_forward_fill : return [.phosphor]
+case .ph_fast_forward_light : return [.phosphor]
+case .ph_fast_forward_thin : return [.phosphor]
+case .ph_figma_logo : return [.phosphor]
+case .ph_figma_logo_bold : return [.phosphor]
+case .ph_figma_logo_fill : return [.phosphor]
+case .ph_figma_logo_light : return [.phosphor]
+case .ph_figma_logo_thin : return [.phosphor]
+case .ph_file : return [.phosphor]
+case .ph_file_arrow_down : return [.phosphor]
+case .ph_file_arrow_down_bold : return [.phosphor]
+case .ph_file_arrow_down_fill : return [.phosphor]
+case .ph_file_arrow_down_light : return [.phosphor]
+case .ph_file_arrow_down_thin : return [.phosphor]
+case .ph_file_arrow_up : return [.phosphor]
+case .ph_file_arrow_up_bold : return [.phosphor]
+case .ph_file_arrow_up_fill : return [.phosphor]
+case .ph_file_arrow_up_light : return [.phosphor]
+case .ph_file_arrow_up_thin : return [.phosphor]
+case .ph_file_audio : return [.phosphor]
+case .ph_file_audio_bold : return [.phosphor]
+case .ph_file_audio_fill : return [.phosphor]
+case .ph_file_audio_light : return [.phosphor]
+case .ph_file_audio_thin : return [.phosphor]
+case .ph_file_bold : return [.phosphor]
+case .ph_file_cloud : return [.phosphor]
+case .ph_file_cloud_bold : return [.phosphor]
+case .ph_file_cloud_fill : return [.phosphor]
+case .ph_file_cloud_light : return [.phosphor]
+case .ph_file_cloud_thin : return [.phosphor]
+case .ph_file_code : return [.phosphor]
+case .ph_file_code_bold : return [.phosphor]
+case .ph_file_code_fill : return [.phosphor]
+case .ph_file_code_light : return [.phosphor]
+case .ph_file_code_thin : return [.phosphor]
+case .ph_file_css : return [.phosphor]
+case .ph_file_css_bold : return [.phosphor]
+case .ph_file_css_fill : return [.phosphor]
+case .ph_file_css_light : return [.phosphor]
+case .ph_file_css_thin : return [.phosphor]
+case .ph_file_csv : return [.phosphor]
+case .ph_file_csv_bold : return [.phosphor]
+case .ph_file_csv_fill : return [.phosphor]
+case .ph_file_csv_light : return [.phosphor]
+case .ph_file_csv_thin : return [.phosphor]
+case .ph_file_doc : return [.phosphor]
+case .ph_file_doc_bold : return [.phosphor]
+case .ph_file_doc_fill : return [.phosphor]
+case .ph_file_doc_light : return [.phosphor]
+case .ph_file_doc_thin : return [.phosphor]
+case .ph_file_dotted : return [.phosphor]
+case .ph_file_dotted_bold : return [.phosphor]
+case .ph_file_dotted_fill : return [.phosphor]
+case .ph_file_dotted_light : return [.phosphor]
+case .ph_file_dotted_thin : return [.phosphor]
+case .ph_file_fill : return [.phosphor]
+case .ph_file_html : return [.phosphor]
+case .ph_file_html_bold : return [.phosphor]
+case .ph_file_html_fill : return [.phosphor]
+case .ph_file_html_light : return [.phosphor]
+case .ph_file_html_thin : return [.phosphor]
+case .ph_file_image : return [.phosphor]
+case .ph_file_image_bold : return [.phosphor]
+case .ph_file_image_fill : return [.phosphor]
+case .ph_file_image_light : return [.phosphor]
+case .ph_file_image_thin : return [.phosphor]
+case .ph_file_jpg : return [.phosphor]
+case .ph_file_jpg_bold : return [.phosphor]
+case .ph_file_jpg_fill : return [.phosphor]
+case .ph_file_jpg_light : return [.phosphor]
+case .ph_file_jpg_thin : return [.phosphor]
+case .ph_file_js : return [.phosphor]
+case .ph_file_js_bold : return [.phosphor]
+case .ph_file_js_fill : return [.phosphor]
+case .ph_file_js_light : return [.phosphor]
+case .ph_file_js_thin : return [.phosphor]
+case .ph_file_jsx : return [.phosphor]
+case .ph_file_jsx_bold : return [.phosphor]
+case .ph_file_jsx_fill : return [.phosphor]
+case .ph_file_jsx_light : return [.phosphor]
+case .ph_file_jsx_thin : return [.phosphor]
+case .ph_file_light : return [.phosphor]
+case .ph_file_lock : return [.phosphor]
+case .ph_file_lock_bold : return [.phosphor]
+case .ph_file_lock_fill : return [.phosphor]
+case .ph_file_lock_light : return [.phosphor]
+case .ph_file_lock_thin : return [.phosphor]
+case .ph_file_minus : return [.phosphor]
+case .ph_file_minus_bold : return [.phosphor]
+case .ph_file_minus_fill : return [.phosphor]
+case .ph_file_minus_light : return [.phosphor]
+case .ph_file_minus_thin : return [.phosphor]
+case .ph_file_pdf : return [.phosphor]
+case .ph_file_pdf_bold : return [.phosphor]
+case .ph_file_pdf_fill : return [.phosphor]
+case .ph_file_pdf_light : return [.phosphor]
+case .ph_file_pdf_thin : return [.phosphor]
+case .ph_file_plus : return [.phosphor]
+case .ph_file_plus_bold : return [.phosphor]
+case .ph_file_plus_fill : return [.phosphor]
+case .ph_file_plus_light : return [.phosphor]
+case .ph_file_plus_thin : return [.phosphor]
+case .ph_file_png : return [.phosphor]
+case .ph_file_png_bold : return [.phosphor]
+case .ph_file_png_fill : return [.phosphor]
+case .ph_file_png_light : return [.phosphor]
+case .ph_file_png_thin : return [.phosphor]
+case .ph_file_ppt : return [.phosphor]
+case .ph_file_ppt_bold : return [.phosphor]
+case .ph_file_ppt_fill : return [.phosphor]
+case .ph_file_ppt_light : return [.phosphor]
+case .ph_file_ppt_thin : return [.phosphor]
+case .ph_file_rs : return [.phosphor]
+case .ph_file_rs_bold : return [.phosphor]
+case .ph_file_rs_fill : return [.phosphor]
+case .ph_file_rs_light : return [.phosphor]
+case .ph_file_rs_thin : return [.phosphor]
+case .ph_file_search : return [.phosphor]
+case .ph_file_search_bold : return [.phosphor]
+case .ph_file_search_fill : return [.phosphor]
+case .ph_file_search_light : return [.phosphor]
+case .ph_file_search_thin : return [.phosphor]
+case .ph_file_text : return [.phosphor]
+case .ph_file_text_bold : return [.phosphor]
+case .ph_file_text_fill : return [.phosphor]
+case .ph_file_text_light : return [.phosphor]
+case .ph_file_text_thin : return [.phosphor]
+case .ph_file_thin : return [.phosphor]
+case .ph_file_ts : return [.phosphor]
+case .ph_file_ts_bold : return [.phosphor]
+case .ph_file_ts_fill : return [.phosphor]
+case .ph_file_ts_light : return [.phosphor]
+case .ph_file_ts_thin : return [.phosphor]
+case .ph_file_tsx : return [.phosphor]
+case .ph_file_tsx_bold : return [.phosphor]
+case .ph_file_tsx_fill : return [.phosphor]
+case .ph_file_tsx_light : return [.phosphor]
+case .ph_file_tsx_thin : return [.phosphor]
+case .ph_file_video : return [.phosphor]
+case .ph_file_video_bold : return [.phosphor]
+case .ph_file_video_fill : return [.phosphor]
+case .ph_file_video_light : return [.phosphor]
+case .ph_file_video_thin : return [.phosphor]
+case .ph_file_vue : return [.phosphor]
+case .ph_file_vue_bold : return [.phosphor]
+case .ph_file_vue_fill : return [.phosphor]
+case .ph_file_vue_light : return [.phosphor]
+case .ph_file_vue_thin : return [.phosphor]
+case .ph_file_x : return [.phosphor]
+case .ph_file_x_bold : return [.phosphor]
+case .ph_file_x_fill : return [.phosphor]
+case .ph_file_x_light : return [.phosphor]
+case .ph_file_x_thin : return [.phosphor]
+case .ph_file_xls : return [.phosphor]
+case .ph_file_xls_bold : return [.phosphor]
+case .ph_file_xls_fill : return [.phosphor]
+case .ph_file_xls_light : return [.phosphor]
+case .ph_file_xls_thin : return [.phosphor]
+case .ph_file_zip : return [.phosphor]
+case .ph_file_zip_bold : return [.phosphor]
+case .ph_file_zip_fill : return [.phosphor]
+case .ph_file_zip_light : return [.phosphor]
+case .ph_file_zip_thin : return [.phosphor]
+case .ph_files : return [.phosphor]
+case .ph_files_bold : return [.phosphor]
+case .ph_files_fill : return [.phosphor]
+case .ph_files_light : return [.phosphor]
+case .ph_files_thin : return [.phosphor]
+case .ph_film_script : return [.phosphor]
+case .ph_film_script_bold : return [.phosphor]
+case .ph_film_script_fill : return [.phosphor]
+case .ph_film_script_light : return [.phosphor]
+case .ph_film_script_thin : return [.phosphor]
+case .ph_film_slate : return [.phosphor]
+case .ph_film_slate_bold : return [.phosphor]
+case .ph_film_slate_fill : return [.phosphor]
+case .ph_film_slate_light : return [.phosphor]
+case .ph_film_slate_thin : return [.phosphor]
+case .ph_film_strip : return [.phosphor]
+case .ph_film_strip_bold : return [.phosphor]
+case .ph_film_strip_fill : return [.phosphor]
+case .ph_film_strip_light : return [.phosphor]
+case .ph_film_strip_thin : return [.phosphor]
+case .ph_fingerprint : return [.phosphor]
+case .ph_fingerprint_bold : return [.phosphor]
+case .ph_fingerprint_fill : return [.phosphor]
+case .ph_fingerprint_light : return [.phosphor]
+case .ph_fingerprint_simple : return [.phosphor]
+case .ph_fingerprint_simple_bold : return [.phosphor]
+case .ph_fingerprint_simple_fill : return [.phosphor]
+case .ph_fingerprint_simple_light : return [.phosphor]
+case .ph_fingerprint_simple_thin : return [.phosphor]
+case .ph_fingerprint_thin : return [.phosphor]
+case .ph_finn_the_human : return [.phosphor]
+case .ph_finn_the_human_bold : return [.phosphor]
+case .ph_finn_the_human_fill : return [.phosphor]
+case .ph_finn_the_human_light : return [.phosphor]
+case .ph_finn_the_human_thin : return [.phosphor]
+case .ph_fire : return [.phosphor]
+case .ph_fire_bold : return [.phosphor]
+case .ph_fire_fill : return [.phosphor]
+case .ph_fire_light : return [.phosphor]
+case .ph_fire_simple : return [.phosphor]
+case .ph_fire_simple_bold : return [.phosphor]
+case .ph_fire_simple_fill : return [.phosphor]
+case .ph_fire_simple_light : return [.phosphor]
+case .ph_fire_simple_thin : return [.phosphor]
+case .ph_fire_thin : return [.phosphor]
+case .ph_first_aid : return [.phosphor]
+case .ph_first_aid_bold : return [.phosphor]
+case .ph_first_aid_fill : return [.phosphor]
+case .ph_first_aid_kit : return [.phosphor]
+case .ph_first_aid_kit_bold : return [.phosphor]
+case .ph_first_aid_kit_fill : return [.phosphor]
+case .ph_first_aid_kit_light : return [.phosphor]
+case .ph_first_aid_kit_thin : return [.phosphor]
+case .ph_first_aid_light : return [.phosphor]
+case .ph_first_aid_thin : return [.phosphor]
+case .ph_fish : return [.phosphor]
+case .ph_fish_bold : return [.phosphor]
+case .ph_fish_fill : return [.phosphor]
+case .ph_fish_light : return [.phosphor]
+case .ph_fish_simple : return [.phosphor]
+case .ph_fish_simple_bold : return [.phosphor]
+case .ph_fish_simple_fill : return [.phosphor]
+case .ph_fish_simple_light : return [.phosphor]
+case .ph_fish_simple_thin : return [.phosphor]
+case .ph_fish_thin : return [.phosphor]
+case .ph_flag : return [.phosphor]
+case .ph_flag_banner : return [.phosphor]
+case .ph_flag_banner_bold : return [.phosphor]
+case .ph_flag_banner_fill : return [.phosphor]
+case .ph_flag_banner_light : return [.phosphor]
+case .ph_flag_banner_thin : return [.phosphor]
+case .ph_flag_bold : return [.phosphor]
+case .ph_flag_checkered : return [.phosphor]
+case .ph_flag_checkered_bold : return [.phosphor]
+case .ph_flag_checkered_fill : return [.phosphor]
+case .ph_flag_checkered_light : return [.phosphor]
+case .ph_flag_checkered_thin : return [.phosphor]
+case .ph_flag_fill : return [.phosphor]
+case .ph_flag_light : return [.phosphor]
+case .ph_flag_thin : return [.phosphor]
+case .ph_flame : return [.phosphor]
+case .ph_flame_bold : return [.phosphor]
+case .ph_flame_fill : return [.phosphor]
+case .ph_flame_light : return [.phosphor]
+case .ph_flame_thin : return [.phosphor]
+case .ph_flashlight : return [.phosphor]
+case .ph_flashlight_bold : return [.phosphor]
+case .ph_flashlight_fill : return [.phosphor]
+case .ph_flashlight_light : return [.phosphor]
+case .ph_flashlight_thin : return [.phosphor]
+case .ph_flask : return [.phosphor]
+case .ph_flask_bold : return [.phosphor]
+case .ph_flask_fill : return [.phosphor]
+case .ph_flask_light : return [.phosphor]
+case .ph_flask_thin : return [.phosphor]
+case .ph_floppy_disk : return [.phosphor]
+case .ph_floppy_disk_back : return [.phosphor]
+case .ph_floppy_disk_back_bold : return [.phosphor]
+case .ph_floppy_disk_back_fill : return [.phosphor]
+case .ph_floppy_disk_back_light : return [.phosphor]
+case .ph_floppy_disk_back_thin : return [.phosphor]
+case .ph_floppy_disk_bold : return [.phosphor]
+case .ph_floppy_disk_fill : return [.phosphor]
+case .ph_floppy_disk_light : return [.phosphor]
+case .ph_floppy_disk_thin : return [.phosphor]
+case .ph_flow_arrow : return [.phosphor]
+case .ph_flow_arrow_bold : return [.phosphor]
+case .ph_flow_arrow_fill : return [.phosphor]
+case .ph_flow_arrow_light : return [.phosphor]
+case .ph_flow_arrow_thin : return [.phosphor]
+case .ph_flower : return [.phosphor]
+case .ph_flower_bold : return [.phosphor]
+case .ph_flower_fill : return [.phosphor]
+case .ph_flower_light : return [.phosphor]
+case .ph_flower_lotus : return [.phosphor]
+case .ph_flower_lotus_bold : return [.phosphor]
+case .ph_flower_lotus_fill : return [.phosphor]
+case .ph_flower_lotus_light : return [.phosphor]
+case .ph_flower_lotus_thin : return [.phosphor]
+case .ph_flower_thin : return [.phosphor]
+case .ph_flying_saucer : return [.phosphor]
+case .ph_flying_saucer_bold : return [.phosphor]
+case .ph_flying_saucer_fill : return [.phosphor]
+case .ph_flying_saucer_light : return [.phosphor]
+case .ph_flying_saucer_thin : return [.phosphor]
+case .ph_folder : return [.phosphor]
+case .ph_folder_bold : return [.phosphor]
+case .ph_folder_dotted : return [.phosphor]
+case .ph_folder_dotted_bold : return [.phosphor]
+case .ph_folder_dotted_fill : return [.phosphor]
+case .ph_folder_dotted_light : return [.phosphor]
+case .ph_folder_dotted_thin : return [.phosphor]
+case .ph_folder_fill : return [.phosphor]
+case .ph_folder_light : return [.phosphor]
+case .ph_folder_lock : return [.phosphor]
+case .ph_folder_lock_bold : return [.phosphor]
+case .ph_folder_lock_fill : return [.phosphor]
+case .ph_folder_lock_light : return [.phosphor]
+case .ph_folder_lock_thin : return [.phosphor]
+case .ph_folder_minus : return [.phosphor]
+case .ph_folder_minus_bold : return [.phosphor]
+case .ph_folder_minus_fill : return [.phosphor]
+case .ph_folder_minus_light : return [.phosphor]
+case .ph_folder_minus_thin : return [.phosphor]
+case .ph_folder_notch : return [.phosphor]
+case .ph_folder_notch_bold : return [.phosphor]
+case .ph_folder_notch_fill : return [.phosphor]
+case .ph_folder_notch_light : return [.phosphor]
+case .ph_folder_notch_minus : return [.phosphor]
+case .ph_folder_notch_minus_bold : return [.phosphor]
+case .ph_folder_notch_minus_fill : return [.phosphor]
+case .ph_folder_notch_minus_light : return [.phosphor]
+case .ph_folder_notch_minus_thin : return [.phosphor]
+case .ph_folder_notch_open : return [.phosphor]
+case .ph_folder_notch_open_bold : return [.phosphor]
+case .ph_folder_notch_open_fill : return [.phosphor]
+case .ph_folder_notch_open_light : return [.phosphor]
+case .ph_folder_notch_open_thin : return [.phosphor]
+case .ph_folder_notch_plus : return [.phosphor]
+case .ph_folder_notch_plus_bold : return [.phosphor]
+case .ph_folder_notch_plus_fill : return [.phosphor]
+case .ph_folder_notch_plus_light : return [.phosphor]
+case .ph_folder_notch_plus_thin : return [.phosphor]
+case .ph_folder_notch_thin : return [.phosphor]
+case .ph_folder_open : return [.phosphor]
+case .ph_folder_open_bold : return [.phosphor]
+case .ph_folder_open_fill : return [.phosphor]
+case .ph_folder_open_light : return [.phosphor]
+case .ph_folder_open_thin : return [.phosphor]
+case .ph_folder_plus : return [.phosphor]
+case .ph_folder_plus_bold : return [.phosphor]
+case .ph_folder_plus_fill : return [.phosphor]
+case .ph_folder_plus_light : return [.phosphor]
+case .ph_folder_plus_thin : return [.phosphor]
+case .ph_folder_simple : return [.phosphor]
+case .ph_folder_simple_bold : return [.phosphor]
+case .ph_folder_simple_dotted : return [.phosphor]
+case .ph_folder_simple_dotted_bold : return [.phosphor]
+case .ph_folder_simple_dotted_fill : return [.phosphor]
+case .ph_folder_simple_dotted_light : return [.phosphor]
+case .ph_folder_simple_dotted_thin : return [.phosphor]
+case .ph_folder_simple_fill : return [.phosphor]
+case .ph_folder_simple_light : return [.phosphor]
+case .ph_folder_simple_lock : return [.phosphor]
+case .ph_folder_simple_lock_bold : return [.phosphor]
+case .ph_folder_simple_lock_fill : return [.phosphor]
+case .ph_folder_simple_lock_light : return [.phosphor]
+case .ph_folder_simple_lock_thin : return [.phosphor]
+case .ph_folder_simple_minus : return [.phosphor]
+case .ph_folder_simple_minus_bold : return [.phosphor]
+case .ph_folder_simple_minus_fill : return [.phosphor]
+case .ph_folder_simple_minus_light : return [.phosphor]
+case .ph_folder_simple_minus_thin : return [.phosphor]
+case .ph_folder_simple_plus : return [.phosphor]
+case .ph_folder_simple_plus_bold : return [.phosphor]
+case .ph_folder_simple_plus_fill : return [.phosphor]
+case .ph_folder_simple_plus_light : return [.phosphor]
+case .ph_folder_simple_plus_thin : return [.phosphor]
+case .ph_folder_simple_star : return [.phosphor]
+case .ph_folder_simple_star_bold : return [.phosphor]
+case .ph_folder_simple_star_fill : return [.phosphor]
+case .ph_folder_simple_star_light : return [.phosphor]
+case .ph_folder_simple_star_thin : return [.phosphor]
+case .ph_folder_simple_thin : return [.phosphor]
+case .ph_folder_simple_user : return [.phosphor]
+case .ph_folder_simple_user_bold : return [.phosphor]
+case .ph_folder_simple_user_fill : return [.phosphor]
+case .ph_folder_simple_user_light : return [.phosphor]
+case .ph_folder_simple_user_thin : return [.phosphor]
+case .ph_folder_star : return [.phosphor]
+case .ph_folder_star_bold : return [.phosphor]
+case .ph_folder_star_fill : return [.phosphor]
+case .ph_folder_star_light : return [.phosphor]
+case .ph_folder_star_thin : return [.phosphor]
+case .ph_folder_thin : return [.phosphor]
+case .ph_folder_user : return [.phosphor]
+case .ph_folder_user_bold : return [.phosphor]
+case .ph_folder_user_fill : return [.phosphor]
+case .ph_folder_user_light : return [.phosphor]
+case .ph_folder_user_thin : return [.phosphor]
+case .ph_folders : return [.phosphor]
+case .ph_folders_bold : return [.phosphor]
+case .ph_folders_fill : return [.phosphor]
+case .ph_folders_light : return [.phosphor]
+case .ph_folders_thin : return [.phosphor]
+case .ph_football : return [.phosphor]
+case .ph_football_bold : return [.phosphor]
+case .ph_football_fill : return [.phosphor]
+case .ph_football_light : return [.phosphor]
+case .ph_football_thin : return [.phosphor]
+case .ph_fork_knife : return [.phosphor]
+case .ph_fork_knife_bold : return [.phosphor]
+case .ph_fork_knife_fill : return [.phosphor]
+case .ph_fork_knife_light : return [.phosphor]
+case .ph_fork_knife_thin : return [.phosphor]
+case .ph_frame_corners : return [.phosphor]
+case .ph_frame_corners_bold : return [.phosphor]
+case .ph_frame_corners_fill : return [.phosphor]
+case .ph_frame_corners_light : return [.phosphor]
+case .ph_frame_corners_thin : return [.phosphor]
+case .ph_framer_logo : return [.phosphor]
+case .ph_framer_logo_bold : return [.phosphor]
+case .ph_framer_logo_fill : return [.phosphor]
+case .ph_framer_logo_light : return [.phosphor]
+case .ph_framer_logo_thin : return [.phosphor]
+case .ph_function : return [.phosphor]
+case .ph_function_bold : return [.phosphor]
+case .ph_function_fill : return [.phosphor]
+case .ph_function_light : return [.phosphor]
+case .ph_function_thin : return [.phosphor]
+case .ph_funnel : return [.phosphor]
+case .ph_funnel_bold : return [.phosphor]
+case .ph_funnel_fill : return [.phosphor]
+case .ph_funnel_light : return [.phosphor]
+case .ph_funnel_simple : return [.phosphor]
+case .ph_funnel_simple_bold : return [.phosphor]
+case .ph_funnel_simple_fill : return [.phosphor]
+case .ph_funnel_simple_light : return [.phosphor]
+case .ph_funnel_simple_thin : return [.phosphor]
+case .ph_funnel_thin : return [.phosphor]
+case .ph_game_controller : return [.phosphor]
+case .ph_game_controller_bold : return [.phosphor]
+case .ph_game_controller_fill : return [.phosphor]
+case .ph_game_controller_light : return [.phosphor]
+case .ph_game_controller_thin : return [.phosphor]
+case .ph_gas_pump : return [.phosphor]
+case .ph_gas_pump_bold : return [.phosphor]
+case .ph_gas_pump_fill : return [.phosphor]
+case .ph_gas_pump_light : return [.phosphor]
+case .ph_gas_pump_thin : return [.phosphor]
+case .ph_gauge : return [.phosphor]
+case .ph_gauge_bold : return [.phosphor]
+case .ph_gauge_fill : return [.phosphor]
+case .ph_gauge_light : return [.phosphor]
+case .ph_gauge_thin : return [.phosphor]
+case .ph_gear : return [.phosphor]
+case .ph_gear_bold : return [.phosphor]
+case .ph_gear_fill : return [.phosphor]
+case .ph_gear_light : return [.phosphor]
+case .ph_gear_six : return [.phosphor]
+case .ph_gear_six_bold : return [.phosphor]
+case .ph_gear_six_fill : return [.phosphor]
+case .ph_gear_six_light : return [.phosphor]
+case .ph_gear_six_thin : return [.phosphor]
+case .ph_gear_thin : return [.phosphor]
+case .ph_gender_female : return [.phosphor]
+case .ph_gender_female_bold : return [.phosphor]
+case .ph_gender_female_fill : return [.phosphor]
+case .ph_gender_female_light : return [.phosphor]
+case .ph_gender_female_thin : return [.phosphor]
+case .ph_gender_intersex : return [.phosphor]
+case .ph_gender_intersex_bold : return [.phosphor]
+case .ph_gender_intersex_fill : return [.phosphor]
+case .ph_gender_intersex_light : return [.phosphor]
+case .ph_gender_intersex_thin : return [.phosphor]
+case .ph_gender_male : return [.phosphor]
+case .ph_gender_male_bold : return [.phosphor]
+case .ph_gender_male_fill : return [.phosphor]
+case .ph_gender_male_light : return [.phosphor]
+case .ph_gender_male_thin : return [.phosphor]
+case .ph_gender_neuter : return [.phosphor]
+case .ph_gender_neuter_bold : return [.phosphor]
+case .ph_gender_neuter_fill : return [.phosphor]
+case .ph_gender_neuter_light : return [.phosphor]
+case .ph_gender_neuter_thin : return [.phosphor]
+case .ph_gender_nonbinary : return [.phosphor]
+case .ph_gender_nonbinary_bold : return [.phosphor]
+case .ph_gender_nonbinary_fill : return [.phosphor]
+case .ph_gender_nonbinary_light : return [.phosphor]
+case .ph_gender_nonbinary_thin : return [.phosphor]
+case .ph_gender_transgender : return [.phosphor]
+case .ph_gender_transgender_bold : return [.phosphor]
+case .ph_gender_transgender_fill : return [.phosphor]
+case .ph_gender_transgender_light : return [.phosphor]
+case .ph_gender_transgender_thin : return [.phosphor]
+case .ph_ghost : return [.phosphor]
+case .ph_ghost_bold : return [.phosphor]
+case .ph_ghost_fill : return [.phosphor]
+case .ph_ghost_light : return [.phosphor]
+case .ph_ghost_thin : return [.phosphor]
+case .ph_gif : return [.phosphor]
+case .ph_gif_bold : return [.phosphor]
+case .ph_gif_fill : return [.phosphor]
+case .ph_gif_light : return [.phosphor]
+case .ph_gif_thin : return [.phosphor]
+case .ph_gift : return [.phosphor]
+case .ph_gift_bold : return [.phosphor]
+case .ph_gift_fill : return [.phosphor]
+case .ph_gift_light : return [.phosphor]
+case .ph_gift_thin : return [.phosphor]
+case .ph_git_branch : return [.phosphor]
+case .ph_git_branch_bold : return [.phosphor]
+case .ph_git_branch_fill : return [.phosphor]
+case .ph_git_branch_light : return [.phosphor]
+case .ph_git_branch_thin : return [.phosphor]
+case .ph_git_commit : return [.phosphor]
+case .ph_git_commit_bold : return [.phosphor]
+case .ph_git_commit_fill : return [.phosphor]
+case .ph_git_commit_light : return [.phosphor]
+case .ph_git_commit_thin : return [.phosphor]
+case .ph_git_diff : return [.phosphor]
+case .ph_git_diff_bold : return [.phosphor]
+case .ph_git_diff_fill : return [.phosphor]
+case .ph_git_diff_light : return [.phosphor]
+case .ph_git_diff_thin : return [.phosphor]
+case .ph_git_fork : return [.phosphor]
+case .ph_git_fork_bold : return [.phosphor]
+case .ph_git_fork_fill : return [.phosphor]
+case .ph_git_fork_light : return [.phosphor]
+case .ph_git_fork_thin : return [.phosphor]
+case .ph_git_merge : return [.phosphor]
+case .ph_git_merge_bold : return [.phosphor]
+case .ph_git_merge_fill : return [.phosphor]
+case .ph_git_merge_light : return [.phosphor]
+case .ph_git_merge_thin : return [.phosphor]
+case .ph_git_pull_request : return [.phosphor]
+case .ph_git_pull_request_bold : return [.phosphor]
+case .ph_git_pull_request_fill : return [.phosphor]
+case .ph_git_pull_request_light : return [.phosphor]
+case .ph_git_pull_request_thin : return [.phosphor]
+case .ph_github_logo : return [.phosphor]
+case .ph_github_logo_bold : return [.phosphor]
+case .ph_github_logo_fill : return [.phosphor]
+case .ph_github_logo_light : return [.phosphor]
+case .ph_github_logo_thin : return [.phosphor]
+case .ph_gitlab_logo : return [.phosphor]
+case .ph_gitlab_logo_bold : return [.phosphor]
+case .ph_gitlab_logo_fill : return [.phosphor]
+case .ph_gitlab_logo_light : return [.phosphor]
+case .ph_gitlab_logo_simple : return [.phosphor]
+case .ph_gitlab_logo_simple_bold : return [.phosphor]
+case .ph_gitlab_logo_simple_fill : return [.phosphor]
+case .ph_gitlab_logo_simple_light : return [.phosphor]
+case .ph_gitlab_logo_simple_thin : return [.phosphor]
+case .ph_gitlab_logo_thin : return [.phosphor]
+case .ph_globe : return [.phosphor]
+case .ph_globe_bold : return [.phosphor]
+case .ph_globe_fill : return [.phosphor]
+case .ph_globe_hemisphere_east : return [.phosphor]
+case .ph_globe_hemisphere_east_bold : return [.phosphor]
+case .ph_globe_hemisphere_east_fill : return [.phosphor]
+case .ph_globe_hemisphere_east_light : return [.phosphor]
+case .ph_globe_hemisphere_east_thin : return [.phosphor]
+case .ph_globe_hemisphere_west : return [.phosphor]
+case .ph_globe_hemisphere_west_bold : return [.phosphor]
+case .ph_globe_hemisphere_west_fill : return [.phosphor]
+case .ph_globe_hemisphere_west_light : return [.phosphor]
+case .ph_globe_hemisphere_west_thin : return [.phosphor]
+case .ph_globe_light : return [.phosphor]
+case .ph_globe_simple : return [.phosphor]
+case .ph_globe_simple_bold : return [.phosphor]
+case .ph_globe_simple_fill : return [.phosphor]
+case .ph_globe_simple_light : return [.phosphor]
+case .ph_globe_simple_thin : return [.phosphor]
+case .ph_globe_stand : return [.phosphor]
+case .ph_globe_stand_bold : return [.phosphor]
+case .ph_globe_stand_fill : return [.phosphor]
+case .ph_globe_stand_light : return [.phosphor]
+case .ph_globe_stand_thin : return [.phosphor]
+case .ph_globe_thin : return [.phosphor]
+case .ph_google_chrome_logo : return [.phosphor]
+case .ph_google_chrome_logo_bold : return [.phosphor]
+case .ph_google_chrome_logo_fill : return [.phosphor]
+case .ph_google_chrome_logo_light : return [.phosphor]
+case .ph_google_chrome_logo_thin : return [.phosphor]
+case .ph_google_logo : return [.phosphor]
+case .ph_google_logo_bold : return [.phosphor]
+case .ph_google_logo_fill : return [.phosphor]
+case .ph_google_logo_light : return [.phosphor]
+case .ph_google_logo_thin : return [.phosphor]
+case .ph_google_photos_logo : return [.phosphor]
+case .ph_google_photos_logo_bold : return [.phosphor]
+case .ph_google_photos_logo_fill : return [.phosphor]
+case .ph_google_photos_logo_light : return [.phosphor]
+case .ph_google_photos_logo_thin : return [.phosphor]
+case .ph_google_play_logo : return [.phosphor]
+case .ph_google_play_logo_bold : return [.phosphor]
+case .ph_google_play_logo_fill : return [.phosphor]
+case .ph_google_play_logo_light : return [.phosphor]
+case .ph_google_play_logo_thin : return [.phosphor]
+case .ph_google_podcasts_logo : return [.phosphor]
+case .ph_google_podcasts_logo_bold : return [.phosphor]
+case .ph_google_podcasts_logo_fill : return [.phosphor]
+case .ph_google_podcasts_logo_light : return [.phosphor]
+case .ph_google_podcasts_logo_thin : return [.phosphor]
+case .ph_gradient : return [.phosphor]
+case .ph_gradient_bold : return [.phosphor]
+case .ph_gradient_fill : return [.phosphor]
+case .ph_gradient_light : return [.phosphor]
+case .ph_gradient_thin : return [.phosphor]
+case .ph_graduation_cap : return [.phosphor]
+case .ph_graduation_cap_bold : return [.phosphor]
+case .ph_graduation_cap_fill : return [.phosphor]
+case .ph_graduation_cap_light : return [.phosphor]
+case .ph_graduation_cap_thin : return [.phosphor]
+case .ph_graph : return [.phosphor]
+case .ph_graph_bold : return [.phosphor]
+case .ph_graph_fill : return [.phosphor]
+case .ph_graph_light : return [.phosphor]
+case .ph_graph_thin : return [.phosphor]
+case .ph_grid_four : return [.phosphor]
+case .ph_grid_four_bold : return [.phosphor]
+case .ph_grid_four_fill : return [.phosphor]
+case .ph_grid_four_light : return [.phosphor]
+case .ph_grid_four_thin : return [.phosphor]
+case .ph_hamburger : return [.phosphor]
+case .ph_hamburger_bold : return [.phosphor]
+case .ph_hamburger_fill : return [.phosphor]
+case .ph_hamburger_light : return [.phosphor]
+case .ph_hamburger_thin : return [.phosphor]
+case .ph_hand : return [.phosphor]
+case .ph_hand_bold : return [.phosphor]
+case .ph_hand_eye : return [.phosphor]
+case .ph_hand_eye_bold : return [.phosphor]
+case .ph_hand_eye_fill : return [.phosphor]
+case .ph_hand_eye_light : return [.phosphor]
+case .ph_hand_eye_thin : return [.phosphor]
+case .ph_hand_fill : return [.phosphor]
+case .ph_hand_fist : return [.phosphor]
+case .ph_hand_fist_bold : return [.phosphor]
+case .ph_hand_fist_fill : return [.phosphor]
+case .ph_hand_fist_light : return [.phosphor]
+case .ph_hand_fist_thin : return [.phosphor]
+case .ph_hand_grabbing : return [.phosphor]
+case .ph_hand_grabbing_bold : return [.phosphor]
+case .ph_hand_grabbing_fill : return [.phosphor]
+case .ph_hand_grabbing_light : return [.phosphor]
+case .ph_hand_grabbing_thin : return [.phosphor]
+case .ph_hand_light : return [.phosphor]
+case .ph_hand_palm : return [.phosphor]
+case .ph_hand_palm_bold : return [.phosphor]
+case .ph_hand_palm_fill : return [.phosphor]
+case .ph_hand_palm_light : return [.phosphor]
+case .ph_hand_palm_thin : return [.phosphor]
+case .ph_hand_pointing : return [.phosphor]
+case .ph_hand_pointing_bold : return [.phosphor]
+case .ph_hand_pointing_fill : return [.phosphor]
+case .ph_hand_pointing_light : return [.phosphor]
+case .ph_hand_pointing_thin : return [.phosphor]
+case .ph_hand_soap : return [.phosphor]
+case .ph_hand_soap_bold : return [.phosphor]
+case .ph_hand_soap_fill : return [.phosphor]
+case .ph_hand_soap_light : return [.phosphor]
+case .ph_hand_soap_thin : return [.phosphor]
+case .ph_hand_thin : return [.phosphor]
+case .ph_hand_waving : return [.phosphor]
+case .ph_hand_waving_bold : return [.phosphor]
+case .ph_hand_waving_fill : return [.phosphor]
+case .ph_hand_waving_light : return [.phosphor]
+case .ph_hand_waving_thin : return [.phosphor]
+case .ph_handbag : return [.phosphor]
+case .ph_handbag_bold : return [.phosphor]
+case .ph_handbag_fill : return [.phosphor]
+case .ph_handbag_light : return [.phosphor]
+case .ph_handbag_simple : return [.phosphor]
+case .ph_handbag_simple_bold : return [.phosphor]
+case .ph_handbag_simple_fill : return [.phosphor]
+case .ph_handbag_simple_light : return [.phosphor]
+case .ph_handbag_simple_thin : return [.phosphor]
+case .ph_handbag_thin : return [.phosphor]
+case .ph_hands_clapping : return [.phosphor]
+case .ph_hands_clapping_bold : return [.phosphor]
+case .ph_hands_clapping_fill : return [.phosphor]
+case .ph_hands_clapping_light : return [.phosphor]
+case .ph_hands_clapping_thin : return [.phosphor]
+case .ph_handshake : return [.phosphor]
+case .ph_handshake_bold : return [.phosphor]
+case .ph_handshake_fill : return [.phosphor]
+case .ph_handshake_light : return [.phosphor]
+case .ph_handshake_thin : return [.phosphor]
+case .ph_hard_drive : return [.phosphor]
+case .ph_hard_drive_bold : return [.phosphor]
+case .ph_hard_drive_fill : return [.phosphor]
+case .ph_hard_drive_light : return [.phosphor]
+case .ph_hard_drive_thin : return [.phosphor]
+case .ph_hard_drives : return [.phosphor]
+case .ph_hard_drives_bold : return [.phosphor]
+case .ph_hard_drives_fill : return [.phosphor]
+case .ph_hard_drives_light : return [.phosphor]
+case .ph_hard_drives_thin : return [.phosphor]
+case .ph_hash : return [.phosphor]
+case .ph_hash_bold : return [.phosphor]
+case .ph_hash_fill : return [.phosphor]
+case .ph_hash_light : return [.phosphor]
+case .ph_hash_straight : return [.phosphor]
+case .ph_hash_straight_bold : return [.phosphor]
+case .ph_hash_straight_fill : return [.phosphor]
+case .ph_hash_straight_light : return [.phosphor]
+case .ph_hash_straight_thin : return [.phosphor]
+case .ph_hash_thin : return [.phosphor]
+case .ph_headlights : return [.phosphor]
+case .ph_headlights_bold : return [.phosphor]
+case .ph_headlights_fill : return [.phosphor]
+case .ph_headlights_light : return [.phosphor]
+case .ph_headlights_thin : return [.phosphor]
+case .ph_headphones : return [.phosphor]
+case .ph_headphones_bold : return [.phosphor]
+case .ph_headphones_fill : return [.phosphor]
+case .ph_headphones_light : return [.phosphor]
+case .ph_headphones_thin : return [.phosphor]
+case .ph_headset : return [.phosphor]
+case .ph_headset_bold : return [.phosphor]
+case .ph_headset_fill : return [.phosphor]
+case .ph_headset_light : return [.phosphor]
+case .ph_headset_thin : return [.phosphor]
+case .ph_heart : return [.phosphor]
+case .ph_heart_bold : return [.phosphor]
+case .ph_heart_break : return [.phosphor]
+case .ph_heart_break_bold : return [.phosphor]
+case .ph_heart_break_fill : return [.phosphor]
+case .ph_heart_break_light : return [.phosphor]
+case .ph_heart_break_thin : return [.phosphor]
+case .ph_heart_fill : return [.phosphor]
+case .ph_heart_light : return [.phosphor]
+case .ph_heart_straight : return [.phosphor]
+case .ph_heart_straight_bold : return [.phosphor]
+case .ph_heart_straight_break : return [.phosphor]
+case .ph_heart_straight_break_bold : return [.phosphor]
+case .ph_heart_straight_break_fill : return [.phosphor]
+case .ph_heart_straight_break_light : return [.phosphor]
+case .ph_heart_straight_break_thin : return [.phosphor]
+case .ph_heart_straight_fill : return [.phosphor]
+case .ph_heart_straight_light : return [.phosphor]
+case .ph_heart_straight_thin : return [.phosphor]
+case .ph_heart_thin : return [.phosphor]
+case .ph_heartbeat : return [.phosphor]
+case .ph_heartbeat_bold : return [.phosphor]
+case .ph_heartbeat_fill : return [.phosphor]
+case .ph_heartbeat_light : return [.phosphor]
+case .ph_heartbeat_thin : return [.phosphor]
+case .ph_hexagon : return [.phosphor]
+case .ph_hexagon_bold : return [.phosphor]
+case .ph_hexagon_fill : return [.phosphor]
+case .ph_hexagon_light : return [.phosphor]
+case .ph_hexagon_thin : return [.phosphor]
+case .ph_highlighter_circle : return [.phosphor]
+case .ph_highlighter_circle_bold : return [.phosphor]
+case .ph_highlighter_circle_fill : return [.phosphor]
+case .ph_highlighter_circle_light : return [.phosphor]
+case .ph_highlighter_circle_thin : return [.phosphor]
+case .ph_horse : return [.phosphor]
+case .ph_horse_bold : return [.phosphor]
+case .ph_horse_fill : return [.phosphor]
+case .ph_horse_light : return [.phosphor]
+case .ph_horse_thin : return [.phosphor]
+case .ph_hourglass : return [.phosphor]
+case .ph_hourglass_bold : return [.phosphor]
+case .ph_hourglass_fill : return [.phosphor]
+case .ph_hourglass_high : return [.phosphor]
+case .ph_hourglass_high_bold : return [.phosphor]
+case .ph_hourglass_high_fill : return [.phosphor]
+case .ph_hourglass_high_light : return [.phosphor]
+case .ph_hourglass_high_thin : return [.phosphor]
+case .ph_hourglass_light : return [.phosphor]
+case .ph_hourglass_low : return [.phosphor]
+case .ph_hourglass_low_bold : return [.phosphor]
+case .ph_hourglass_low_fill : return [.phosphor]
+case .ph_hourglass_low_light : return [.phosphor]
+case .ph_hourglass_low_thin : return [.phosphor]
+case .ph_hourglass_medium : return [.phosphor]
+case .ph_hourglass_medium_bold : return [.phosphor]
+case .ph_hourglass_medium_fill : return [.phosphor]
+case .ph_hourglass_medium_light : return [.phosphor]
+case .ph_hourglass_medium_thin : return [.phosphor]
+case .ph_hourglass_simple : return [.phosphor]
+case .ph_hourglass_simple_bold : return [.phosphor]
+case .ph_hourglass_simple_fill : return [.phosphor]
+case .ph_hourglass_simple_high : return [.phosphor]
+case .ph_hourglass_simple_high_bold : return [.phosphor]
+case .ph_hourglass_simple_high_fill : return [.phosphor]
+case .ph_hourglass_simple_high_light : return [.phosphor]
+case .ph_hourglass_simple_high_thin : return [.phosphor]
+case .ph_hourglass_simple_light : return [.phosphor]
+case .ph_hourglass_simple_low : return [.phosphor]
+case .ph_hourglass_simple_low_bold : return [.phosphor]
+case .ph_hourglass_simple_low_fill : return [.phosphor]
+case .ph_hourglass_simple_low_light : return [.phosphor]
+case .ph_hourglass_simple_low_thin : return [.phosphor]
+case .ph_hourglass_simple_medium : return [.phosphor]
+case .ph_hourglass_simple_medium_bold : return [.phosphor]
+case .ph_hourglass_simple_medium_fill : return [.phosphor]
+case .ph_hourglass_simple_medium_light : return [.phosphor]
+case .ph_hourglass_simple_medium_thin : return [.phosphor]
+case .ph_hourglass_simple_thin : return [.phosphor]
+case .ph_hourglass_thin : return [.phosphor]
+case .ph_house : return [.phosphor]
+case .ph_house_bold : return [.phosphor]
+case .ph_house_fill : return [.phosphor]
+case .ph_house_light : return [.phosphor]
+case .ph_house_line : return [.phosphor]
+case .ph_house_line_bold : return [.phosphor]
+case .ph_house_line_fill : return [.phosphor]
+case .ph_house_line_light : return [.phosphor]
+case .ph_house_line_thin : return [.phosphor]
+case .ph_house_simple : return [.phosphor]
+case .ph_house_simple_bold : return [.phosphor]
+case .ph_house_simple_fill : return [.phosphor]
+case .ph_house_simple_light : return [.phosphor]
+case .ph_house_simple_thin : return [.phosphor]
+case .ph_house_thin : return [.phosphor]
+case .ph_identification_badge : return [.phosphor]
+case .ph_identification_badge_bold : return [.phosphor]
+case .ph_identification_badge_fill : return [.phosphor]
+case .ph_identification_badge_light : return [.phosphor]
+case .ph_identification_badge_thin : return [.phosphor]
+case .ph_identification_card : return [.phosphor]
+case .ph_identification_card_bold : return [.phosphor]
+case .ph_identification_card_fill : return [.phosphor]
+case .ph_identification_card_light : return [.phosphor]
+case .ph_identification_card_thin : return [.phosphor]
+case .ph_image : return [.phosphor]
+case .ph_image_bold : return [.phosphor]
+case .ph_image_fill : return [.phosphor]
+case .ph_image_light : return [.phosphor]
+case .ph_image_square : return [.phosphor]
+case .ph_image_square_bold : return [.phosphor]
+case .ph_image_square_fill : return [.phosphor]
+case .ph_image_square_light : return [.phosphor]
+case .ph_image_square_thin : return [.phosphor]
+case .ph_image_thin : return [.phosphor]
+case .ph_infinity : return [.phosphor]
+case .ph_infinity_bold : return [.phosphor]
+case .ph_infinity_fill : return [.phosphor]
+case .ph_infinity_light : return [.phosphor]
+case .ph_infinity_thin : return [.phosphor]
+case .ph_info : return [.phosphor]
+case .ph_info_bold : return [.phosphor]
+case .ph_info_fill : return [.phosphor]
+case .ph_info_light : return [.phosphor]
+case .ph_info_thin : return [.phosphor]
+case .ph_instagram_logo : return [.phosphor]
+case .ph_instagram_logo_bold : return [.phosphor]
+case .ph_instagram_logo_fill : return [.phosphor]
+case .ph_instagram_logo_light : return [.phosphor]
+case .ph_instagram_logo_thin : return [.phosphor]
+case .ph_intersect : return [.phosphor]
+case .ph_intersect_bold : return [.phosphor]
+case .ph_intersect_fill : return [.phosphor]
+case .ph_intersect_light : return [.phosphor]
+case .ph_intersect_thin : return [.phosphor]
+case .ph_jeep : return [.phosphor]
+case .ph_jeep_bold : return [.phosphor]
+case .ph_jeep_fill : return [.phosphor]
+case .ph_jeep_light : return [.phosphor]
+case .ph_jeep_thin : return [.phosphor]
+case .ph_kanban : return [.phosphor]
+case .ph_kanban_bold : return [.phosphor]
+case .ph_kanban_fill : return [.phosphor]
+case .ph_kanban_light : return [.phosphor]
+case .ph_kanban_thin : return [.phosphor]
+case .ph_key : return [.phosphor]
+case .ph_key_bold : return [.phosphor]
+case .ph_key_fill : return [.phosphor]
+case .ph_key_light : return [.phosphor]
+case .ph_key_return : return [.phosphor]
+case .ph_key_return_bold : return [.phosphor]
+case .ph_key_return_fill : return [.phosphor]
+case .ph_key_return_light : return [.phosphor]
+case .ph_key_return_thin : return [.phosphor]
+case .ph_key_thin : return [.phosphor]
+case .ph_keyboard : return [.phosphor]
+case .ph_keyboard_bold : return [.phosphor]
+case .ph_keyboard_fill : return [.phosphor]
+case .ph_keyboard_light : return [.phosphor]
+case .ph_keyboard_thin : return [.phosphor]
+case .ph_keyhole : return [.phosphor]
+case .ph_keyhole_bold : return [.phosphor]
+case .ph_keyhole_fill : return [.phosphor]
+case .ph_keyhole_light : return [.phosphor]
+case .ph_keyhole_thin : return [.phosphor]
+case .ph_knife : return [.phosphor]
+case .ph_knife_bold : return [.phosphor]
+case .ph_knife_fill : return [.phosphor]
+case .ph_knife_light : return [.phosphor]
+case .ph_knife_thin : return [.phosphor]
+case .ph_ladder : return [.phosphor]
+case .ph_ladder_bold : return [.phosphor]
+case .ph_ladder_fill : return [.phosphor]
+case .ph_ladder_light : return [.phosphor]
+case .ph_ladder_simple : return [.phosphor]
+case .ph_ladder_simple_bold : return [.phosphor]
+case .ph_ladder_simple_fill : return [.phosphor]
+case .ph_ladder_simple_light : return [.phosphor]
+case .ph_ladder_simple_thin : return [.phosphor]
+case .ph_ladder_thin : return [.phosphor]
+case .ph_lamp : return [.phosphor]
+case .ph_lamp_bold : return [.phosphor]
+case .ph_lamp_fill : return [.phosphor]
+case .ph_lamp_light : return [.phosphor]
+case .ph_lamp_thin : return [.phosphor]
+case .ph_laptop : return [.phosphor]
+case .ph_laptop_bold : return [.phosphor]
+case .ph_laptop_fill : return [.phosphor]
+case .ph_laptop_light : return [.phosphor]
+case .ph_laptop_thin : return [.phosphor]
+case .ph_layout : return [.phosphor]
+case .ph_layout_bold : return [.phosphor]
+case .ph_layout_fill : return [.phosphor]
+case .ph_layout_light : return [.phosphor]
+case .ph_layout_thin : return [.phosphor]
+case .ph_leaf : return [.phosphor]
+case .ph_leaf_bold : return [.phosphor]
+case .ph_leaf_fill : return [.phosphor]
+case .ph_leaf_light : return [.phosphor]
+case .ph_leaf_thin : return [.phosphor]
+case .ph_lifebuoy : return [.phosphor]
+case .ph_lifebuoy_bold : return [.phosphor]
+case .ph_lifebuoy_fill : return [.phosphor]
+case .ph_lifebuoy_light : return [.phosphor]
+case .ph_lifebuoy_thin : return [.phosphor]
+case .ph_lightbulb : return [.phosphor]
+case .ph_lightbulb_bold : return [.phosphor]
+case .ph_lightbulb_filament : return [.phosphor]
+case .ph_lightbulb_filament_bold : return [.phosphor]
+case .ph_lightbulb_filament_fill : return [.phosphor]
+case .ph_lightbulb_filament_light : return [.phosphor]
+case .ph_lightbulb_filament_thin : return [.phosphor]
+case .ph_lightbulb_fill : return [.phosphor]
+case .ph_lightbulb_light : return [.phosphor]
+case .ph_lightbulb_thin : return [.phosphor]
+case .ph_lightning : return [.phosphor]
+case .ph_lightning_bold : return [.phosphor]
+case .ph_lightning_fill : return [.phosphor]
+case .ph_lightning_light : return [.phosphor]
+case .ph_lightning_slash : return [.phosphor]
+case .ph_lightning_slash_bold : return [.phosphor]
+case .ph_lightning_slash_fill : return [.phosphor]
+case .ph_lightning_slash_light : return [.phosphor]
+case .ph_lightning_slash_thin : return [.phosphor]
+case .ph_lightning_thin : return [.phosphor]
+case .ph_line_segment : return [.phosphor]
+case .ph_line_segment_bold : return [.phosphor]
+case .ph_line_segment_fill : return [.phosphor]
+case .ph_line_segment_light : return [.phosphor]
+case .ph_line_segment_thin : return [.phosphor]
+case .ph_line_segments : return [.phosphor]
+case .ph_line_segments_bold : return [.phosphor]
+case .ph_line_segments_fill : return [.phosphor]
+case .ph_line_segments_light : return [.phosphor]
+case .ph_line_segments_thin : return [.phosphor]
+case .ph_link : return [.phosphor]
+case .ph_link_bold : return [.phosphor]
+case .ph_link_break : return [.phosphor]
+case .ph_link_break_bold : return [.phosphor]
+case .ph_link_break_fill : return [.phosphor]
+case .ph_link_break_light : return [.phosphor]
+case .ph_link_break_thin : return [.phosphor]
+case .ph_link_fill : return [.phosphor]
+case .ph_link_light : return [.phosphor]
+case .ph_link_simple : return [.phosphor]
+case .ph_link_simple_bold : return [.phosphor]
+case .ph_link_simple_break : return [.phosphor]
+case .ph_link_simple_break_bold : return [.phosphor]
+case .ph_link_simple_break_fill : return [.phosphor]
+case .ph_link_simple_break_light : return [.phosphor]
+case .ph_link_simple_break_thin : return [.phosphor]
+case .ph_link_simple_fill : return [.phosphor]
+case .ph_link_simple_horizontal : return [.phosphor]
+case .ph_link_simple_horizontal_bold : return [.phosphor]
+case .ph_link_simple_horizontal_break : return [.phosphor]
+case .ph_link_simple_horizontal_break_bold : return [.phosphor]
+case .ph_link_simple_horizontal_break_fill : return [.phosphor]
+case .ph_link_simple_horizontal_break_light : return [.phosphor]
+case .ph_link_simple_horizontal_break_thin : return [.phosphor]
+case .ph_link_simple_horizontal_fill : return [.phosphor]
+case .ph_link_simple_horizontal_light : return [.phosphor]
+case .ph_link_simple_horizontal_thin : return [.phosphor]
+case .ph_link_simple_light : return [.phosphor]
+case .ph_link_simple_thin : return [.phosphor]
+case .ph_link_thin : return [.phosphor]
+case .ph_linkedin_logo : return [.phosphor]
+case .ph_linkedin_logo_bold : return [.phosphor]
+case .ph_linkedin_logo_fill : return [.phosphor]
+case .ph_linkedin_logo_light : return [.phosphor]
+case .ph_linkedin_logo_thin : return [.phosphor]
+case .ph_linux_logo : return [.phosphor]
+case .ph_linux_logo_bold : return [.phosphor]
+case .ph_linux_logo_fill : return [.phosphor]
+case .ph_linux_logo_light : return [.phosphor]
+case .ph_linux_logo_thin : return [.phosphor]
+case .ph_list : return [.phosphor]
+case .ph_list_bold : return [.phosphor]
+case .ph_list_bullets : return [.phosphor]
+case .ph_list_bullets_bold : return [.phosphor]
+case .ph_list_bullets_fill : return [.phosphor]
+case .ph_list_bullets_light : return [.phosphor]
+case .ph_list_bullets_thin : return [.phosphor]
+case .ph_list_checks : return [.phosphor]
+case .ph_list_checks_bold : return [.phosphor]
+case .ph_list_checks_fill : return [.phosphor]
+case .ph_list_checks_light : return [.phosphor]
+case .ph_list_checks_thin : return [.phosphor]
+case .ph_list_dashes : return [.phosphor]
+case .ph_list_dashes_bold : return [.phosphor]
+case .ph_list_dashes_fill : return [.phosphor]
+case .ph_list_dashes_light : return [.phosphor]
+case .ph_list_dashes_thin : return [.phosphor]
+case .ph_list_fill : return [.phosphor]
+case .ph_list_light : return [.phosphor]
+case .ph_list_numbers : return [.phosphor]
+case .ph_list_numbers_bold : return [.phosphor]
+case .ph_list_numbers_fill : return [.phosphor]
+case .ph_list_numbers_light : return [.phosphor]
+case .ph_list_numbers_thin : return [.phosphor]
+case .ph_list_plus : return [.phosphor]
+case .ph_list_plus_bold : return [.phosphor]
+case .ph_list_plus_fill : return [.phosphor]
+case .ph_list_plus_light : return [.phosphor]
+case .ph_list_plus_thin : return [.phosphor]
+case .ph_list_thin : return [.phosphor]
+case .ph_lock : return [.phosphor]
+case .ph_lock_bold : return [.phosphor]
+case .ph_lock_fill : return [.phosphor]
+case .ph_lock_key : return [.phosphor]
+case .ph_lock_key_bold : return [.phosphor]
+case .ph_lock_key_fill : return [.phosphor]
+case .ph_lock_key_light : return [.phosphor]
+case .ph_lock_key_open : return [.phosphor]
+case .ph_lock_key_open_bold : return [.phosphor]
+case .ph_lock_key_open_fill : return [.phosphor]
+case .ph_lock_key_open_light : return [.phosphor]
+case .ph_lock_key_open_thin : return [.phosphor]
+case .ph_lock_key_thin : return [.phosphor]
+case .ph_lock_laminated : return [.phosphor]
+case .ph_lock_laminated_bold : return [.phosphor]
+case .ph_lock_laminated_fill : return [.phosphor]
+case .ph_lock_laminated_light : return [.phosphor]
+case .ph_lock_laminated_open : return [.phosphor]
+case .ph_lock_laminated_open_bold : return [.phosphor]
+case .ph_lock_laminated_open_fill : return [.phosphor]
+case .ph_lock_laminated_open_light : return [.phosphor]
+case .ph_lock_laminated_open_thin : return [.phosphor]
+case .ph_lock_laminated_thin : return [.phosphor]
+case .ph_lock_light : return [.phosphor]
+case .ph_lock_open : return [.phosphor]
+case .ph_lock_open_bold : return [.phosphor]
+case .ph_lock_open_fill : return [.phosphor]
+case .ph_lock_open_light : return [.phosphor]
+case .ph_lock_open_thin : return [.phosphor]
+case .ph_lock_simple : return [.phosphor]
+case .ph_lock_simple_bold : return [.phosphor]
+case .ph_lock_simple_fill : return [.phosphor]
+case .ph_lock_simple_light : return [.phosphor]
+case .ph_lock_simple_open : return [.phosphor]
+case .ph_lock_simple_open_bold : return [.phosphor]
+case .ph_lock_simple_open_fill : return [.phosphor]
+case .ph_lock_simple_open_light : return [.phosphor]
+case .ph_lock_simple_open_thin : return [.phosphor]
+case .ph_lock_simple_thin : return [.phosphor]
+case .ph_lock_thin : return [.phosphor]
+case .ph_magic_wand : return [.phosphor]
+case .ph_magic_wand_bold : return [.phosphor]
+case .ph_magic_wand_fill : return [.phosphor]
+case .ph_magic_wand_light : return [.phosphor]
+case .ph_magic_wand_thin : return [.phosphor]
+case .ph_magnet : return [.phosphor]
+case .ph_magnet_bold : return [.phosphor]
+case .ph_magnet_fill : return [.phosphor]
+case .ph_magnet_light : return [.phosphor]
+case .ph_magnet_straight : return [.phosphor]
+case .ph_magnet_straight_bold : return [.phosphor]
+case .ph_magnet_straight_fill : return [.phosphor]
+case .ph_magnet_straight_light : return [.phosphor]
+case .ph_magnet_straight_thin : return [.phosphor]
+case .ph_magnet_thin : return [.phosphor]
+case .ph_magnifying_glass : return [.phosphor]
+case .ph_magnifying_glass_bold : return [.phosphor]
+case .ph_magnifying_glass_fill : return [.phosphor]
+case .ph_magnifying_glass_light : return [.phosphor]
+case .ph_magnifying_glass_minus : return [.phosphor]
+case .ph_magnifying_glass_minus_bold : return [.phosphor]
+case .ph_magnifying_glass_minus_fill : return [.phosphor]
+case .ph_magnifying_glass_minus_light : return [.phosphor]
+case .ph_magnifying_glass_minus_thin : return [.phosphor]
+case .ph_magnifying_glass_plus : return [.phosphor]
+case .ph_magnifying_glass_plus_bold : return [.phosphor]
+case .ph_magnifying_glass_plus_fill : return [.phosphor]
+case .ph_magnifying_glass_plus_light : return [.phosphor]
+case .ph_magnifying_glass_plus_thin : return [.phosphor]
+case .ph_magnifying_glass_thin : return [.phosphor]
+case .ph_map_pin : return [.phosphor]
+case .ph_map_pin_bold : return [.phosphor]
+case .ph_map_pin_fill : return [.phosphor]
+case .ph_map_pin_light : return [.phosphor]
+case .ph_map_pin_line : return [.phosphor]
+case .ph_map_pin_line_bold : return [.phosphor]
+case .ph_map_pin_line_fill : return [.phosphor]
+case .ph_map_pin_line_light : return [.phosphor]
+case .ph_map_pin_line_thin : return [.phosphor]
+case .ph_map_pin_thin : return [.phosphor]
+case .ph_map_trifold : return [.phosphor]
+case .ph_map_trifold_bold : return [.phosphor]
+case .ph_map_trifold_fill : return [.phosphor]
+case .ph_map_trifold_light : return [.phosphor]
+case .ph_map_trifold_thin : return [.phosphor]
+case .ph_marker_circle : return [.phosphor]
+case .ph_marker_circle_bold : return [.phosphor]
+case .ph_marker_circle_fill : return [.phosphor]
+case .ph_marker_circle_light : return [.phosphor]
+case .ph_marker_circle_thin : return [.phosphor]
+case .ph_martini : return [.phosphor]
+case .ph_martini_bold : return [.phosphor]
+case .ph_martini_fill : return [.phosphor]
+case .ph_martini_light : return [.phosphor]
+case .ph_martini_thin : return [.phosphor]
+case .ph_mask_happy : return [.phosphor]
+case .ph_mask_happy_bold : return [.phosphor]
+case .ph_mask_happy_fill : return [.phosphor]
+case .ph_mask_happy_light : return [.phosphor]
+case .ph_mask_happy_thin : return [.phosphor]
+case .ph_mask_sad : return [.phosphor]
+case .ph_mask_sad_bold : return [.phosphor]
+case .ph_mask_sad_fill : return [.phosphor]
+case .ph_mask_sad_light : return [.phosphor]
+case .ph_mask_sad_thin : return [.phosphor]
+case .ph_math_operations : return [.phosphor]
+case .ph_math_operations_bold : return [.phosphor]
+case .ph_math_operations_fill : return [.phosphor]
+case .ph_math_operations_light : return [.phosphor]
+case .ph_math_operations_thin : return [.phosphor]
+case .ph_medal : return [.phosphor]
+case .ph_medal_bold : return [.phosphor]
+case .ph_medal_fill : return [.phosphor]
+case .ph_medal_light : return [.phosphor]
+case .ph_medal_thin : return [.phosphor]
+case .ph_medium_logo : return [.phosphor]
+case .ph_medium_logo_bold : return [.phosphor]
+case .ph_medium_logo_fill : return [.phosphor]
+case .ph_medium_logo_light : return [.phosphor]
+case .ph_medium_logo_thin : return [.phosphor]
+case .ph_megaphone : return [.phosphor]
+case .ph_megaphone_bold : return [.phosphor]
+case .ph_megaphone_fill : return [.phosphor]
+case .ph_megaphone_light : return [.phosphor]
+case .ph_megaphone_simple : return [.phosphor]
+case .ph_megaphone_simple_bold : return [.phosphor]
+case .ph_megaphone_simple_fill : return [.phosphor]
+case .ph_megaphone_simple_light : return [.phosphor]
+case .ph_megaphone_simple_thin : return [.phosphor]
+case .ph_megaphone_thin : return [.phosphor]
+case .ph_messenger_logo : return [.phosphor]
+case .ph_messenger_logo_bold : return [.phosphor]
+case .ph_messenger_logo_fill : return [.phosphor]
+case .ph_messenger_logo_light : return [.phosphor]
+case .ph_messenger_logo_thin : return [.phosphor]
+case .ph_microphone : return [.phosphor]
+case .ph_microphone_bold : return [.phosphor]
+case .ph_microphone_fill : return [.phosphor]
+case .ph_microphone_light : return [.phosphor]
+case .ph_microphone_slash : return [.phosphor]
+case .ph_microphone_slash_bold : return [.phosphor]
+case .ph_microphone_slash_fill : return [.phosphor]
+case .ph_microphone_slash_light : return [.phosphor]
+case .ph_microphone_slash_thin : return [.phosphor]
+case .ph_microphone_stage : return [.phosphor]
+case .ph_microphone_stage_bold : return [.phosphor]
+case .ph_microphone_stage_fill : return [.phosphor]
+case .ph_microphone_stage_light : return [.phosphor]
+case .ph_microphone_stage_thin : return [.phosphor]
+case .ph_microphone_thin : return [.phosphor]
+case .ph_microsoft_excel_logo : return [.phosphor]
+case .ph_microsoft_excel_logo_bold : return [.phosphor]
+case .ph_microsoft_excel_logo_fill : return [.phosphor]
+case .ph_microsoft_excel_logo_light : return [.phosphor]
+case .ph_microsoft_excel_logo_thin : return [.phosphor]
+case .ph_microsoft_powerpoint_logo : return [.phosphor]
+case .ph_microsoft_powerpoint_logo_bold : return [.phosphor]
+case .ph_microsoft_powerpoint_logo_fill : return [.phosphor]
+case .ph_microsoft_powerpoint_logo_light : return [.phosphor]
+case .ph_microsoft_powerpoint_logo_thin : return [.phosphor]
+case .ph_microsoft_teams_logo : return [.phosphor]
+case .ph_microsoft_teams_logo_bold : return [.phosphor]
+case .ph_microsoft_teams_logo_fill : return [.phosphor]
+case .ph_microsoft_teams_logo_light : return [.phosphor]
+case .ph_microsoft_teams_logo_thin : return [.phosphor]
+case .ph_microsoft_word_logo : return [.phosphor]
+case .ph_microsoft_word_logo_bold : return [.phosphor]
+case .ph_microsoft_word_logo_fill : return [.phosphor]
+case .ph_microsoft_word_logo_light : return [.phosphor]
+case .ph_microsoft_word_logo_thin : return [.phosphor]
+case .ph_minus : return [.phosphor]
+case .ph_minus_bold : return [.phosphor]
+case .ph_minus_circle : return [.phosphor]
+case .ph_minus_circle_bold : return [.phosphor]
+case .ph_minus_circle_fill : return [.phosphor]
+case .ph_minus_circle_light : return [.phosphor]
+case .ph_minus_circle_thin : return [.phosphor]
+case .ph_minus_fill : return [.phosphor]
+case .ph_minus_light : return [.phosphor]
+case .ph_minus_thin : return [.phosphor]
+case .ph_money : return [.phosphor]
+case .ph_money_bold : return [.phosphor]
+case .ph_money_fill : return [.phosphor]
+case .ph_money_light : return [.phosphor]
+case .ph_money_thin : return [.phosphor]
+case .ph_monitor : return [.phosphor]
+case .ph_monitor_bold : return [.phosphor]
+case .ph_monitor_fill : return [.phosphor]
+case .ph_monitor_light : return [.phosphor]
+case .ph_monitor_play : return [.phosphor]
+case .ph_monitor_play_bold : return [.phosphor]
+case .ph_monitor_play_fill : return [.phosphor]
+case .ph_monitor_play_light : return [.phosphor]
+case .ph_monitor_play_thin : return [.phosphor]
+case .ph_monitor_thin : return [.phosphor]
+case .ph_moon : return [.phosphor]
+case .ph_moon_bold : return [.phosphor]
+case .ph_moon_fill : return [.phosphor]
+case .ph_moon_light : return [.phosphor]
+case .ph_moon_stars : return [.phosphor]
+case .ph_moon_stars_bold : return [.phosphor]
+case .ph_moon_stars_fill : return [.phosphor]
+case .ph_moon_stars_light : return [.phosphor]
+case .ph_moon_stars_thin : return [.phosphor]
+case .ph_moon_thin : return [.phosphor]
+case .ph_mountains : return [.phosphor]
+case .ph_mountains_bold : return [.phosphor]
+case .ph_mountains_fill : return [.phosphor]
+case .ph_mountains_light : return [.phosphor]
+case .ph_mountains_thin : return [.phosphor]
+case .ph_mouse : return [.phosphor]
+case .ph_mouse_bold : return [.phosphor]
+case .ph_mouse_fill : return [.phosphor]
+case .ph_mouse_light : return [.phosphor]
+case .ph_mouse_simple : return [.phosphor]
+case .ph_mouse_simple_bold : return [.phosphor]
+case .ph_mouse_simple_fill : return [.phosphor]
+case .ph_mouse_simple_light : return [.phosphor]
+case .ph_mouse_simple_thin : return [.phosphor]
+case .ph_mouse_thin : return [.phosphor]
+case .ph_music_note : return [.phosphor]
+case .ph_music_note_bold : return [.phosphor]
+case .ph_music_note_fill : return [.phosphor]
+case .ph_music_note_light : return [.phosphor]
+case .ph_music_note_simple : return [.phosphor]
+case .ph_music_note_simple_bold : return [.phosphor]
+case .ph_music_note_simple_fill : return [.phosphor]
+case .ph_music_note_simple_light : return [.phosphor]
+case .ph_music_note_simple_thin : return [.phosphor]
+case .ph_music_note_thin : return [.phosphor]
+case .ph_music_notes : return [.phosphor]
+case .ph_music_notes_bold : return [.phosphor]
+case .ph_music_notes_fill : return [.phosphor]
+case .ph_music_notes_light : return [.phosphor]
+case .ph_music_notes_plus : return [.phosphor]
+case .ph_music_notes_plus_bold : return [.phosphor]
+case .ph_music_notes_plus_fill : return [.phosphor]
+case .ph_music_notes_plus_light : return [.phosphor]
+case .ph_music_notes_plus_thin : return [.phosphor]
+case .ph_music_notes_simple : return [.phosphor]
+case .ph_music_notes_simple_bold : return [.phosphor]
+case .ph_music_notes_simple_fill : return [.phosphor]
+case .ph_music_notes_simple_light : return [.phosphor]
+case .ph_music_notes_simple_thin : return [.phosphor]
+case .ph_music_notes_thin : return [.phosphor]
+case .ph_navigation_arrow : return [.phosphor]
+case .ph_navigation_arrow_bold : return [.phosphor]
+case .ph_navigation_arrow_fill : return [.phosphor]
+case .ph_navigation_arrow_light : return [.phosphor]
+case .ph_navigation_arrow_thin : return [.phosphor]
+case .ph_needle : return [.phosphor]
+case .ph_needle_bold : return [.phosphor]
+case .ph_needle_fill : return [.phosphor]
+case .ph_needle_light : return [.phosphor]
+case .ph_needle_thin : return [.phosphor]
+case .ph_newspaper : return [.phosphor]
+case .ph_newspaper_bold : return [.phosphor]
+case .ph_newspaper_clipping : return [.phosphor]
+case .ph_newspaper_clipping_bold : return [.phosphor]
+case .ph_newspaper_clipping_fill : return [.phosphor]
+case .ph_newspaper_clipping_light : return [.phosphor]
+case .ph_newspaper_clipping_thin : return [.phosphor]
+case .ph_newspaper_fill : return [.phosphor]
+case .ph_newspaper_light : return [.phosphor]
+case .ph_newspaper_thin : return [.phosphor]
+case .ph_note : return [.phosphor]
+case .ph_note_blank : return [.phosphor]
+case .ph_note_blank_bold : return [.phosphor]
+case .ph_note_blank_fill : return [.phosphor]
+case .ph_note_blank_light : return [.phosphor]
+case .ph_note_blank_thin : return [.phosphor]
+case .ph_note_bold : return [.phosphor]
+case .ph_note_fill : return [.phosphor]
+case .ph_note_light : return [.phosphor]
+case .ph_note_pencil : return [.phosphor]
+case .ph_note_pencil_bold : return [.phosphor]
+case .ph_note_pencil_fill : return [.phosphor]
+case .ph_note_pencil_light : return [.phosphor]
+case .ph_note_pencil_thin : return [.phosphor]
+case .ph_note_thin : return [.phosphor]
+case .ph_notebook : return [.phosphor]
+case .ph_notebook_bold : return [.phosphor]
+case .ph_notebook_fill : return [.phosphor]
+case .ph_notebook_light : return [.phosphor]
+case .ph_notebook_thin : return [.phosphor]
+case .ph_notepad : return [.phosphor]
+case .ph_notepad_bold : return [.phosphor]
+case .ph_notepad_fill : return [.phosphor]
+case .ph_notepad_light : return [.phosphor]
+case .ph_notepad_thin : return [.phosphor]
+case .ph_notification : return [.phosphor]
+case .ph_notification_bold : return [.phosphor]
+case .ph_notification_fill : return [.phosphor]
+case .ph_notification_light : return [.phosphor]
+case .ph_notification_thin : return [.phosphor]
+case .ph_number_circle_eight : return [.phosphor]
+case .ph_number_circle_eight_bold : return [.phosphor]
+case .ph_number_circle_eight_fill : return [.phosphor]
+case .ph_number_circle_eight_light : return [.phosphor]
+case .ph_number_circle_eight_thin : return [.phosphor]
+case .ph_number_circle_five : return [.phosphor]
+case .ph_number_circle_five_bold : return [.phosphor]
+case .ph_number_circle_five_fill : return [.phosphor]
+case .ph_number_circle_five_light : return [.phosphor]
+case .ph_number_circle_five_thin : return [.phosphor]
+case .ph_number_circle_four : return [.phosphor]
+case .ph_number_circle_four_bold : return [.phosphor]
+case .ph_number_circle_four_fill : return [.phosphor]
+case .ph_number_circle_four_light : return [.phosphor]
+case .ph_number_circle_four_thin : return [.phosphor]
+case .ph_number_circle_nine : return [.phosphor]
+case .ph_number_circle_nine_bold : return [.phosphor]
+case .ph_number_circle_nine_fill : return [.phosphor]
+case .ph_number_circle_nine_light : return [.phosphor]
+case .ph_number_circle_nine_thin : return [.phosphor]
+case .ph_number_circle_one : return [.phosphor]
+case .ph_number_circle_one_bold : return [.phosphor]
+case .ph_number_circle_one_fill : return [.phosphor]
+case .ph_number_circle_one_light : return [.phosphor]
+case .ph_number_circle_one_thin : return [.phosphor]
+case .ph_number_circle_seven : return [.phosphor]
+case .ph_number_circle_seven_bold : return [.phosphor]
+case .ph_number_circle_seven_fill : return [.phosphor]
+case .ph_number_circle_seven_light : return [.phosphor]
+case .ph_number_circle_seven_thin : return [.phosphor]
+case .ph_number_circle_six : return [.phosphor]
+case .ph_number_circle_six_bold : return [.phosphor]
+case .ph_number_circle_six_fill : return [.phosphor]
+case .ph_number_circle_six_light : return [.phosphor]
+case .ph_number_circle_six_thin : return [.phosphor]
+case .ph_number_circle_three : return [.phosphor]
+case .ph_number_circle_three_bold : return [.phosphor]
+case .ph_number_circle_three_fill : return [.phosphor]
+case .ph_number_circle_three_light : return [.phosphor]
+case .ph_number_circle_three_thin : return [.phosphor]
+case .ph_number_circle_two : return [.phosphor]
+case .ph_number_circle_two_bold : return [.phosphor]
+case .ph_number_circle_two_fill : return [.phosphor]
+case .ph_number_circle_two_light : return [.phosphor]
+case .ph_number_circle_two_thin : return [.phosphor]
+case .ph_number_circle_zero : return [.phosphor]
+case .ph_number_circle_zero_bold : return [.phosphor]
+case .ph_number_circle_zero_fill : return [.phosphor]
+case .ph_number_circle_zero_light : return [.phosphor]
+case .ph_number_circle_zero_thin : return [.phosphor]
+case .ph_number_eight : return [.phosphor]
+case .ph_number_eight_bold : return [.phosphor]
+case .ph_number_eight_fill : return [.phosphor]
+case .ph_number_eight_light : return [.phosphor]
+case .ph_number_eight_thin : return [.phosphor]
+case .ph_number_five : return [.phosphor]
+case .ph_number_five_bold : return [.phosphor]
+case .ph_number_five_fill : return [.phosphor]
+case .ph_number_five_light : return [.phosphor]
+case .ph_number_five_thin : return [.phosphor]
+case .ph_number_four : return [.phosphor]
+case .ph_number_four_bold : return [.phosphor]
+case .ph_number_four_fill : return [.phosphor]
+case .ph_number_four_light : return [.phosphor]
+case .ph_number_four_thin : return [.phosphor]
+case .ph_number_nine : return [.phosphor]
+case .ph_number_nine_bold : return [.phosphor]
+case .ph_number_nine_fill : return [.phosphor]
+case .ph_number_nine_light : return [.phosphor]
+case .ph_number_nine_thin : return [.phosphor]
+case .ph_number_one : return [.phosphor]
+case .ph_number_one_bold : return [.phosphor]
+case .ph_number_one_fill : return [.phosphor]
+case .ph_number_one_light : return [.phosphor]
+case .ph_number_one_thin : return [.phosphor]
+case .ph_number_seven : return [.phosphor]
+case .ph_number_seven_bold : return [.phosphor]
+case .ph_number_seven_fill : return [.phosphor]
+case .ph_number_seven_light : return [.phosphor]
+case .ph_number_seven_thin : return [.phosphor]
+case .ph_number_six : return [.phosphor]
+case .ph_number_six_bold : return [.phosphor]
+case .ph_number_six_fill : return [.phosphor]
+case .ph_number_six_light : return [.phosphor]
+case .ph_number_six_thin : return [.phosphor]
+case .ph_number_square_eight : return [.phosphor]
+case .ph_number_square_eight_bold : return [.phosphor]
+case .ph_number_square_eight_fill : return [.phosphor]
+case .ph_number_square_eight_light : return [.phosphor]
+case .ph_number_square_eight_thin : return [.phosphor]
+case .ph_number_square_five : return [.phosphor]
+case .ph_number_square_five_bold : return [.phosphor]
+case .ph_number_square_five_fill : return [.phosphor]
+case .ph_number_square_five_light : return [.phosphor]
+case .ph_number_square_five_thin : return [.phosphor]
+case .ph_number_square_four : return [.phosphor]
+case .ph_number_square_four_bold : return [.phosphor]
+case .ph_number_square_four_fill : return [.phosphor]
+case .ph_number_square_four_light : return [.phosphor]
+case .ph_number_square_four_thin : return [.phosphor]
+case .ph_number_square_nine : return [.phosphor]
+case .ph_number_square_nine_bold : return [.phosphor]
+case .ph_number_square_nine_fill : return [.phosphor]
+case .ph_number_square_nine_light : return [.phosphor]
+case .ph_number_square_nine_thin : return [.phosphor]
+case .ph_number_square_one : return [.phosphor]
+case .ph_number_square_one_bold : return [.phosphor]
+case .ph_number_square_one_fill : return [.phosphor]
+case .ph_number_square_one_light : return [.phosphor]
+case .ph_number_square_one_thin : return [.phosphor]
+case .ph_number_square_seven : return [.phosphor]
+case .ph_number_square_seven_bold : return [.phosphor]
+case .ph_number_square_seven_fill : return [.phosphor]
+case .ph_number_square_seven_light : return [.phosphor]
+case .ph_number_square_seven_thin : return [.phosphor]
+case .ph_number_square_six : return [.phosphor]
+case .ph_number_square_six_bold : return [.phosphor]
+case .ph_number_square_six_fill : return [.phosphor]
+case .ph_number_square_six_light : return [.phosphor]
+case .ph_number_square_six_thin : return [.phosphor]
+case .ph_number_square_three : return [.phosphor]
+case .ph_number_square_three_bold : return [.phosphor]
+case .ph_number_square_three_fill : return [.phosphor]
+case .ph_number_square_three_light : return [.phosphor]
+case .ph_number_square_three_thin : return [.phosphor]
+case .ph_number_square_two : return [.phosphor]
+case .ph_number_square_two_bold : return [.phosphor]
+case .ph_number_square_two_fill : return [.phosphor]
+case .ph_number_square_two_light : return [.phosphor]
+case .ph_number_square_two_thin : return [.phosphor]
+case .ph_number_square_zero : return [.phosphor]
+case .ph_number_square_zero_bold : return [.phosphor]
+case .ph_number_square_zero_fill : return [.phosphor]
+case .ph_number_square_zero_light : return [.phosphor]
+case .ph_number_square_zero_thin : return [.phosphor]
+case .ph_number_three : return [.phosphor]
+case .ph_number_three_bold : return [.phosphor]
+case .ph_number_three_fill : return [.phosphor]
+case .ph_number_three_light : return [.phosphor]
+case .ph_number_three_thin : return [.phosphor]
+case .ph_number_two : return [.phosphor]
+case .ph_number_two_bold : return [.phosphor]
+case .ph_number_two_fill : return [.phosphor]
+case .ph_number_two_light : return [.phosphor]
+case .ph_number_two_thin : return [.phosphor]
+case .ph_number_zero : return [.phosphor]
+case .ph_number_zero_bold : return [.phosphor]
+case .ph_number_zero_fill : return [.phosphor]
+case .ph_number_zero_light : return [.phosphor]
+case .ph_number_zero_thin : return [.phosphor]
+case .ph_nut : return [.phosphor]
+case .ph_nut_bold : return [.phosphor]
+case .ph_nut_fill : return [.phosphor]
+case .ph_nut_light : return [.phosphor]
+case .ph_nut_thin : return [.phosphor]
+case .ph_ny_times_logo : return [.phosphor]
+case .ph_ny_times_logo_bold : return [.phosphor]
+case .ph_ny_times_logo_fill : return [.phosphor]
+case .ph_ny_times_logo_light : return [.phosphor]
+case .ph_ny_times_logo_thin : return [.phosphor]
+case .ph_octagon : return [.phosphor]
+case .ph_octagon_bold : return [.phosphor]
+case .ph_octagon_fill : return [.phosphor]
+case .ph_octagon_light : return [.phosphor]
+case .ph_octagon_thin : return [.phosphor]
+case .ph_option : return [.phosphor]
+case .ph_option_bold : return [.phosphor]
+case .ph_option_fill : return [.phosphor]
+case .ph_option_light : return [.phosphor]
+case .ph_option_thin : return [.phosphor]
+case .ph_package : return [.phosphor]
+case .ph_package_bold : return [.phosphor]
+case .ph_package_fill : return [.phosphor]
+case .ph_package_light : return [.phosphor]
+case .ph_package_thin : return [.phosphor]
+case .ph_paint_brush : return [.phosphor]
+case .ph_paint_brush_bold : return [.phosphor]
+case .ph_paint_brush_broad : return [.phosphor]
+case .ph_paint_brush_broad_bold : return [.phosphor]
+case .ph_paint_brush_broad_fill : return [.phosphor]
+case .ph_paint_brush_broad_light : return [.phosphor]
+case .ph_paint_brush_broad_thin : return [.phosphor]
+case .ph_paint_brush_fill : return [.phosphor]
+case .ph_paint_brush_household : return [.phosphor]
+case .ph_paint_brush_household_bold : return [.phosphor]
+case .ph_paint_brush_household_fill : return [.phosphor]
+case .ph_paint_brush_household_light : return [.phosphor]
+case .ph_paint_brush_household_thin : return [.phosphor]
+case .ph_paint_brush_light : return [.phosphor]
+case .ph_paint_brush_thin : return [.phosphor]
+case .ph_paint_bucket : return [.phosphor]
+case .ph_paint_bucket_bold : return [.phosphor]
+case .ph_paint_bucket_fill : return [.phosphor]
+case .ph_paint_bucket_light : return [.phosphor]
+case .ph_paint_bucket_thin : return [.phosphor]
+case .ph_paint_roller : return [.phosphor]
+case .ph_paint_roller_bold : return [.phosphor]
+case .ph_paint_roller_fill : return [.phosphor]
+case .ph_paint_roller_light : return [.phosphor]
+case .ph_paint_roller_thin : return [.phosphor]
+case .ph_palette : return [.phosphor]
+case .ph_palette_bold : return [.phosphor]
+case .ph_palette_fill : return [.phosphor]
+case .ph_palette_light : return [.phosphor]
+case .ph_palette_thin : return [.phosphor]
+case .ph_paper_plane : return [.phosphor]
+case .ph_paper_plane_bold : return [.phosphor]
+case .ph_paper_plane_fill : return [.phosphor]
+case .ph_paper_plane_light : return [.phosphor]
+case .ph_paper_plane_right : return [.phosphor]
+case .ph_paper_plane_right_bold : return [.phosphor]
+case .ph_paper_plane_right_fill : return [.phosphor]
+case .ph_paper_plane_right_light : return [.phosphor]
+case .ph_paper_plane_right_thin : return [.phosphor]
+case .ph_paper_plane_thin : return [.phosphor]
+case .ph_paper_plane_tilt : return [.phosphor]
+case .ph_paper_plane_tilt_bold : return [.phosphor]
+case .ph_paper_plane_tilt_fill : return [.phosphor]
+case .ph_paper_plane_tilt_light : return [.phosphor]
+case .ph_paper_plane_tilt_thin : return [.phosphor]
+case .ph_paperclip : return [.phosphor]
+case .ph_paperclip_bold : return [.phosphor]
+case .ph_paperclip_fill : return [.phosphor]
+case .ph_paperclip_horizontal : return [.phosphor]
+case .ph_paperclip_horizontal_bold : return [.phosphor]
+case .ph_paperclip_horizontal_fill : return [.phosphor]
+case .ph_paperclip_horizontal_light : return [.phosphor]
+case .ph_paperclip_horizontal_thin : return [.phosphor]
+case .ph_paperclip_light : return [.phosphor]
+case .ph_paperclip_thin : return [.phosphor]
+case .ph_parachute : return [.phosphor]
+case .ph_parachute_bold : return [.phosphor]
+case .ph_parachute_fill : return [.phosphor]
+case .ph_parachute_light : return [.phosphor]
+case .ph_parachute_thin : return [.phosphor]
+case .ph_password : return [.phosphor]
+case .ph_password_bold : return [.phosphor]
+case .ph_password_fill : return [.phosphor]
+case .ph_password_light : return [.phosphor]
+case .ph_password_thin : return [.phosphor]
+case .ph_path : return [.phosphor]
+case .ph_path_bold : return [.phosphor]
+case .ph_path_fill : return [.phosphor]
+case .ph_path_light : return [.phosphor]
+case .ph_path_thin : return [.phosphor]
+case .ph_pause : return [.phosphor]
+case .ph_pause_bold : return [.phosphor]
+case .ph_pause_circle : return [.phosphor]
+case .ph_pause_circle_bold : return [.phosphor]
+case .ph_pause_circle_fill : return [.phosphor]
+case .ph_pause_circle_light : return [.phosphor]
+case .ph_pause_circle_thin : return [.phosphor]
+case .ph_pause_fill : return [.phosphor]
+case .ph_pause_light : return [.phosphor]
+case .ph_pause_thin : return [.phosphor]
+case .ph_paw_print : return [.phosphor]
+case .ph_paw_print_bold : return [.phosphor]
+case .ph_paw_print_fill : return [.phosphor]
+case .ph_paw_print_light : return [.phosphor]
+case .ph_paw_print_thin : return [.phosphor]
+case .ph_peace : return [.phosphor]
+case .ph_peace_bold : return [.phosphor]
+case .ph_peace_fill : return [.phosphor]
+case .ph_peace_light : return [.phosphor]
+case .ph_peace_thin : return [.phosphor]
+case .ph_pen : return [.phosphor]
+case .ph_pen_bold : return [.phosphor]
+case .ph_pen_fill : return [.phosphor]
+case .ph_pen_light : return [.phosphor]
+case .ph_pen_nib : return [.phosphor]
+case .ph_pen_nib_bold : return [.phosphor]
+case .ph_pen_nib_fill : return [.phosphor]
+case .ph_pen_nib_light : return [.phosphor]
+case .ph_pen_nib_straight : return [.phosphor]
+case .ph_pen_nib_straight_bold : return [.phosphor]
+case .ph_pen_nib_straight_fill : return [.phosphor]
+case .ph_pen_nib_straight_light : return [.phosphor]
+case .ph_pen_nib_straight_thin : return [.phosphor]
+case .ph_pen_nib_thin : return [.phosphor]
+case .ph_pen_thin : return [.phosphor]
+case .ph_pencil : return [.phosphor]
+case .ph_pencil_bold : return [.phosphor]
+case .ph_pencil_circle : return [.phosphor]
+case .ph_pencil_circle_bold : return [.phosphor]
+case .ph_pencil_circle_fill : return [.phosphor]
+case .ph_pencil_circle_light : return [.phosphor]
+case .ph_pencil_circle_thin : return [.phosphor]
+case .ph_pencil_fill : return [.phosphor]
+case .ph_pencil_light : return [.phosphor]
+case .ph_pencil_line : return [.phosphor]
+case .ph_pencil_line_bold : return [.phosphor]
+case .ph_pencil_line_fill : return [.phosphor]
+case .ph_pencil_line_light : return [.phosphor]
+case .ph_pencil_line_thin : return [.phosphor]
+case .ph_pencil_simple : return [.phosphor]
+case .ph_pencil_simple_bold : return [.phosphor]
+case .ph_pencil_simple_fill : return [.phosphor]
+case .ph_pencil_simple_light : return [.phosphor]
+case .ph_pencil_simple_line : return [.phosphor]
+case .ph_pencil_simple_line_bold : return [.phosphor]
+case .ph_pencil_simple_line_fill : return [.phosphor]
+case .ph_pencil_simple_line_light : return [.phosphor]
+case .ph_pencil_simple_line_thin : return [.phosphor]
+case .ph_pencil_simple_thin : return [.phosphor]
+case .ph_pencil_thin : return [.phosphor]
+case .ph_percent : return [.phosphor]
+case .ph_percent_bold : return [.phosphor]
+case .ph_percent_fill : return [.phosphor]
+case .ph_percent_light : return [.phosphor]
+case .ph_percent_thin : return [.phosphor]
+case .ph_person : return [.phosphor]
+case .ph_person_bold : return [.phosphor]
+case .ph_person_fill : return [.phosphor]
+case .ph_person_light : return [.phosphor]
+case .ph_person_simple : return [.phosphor]
+case .ph_person_simple_bold : return [.phosphor]
+case .ph_person_simple_fill : return [.phosphor]
+case .ph_person_simple_light : return [.phosphor]
+case .ph_person_simple_run : return [.phosphor]
+case .ph_person_simple_run_bold : return [.phosphor]
+case .ph_person_simple_run_fill : return [.phosphor]
+case .ph_person_simple_run_light : return [.phosphor]
+case .ph_person_simple_run_thin : return [.phosphor]
+case .ph_person_simple_thin : return [.phosphor]
+case .ph_person_simple_walk : return [.phosphor]
+case .ph_person_simple_walk_bold : return [.phosphor]
+case .ph_person_simple_walk_fill : return [.phosphor]
+case .ph_person_simple_walk_light : return [.phosphor]
+case .ph_person_simple_walk_thin : return [.phosphor]
+case .ph_person_thin : return [.phosphor]
+case .ph_perspective : return [.phosphor]
+case .ph_perspective_bold : return [.phosphor]
+case .ph_perspective_fill : return [.phosphor]
+case .ph_perspective_light : return [.phosphor]
+case .ph_perspective_thin : return [.phosphor]
+case .ph_phone : return [.phosphor]
+case .ph_phone_bold : return [.phosphor]
+case .ph_phone_call : return [.phosphor]
+case .ph_phone_call_bold : return [.phosphor]
+case .ph_phone_call_fill : return [.phosphor]
+case .ph_phone_call_light : return [.phosphor]
+case .ph_phone_call_thin : return [.phosphor]
+case .ph_phone_disconnect : return [.phosphor]
+case .ph_phone_disconnect_bold : return [.phosphor]
+case .ph_phone_disconnect_fill : return [.phosphor]
+case .ph_phone_disconnect_light : return [.phosphor]
+case .ph_phone_disconnect_thin : return [.phosphor]
+case .ph_phone_fill : return [.phosphor]
+case .ph_phone_incoming : return [.phosphor]
+case .ph_phone_incoming_bold : return [.phosphor]
+case .ph_phone_incoming_fill : return [.phosphor]
+case .ph_phone_incoming_light : return [.phosphor]
+case .ph_phone_incoming_thin : return [.phosphor]
+case .ph_phone_light : return [.phosphor]
+case .ph_phone_outgoing : return [.phosphor]
+case .ph_phone_outgoing_bold : return [.phosphor]
+case .ph_phone_outgoing_fill : return [.phosphor]
+case .ph_phone_outgoing_light : return [.phosphor]
+case .ph_phone_outgoing_thin : return [.phosphor]
+case .ph_phone_slash : return [.phosphor]
+case .ph_phone_slash_bold : return [.phosphor]
+case .ph_phone_slash_fill : return [.phosphor]
+case .ph_phone_slash_light : return [.phosphor]
+case .ph_phone_slash_thin : return [.phosphor]
+case .ph_phone_thin : return [.phosphor]
+case .ph_phone_x : return [.phosphor]
+case .ph_phone_x_bold : return [.phosphor]
+case .ph_phone_x_fill : return [.phosphor]
+case .ph_phone_x_light : return [.phosphor]
+case .ph_phone_x_thin : return [.phosphor]
+case .ph_phosphor_logo : return [.phosphor]
+case .ph_phosphor_logo_bold : return [.phosphor]
+case .ph_phosphor_logo_fill : return [.phosphor]
+case .ph_phosphor_logo_light : return [.phosphor]
+case .ph_phosphor_logo_thin : return [.phosphor]
+case .ph_piano_keys : return [.phosphor]
+case .ph_piano_keys_bold : return [.phosphor]
+case .ph_piano_keys_fill : return [.phosphor]
+case .ph_piano_keys_light : return [.phosphor]
+case .ph_piano_keys_thin : return [.phosphor]
+case .ph_picture_in_picture : return [.phosphor]
+case .ph_picture_in_picture_bold : return [.phosphor]
+case .ph_picture_in_picture_fill : return [.phosphor]
+case .ph_picture_in_picture_light : return [.phosphor]
+case .ph_picture_in_picture_thin : return [.phosphor]
+case .ph_pill : return [.phosphor]
+case .ph_pill_bold : return [.phosphor]
+case .ph_pill_fill : return [.phosphor]
+case .ph_pill_light : return [.phosphor]
+case .ph_pill_thin : return [.phosphor]
+case .ph_pinterest_logo : return [.phosphor]
+case .ph_pinterest_logo_bold : return [.phosphor]
+case .ph_pinterest_logo_fill : return [.phosphor]
+case .ph_pinterest_logo_light : return [.phosphor]
+case .ph_pinterest_logo_thin : return [.phosphor]
+case .ph_pinwheel : return [.phosphor]
+case .ph_pinwheel_bold : return [.phosphor]
+case .ph_pinwheel_fill : return [.phosphor]
+case .ph_pinwheel_light : return [.phosphor]
+case .ph_pinwheel_thin : return [.phosphor]
+case .ph_pizza : return [.phosphor]
+case .ph_pizza_bold : return [.phosphor]
+case .ph_pizza_fill : return [.phosphor]
+case .ph_pizza_light : return [.phosphor]
+case .ph_pizza_thin : return [.phosphor]
+case .ph_placeholder : return [.phosphor]
+case .ph_placeholder_bold : return [.phosphor]
+case .ph_placeholder_fill : return [.phosphor]
+case .ph_placeholder_light : return [.phosphor]
+case .ph_placeholder_thin : return [.phosphor]
+case .ph_planet : return [.phosphor]
+case .ph_planet_bold : return [.phosphor]
+case .ph_planet_fill : return [.phosphor]
+case .ph_planet_light : return [.phosphor]
+case .ph_planet_thin : return [.phosphor]
+case .ph_play : return [.phosphor]
+case .ph_play_bold : return [.phosphor]
+case .ph_play_circle : return [.phosphor]
+case .ph_play_circle_bold : return [.phosphor]
+case .ph_play_circle_fill : return [.phosphor]
+case .ph_play_circle_light : return [.phosphor]
+case .ph_play_circle_thin : return [.phosphor]
+case .ph_play_fill : return [.phosphor]
+case .ph_play_light : return [.phosphor]
+case .ph_play_thin : return [.phosphor]
+case .ph_playlist : return [.phosphor]
+case .ph_playlist_bold : return [.phosphor]
+case .ph_playlist_fill : return [.phosphor]
+case .ph_playlist_light : return [.phosphor]
+case .ph_playlist_thin : return [.phosphor]
+case .ph_plug : return [.phosphor]
+case .ph_plug_bold : return [.phosphor]
+case .ph_plug_fill : return [.phosphor]
+case .ph_plug_light : return [.phosphor]
+case .ph_plug_thin : return [.phosphor]
+case .ph_plugs : return [.phosphor]
+case .ph_plugs_bold : return [.phosphor]
+case .ph_plugs_connected : return [.phosphor]
+case .ph_plugs_connected_bold : return [.phosphor]
+case .ph_plugs_connected_fill : return [.phosphor]
+case .ph_plugs_connected_light : return [.phosphor]
+case .ph_plugs_connected_thin : return [.phosphor]
+case .ph_plugs_fill : return [.phosphor]
+case .ph_plugs_light : return [.phosphor]
+case .ph_plugs_thin : return [.phosphor]
+case .ph_plus : return [.phosphor]
+case .ph_plus_bold : return [.phosphor]
+case .ph_plus_circle : return [.phosphor]
+case .ph_plus_circle_bold : return [.phosphor]
+case .ph_plus_circle_fill : return [.phosphor]
+case .ph_plus_circle_light : return [.phosphor]
+case .ph_plus_circle_thin : return [.phosphor]
+case .ph_plus_fill : return [.phosphor]
+case .ph_plus_light : return [.phosphor]
+case .ph_plus_minus : return [.phosphor]
+case .ph_plus_minus_bold : return [.phosphor]
+case .ph_plus_minus_fill : return [.phosphor]
+case .ph_plus_minus_light : return [.phosphor]
+case .ph_plus_minus_thin : return [.phosphor]
+case .ph_plus_thin : return [.phosphor]
+case .ph_poker_chip : return [.phosphor]
+case .ph_poker_chip_bold : return [.phosphor]
+case .ph_poker_chip_fill : return [.phosphor]
+case .ph_poker_chip_light : return [.phosphor]
+case .ph_poker_chip_thin : return [.phosphor]
+case .ph_police_car : return [.phosphor]
+case .ph_police_car_bold : return [.phosphor]
+case .ph_police_car_fill : return [.phosphor]
+case .ph_police_car_light : return [.phosphor]
+case .ph_police_car_thin : return [.phosphor]
+case .ph_polygon : return [.phosphor]
+case .ph_polygon_bold : return [.phosphor]
+case .ph_polygon_fill : return [.phosphor]
+case .ph_polygon_light : return [.phosphor]
+case .ph_polygon_thin : return [.phosphor]
+case .ph_popcorn : return [.phosphor]
+case .ph_popcorn_bold : return [.phosphor]
+case .ph_popcorn_fill : return [.phosphor]
+case .ph_popcorn_light : return [.phosphor]
+case .ph_popcorn_thin : return [.phosphor]
+case .ph_power : return [.phosphor]
+case .ph_power_bold : return [.phosphor]
+case .ph_power_fill : return [.phosphor]
+case .ph_power_light : return [.phosphor]
+case .ph_power_thin : return [.phosphor]
+case .ph_prescription : return [.phosphor]
+case .ph_prescription_bold : return [.phosphor]
+case .ph_prescription_fill : return [.phosphor]
+case .ph_prescription_light : return [.phosphor]
+case .ph_prescription_thin : return [.phosphor]
+case .ph_presentation : return [.phosphor]
+case .ph_presentation_bold : return [.phosphor]
+case .ph_presentation_chart : return [.phosphor]
+case .ph_presentation_chart_bold : return [.phosphor]
+case .ph_presentation_chart_fill : return [.phosphor]
+case .ph_presentation_chart_light : return [.phosphor]
+case .ph_presentation_chart_thin : return [.phosphor]
+case .ph_presentation_fill : return [.phosphor]
+case .ph_presentation_light : return [.phosphor]
+case .ph_presentation_thin : return [.phosphor]
+case .ph_printer : return [.phosphor]
+case .ph_printer_bold : return [.phosphor]
+case .ph_printer_fill : return [.phosphor]
+case .ph_printer_light : return [.phosphor]
+case .ph_printer_thin : return [.phosphor]
+case .ph_prohibit : return [.phosphor]
+case .ph_prohibit_bold : return [.phosphor]
+case .ph_prohibit_fill : return [.phosphor]
+case .ph_prohibit_inset : return [.phosphor]
+case .ph_prohibit_inset_bold : return [.phosphor]
+case .ph_prohibit_inset_fill : return [.phosphor]
+case .ph_prohibit_inset_light : return [.phosphor]
+case .ph_prohibit_inset_thin : return [.phosphor]
+case .ph_prohibit_light : return [.phosphor]
+case .ph_prohibit_thin : return [.phosphor]
+case .ph_projector_screen : return [.phosphor]
+case .ph_projector_screen_bold : return [.phosphor]
+case .ph_projector_screen_chart : return [.phosphor]
+case .ph_projector_screen_chart_bold : return [.phosphor]
+case .ph_projector_screen_chart_fill : return [.phosphor]
+case .ph_projector_screen_chart_light : return [.phosphor]
+case .ph_projector_screen_chart_thin : return [.phosphor]
+case .ph_projector_screen_fill : return [.phosphor]
+case .ph_projector_screen_light : return [.phosphor]
+case .ph_projector_screen_thin : return [.phosphor]
+case .ph_push_pin : return [.phosphor]
+case .ph_push_pin_bold : return [.phosphor]
+case .ph_push_pin_fill : return [.phosphor]
+case .ph_push_pin_light : return [.phosphor]
+case .ph_push_pin_simple : return [.phosphor]
+case .ph_push_pin_simple_bold : return [.phosphor]
+case .ph_push_pin_simple_fill : return [.phosphor]
+case .ph_push_pin_simple_light : return [.phosphor]
+case .ph_push_pin_simple_slash : return [.phosphor]
+case .ph_push_pin_simple_slash_bold : return [.phosphor]
+case .ph_push_pin_simple_slash_fill : return [.phosphor]
+case .ph_push_pin_simple_slash_light : return [.phosphor]
+case .ph_push_pin_simple_slash_thin : return [.phosphor]
+case .ph_push_pin_simple_thin : return [.phosphor]
+case .ph_push_pin_slash : return [.phosphor]
+case .ph_push_pin_slash_bold : return [.phosphor]
+case .ph_push_pin_slash_fill : return [.phosphor]
+case .ph_push_pin_slash_light : return [.phosphor]
+case .ph_push_pin_slash_thin : return [.phosphor]
+case .ph_push_pin_thin : return [.phosphor]
+case .ph_puzzle_piece : return [.phosphor]
+case .ph_puzzle_piece_bold : return [.phosphor]
+case .ph_puzzle_piece_fill : return [.phosphor]
+case .ph_puzzle_piece_light : return [.phosphor]
+case .ph_puzzle_piece_thin : return [.phosphor]
+case .ph_qr_code : return [.phosphor]
+case .ph_qr_code_bold : return [.phosphor]
+case .ph_qr_code_fill : return [.phosphor]
+case .ph_qr_code_light : return [.phosphor]
+case .ph_qr_code_thin : return [.phosphor]
+case .ph_question : return [.phosphor]
+case .ph_question_bold : return [.phosphor]
+case .ph_question_fill : return [.phosphor]
+case .ph_question_light : return [.phosphor]
+case .ph_question_thin : return [.phosphor]
+case .ph_queue : return [.phosphor]
+case .ph_queue_bold : return [.phosphor]
+case .ph_queue_fill : return [.phosphor]
+case .ph_queue_light : return [.phosphor]
+case .ph_queue_thin : return [.phosphor]
+case .ph_quotes : return [.phosphor]
+case .ph_quotes_bold : return [.phosphor]
+case .ph_quotes_fill : return [.phosphor]
+case .ph_quotes_light : return [.phosphor]
+case .ph_quotes_thin : return [.phosphor]
+case .ph_radical : return [.phosphor]
+case .ph_radical_bold : return [.phosphor]
+case .ph_radical_fill : return [.phosphor]
+case .ph_radical_light : return [.phosphor]
+case .ph_radical_thin : return [.phosphor]
+case .ph_radio : return [.phosphor]
+case .ph_radio_bold : return [.phosphor]
+case .ph_radio_button : return [.phosphor]
+case .ph_radio_button_bold : return [.phosphor]
+case .ph_radio_button_fill : return [.phosphor]
+case .ph_radio_button_light : return [.phosphor]
+case .ph_radio_button_thin : return [.phosphor]
+case .ph_radio_fill : return [.phosphor]
+case .ph_radio_light : return [.phosphor]
+case .ph_radio_thin : return [.phosphor]
+case .ph_rainbow : return [.phosphor]
+case .ph_rainbow_bold : return [.phosphor]
+case .ph_rainbow_cloud : return [.phosphor]
+case .ph_rainbow_cloud_bold : return [.phosphor]
+case .ph_rainbow_cloud_fill : return [.phosphor]
+case .ph_rainbow_cloud_light : return [.phosphor]
+case .ph_rainbow_cloud_thin : return [.phosphor]
+case .ph_rainbow_fill : return [.phosphor]
+case .ph_rainbow_light : return [.phosphor]
+case .ph_rainbow_thin : return [.phosphor]
+case .ph_receipt : return [.phosphor]
+case .ph_receipt_bold : return [.phosphor]
+case .ph_receipt_fill : return [.phosphor]
+case .ph_receipt_light : return [.phosphor]
+case .ph_receipt_thin : return [.phosphor]
+case .ph_record : return [.phosphor]
+case .ph_record_bold : return [.phosphor]
+case .ph_record_fill : return [.phosphor]
+case .ph_record_light : return [.phosphor]
+case .ph_record_thin : return [.phosphor]
+case .ph_rectangle : return [.phosphor]
+case .ph_rectangle_bold : return [.phosphor]
+case .ph_rectangle_fill : return [.phosphor]
+case .ph_rectangle_light : return [.phosphor]
+case .ph_rectangle_thin : return [.phosphor]
+case .ph_recycle : return [.phosphor]
+case .ph_recycle_bold : return [.phosphor]
+case .ph_recycle_fill : return [.phosphor]
+case .ph_recycle_light : return [.phosphor]
+case .ph_recycle_thin : return [.phosphor]
+case .ph_reddit_logo : return [.phosphor]
+case .ph_reddit_logo_bold : return [.phosphor]
+case .ph_reddit_logo_fill : return [.phosphor]
+case .ph_reddit_logo_light : return [.phosphor]
+case .ph_reddit_logo_thin : return [.phosphor]
+case .ph_repeat : return [.phosphor]
+case .ph_repeat_bold : return [.phosphor]
+case .ph_repeat_fill : return [.phosphor]
+case .ph_repeat_light : return [.phosphor]
+case .ph_repeat_once : return [.phosphor]
+case .ph_repeat_once_bold : return [.phosphor]
+case .ph_repeat_once_fill : return [.phosphor]
+case .ph_repeat_once_light : return [.phosphor]
+case .ph_repeat_once_thin : return [.phosphor]
+case .ph_repeat_thin : return [.phosphor]
+case .ph_rewind : return [.phosphor]
+case .ph_rewind_bold : return [.phosphor]
+case .ph_rewind_circle : return [.phosphor]
+case .ph_rewind_circle_bold : return [.phosphor]
+case .ph_rewind_circle_fill : return [.phosphor]
+case .ph_rewind_circle_light : return [.phosphor]
+case .ph_rewind_circle_thin : return [.phosphor]
+case .ph_rewind_fill : return [.phosphor]
+case .ph_rewind_light : return [.phosphor]
+case .ph_rewind_thin : return [.phosphor]
+case .ph_robot : return [.phosphor]
+case .ph_robot_bold : return [.phosphor]
+case .ph_robot_fill : return [.phosphor]
+case .ph_robot_light : return [.phosphor]
+case .ph_robot_thin : return [.phosphor]
+case .ph_rocket : return [.phosphor]
+case .ph_rocket_bold : return [.phosphor]
+case .ph_rocket_fill : return [.phosphor]
+case .ph_rocket_launch : return [.phosphor]
+case .ph_rocket_launch_bold : return [.phosphor]
+case .ph_rocket_launch_fill : return [.phosphor]
+case .ph_rocket_launch_light : return [.phosphor]
+case .ph_rocket_launch_thin : return [.phosphor]
+case .ph_rocket_light : return [.phosphor]
+case .ph_rocket_thin : return [.phosphor]
+case .ph_rows : return [.phosphor]
+case .ph_rows_bold : return [.phosphor]
+case .ph_rows_fill : return [.phosphor]
+case .ph_rows_light : return [.phosphor]
+case .ph_rows_thin : return [.phosphor]
+case .ph_rss : return [.phosphor]
+case .ph_rss_bold : return [.phosphor]
+case .ph_rss_fill : return [.phosphor]
+case .ph_rss_light : return [.phosphor]
+case .ph_rss_simple : return [.phosphor]
+case .ph_rss_simple_bold : return [.phosphor]
+case .ph_rss_simple_fill : return [.phosphor]
+case .ph_rss_simple_light : return [.phosphor]
+case .ph_rss_simple_thin : return [.phosphor]
+case .ph_rss_thin : return [.phosphor]
+case .ph_rug : return [.phosphor]
+case .ph_rug_bold : return [.phosphor]
+case .ph_rug_fill : return [.phosphor]
+case .ph_rug_light : return [.phosphor]
+case .ph_rug_thin : return [.phosphor]
+case .ph_ruler : return [.phosphor]
+case .ph_ruler_bold : return [.phosphor]
+case .ph_ruler_fill : return [.phosphor]
+case .ph_ruler_light : return [.phosphor]
+case .ph_ruler_thin : return [.phosphor]
+case .ph_scales : return [.phosphor]
+case .ph_scales_bold : return [.phosphor]
+case .ph_scales_fill : return [.phosphor]
+case .ph_scales_light : return [.phosphor]
+case .ph_scales_thin : return [.phosphor]
+case .ph_scan : return [.phosphor]
+case .ph_scan_bold : return [.phosphor]
+case .ph_scan_fill : return [.phosphor]
+case .ph_scan_light : return [.phosphor]
+case .ph_scan_thin : return [.phosphor]
+case .ph_scissors : return [.phosphor]
+case .ph_scissors_bold : return [.phosphor]
+case .ph_scissors_fill : return [.phosphor]
+case .ph_scissors_light : return [.phosphor]
+case .ph_scissors_thin : return [.phosphor]
+case .ph_screencast : return [.phosphor]
+case .ph_screencast_bold : return [.phosphor]
+case .ph_screencast_fill : return [.phosphor]
+case .ph_screencast_light : return [.phosphor]
+case .ph_screencast_thin : return [.phosphor]
+case .ph_scribble_loop : return [.phosphor]
+case .ph_scribble_loop_bold : return [.phosphor]
+case .ph_scribble_loop_fill : return [.phosphor]
+case .ph_scribble_loop_light : return [.phosphor]
+case .ph_scribble_loop_thin : return [.phosphor]
+case .ph_scroll : return [.phosphor]
+case .ph_scroll_bold : return [.phosphor]
+case .ph_scroll_fill : return [.phosphor]
+case .ph_scroll_light : return [.phosphor]
+case .ph_scroll_thin : return [.phosphor]
+case .ph_selection : return [.phosphor]
+case .ph_selection_all : return [.phosphor]
+case .ph_selection_all_bold : return [.phosphor]
+case .ph_selection_all_fill : return [.phosphor]
+case .ph_selection_all_light : return [.phosphor]
+case .ph_selection_all_thin : return [.phosphor]
+case .ph_selection_background : return [.phosphor]
+case .ph_selection_background_bold : return [.phosphor]
+case .ph_selection_background_fill : return [.phosphor]
+case .ph_selection_background_light : return [.phosphor]
+case .ph_selection_background_thin : return [.phosphor]
+case .ph_selection_bold : return [.phosphor]
+case .ph_selection_fill : return [.phosphor]
+case .ph_selection_foreground : return [.phosphor]
+case .ph_selection_foreground_bold : return [.phosphor]
+case .ph_selection_foreground_fill : return [.phosphor]
+case .ph_selection_foreground_light : return [.phosphor]
+case .ph_selection_foreground_thin : return [.phosphor]
+case .ph_selection_inverse : return [.phosphor]
+case .ph_selection_inverse_bold : return [.phosphor]
+case .ph_selection_inverse_fill : return [.phosphor]
+case .ph_selection_inverse_light : return [.phosphor]
+case .ph_selection_inverse_thin : return [.phosphor]
+case .ph_selection_light : return [.phosphor]
+case .ph_selection_plus : return [.phosphor]
+case .ph_selection_plus_bold : return [.phosphor]
+case .ph_selection_plus_fill : return [.phosphor]
+case .ph_selection_plus_light : return [.phosphor]
+case .ph_selection_plus_thin : return [.phosphor]
+case .ph_selection_slash : return [.phosphor]
+case .ph_selection_slash_bold : return [.phosphor]
+case .ph_selection_slash_fill : return [.phosphor]
+case .ph_selection_slash_light : return [.phosphor]
+case .ph_selection_slash_thin : return [.phosphor]
+case .ph_selection_thin : return [.phosphor]
+case .ph_share : return [.phosphor]
+case .ph_share_bold : return [.phosphor]
+case .ph_share_fill : return [.phosphor]
+case .ph_share_light : return [.phosphor]
+case .ph_share_network : return [.phosphor]
+case .ph_share_network_bold : return [.phosphor]
+case .ph_share_network_fill : return [.phosphor]
+case .ph_share_network_light : return [.phosphor]
+case .ph_share_network_thin : return [.phosphor]
+case .ph_share_thin : return [.phosphor]
+case .ph_shield : return [.phosphor]
+case .ph_shield_bold : return [.phosphor]
+case .ph_shield_check : return [.phosphor]
+case .ph_shield_check_bold : return [.phosphor]
+case .ph_shield_check_fill : return [.phosphor]
+case .ph_shield_check_light : return [.phosphor]
+case .ph_shield_check_thin : return [.phosphor]
+case .ph_shield_checkered : return [.phosphor]
+case .ph_shield_checkered_bold : return [.phosphor]
+case .ph_shield_checkered_fill : return [.phosphor]
+case .ph_shield_checkered_light : return [.phosphor]
+case .ph_shield_checkered_thin : return [.phosphor]
+case .ph_shield_chevron : return [.phosphor]
+case .ph_shield_chevron_bold : return [.phosphor]
+case .ph_shield_chevron_fill : return [.phosphor]
+case .ph_shield_chevron_light : return [.phosphor]
+case .ph_shield_chevron_thin : return [.phosphor]
+case .ph_shield_fill : return [.phosphor]
+case .ph_shield_light : return [.phosphor]
+case .ph_shield_plus : return [.phosphor]
+case .ph_shield_plus_bold : return [.phosphor]
+case .ph_shield_plus_fill : return [.phosphor]
+case .ph_shield_plus_light : return [.phosphor]
+case .ph_shield_plus_thin : return [.phosphor]
+case .ph_shield_slash : return [.phosphor]
+case .ph_shield_slash_bold : return [.phosphor]
+case .ph_shield_slash_fill : return [.phosphor]
+case .ph_shield_slash_light : return [.phosphor]
+case .ph_shield_slash_thin : return [.phosphor]
+case .ph_shield_star : return [.phosphor]
+case .ph_shield_star_bold : return [.phosphor]
+case .ph_shield_star_fill : return [.phosphor]
+case .ph_shield_star_light : return [.phosphor]
+case .ph_shield_star_thin : return [.phosphor]
+case .ph_shield_thin : return [.phosphor]
+case .ph_shield_warning : return [.phosphor]
+case .ph_shield_warning_bold : return [.phosphor]
+case .ph_shield_warning_fill : return [.phosphor]
+case .ph_shield_warning_light : return [.phosphor]
+case .ph_shield_warning_thin : return [.phosphor]
+case .ph_shopping_bag : return [.phosphor]
+case .ph_shopping_bag_bold : return [.phosphor]
+case .ph_shopping_bag_fill : return [.phosphor]
+case .ph_shopping_bag_light : return [.phosphor]
+case .ph_shopping_bag_open : return [.phosphor]
+case .ph_shopping_bag_open_bold : return [.phosphor]
+case .ph_shopping_bag_open_fill : return [.phosphor]
+case .ph_shopping_bag_open_light : return [.phosphor]
+case .ph_shopping_bag_open_thin : return [.phosphor]
+case .ph_shopping_bag_thin : return [.phosphor]
+case .ph_shopping_cart : return [.phosphor]
+case .ph_shopping_cart_bold : return [.phosphor]
+case .ph_shopping_cart_fill : return [.phosphor]
+case .ph_shopping_cart_light : return [.phosphor]
+case .ph_shopping_cart_simple : return [.phosphor]
+case .ph_shopping_cart_simple_bold : return [.phosphor]
+case .ph_shopping_cart_simple_fill : return [.phosphor]
+case .ph_shopping_cart_simple_light : return [.phosphor]
+case .ph_shopping_cart_simple_thin : return [.phosphor]
+case .ph_shopping_cart_thin : return [.phosphor]
+case .ph_shower : return [.phosphor]
+case .ph_shower_bold : return [.phosphor]
+case .ph_shower_fill : return [.phosphor]
+case .ph_shower_light : return [.phosphor]
+case .ph_shower_thin : return [.phosphor]
+case .ph_shuffle : return [.phosphor]
+case .ph_shuffle_angular : return [.phosphor]
+case .ph_shuffle_angular_bold : return [.phosphor]
+case .ph_shuffle_angular_fill : return [.phosphor]
+case .ph_shuffle_angular_light : return [.phosphor]
+case .ph_shuffle_angular_thin : return [.phosphor]
+case .ph_shuffle_bold : return [.phosphor]
+case .ph_shuffle_fill : return [.phosphor]
+case .ph_shuffle_light : return [.phosphor]
+case .ph_shuffle_simple : return [.phosphor]
+case .ph_shuffle_simple_bold : return [.phosphor]
+case .ph_shuffle_simple_fill : return [.phosphor]
+case .ph_shuffle_simple_light : return [.phosphor]
+case .ph_shuffle_simple_thin : return [.phosphor]
+case .ph_shuffle_thin : return [.phosphor]
+case .ph_sidebar : return [.phosphor]
+case .ph_sidebar_bold : return [.phosphor]
+case .ph_sidebar_fill : return [.phosphor]
+case .ph_sidebar_light : return [.phosphor]
+case .ph_sidebar_simple : return [.phosphor]
+case .ph_sidebar_simple_bold : return [.phosphor]
+case .ph_sidebar_simple_fill : return [.phosphor]
+case .ph_sidebar_simple_light : return [.phosphor]
+case .ph_sidebar_simple_thin : return [.phosphor]
+case .ph_sidebar_thin : return [.phosphor]
+case .ph_sign_in : return [.phosphor]
+case .ph_sign_in_bold : return [.phosphor]
+case .ph_sign_in_fill : return [.phosphor]
+case .ph_sign_in_light : return [.phosphor]
+case .ph_sign_in_thin : return [.phosphor]
+case .ph_sign_out : return [.phosphor]
+case .ph_sign_out_bold : return [.phosphor]
+case .ph_sign_out_fill : return [.phosphor]
+case .ph_sign_out_light : return [.phosphor]
+case .ph_sign_out_thin : return [.phosphor]
+case .ph_signpost : return [.phosphor]
+case .ph_signpost_bold : return [.phosphor]
+case .ph_signpost_fill : return [.phosphor]
+case .ph_signpost_light : return [.phosphor]
+case .ph_signpost_thin : return [.phosphor]
+case .ph_sim_card : return [.phosphor]
+case .ph_sim_card_bold : return [.phosphor]
+case .ph_sim_card_fill : return [.phosphor]
+case .ph_sim_card_light : return [.phosphor]
+case .ph_sim_card_thin : return [.phosphor]
+case .ph_sketch_logo : return [.phosphor]
+case .ph_sketch_logo_bold : return [.phosphor]
+case .ph_sketch_logo_fill : return [.phosphor]
+case .ph_sketch_logo_light : return [.phosphor]
+case .ph_sketch_logo_thin : return [.phosphor]
+case .ph_skip_back : return [.phosphor]
+case .ph_skip_back_bold : return [.phosphor]
+case .ph_skip_back_circle : return [.phosphor]
+case .ph_skip_back_circle_bold : return [.phosphor]
+case .ph_skip_back_circle_fill : return [.phosphor]
+case .ph_skip_back_circle_light : return [.phosphor]
+case .ph_skip_back_circle_thin : return [.phosphor]
+case .ph_skip_back_fill : return [.phosphor]
+case .ph_skip_back_light : return [.phosphor]
+case .ph_skip_back_thin : return [.phosphor]
+case .ph_skip_forward : return [.phosphor]
+case .ph_skip_forward_bold : return [.phosphor]
+case .ph_skip_forward_circle : return [.phosphor]
+case .ph_skip_forward_circle_bold : return [.phosphor]
+case .ph_skip_forward_circle_fill : return [.phosphor]
+case .ph_skip_forward_circle_light : return [.phosphor]
+case .ph_skip_forward_circle_thin : return [.phosphor]
+case .ph_skip_forward_fill : return [.phosphor]
+case .ph_skip_forward_light : return [.phosphor]
+case .ph_skip_forward_thin : return [.phosphor]
+case .ph_skull : return [.phosphor]
+case .ph_skull_bold : return [.phosphor]
+case .ph_skull_fill : return [.phosphor]
+case .ph_skull_light : return [.phosphor]
+case .ph_skull_thin : return [.phosphor]
+case .ph_slack_logo : return [.phosphor]
+case .ph_slack_logo_bold : return [.phosphor]
+case .ph_slack_logo_fill : return [.phosphor]
+case .ph_slack_logo_light : return [.phosphor]
+case .ph_slack_logo_thin : return [.phosphor]
+case .ph_sliders : return [.phosphor]
+case .ph_sliders_bold : return [.phosphor]
+case .ph_sliders_fill : return [.phosphor]
+case .ph_sliders_horizontal : return [.phosphor]
+case .ph_sliders_horizontal_bold : return [.phosphor]
+case .ph_sliders_horizontal_fill : return [.phosphor]
+case .ph_sliders_horizontal_light : return [.phosphor]
+case .ph_sliders_horizontal_thin : return [.phosphor]
+case .ph_sliders_light : return [.phosphor]
+case .ph_sliders_thin : return [.phosphor]
+case .ph_smiley : return [.phosphor]
+case .ph_smiley_blank : return [.phosphor]
+case .ph_smiley_blank_bold : return [.phosphor]
+case .ph_smiley_blank_fill : return [.phosphor]
+case .ph_smiley_blank_light : return [.phosphor]
+case .ph_smiley_blank_thin : return [.phosphor]
+case .ph_smiley_bold : return [.phosphor]
+case .ph_smiley_fill : return [.phosphor]
+case .ph_smiley_light : return [.phosphor]
+case .ph_smiley_meh : return [.phosphor]
+case .ph_smiley_meh_bold : return [.phosphor]
+case .ph_smiley_meh_fill : return [.phosphor]
+case .ph_smiley_meh_light : return [.phosphor]
+case .ph_smiley_meh_thin : return [.phosphor]
+case .ph_smiley_nervous : return [.phosphor]
+case .ph_smiley_nervous_bold : return [.phosphor]
+case .ph_smiley_nervous_fill : return [.phosphor]
+case .ph_smiley_nervous_light : return [.phosphor]
+case .ph_smiley_nervous_thin : return [.phosphor]
+case .ph_smiley_sad : return [.phosphor]
+case .ph_smiley_sad_bold : return [.phosphor]
+case .ph_smiley_sad_fill : return [.phosphor]
+case .ph_smiley_sad_light : return [.phosphor]
+case .ph_smiley_sad_thin : return [.phosphor]
+case .ph_smiley_sticker : return [.phosphor]
+case .ph_smiley_sticker_bold : return [.phosphor]
+case .ph_smiley_sticker_fill : return [.phosphor]
+case .ph_smiley_sticker_light : return [.phosphor]
+case .ph_smiley_sticker_thin : return [.phosphor]
+case .ph_smiley_thin : return [.phosphor]
+case .ph_smiley_wink : return [.phosphor]
+case .ph_smiley_wink_bold : return [.phosphor]
+case .ph_smiley_wink_fill : return [.phosphor]
+case .ph_smiley_wink_light : return [.phosphor]
+case .ph_smiley_wink_thin : return [.phosphor]
+case .ph_smiley_x_eyes : return [.phosphor]
+case .ph_smiley_x_eyes_bold : return [.phosphor]
+case .ph_smiley_x_eyes_fill : return [.phosphor]
+case .ph_smiley_x_eyes_light : return [.phosphor]
+case .ph_smiley_x_eyes_thin : return [.phosphor]
+case .ph_snapchat_logo : return [.phosphor]
+case .ph_snapchat_logo_bold : return [.phosphor]
+case .ph_snapchat_logo_fill : return [.phosphor]
+case .ph_snapchat_logo_light : return [.phosphor]
+case .ph_snapchat_logo_thin : return [.phosphor]
+case .ph_snowflake : return [.phosphor]
+case .ph_snowflake_bold : return [.phosphor]
+case .ph_snowflake_fill : return [.phosphor]
+case .ph_snowflake_light : return [.phosphor]
+case .ph_snowflake_thin : return [.phosphor]
+case .ph_soccer_ball : return [.phosphor]
+case .ph_soccer_ball_bold : return [.phosphor]
+case .ph_soccer_ball_fill : return [.phosphor]
+case .ph_soccer_ball_light : return [.phosphor]
+case .ph_soccer_ball_thin : return [.phosphor]
+case .ph_sort_ascending : return [.phosphor]
+case .ph_sort_ascending_bold : return [.phosphor]
+case .ph_sort_ascending_fill : return [.phosphor]
+case .ph_sort_ascending_light : return [.phosphor]
+case .ph_sort_ascending_thin : return [.phosphor]
+case .ph_sort_descending : return [.phosphor]
+case .ph_sort_descending_bold : return [.phosphor]
+case .ph_sort_descending_fill : return [.phosphor]
+case .ph_sort_descending_light : return [.phosphor]
+case .ph_sort_descending_thin : return [.phosphor]
+case .ph_spade : return [.phosphor]
+case .ph_spade_bold : return [.phosphor]
+case .ph_spade_fill : return [.phosphor]
+case .ph_spade_light : return [.phosphor]
+case .ph_spade_thin : return [.phosphor]
+case .ph_sparkle : return [.phosphor]
+case .ph_sparkle_bold : return [.phosphor]
+case .ph_sparkle_fill : return [.phosphor]
+case .ph_sparkle_light : return [.phosphor]
+case .ph_sparkle_thin : return [.phosphor]
+case .ph_speaker_high : return [.phosphor]
+case .ph_speaker_high_bold : return [.phosphor]
+case .ph_speaker_high_fill : return [.phosphor]
+case .ph_speaker_high_light : return [.phosphor]
+case .ph_speaker_high_thin : return [.phosphor]
+case .ph_speaker_low : return [.phosphor]
+case .ph_speaker_low_bold : return [.phosphor]
+case .ph_speaker_low_fill : return [.phosphor]
+case .ph_speaker_low_light : return [.phosphor]
+case .ph_speaker_low_thin : return [.phosphor]
+case .ph_speaker_none : return [.phosphor]
+case .ph_speaker_none_bold : return [.phosphor]
+case .ph_speaker_none_fill : return [.phosphor]
+case .ph_speaker_none_light : return [.phosphor]
+case .ph_speaker_none_thin : return [.phosphor]
+case .ph_speaker_simple_high : return [.phosphor]
+case .ph_speaker_simple_high_bold : return [.phosphor]
+case .ph_speaker_simple_high_fill : return [.phosphor]
+case .ph_speaker_simple_high_light : return [.phosphor]
+case .ph_speaker_simple_high_thin : return [.phosphor]
+case .ph_speaker_simple_low : return [.phosphor]
+case .ph_speaker_simple_low_bold : return [.phosphor]
+case .ph_speaker_simple_low_fill : return [.phosphor]
+case .ph_speaker_simple_low_light : return [.phosphor]
+case .ph_speaker_simple_low_thin : return [.phosphor]
+case .ph_speaker_simple_none : return [.phosphor]
+case .ph_speaker_simple_none_bold : return [.phosphor]
+case .ph_speaker_simple_none_fill : return [.phosphor]
+case .ph_speaker_simple_none_light : return [.phosphor]
+case .ph_speaker_simple_none_thin : return [.phosphor]
+case .ph_speaker_simple_slash : return [.phosphor]
+case .ph_speaker_simple_slash_bold : return [.phosphor]
+case .ph_speaker_simple_slash_fill : return [.phosphor]
+case .ph_speaker_simple_slash_light : return [.phosphor]
+case .ph_speaker_simple_slash_thin : return [.phosphor]
+case .ph_speaker_simple_x : return [.phosphor]
+case .ph_speaker_simple_x_bold : return [.phosphor]
+case .ph_speaker_simple_x_fill : return [.phosphor]
+case .ph_speaker_simple_x_light : return [.phosphor]
+case .ph_speaker_simple_x_thin : return [.phosphor]
+case .ph_speaker_slash : return [.phosphor]
+case .ph_speaker_slash_bold : return [.phosphor]
+case .ph_speaker_slash_fill : return [.phosphor]
+case .ph_speaker_slash_light : return [.phosphor]
+case .ph_speaker_slash_thin : return [.phosphor]
+case .ph_speaker_x : return [.phosphor]
+case .ph_speaker_x_bold : return [.phosphor]
+case .ph_speaker_x_fill : return [.phosphor]
+case .ph_speaker_x_light : return [.phosphor]
+case .ph_speaker_x_thin : return [.phosphor]
+case .ph_spinner : return [.phosphor]
+case .ph_spinner_bold : return [.phosphor]
+case .ph_spinner_fill : return [.phosphor]
+case .ph_spinner_gap : return [.phosphor]
+case .ph_spinner_gap_bold : return [.phosphor]
+case .ph_spinner_gap_fill : return [.phosphor]
+case .ph_spinner_gap_light : return [.phosphor]
+case .ph_spinner_gap_thin : return [.phosphor]
+case .ph_spinner_light : return [.phosphor]
+case .ph_spinner_thin : return [.phosphor]
+case .ph_spiral : return [.phosphor]
+case .ph_spiral_bold : return [.phosphor]
+case .ph_spiral_fill : return [.phosphor]
+case .ph_spiral_light : return [.phosphor]
+case .ph_spiral_thin : return [.phosphor]
+case .ph_spotify_logo : return [.phosphor]
+case .ph_spotify_logo_bold : return [.phosphor]
+case .ph_spotify_logo_fill : return [.phosphor]
+case .ph_spotify_logo_light : return [.phosphor]
+case .ph_spotify_logo_thin : return [.phosphor]
+case .ph_square : return [.phosphor]
+case .ph_square_bold : return [.phosphor]
+case .ph_square_fill : return [.phosphor]
+case .ph_square_half : return [.phosphor]
+case .ph_square_half_bold : return [.phosphor]
+case .ph_square_half_bottom : return [.phosphor]
+case .ph_square_half_bottom_bold : return [.phosphor]
+case .ph_square_half_bottom_fill : return [.phosphor]
+case .ph_square_half_bottom_light : return [.phosphor]
+case .ph_square_half_bottom_thin : return [.phosphor]
+case .ph_square_half_fill : return [.phosphor]
+case .ph_square_half_light : return [.phosphor]
+case .ph_square_half_thin : return [.phosphor]
+case .ph_square_light : return [.phosphor]
+case .ph_square_logo : return [.phosphor]
+case .ph_square_logo_bold : return [.phosphor]
+case .ph_square_logo_fill : return [.phosphor]
+case .ph_square_logo_light : return [.phosphor]
+case .ph_square_logo_thin : return [.phosphor]
+case .ph_square_thin : return [.phosphor]
+case .ph_squares_four : return [.phosphor]
+case .ph_squares_four_bold : return [.phosphor]
+case .ph_squares_four_fill : return [.phosphor]
+case .ph_squares_four_light : return [.phosphor]
+case .ph_squares_four_thin : return [.phosphor]
+case .ph_stack : return [.phosphor]
+case .ph_stack_bold : return [.phosphor]
+case .ph_stack_fill : return [.phosphor]
+case .ph_stack_light : return [.phosphor]
+case .ph_stack_overflow_logo : return [.phosphor]
+case .ph_stack_overflow_logo_bold : return [.phosphor]
+case .ph_stack_overflow_logo_fill : return [.phosphor]
+case .ph_stack_overflow_logo_light : return [.phosphor]
+case .ph_stack_overflow_logo_thin : return [.phosphor]
+case .ph_stack_simple : return [.phosphor]
+case .ph_stack_simple_bold : return [.phosphor]
+case .ph_stack_simple_fill : return [.phosphor]
+case .ph_stack_simple_light : return [.phosphor]
+case .ph_stack_simple_thin : return [.phosphor]
+case .ph_stack_thin : return [.phosphor]
+case .ph_stamp : return [.phosphor]
+case .ph_stamp_bold : return [.phosphor]
+case .ph_stamp_fill : return [.phosphor]
+case .ph_stamp_light : return [.phosphor]
+case .ph_stamp_thin : return [.phosphor]
+case .ph_star : return [.phosphor]
+case .ph_star_bold : return [.phosphor]
+case .ph_star_fill : return [.phosphor]
+case .ph_star_four : return [.phosphor]
+case .ph_star_four_bold : return [.phosphor]
+case .ph_star_four_fill : return [.phosphor]
+case .ph_star_four_light : return [.phosphor]
+case .ph_star_four_thin : return [.phosphor]
+case .ph_star_half : return [.phosphor]
+case .ph_star_half_bold : return [.phosphor]
+case .ph_star_half_fill : return [.phosphor]
+case .ph_star_half_light : return [.phosphor]
+case .ph_star_half_thin : return [.phosphor]
+case .ph_star_light : return [.phosphor]
+case .ph_star_thin : return [.phosphor]
+case .ph_sticker : return [.phosphor]
+case .ph_sticker_bold : return [.phosphor]
+case .ph_sticker_fill : return [.phosphor]
+case .ph_sticker_light : return [.phosphor]
+case .ph_sticker_thin : return [.phosphor]
+case .ph_stop : return [.phosphor]
+case .ph_stop_bold : return [.phosphor]
+case .ph_stop_circle : return [.phosphor]
+case .ph_stop_circle_bold : return [.phosphor]
+case .ph_stop_circle_fill : return [.phosphor]
+case .ph_stop_circle_light : return [.phosphor]
+case .ph_stop_circle_thin : return [.phosphor]
+case .ph_stop_fill : return [.phosphor]
+case .ph_stop_light : return [.phosphor]
+case .ph_stop_thin : return [.phosphor]
+case .ph_storefront : return [.phosphor]
+case .ph_storefront_bold : return [.phosphor]
+case .ph_storefront_fill : return [.phosphor]
+case .ph_storefront_light : return [.phosphor]
+case .ph_storefront_thin : return [.phosphor]
+case .ph_strategy : return [.phosphor]
+case .ph_strategy_bold : return [.phosphor]
+case .ph_strategy_fill : return [.phosphor]
+case .ph_strategy_light : return [.phosphor]
+case .ph_strategy_thin : return [.phosphor]
+case .ph_stripe_logo : return [.phosphor]
+case .ph_stripe_logo_bold : return [.phosphor]
+case .ph_stripe_logo_fill : return [.phosphor]
+case .ph_stripe_logo_light : return [.phosphor]
+case .ph_stripe_logo_thin : return [.phosphor]
+case .ph_student : return [.phosphor]
+case .ph_student_bold : return [.phosphor]
+case .ph_student_fill : return [.phosphor]
+case .ph_student_light : return [.phosphor]
+case .ph_student_thin : return [.phosphor]
+case .ph_suitcase : return [.phosphor]
+case .ph_suitcase_bold : return [.phosphor]
+case .ph_suitcase_fill : return [.phosphor]
+case .ph_suitcase_light : return [.phosphor]
+case .ph_suitcase_simple : return [.phosphor]
+case .ph_suitcase_simple_bold : return [.phosphor]
+case .ph_suitcase_simple_fill : return [.phosphor]
+case .ph_suitcase_simple_light : return [.phosphor]
+case .ph_suitcase_simple_thin : return [.phosphor]
+case .ph_suitcase_thin : return [.phosphor]
+case .ph_sun : return [.phosphor]
+case .ph_sun_bold : return [.phosphor]
+case .ph_sun_dim : return [.phosphor]
+case .ph_sun_dim_bold : return [.phosphor]
+case .ph_sun_dim_fill : return [.phosphor]
+case .ph_sun_dim_light : return [.phosphor]
+case .ph_sun_dim_thin : return [.phosphor]
+case .ph_sun_fill : return [.phosphor]
+case .ph_sun_horizon : return [.phosphor]
+case .ph_sun_horizon_bold : return [.phosphor]
+case .ph_sun_horizon_fill : return [.phosphor]
+case .ph_sun_horizon_light : return [.phosphor]
+case .ph_sun_horizon_thin : return [.phosphor]
+case .ph_sun_light : return [.phosphor]
+case .ph_sun_thin : return [.phosphor]
+case .ph_sunglasses : return [.phosphor]
+case .ph_sunglasses_bold : return [.phosphor]
+case .ph_sunglasses_fill : return [.phosphor]
+case .ph_sunglasses_light : return [.phosphor]
+case .ph_sunglasses_thin : return [.phosphor]
+case .ph_swap : return [.phosphor]
+case .ph_swap_bold : return [.phosphor]
+case .ph_swap_fill : return [.phosphor]
+case .ph_swap_light : return [.phosphor]
+case .ph_swap_thin : return [.phosphor]
+case .ph_swatches : return [.phosphor]
+case .ph_swatches_bold : return [.phosphor]
+case .ph_swatches_fill : return [.phosphor]
+case .ph_swatches_light : return [.phosphor]
+case .ph_swatches_thin : return [.phosphor]
+case .ph_sword : return [.phosphor]
+case .ph_sword_bold : return [.phosphor]
+case .ph_sword_fill : return [.phosphor]
+case .ph_sword_light : return [.phosphor]
+case .ph_sword_thin : return [.phosphor]
+case .ph_syringe : return [.phosphor]
+case .ph_syringe_bold : return [.phosphor]
+case .ph_syringe_fill : return [.phosphor]
+case .ph_syringe_light : return [.phosphor]
+case .ph_syringe_thin : return [.phosphor]
+case .ph_t_shirt : return [.phosphor]
+case .ph_t_shirt_bold : return [.phosphor]
+case .ph_t_shirt_fill : return [.phosphor]
+case .ph_t_shirt_light : return [.phosphor]
+case .ph_t_shirt_thin : return [.phosphor]
+case .ph_table : return [.phosphor]
+case .ph_table_bold : return [.phosphor]
+case .ph_table_fill : return [.phosphor]
+case .ph_table_light : return [.phosphor]
+case .ph_table_thin : return [.phosphor]
+case .ph_tabs : return [.phosphor]
+case .ph_tabs_bold : return [.phosphor]
+case .ph_tabs_fill : return [.phosphor]
+case .ph_tabs_light : return [.phosphor]
+case .ph_tabs_thin : return [.phosphor]
+case .ph_tag : return [.phosphor]
+case .ph_tag_bold : return [.phosphor]
+case .ph_tag_chevron : return [.phosphor]
+case .ph_tag_chevron_bold : return [.phosphor]
+case .ph_tag_chevron_fill : return [.phosphor]
+case .ph_tag_chevron_light : return [.phosphor]
+case .ph_tag_chevron_thin : return [.phosphor]
+case .ph_tag_fill : return [.phosphor]
+case .ph_tag_light : return [.phosphor]
+case .ph_tag_simple : return [.phosphor]
+case .ph_tag_simple_bold : return [.phosphor]
+case .ph_tag_simple_fill : return [.phosphor]
+case .ph_tag_simple_light : return [.phosphor]
+case .ph_tag_simple_thin : return [.phosphor]
+case .ph_tag_thin : return [.phosphor]
+case .ph_target : return [.phosphor]
+case .ph_target_bold : return [.phosphor]
+case .ph_target_fill : return [.phosphor]
+case .ph_target_light : return [.phosphor]
+case .ph_target_thin : return [.phosphor]
+case .ph_taxi : return [.phosphor]
+case .ph_taxi_bold : return [.phosphor]
+case .ph_taxi_fill : return [.phosphor]
+case .ph_taxi_light : return [.phosphor]
+case .ph_taxi_thin : return [.phosphor]
+case .ph_telegram_logo : return [.phosphor]
+case .ph_telegram_logo_bold : return [.phosphor]
+case .ph_telegram_logo_fill : return [.phosphor]
+case .ph_telegram_logo_light : return [.phosphor]
+case .ph_telegram_logo_thin : return [.phosphor]
+case .ph_television : return [.phosphor]
+case .ph_television_bold : return [.phosphor]
+case .ph_television_fill : return [.phosphor]
+case .ph_television_light : return [.phosphor]
+case .ph_television_simple : return [.phosphor]
+case .ph_television_simple_bold : return [.phosphor]
+case .ph_television_simple_fill : return [.phosphor]
+case .ph_television_simple_light : return [.phosphor]
+case .ph_television_simple_thin : return [.phosphor]
+case .ph_television_thin : return [.phosphor]
+case .ph_tennis_ball : return [.phosphor]
+case .ph_tennis_ball_bold : return [.phosphor]
+case .ph_tennis_ball_fill : return [.phosphor]
+case .ph_tennis_ball_light : return [.phosphor]
+case .ph_tennis_ball_thin : return [.phosphor]
+case .ph_terminal : return [.phosphor]
+case .ph_terminal_bold : return [.phosphor]
+case .ph_terminal_fill : return [.phosphor]
+case .ph_terminal_light : return [.phosphor]
+case .ph_terminal_thin : return [.phosphor]
+case .ph_terminal_window : return [.phosphor]
+case .ph_terminal_window_bold : return [.phosphor]
+case .ph_terminal_window_fill : return [.phosphor]
+case .ph_terminal_window_light : return [.phosphor]
+case .ph_terminal_window_thin : return [.phosphor]
+case .ph_test_tube : return [.phosphor]
+case .ph_test_tube_bold : return [.phosphor]
+case .ph_test_tube_fill : return [.phosphor]
+case .ph_test_tube_light : return [.phosphor]
+case .ph_test_tube_thin : return [.phosphor]
+case .ph_text_aa : return [.phosphor]
+case .ph_text_aa_bold : return [.phosphor]
+case .ph_text_aa_fill : return [.phosphor]
+case .ph_text_aa_light : return [.phosphor]
+case .ph_text_aa_thin : return [.phosphor]
+case .ph_text_align_center : return [.phosphor]
+case .ph_text_align_center_bold : return [.phosphor]
+case .ph_text_align_center_fill : return [.phosphor]
+case .ph_text_align_center_light : return [.phosphor]
+case .ph_text_align_center_thin : return [.phosphor]
+case .ph_text_align_justify : return [.phosphor]
+case .ph_text_align_justify_bold : return [.phosphor]
+case .ph_text_align_justify_fill : return [.phosphor]
+case .ph_text_align_justify_light : return [.phosphor]
+case .ph_text_align_justify_thin : return [.phosphor]
+case .ph_text_align_left : return [.phosphor]
+case .ph_text_align_left_bold : return [.phosphor]
+case .ph_text_align_left_fill : return [.phosphor]
+case .ph_text_align_left_light : return [.phosphor]
+case .ph_text_align_left_thin : return [.phosphor]
+case .ph_text_align_right : return [.phosphor]
+case .ph_text_align_right_bold : return [.phosphor]
+case .ph_text_align_right_fill : return [.phosphor]
+case .ph_text_align_right_light : return [.phosphor]
+case .ph_text_align_right_thin : return [.phosphor]
+case .ph_text_bolder : return [.phosphor]
+case .ph_text_bolder_bold : return [.phosphor]
+case .ph_text_bolder_fill : return [.phosphor]
+case .ph_text_bolder_light : return [.phosphor]
+case .ph_text_bolder_thin : return [.phosphor]
+case .ph_text_h : return [.phosphor]
+case .ph_text_h_bold : return [.phosphor]
+case .ph_text_h_fill : return [.phosphor]
+case .ph_text_h_five : return [.phosphor]
+case .ph_text_h_five_bold : return [.phosphor]
+case .ph_text_h_five_fill : return [.phosphor]
+case .ph_text_h_five_light : return [.phosphor]
+case .ph_text_h_five_thin : return [.phosphor]
+case .ph_text_h_four : return [.phosphor]
+case .ph_text_h_four_bold : return [.phosphor]
+case .ph_text_h_four_fill : return [.phosphor]
+case .ph_text_h_four_light : return [.phosphor]
+case .ph_text_h_four_thin : return [.phosphor]
+case .ph_text_h_light : return [.phosphor]
+case .ph_text_h_one : return [.phosphor]
+case .ph_text_h_one_bold : return [.phosphor]
+case .ph_text_h_one_fill : return [.phosphor]
+case .ph_text_h_one_light : return [.phosphor]
+case .ph_text_h_one_thin : return [.phosphor]
+case .ph_text_h_six : return [.phosphor]
+case .ph_text_h_six_bold : return [.phosphor]
+case .ph_text_h_six_fill : return [.phosphor]
+case .ph_text_h_six_light : return [.phosphor]
+case .ph_text_h_six_thin : return [.phosphor]
+case .ph_text_h_thin : return [.phosphor]
+case .ph_text_h_three : return [.phosphor]
+case .ph_text_h_three_bold : return [.phosphor]
+case .ph_text_h_three_fill : return [.phosphor]
+case .ph_text_h_three_light : return [.phosphor]
+case .ph_text_h_three_thin : return [.phosphor]
+case .ph_text_h_two : return [.phosphor]
+case .ph_text_h_two_bold : return [.phosphor]
+case .ph_text_h_two_fill : return [.phosphor]
+case .ph_text_h_two_light : return [.phosphor]
+case .ph_text_h_two_thin : return [.phosphor]
+case .ph_text_indent : return [.phosphor]
+case .ph_text_indent_bold : return [.phosphor]
+case .ph_text_indent_fill : return [.phosphor]
+case .ph_text_indent_light : return [.phosphor]
+case .ph_text_indent_thin : return [.phosphor]
+case .ph_text_italic : return [.phosphor]
+case .ph_text_italic_bold : return [.phosphor]
+case .ph_text_italic_fill : return [.phosphor]
+case .ph_text_italic_light : return [.phosphor]
+case .ph_text_italic_thin : return [.phosphor]
+case .ph_text_outdent : return [.phosphor]
+case .ph_text_outdent_bold : return [.phosphor]
+case .ph_text_outdent_fill : return [.phosphor]
+case .ph_text_outdent_light : return [.phosphor]
+case .ph_text_outdent_thin : return [.phosphor]
+case .ph_text_strikethrough : return [.phosphor]
+case .ph_text_strikethrough_bold : return [.phosphor]
+case .ph_text_strikethrough_fill : return [.phosphor]
+case .ph_text_strikethrough_light : return [.phosphor]
+case .ph_text_strikethrough_thin : return [.phosphor]
+case .ph_text_t : return [.phosphor]
+case .ph_text_t_bold : return [.phosphor]
+case .ph_text_t_fill : return [.phosphor]
+case .ph_text_t_light : return [.phosphor]
+case .ph_text_t_thin : return [.phosphor]
+case .ph_text_underline : return [.phosphor]
+case .ph_text_underline_bold : return [.phosphor]
+case .ph_text_underline_fill : return [.phosphor]
+case .ph_text_underline_light : return [.phosphor]
+case .ph_text_underline_thin : return [.phosphor]
+case .ph_textbox : return [.phosphor]
+case .ph_textbox_bold : return [.phosphor]
+case .ph_textbox_fill : return [.phosphor]
+case .ph_textbox_light : return [.phosphor]
+case .ph_textbox_thin : return [.phosphor]
+case .ph_thermometer : return [.phosphor]
+case .ph_thermometer_bold : return [.phosphor]
+case .ph_thermometer_cold : return [.phosphor]
+case .ph_thermometer_cold_bold : return [.phosphor]
+case .ph_thermometer_cold_fill : return [.phosphor]
+case .ph_thermometer_cold_light : return [.phosphor]
+case .ph_thermometer_cold_thin : return [.phosphor]
+case .ph_thermometer_fill : return [.phosphor]
+case .ph_thermometer_hot : return [.phosphor]
+case .ph_thermometer_hot_bold : return [.phosphor]
+case .ph_thermometer_hot_fill : return [.phosphor]
+case .ph_thermometer_hot_light : return [.phosphor]
+case .ph_thermometer_hot_thin : return [.phosphor]
+case .ph_thermometer_light : return [.phosphor]
+case .ph_thermometer_simple : return [.phosphor]
+case .ph_thermometer_simple_bold : return [.phosphor]
+case .ph_thermometer_simple_fill : return [.phosphor]
+case .ph_thermometer_simple_light : return [.phosphor]
+case .ph_thermometer_simple_thin : return [.phosphor]
+case .ph_thermometer_thin : return [.phosphor]
+case .ph_thumbs_down : return [.phosphor]
+case .ph_thumbs_down_bold : return [.phosphor]
+case .ph_thumbs_down_fill : return [.phosphor]
+case .ph_thumbs_down_light : return [.phosphor]
+case .ph_thumbs_down_thin : return [.phosphor]
+case .ph_thumbs_up : return [.phosphor]
+case .ph_thumbs_up_bold : return [.phosphor]
+case .ph_thumbs_up_fill : return [.phosphor]
+case .ph_thumbs_up_light : return [.phosphor]
+case .ph_thumbs_up_thin : return [.phosphor]
+case .ph_ticket : return [.phosphor]
+case .ph_ticket_bold : return [.phosphor]
+case .ph_ticket_fill : return [.phosphor]
+case .ph_ticket_light : return [.phosphor]
+case .ph_ticket_thin : return [.phosphor]
+case .ph_tiktok_logo : return [.phosphor]
+case .ph_tiktok_logo_bold : return [.phosphor]
+case .ph_tiktok_logo_fill : return [.phosphor]
+case .ph_tiktok_logo_light : return [.phosphor]
+case .ph_tiktok_logo_thin : return [.phosphor]
+case .ph_timer : return [.phosphor]
+case .ph_timer_bold : return [.phosphor]
+case .ph_timer_fill : return [.phosphor]
+case .ph_timer_light : return [.phosphor]
+case .ph_timer_thin : return [.phosphor]
+case .ph_toggle_left : return [.phosphor]
+case .ph_toggle_left_bold : return [.phosphor]
+case .ph_toggle_left_fill : return [.phosphor]
+case .ph_toggle_left_light : return [.phosphor]
+case .ph_toggle_left_thin : return [.phosphor]
+case .ph_toggle_right : return [.phosphor]
+case .ph_toggle_right_bold : return [.phosphor]
+case .ph_toggle_right_fill : return [.phosphor]
+case .ph_toggle_right_light : return [.phosphor]
+case .ph_toggle_right_thin : return [.phosphor]
+case .ph_toilet : return [.phosphor]
+case .ph_toilet_bold : return [.phosphor]
+case .ph_toilet_fill : return [.phosphor]
+case .ph_toilet_light : return [.phosphor]
+case .ph_toilet_paper : return [.phosphor]
+case .ph_toilet_paper_bold : return [.phosphor]
+case .ph_toilet_paper_fill : return [.phosphor]
+case .ph_toilet_paper_light : return [.phosphor]
+case .ph_toilet_paper_thin : return [.phosphor]
+case .ph_toilet_thin : return [.phosphor]
+case .ph_tote : return [.phosphor]
+case .ph_tote_bold : return [.phosphor]
+case .ph_tote_fill : return [.phosphor]
+case .ph_tote_light : return [.phosphor]
+case .ph_tote_simple : return [.phosphor]
+case .ph_tote_simple_bold : return [.phosphor]
+case .ph_tote_simple_fill : return [.phosphor]
+case .ph_tote_simple_light : return [.phosphor]
+case .ph_tote_simple_thin : return [.phosphor]
+case .ph_tote_thin : return [.phosphor]
+case .ph_trademark_registered : return [.phosphor]
+case .ph_trademark_registered_bold : return [.phosphor]
+case .ph_trademark_registered_fill : return [.phosphor]
+case .ph_trademark_registered_light : return [.phosphor]
+case .ph_trademark_registered_thin : return [.phosphor]
+case .ph_traffic_cone : return [.phosphor]
+case .ph_traffic_cone_bold : return [.phosphor]
+case .ph_traffic_cone_fill : return [.phosphor]
+case .ph_traffic_cone_light : return [.phosphor]
+case .ph_traffic_cone_thin : return [.phosphor]
+case .ph_traffic_sign : return [.phosphor]
+case .ph_traffic_sign_bold : return [.phosphor]
+case .ph_traffic_sign_fill : return [.phosphor]
+case .ph_traffic_sign_light : return [.phosphor]
+case .ph_traffic_sign_thin : return [.phosphor]
+case .ph_traffic_signal : return [.phosphor]
+case .ph_traffic_signal_bold : return [.phosphor]
+case .ph_traffic_signal_fill : return [.phosphor]
+case .ph_traffic_signal_light : return [.phosphor]
+case .ph_traffic_signal_thin : return [.phosphor]
+case .ph_train : return [.phosphor]
+case .ph_train_bold : return [.phosphor]
+case .ph_train_fill : return [.phosphor]
+case .ph_train_light : return [.phosphor]
+case .ph_train_regional : return [.phosphor]
+case .ph_train_regional_bold : return [.phosphor]
+case .ph_train_regional_fill : return [.phosphor]
+case .ph_train_regional_light : return [.phosphor]
+case .ph_train_regional_thin : return [.phosphor]
+case .ph_train_simple : return [.phosphor]
+case .ph_train_simple_bold : return [.phosphor]
+case .ph_train_simple_fill : return [.phosphor]
+case .ph_train_simple_light : return [.phosphor]
+case .ph_train_simple_thin : return [.phosphor]
+case .ph_train_thin : return [.phosphor]
+case .ph_translate : return [.phosphor]
+case .ph_translate_bold : return [.phosphor]
+case .ph_translate_fill : return [.phosphor]
+case .ph_translate_light : return [.phosphor]
+case .ph_translate_thin : return [.phosphor]
+case .ph_trash : return [.phosphor]
+case .ph_trash_bold : return [.phosphor]
+case .ph_trash_fill : return [.phosphor]
+case .ph_trash_light : return [.phosphor]
+case .ph_trash_simple : return [.phosphor]
+case .ph_trash_simple_bold : return [.phosphor]
+case .ph_trash_simple_fill : return [.phosphor]
+case .ph_trash_simple_light : return [.phosphor]
+case .ph_trash_simple_thin : return [.phosphor]
+case .ph_trash_thin : return [.phosphor]
+case .ph_tray : return [.phosphor]
+case .ph_tray_bold : return [.phosphor]
+case .ph_tray_fill : return [.phosphor]
+case .ph_tray_light : return [.phosphor]
+case .ph_tray_thin : return [.phosphor]
+case .ph_tree : return [.phosphor]
+case .ph_tree_bold : return [.phosphor]
+case .ph_tree_evergreen : return [.phosphor]
+case .ph_tree_evergreen_bold : return [.phosphor]
+case .ph_tree_evergreen_fill : return [.phosphor]
+case .ph_tree_evergreen_light : return [.phosphor]
+case .ph_tree_evergreen_thin : return [.phosphor]
+case .ph_tree_fill : return [.phosphor]
+case .ph_tree_light : return [.phosphor]
+case .ph_tree_structure : return [.phosphor]
+case .ph_tree_structure_bold : return [.phosphor]
+case .ph_tree_structure_fill : return [.phosphor]
+case .ph_tree_structure_light : return [.phosphor]
+case .ph_tree_structure_thin : return [.phosphor]
+case .ph_tree_thin : return [.phosphor]
+case .ph_trend_down : return [.phosphor]
+case .ph_trend_down_bold : return [.phosphor]
+case .ph_trend_down_fill : return [.phosphor]
+case .ph_trend_down_light : return [.phosphor]
+case .ph_trend_down_thin : return [.phosphor]
+case .ph_trend_up : return [.phosphor]
+case .ph_trend_up_bold : return [.phosphor]
+case .ph_trend_up_fill : return [.phosphor]
+case .ph_trend_up_light : return [.phosphor]
+case .ph_trend_up_thin : return [.phosphor]
+case .ph_triangle : return [.phosphor]
+case .ph_triangle_bold : return [.phosphor]
+case .ph_triangle_fill : return [.phosphor]
+case .ph_triangle_light : return [.phosphor]
+case .ph_triangle_thin : return [.phosphor]
+case .ph_trophy : return [.phosphor]
+case .ph_trophy_bold : return [.phosphor]
+case .ph_trophy_fill : return [.phosphor]
+case .ph_trophy_light : return [.phosphor]
+case .ph_trophy_thin : return [.phosphor]
+case .ph_truck : return [.phosphor]
+case .ph_truck_bold : return [.phosphor]
+case .ph_truck_fill : return [.phosphor]
+case .ph_truck_light : return [.phosphor]
+case .ph_truck_thin : return [.phosphor]
+case .ph_twitch_logo : return [.phosphor]
+case .ph_twitch_logo_bold : return [.phosphor]
+case .ph_twitch_logo_fill : return [.phosphor]
+case .ph_twitch_logo_light : return [.phosphor]
+case .ph_twitch_logo_thin : return [.phosphor]
+case .ph_twitter_logo : return [.phosphor]
+case .ph_twitter_logo_bold : return [.phosphor]
+case .ph_twitter_logo_fill : return [.phosphor]
+case .ph_twitter_logo_light : return [.phosphor]
+case .ph_twitter_logo_thin : return [.phosphor]
+case .ph_umbrella : return [.phosphor]
+case .ph_umbrella_bold : return [.phosphor]
+case .ph_umbrella_fill : return [.phosphor]
+case .ph_umbrella_light : return [.phosphor]
+case .ph_umbrella_simple : return [.phosphor]
+case .ph_umbrella_simple_bold : return [.phosphor]
+case .ph_umbrella_simple_fill : return [.phosphor]
+case .ph_umbrella_simple_light : return [.phosphor]
+case .ph_umbrella_simple_thin : return [.phosphor]
+case .ph_umbrella_thin : return [.phosphor]
+case .ph_upload : return [.phosphor]
+case .ph_upload_bold : return [.phosphor]
+case .ph_upload_fill : return [.phosphor]
+case .ph_upload_light : return [.phosphor]
+case .ph_upload_simple : return [.phosphor]
+case .ph_upload_simple_bold : return [.phosphor]
+case .ph_upload_simple_fill : return [.phosphor]
+case .ph_upload_simple_light : return [.phosphor]
+case .ph_upload_simple_thin : return [.phosphor]
+case .ph_upload_thin : return [.phosphor]
+case .ph_user : return [.phosphor]
+case .ph_user_bold : return [.phosphor]
+case .ph_user_circle : return [.phosphor]
+case .ph_user_circle_bold : return [.phosphor]
+case .ph_user_circle_fill : return [.phosphor]
+case .ph_user_circle_gear : return [.phosphor]
+case .ph_user_circle_gear_bold : return [.phosphor]
+case .ph_user_circle_gear_fill : return [.phosphor]
+case .ph_user_circle_gear_light : return [.phosphor]
+case .ph_user_circle_gear_thin : return [.phosphor]
+case .ph_user_circle_light : return [.phosphor]
+case .ph_user_circle_minus : return [.phosphor]
+case .ph_user_circle_minus_bold : return [.phosphor]
+case .ph_user_circle_minus_fill : return [.phosphor]
+case .ph_user_circle_minus_light : return [.phosphor]
+case .ph_user_circle_minus_thin : return [.phosphor]
+case .ph_user_circle_plus : return [.phosphor]
+case .ph_user_circle_plus_bold : return [.phosphor]
+case .ph_user_circle_plus_fill : return [.phosphor]
+case .ph_user_circle_plus_light : return [.phosphor]
+case .ph_user_circle_plus_thin : return [.phosphor]
+case .ph_user_circle_thin : return [.phosphor]
+case .ph_user_fill : return [.phosphor]
+case .ph_user_focus : return [.phosphor]
+case .ph_user_focus_bold : return [.phosphor]
+case .ph_user_focus_fill : return [.phosphor]
+case .ph_user_focus_light : return [.phosphor]
+case .ph_user_focus_thin : return [.phosphor]
+case .ph_user_gear : return [.phosphor]
+case .ph_user_gear_bold : return [.phosphor]
+case .ph_user_gear_fill : return [.phosphor]
+case .ph_user_gear_light : return [.phosphor]
+case .ph_user_gear_thin : return [.phosphor]
+case .ph_user_light : return [.phosphor]
+case .ph_user_list : return [.phosphor]
+case .ph_user_list_bold : return [.phosphor]
+case .ph_user_list_fill : return [.phosphor]
+case .ph_user_list_light : return [.phosphor]
+case .ph_user_list_thin : return [.phosphor]
+case .ph_user_minus : return [.phosphor]
+case .ph_user_minus_bold : return [.phosphor]
+case .ph_user_minus_fill : return [.phosphor]
+case .ph_user_minus_light : return [.phosphor]
+case .ph_user_minus_thin : return [.phosphor]
+case .ph_user_plus : return [.phosphor]
+case .ph_user_plus_bold : return [.phosphor]
+case .ph_user_plus_fill : return [.phosphor]
+case .ph_user_plus_light : return [.phosphor]
+case .ph_user_plus_thin : return [.phosphor]
+case .ph_user_rectangle : return [.phosphor]
+case .ph_user_rectangle_bold : return [.phosphor]
+case .ph_user_rectangle_fill : return [.phosphor]
+case .ph_user_rectangle_light : return [.phosphor]
+case .ph_user_rectangle_thin : return [.phosphor]
+case .ph_user_square : return [.phosphor]
+case .ph_user_square_bold : return [.phosphor]
+case .ph_user_square_fill : return [.phosphor]
+case .ph_user_square_light : return [.phosphor]
+case .ph_user_square_thin : return [.phosphor]
+case .ph_user_switch : return [.phosphor]
+case .ph_user_switch_bold : return [.phosphor]
+case .ph_user_switch_fill : return [.phosphor]
+case .ph_user_switch_light : return [.phosphor]
+case .ph_user_switch_thin : return [.phosphor]
+case .ph_user_thin : return [.phosphor]
+case .ph_users : return [.phosphor]
+case .ph_users_bold : return [.phosphor]
+case .ph_users_fill : return [.phosphor]
+case .ph_users_four : return [.phosphor]
+case .ph_users_four_bold : return [.phosphor]
+case .ph_users_four_fill : return [.phosphor]
+case .ph_users_four_light : return [.phosphor]
+case .ph_users_four_thin : return [.phosphor]
+case .ph_users_light : return [.phosphor]
+case .ph_users_thin : return [.phosphor]
+case .ph_users_three : return [.phosphor]
+case .ph_users_three_bold : return [.phosphor]
+case .ph_users_three_fill : return [.phosphor]
+case .ph_users_three_light : return [.phosphor]
+case .ph_users_three_thin : return [.phosphor]
+case .ph_vault : return [.phosphor]
+case .ph_vault_bold : return [.phosphor]
+case .ph_vault_fill : return [.phosphor]
+case .ph_vault_light : return [.phosphor]
+case .ph_vault_thin : return [.phosphor]
+case .ph_vibrate : return [.phosphor]
+case .ph_vibrate_bold : return [.phosphor]
+case .ph_vibrate_fill : return [.phosphor]
+case .ph_vibrate_light : return [.phosphor]
+case .ph_vibrate_thin : return [.phosphor]
+case .ph_video_camera : return [.phosphor]
+case .ph_video_camera_bold : return [.phosphor]
+case .ph_video_camera_fill : return [.phosphor]
+case .ph_video_camera_light : return [.phosphor]
+case .ph_video_camera_slash : return [.phosphor]
+case .ph_video_camera_slash_bold : return [.phosphor]
+case .ph_video_camera_slash_fill : return [.phosphor]
+case .ph_video_camera_slash_light : return [.phosphor]
+case .ph_video_camera_slash_thin : return [.phosphor]
+case .ph_video_camera_thin : return [.phosphor]
+case .ph_vignette : return [.phosphor]
+case .ph_vignette_bold : return [.phosphor]
+case .ph_vignette_fill : return [.phosphor]
+case .ph_vignette_light : return [.phosphor]
+case .ph_vignette_thin : return [.phosphor]
+case .ph_voicemail : return [.phosphor]
+case .ph_voicemail_bold : return [.phosphor]
+case .ph_voicemail_fill : return [.phosphor]
+case .ph_voicemail_light : return [.phosphor]
+case .ph_voicemail_thin : return [.phosphor]
+case .ph_volleyball : return [.phosphor]
+case .ph_volleyball_bold : return [.phosphor]
+case .ph_volleyball_fill : return [.phosphor]
+case .ph_volleyball_light : return [.phosphor]
+case .ph_volleyball_thin : return [.phosphor]
+case .ph_wall : return [.phosphor]
+case .ph_wall_bold : return [.phosphor]
+case .ph_wall_fill : return [.phosphor]
+case .ph_wall_light : return [.phosphor]
+case .ph_wall_thin : return [.phosphor]
+case .ph_wallet : return [.phosphor]
+case .ph_wallet_bold : return [.phosphor]
+case .ph_wallet_fill : return [.phosphor]
+case .ph_wallet_light : return [.phosphor]
+case .ph_wallet_thin : return [.phosphor]
+case .ph_warning : return [.phosphor]
+case .ph_warning_bold : return [.phosphor]
+case .ph_warning_circle : return [.phosphor]
+case .ph_warning_circle_bold : return [.phosphor]
+case .ph_warning_circle_fill : return [.phosphor]
+case .ph_warning_circle_light : return [.phosphor]
+case .ph_warning_circle_thin : return [.phosphor]
+case .ph_warning_fill : return [.phosphor]
+case .ph_warning_light : return [.phosphor]
+case .ph_warning_octagon : return [.phosphor]
+case .ph_warning_octagon_bold : return [.phosphor]
+case .ph_warning_octagon_fill : return [.phosphor]
+case .ph_warning_octagon_light : return [.phosphor]
+case .ph_warning_octagon_thin : return [.phosphor]
+case .ph_warning_thin : return [.phosphor]
+case .ph_watch : return [.phosphor]
+case .ph_watch_bold : return [.phosphor]
+case .ph_watch_fill : return [.phosphor]
+case .ph_watch_light : return [.phosphor]
+case .ph_watch_thin : return [.phosphor]
+case .ph_wave_sawtooth : return [.phosphor]
+case .ph_wave_sawtooth_bold : return [.phosphor]
+case .ph_wave_sawtooth_fill : return [.phosphor]
+case .ph_wave_sawtooth_light : return [.phosphor]
+case .ph_wave_sawtooth_thin : return [.phosphor]
+case .ph_wave_sine : return [.phosphor]
+case .ph_wave_sine_bold : return [.phosphor]
+case .ph_wave_sine_fill : return [.phosphor]
+case .ph_wave_sine_light : return [.phosphor]
+case .ph_wave_sine_thin : return [.phosphor]
+case .ph_wave_square : return [.phosphor]
+case .ph_wave_square_bold : return [.phosphor]
+case .ph_wave_square_fill : return [.phosphor]
+case .ph_wave_square_light : return [.phosphor]
+case .ph_wave_square_thin : return [.phosphor]
+case .ph_wave_triangle : return [.phosphor]
+case .ph_wave_triangle_bold : return [.phosphor]
+case .ph_wave_triangle_fill : return [.phosphor]
+case .ph_wave_triangle_light : return [.phosphor]
+case .ph_wave_triangle_thin : return [.phosphor]
+case .ph_waves : return [.phosphor]
+case .ph_waves_bold : return [.phosphor]
+case .ph_waves_fill : return [.phosphor]
+case .ph_waves_light : return [.phosphor]
+case .ph_waves_thin : return [.phosphor]
+case .ph_webcam : return [.phosphor]
+case .ph_webcam_bold : return [.phosphor]
+case .ph_webcam_fill : return [.phosphor]
+case .ph_webcam_light : return [.phosphor]
+case .ph_webcam_thin : return [.phosphor]
+case .ph_whatsapp_logo : return [.phosphor]
+case .ph_whatsapp_logo_bold : return [.phosphor]
+case .ph_whatsapp_logo_fill : return [.phosphor]
+case .ph_whatsapp_logo_light : return [.phosphor]
+case .ph_whatsapp_logo_thin : return [.phosphor]
+case .ph_wheelchair : return [.phosphor]
+case .ph_wheelchair_bold : return [.phosphor]
+case .ph_wheelchair_fill : return [.phosphor]
+case .ph_wheelchair_light : return [.phosphor]
+case .ph_wheelchair_thin : return [.phosphor]
+case .ph_wifi_high : return [.phosphor]
+case .ph_wifi_high_bold : return [.phosphor]
+case .ph_wifi_high_fill : return [.phosphor]
+case .ph_wifi_high_light : return [.phosphor]
+case .ph_wifi_high_thin : return [.phosphor]
+case .ph_wifi_low : return [.phosphor]
+case .ph_wifi_low_bold : return [.phosphor]
+case .ph_wifi_low_fill : return [.phosphor]
+case .ph_wifi_low_light : return [.phosphor]
+case .ph_wifi_low_thin : return [.phosphor]
+case .ph_wifi_medium : return [.phosphor]
+case .ph_wifi_medium_bold : return [.phosphor]
+case .ph_wifi_medium_fill : return [.phosphor]
+case .ph_wifi_medium_light : return [.phosphor]
+case .ph_wifi_medium_thin : return [.phosphor]
+case .ph_wifi_none : return [.phosphor]
+case .ph_wifi_none_bold : return [.phosphor]
+case .ph_wifi_none_fill : return [.phosphor]
+case .ph_wifi_none_light : return [.phosphor]
+case .ph_wifi_none_thin : return [.phosphor]
+case .ph_wifi_slash : return [.phosphor]
+case .ph_wifi_slash_bold : return [.phosphor]
+case .ph_wifi_slash_fill : return [.phosphor]
+case .ph_wifi_slash_light : return [.phosphor]
+case .ph_wifi_slash_thin : return [.phosphor]
+case .ph_wifi_x : return [.phosphor]
+case .ph_wifi_x_bold : return [.phosphor]
+case .ph_wifi_x_fill : return [.phosphor]
+case .ph_wifi_x_light : return [.phosphor]
+case .ph_wifi_x_thin : return [.phosphor]
+case .ph_wind : return [.phosphor]
+case .ph_wind_bold : return [.phosphor]
+case .ph_wind_fill : return [.phosphor]
+case .ph_wind_light : return [.phosphor]
+case .ph_wind_thin : return [.phosphor]
+case .ph_windows_logo : return [.phosphor]
+case .ph_windows_logo_bold : return [.phosphor]
+case .ph_windows_logo_fill : return [.phosphor]
+case .ph_windows_logo_light : return [.phosphor]
+case .ph_windows_logo_thin : return [.phosphor]
+case .ph_wine : return [.phosphor]
+case .ph_wine_bold : return [.phosphor]
+case .ph_wine_fill : return [.phosphor]
+case .ph_wine_light : return [.phosphor]
+case .ph_wine_thin : return [.phosphor]
+case .ph_wrench : return [.phosphor]
+case .ph_wrench_bold : return [.phosphor]
+case .ph_wrench_fill : return [.phosphor]
+case .ph_wrench_light : return [.phosphor]
+case .ph_wrench_thin : return [.phosphor]
+case .ph_x : return [.phosphor]
+case .ph_x_bold : return [.phosphor]
+case .ph_x_circle : return [.phosphor]
+case .ph_x_circle_bold : return [.phosphor]
+case .ph_x_circle_fill : return [.phosphor]
+case .ph_x_circle_light : return [.phosphor]
+case .ph_x_circle_thin : return [.phosphor]
+case .ph_x_fill : return [.phosphor]
+case .ph_x_light : return [.phosphor]
+case .ph_x_square : return [.phosphor]
+case .ph_x_square_bold : return [.phosphor]
+case .ph_x_square_fill : return [.phosphor]
+case .ph_x_square_light : return [.phosphor]
+case .ph_x_square_thin : return [.phosphor]
+case .ph_x_thin : return [.phosphor]
+case .ph_yin_yang : return [.phosphor]
+case .ph_yin_yang_bold : return [.phosphor]
+case .ph_yin_yang_fill : return [.phosphor]
+case .ph_yin_yang_light : return [.phosphor]
+case .ph_yin_yang_thin : return [.phosphor]
+case .ph_youtube_logo : return [.phosphor]
+case .ph_youtube_logo_bold : return [.phosphor]
+case .ph_youtube_logo_fill : return [.phosphor]
+case .ph_youtube_logo_light : return [.phosphor]
+case .ph_youtube_logo_thin : return [.phosphor]
+
 
 
 
