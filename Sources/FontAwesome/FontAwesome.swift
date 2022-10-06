@@ -48,6 +48,7 @@ public enum FontAwesomeStyle: String {
     case regular
     case brands
     case google
+    case phosphor
 
     func fontName() -> String {
         switch self {
@@ -61,6 +62,8 @@ public enum FontAwesomeStyle: String {
             return "FontAwesome5Brands-Regular"
         case .google:
             return "MaterialIconsOutlined-Regular"
+        case .phosphor:
+            return "phosphor"
         }
     }
 
@@ -76,6 +79,8 @@ public enum FontAwesomeStyle: String {
             return "Font Awesome 5 Brands-Regular-400"
         case .google:
             return "MaterialIconsOutlined-Regular"
+        case .phosphor:
+            return "phosphor"
         }
     }
 
@@ -89,6 +94,8 @@ public enum FontAwesomeStyle: String {
             return FontAwesomeConfig.usesProFonts ? "Font Awesome 5 Pro" : "Font Awesome 5 Free"
         case .google:
             return "Material Icons Outlined"
+        case .phosphor:
+            return "Phosphor"
         }
     }
 }
