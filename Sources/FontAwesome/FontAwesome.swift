@@ -63,7 +63,7 @@ public enum FontAwesomeStyle: String {
         case .google:
             return "MaterialIconsOutlined-Regular"
         case .phosphor:
-            return "phosphor"
+            return "Phosphor"
         }
     }
 
